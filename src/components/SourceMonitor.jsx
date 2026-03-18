@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const SourceMonitor = ({ sources }) => {
     const [isExpanded, setIsExpanded] = useState(false);
@@ -37,7 +37,7 @@ const SourceMonitor = ({ sources }) => {
                     {sources.map((source) => (
                         <a
                             key={source.handle}
-                            href={source.url}
+                            href={`https://www.youtube.com/${source.handle}`}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="source-item"

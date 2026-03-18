@@ -36,21 +36,42 @@ const THEMES = [
     "Actualités Tech"
 ];
 
-const fetchFeed = (channelId) => {
-    return new Promise((resolve, reject) => {
-        const options = {
-            hostname: 'www.youtube.com',
-            path: `/feeds/videos.xml?channel_id=${channelId}`,
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-            }
-        };
-        https.get(options, (res) => {
-            let data = '';
-            res.on('data', (chunk) => data += chunk);
-            res.on('end', () => resolve(data));
-        }).on('error', reject);
+const fetchOnce = (source) => new Promise((resolve, reject) => {
+    const options = {
+        hostname: 'www.youtube.com',
+        path: `/feeds/videos.xml?channel_id=${source.id}`,
+        headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'application/xml, text/xml, */*'
+        },
+        timeout: 10000
+    };
+    const req = https.get(options, (res) => {
+        if (res.statusCode !== 200) {
+            reject(new Error(`HTTP ${res.statusCode}`));
+            return;
+        }
+        let body = '';
+        res.on('data', (chunk) => body += chunk);
+        res.on('end', () => resolve(body));
     });
+    req.on('error', reject);
+    req.on('timeout', () => {
+        req.destroy();
+        reject(new Error('Timeout after 10s'));
+    });
+});
+
+const fetchWithRetry = async (source, retries = 3) => {
+    for (let i = 0; i < retries; i++) {
+        try {
+            return await fetchOnce(source);
+        } catch (e) {
+            console.error(`⚠️ Tentative ${i + 1}/${retries} échouée pour ${source.handle}: ${e.message}`);
+            if (i === retries - 1) throw e;
+            await new Promise(r => setTimeout(r, 2000 * (i + 1)));
+        }
+    }
 };
 
 const fetchDuration = (videoId) => {
@@ -60,9 +81,10 @@ const fetchDuration = (videoId) => {
             path: `/watch?v=${videoId}`,
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-            }
+            },
+            timeout: 10000
         };
-        https.get(options, (res) => {
+        const req = https.get(options, (res) => {
             let data = '';
             res.on('data', (chunk) => {
                 if (data.length < 1000000) data += chunk; // 1MB is enough for durations
@@ -80,7 +102,12 @@ const fetchDuration = (videoId) => {
                     resolve(null);
                 }
             });
-        }).on('error', () => resolve(null));
+        });
+        req.on('error', () => resolve(null));
+        req.on('timeout', () => {
+            req.destroy();
+            resolve(null);
+        });
     });
 };
 
@@ -129,13 +156,12 @@ async function main() {
     // 1. Fetch feeds
     for (const source of SOURCES) {
         try {
-            console.log(`📡 Récupération : ${source.handle}...`);
-            const xml = await fetchFeed(source.id);
+            const xml = await fetchWithRetry(source);
             const videos = parseFeed(xml, source);
-            console.log(`✅ ${videos.length} vidéos trouvées.`);
+            console.log(`✅ ${videos.length} vidéos trouvées pour ${source.handle}.`);
             allFetchedVideos = allFetchedVideos.concat(videos);
         } catch (e) {
-            console.error(`❌ Erreur pour ${source.handle}:`, e.message);
+            console.error(`❌ Échec définitif pour ${source.handle}:`, e.message);
         }
     }
 
