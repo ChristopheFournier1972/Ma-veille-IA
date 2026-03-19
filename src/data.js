@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-18T12:22:03.939Z
+// Fichier généré automatiquement le 2026-03-19T08:00:57.223Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "1:22:03 PM 3/18/2026";
+export const lastUpdate = "8:00:57 AM 3/19/2026";
 
 export const sources = [
     {
@@ -172,6 +172,73 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "mG4ubvIeuMg",
+        "videoId": "mG4ubvIeuMg",
+        "title": "L'actualité tech du 18/03/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=mG4ubvIeuMg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 18/03/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "y4a3cW8Ktto",
+        "videoId": "y4a3cW8Ktto",
+        "title": "IA Ultra-Réaliste : Trompez Vos Proches Facilement ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=y4a3cW8Ktto",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Ultra-Réaliste : Trompez Vos Proches Facilement ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "rJdSxCI2Wvw",
+        "videoId": "rJdSxCI2Wvw",
+        "title": "Capacités et avenir des assistants IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-19",
+        "url": "https://www.youtube.com/watch?v=rJdSxCI2Wvw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Capacités et avenir des assistants IA..."
+    },
+    {
+        "id": "_5J0kKE13xM",
+        "videoId": "_5J0kKE13xM",
+        "title": "MISTRAL AI a fait une GROSSE annonce (MISTRAL FORGE)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=_5J0kKE13xM",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : MISTRAL AI a fait une GROSSE annonce (MISTRAL FORGE)..."
+    },
+    {
+        "id": "Izwl9gt_rsI",
+        "videoId": "Izwl9gt_rsI",
+        "title": "Classement des outils IA.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=Izwl9gt_rsI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Classement des outils IA...."
+    },
+    {
+        "id": "1UhvZBAT0TI",
+        "videoId": "1UhvZBAT0TI",
+        "title": "Maîtrisez l'outil IA le plus puissant de 2026",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=1UhvZBAT0TI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Maîtrisez l'outil IA le plus puissant de 2026..."
+    },
+    {
         "id": "8BxcGwFQrIY",
         "videoId": "8BxcGwFQrIY",
         "title": "Révolutionnez votre apprentissage avec cette IA.",
@@ -179,10 +246,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-18",
         "url": "https://www.youtube.com/watch?v=8BxcGwFQrIY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : Révolutionnez votre apprentissage avec cette IA....",
-        "isShort": true,
-        "duration": 33
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Révolutionnez votre apprentissage avec cette IA...."
     },
     {
         "id": "wUy6h934d_4",
@@ -192,10 +257,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-18",
         "url": "https://www.youtube.com/watch?v=wUy6h934d_4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : Révolutionnez votre apprentissage avec cette IA....",
-        "isShort": true,
-        "duration": 32
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Révolutionnez votre apprentissage avec cette IA...."
     },
     {
         "id": "dHX8HmmmIzg",
@@ -205,21 +268,30 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-18",
         "url": "https://www.youtube.com/watch?v=dHX8HmmmIzg",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : Révolutionnez votre apprentissage avec cette IA....",
-        "isShort": true,
-        "duration": 35
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Révolutionnez votre apprentissage avec cette IA...."
     },
     {
-        "id": "mG4ubvIeuMg",
-        "videoId": "mG4ubvIeuMg",
-        "title": "Actus, débats, tutos, IA, web, tech : on décode et on forge le progrès !",
+        "id": "P6LrFqE07Gs",
+        "videoId": "P6LrFqE07Gs",
+        "title": "Mistral lance son offensive IA",
         "author": "Renaud Dékode",
         "source": "@RenaudDekode",
         "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=mG4ubvIeuMg",
+        "url": "https://www.youtube.com/watch?v=P6LrFqE07Gs",
         "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Actus, débats, tutos, IA, web, tech : on décode et on forge le progrès !..."
+        "summary": "Nouveauté de Renaud Dékode : Mistral lance son offensive IA..."
+    },
+    {
+        "id": "4tz4sUSE7KE",
+        "videoId": "4tz4sUSE7KE",
+        "title": "Mistral devient un champion mondial, les IA US tremblent",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=4tz4sUSE7KE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral devient un champion mondial, les IA US tremblent..."
     },
     {
         "id": "WuSyRYjE2fI",
@@ -229,10 +301,75 @@ export const allVideos = [
         "source": "@RenaudDekode",
         "date": "2026-03-18",
         "url": "https://www.youtube.com/watch?v=WuSyRYjE2fI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Supermarché sous surveillance IA..."
+    },
+    {
+        "id": "BKAfkvBaevs",
+        "videoId": "BKAfkvBaevs",
+        "title": "Tu utilises Claude Code à 10% de son potentiel, voici pourquoi.",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=BKAfkvBaevs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Tu utilises Claude Code à 10% de son potentiel, voici pourquoi...."
+    },
+    {
+        "id": "20Q2Ry-Q8mA",
+        "videoId": "20Q2Ry-Q8mA",
+        "title": "Suis ta conso Claude Code super simplement ! 👀",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=20Q2Ry-Q8mA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Suis ta conso Claude Code super simplement ! 👀..."
+    },
+    {
+        "id": "kKBXnbNUjTc",
+        "videoId": "kKBXnbNUjTc",
+        "title": "Mistral Small 4 : Que Vaut VRAIMENT ce Modèle OPEN SOURCE 120B ? 🇫🇷😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=kKBXnbNUjTc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Mistral Small 4 : Que Vaut VRAIMENT ce Modèle OPEN SOURCE 120B ? 🇫🇷😱..."
+    },
+    {
+        "id": "qb3y2Gk6D_E",
+        "videoId": "qb3y2Gk6D_E",
+        "title": "CLAUDE CODE vient de révolutionner le DEVELOPPEMENT WEB (je t'explique pourquoi)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=qb3y2Gk6D_E",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE vient de révolutionner le DEVELOPPEMENT WEB (je t'explique pourquoi)..."
+    },
+    {
+        "id": "cpMH3AbKwdo",
+        "videoId": "cpMH3AbKwdo",
+        "title": "Meilleurs Outils IA Automatisation 2026: Mon Classement Ultime! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=cpMH3AbKwdo",
         "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Renaud Dékode : Supermarché sous surveillance IA...",
-        "isShort": true,
-        "duration": 95
+        "summary": "Nouveauté de Thomas Berton : Meilleurs Outils IA Automatisation 2026: Mon Classement Ultime! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "iaCias1XUAA",
+        "videoId": "iaCias1XUAA",
+        "title": "Intégration des commandes vocales avec l'assistant IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=iaCias1XUAA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Intégration des commandes vocales avec l'assistant IA..."
     },
     {
         "id": "nGWLapK9e2k",
@@ -246,15 +383,26 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Mise à jour du système de planification de l'agent IA..."
     },
     {
+        "id": "vP0qh6ch99o",
+        "videoId": "vP0qh6ch99o",
+        "title": "La Fonctionnalité Claude la plus sous-estimée 2026 (Tuto Complet)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-03-18",
+        "url": "https://www.youtube.com/watch?v=vP0qh6ch99o",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : La Fonctionnalité Claude la plus sous-estimée 2026 (Tuto Complet)..."
+    },
+    {
         "id": "RtHqiIYu-FU",
         "videoId": "RtHqiIYu-FU",
-        "title": "SEO IA : M��thode puissante pour se positionner sur Google",
+        "title": "SEO IA : Méthode puissante pour se positionner sur Google",
         "author": "Etienne Tillier",
         "source": "@EtienneTillierStudio",
         "date": "2026-03-17",
         "url": "https://www.youtube.com/watch?v=RtHqiIYu-FU",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : SEO IA : M��thode puissante pour se positionner sur Google..."
+        "summary": "Nouveauté de Etienne Tillier : SEO IA : Méthode puissante pour se positionner sur Google..."
     },
     {
         "id": "uos-XmGj0Wo",
@@ -264,10 +412,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-17",
         "url": "https://www.youtube.com/watch?v=uos-XmGj0Wo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : Optimisez votre temps avec l'IA...",
-        "isShort": true,
-        "duration": 55
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Optimisez votre temps avec l'IA..."
     },
     {
         "id": "NLIaXbQBLus",
@@ -277,10 +423,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-17",
         "url": "https://www.youtube.com/watch?v=NLIaXbQBLus",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : Optimisez votre temps avec l'IA...",
-        "isShort": true,
-        "duration": 56
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Optimisez votre temps avec l'IA..."
     },
     {
         "id": "iWp5fSufk5c",
@@ -290,10 +434,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-17",
         "url": "https://www.youtube.com/watch?v=iWp5fSufk5c",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : Optimisez votre temps avec l'IA...",
-        "isShort": true,
-        "duration": 55
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Optimisez votre temps avec l'IA..."
     },
     {
         "id": "C5KrDMNY9UI",
@@ -303,10 +445,8 @@ export const allVideos = [
         "source": "@RenaudDekode",
         "date": "2026-03-17",
         "url": "https://www.youtube.com/watch?v=C5KrDMNY9UI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Renaud Dékode : Netflix rachète l’IA du cinéma...",
-        "isShort": true,
-        "duration": 93
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Netflix rachète l’IA du cinéma..."
     },
     {
         "id": "b5Cf3jVxZjw",
@@ -316,10 +456,8 @@ export const allVideos = [
         "source": "@RenaudDekode",
         "date": "2026-03-17",
         "url": "https://www.youtube.com/watch?v=b5Cf3jVxZjw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Renaud Dékode : Hollywood attaque l’IA de ByteDance...",
-        "isShort": true,
-        "duration": 115
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Hollywood attaque l’IA de ByteDance..."
     },
     {
         "id": "i5O87yx-HF8",
@@ -351,10 +489,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-17",
         "url": "https://www.youtube.com/watch?v=de7ApxWWYI8",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Créer et modifier des rendez-vous avec AI Assistant...",
-        "isShort": true,
-        "duration": 171
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Créer et modifier des rendez-vous avec AI Assistant..."
     },
     {
         "id": "lNIdJMTjjrY",
@@ -364,10 +500,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-17",
         "url": "https://www.youtube.com/watch?v=lNIdJMTjjrY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Apprendre de ses erreurs et s'améliorer...",
-        "isShort": true,
-        "duration": 37
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Apprendre de ses erreurs et s'améliorer..."
     },
     {
         "id": "yUaIYBlIFdw",
@@ -410,10 +544,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-16",
         "url": "https://www.youtube.com/watch?v=7H8RJlYCDkU",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : 3 outils Claude gratuits pour ne pas prendre de retard sur l’IA !...",
-        "isShort": true,
-        "duration": 57
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 3 outils Claude gratuits pour ne pas prendre de retard sur l’IA !..."
     },
     {
         "id": "gN8VXJd5KsY",
@@ -423,10 +555,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-16",
         "url": "https://www.youtube.com/watch?v=gN8VXJd5KsY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : 16 outils d’IA en compétition !...",
-        "isShort": true,
-        "duration": 70
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 16 outils d’IA en compétition !..."
     },
     {
         "id": "8kc0xEMp-mc",
@@ -436,10 +566,8 @@ export const allVideos = [
         "source": "@RenaudDekode",
         "date": "2026-03-16",
         "url": "https://www.youtube.com/watch?v=8kc0xEMp-mc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Renaud Dékode : IA : la guerre passe en mode auto...",
-        "isShort": true,
-        "duration": 75
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : la guerre passe en mode auto..."
     },
     {
         "id": "teON0fVZrNg",
@@ -471,34 +599,31 @@ export const allVideos = [
         "source": "@RenaudDekode",
         "date": "2026-03-16",
         "url": "https://www.youtube.com/watch?v=O74EfhVoRnM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Renaud Dékode : Des neurones humains jouent à Doom...",
-        "isShort": true,
-        "duration": 86
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Des neurones humains jouent à Doom..."
     },
     {
         "id": "-WTWf-TG9wc",
         "videoId": "-WTWf-TG9wc",
-        "title": "Qoder AI : L’IA de Code ULTIME ? (Test Réel sur une App) 😱🔥",
+        "title": "Qoder AI : L’IA de Code ULTIME ? (Test Réel sur une App) 😱����",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-03-16",
         "url": "https://www.youtube.com/watch?v=-WTWf-TG9wc",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qoder AI : L’IA de Code ULTIME ? (Test Réel sur une App) 😱🔥..."
+        "summary": "Nouveauté de Nerdy Kings : Qoder AI : L’IA de Code ULTIME ? (Test Réel sur une App) 😱����..."
     },
     {
         "id": "tCrP94fZqYg",
         "videoId": "tCrP94fZqYg",
-        "title": "Claude 3: Le Meilleur Outil IA pour Vos Vidéos YouTube #shorts",
+        "title": "Claude Code : Le Meilleur Outil IA pour Vos Vidéos YouTube #shorts",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-03-16",
         "url": "https://www.youtube.com/watch?v=tCrP94fZqYg",
         "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude 3: Le Meilleur Outil IA pour Vos Vidéos YouTube #shorts...",
-        "isShort": true,
-        "duration": 96
+        "summary": "Nouveauté de Thomas Berton : Claude Code : Le Meilleur Outil IA pour Vos Vidéos YouTube #shorts...",
+        "isShort": true
     },
     {
         "id": "J4LBcR5WAns",
@@ -508,10 +633,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-16",
         "url": "https://www.youtube.com/watch?v=J4LBcR5WAns",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Gestion des événements qui se chevauchent...",
-        "isShort": true,
-        "duration": 97
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Gestion des événements qui se chevauchent..."
     },
     {
         "id": "grsFkHEquMU",
@@ -521,10 +644,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-16",
         "url": "https://www.youtube.com/watch?v=grsFkHEquMU",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Création d'événement réussie et notification par e-mail...",
-        "isShort": true,
-        "duration": 52
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Création d'événement réussie et notification par e-mail..."
     },
     {
         "id": "30Ia0AVIdys",
@@ -589,10 +710,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-15",
         "url": "https://www.youtube.com/watch?v=KZb7YAVHpzA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Importance d'une prononciation précise...",
-        "isShort": true,
-        "duration": 121
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Importance d'une prononciation précise..."
     },
     {
         "id": "cMSKGqjLSl0",
@@ -602,10 +721,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-15",
         "url": "https://www.youtube.com/watch?v=cMSKGqjLSl0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Défis de prononciation et de reconnaissance...",
-        "isShort": true,
-        "duration": 82
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Défis de prononciation et de reconnaissance..."
     },
     {
         "id": "TNb7oO1OViw",
@@ -615,10 +732,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-14",
         "url": "https://www.youtube.com/watch?v=TNb7oO1OViw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA...",
-        "isShort": true,
-        "duration": 39
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA..."
     },
     {
         "id": "PL7rjlMc_ME",
@@ -628,10 +743,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-14",
         "url": "https://www.youtube.com/watch?v=PL7rjlMc_ME",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA...",
-        "isShort": true,
-        "duration": 41
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA..."
     },
     {
         "id": "h5DBeROGXL4",
@@ -641,10 +754,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-14",
         "url": "https://www.youtube.com/watch?v=h5DBeROGXL4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA...",
-        "isShort": true,
-        "duration": 41
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA..."
     },
     {
         "id": "OzcTmadtr6Y",
@@ -654,10 +765,8 @@ export const allVideos = [
         "source": "@RenaudDekode",
         "date": "2026-03-14",
         "url": "https://www.youtube.com/watch?v=OzcTmadtr6Y",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Renaud Dékode : IA santé : qui contrôle vos données?...",
-        "isShort": true,
-        "duration": 98
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA santé : qui contrôle vos données?..."
     },
     {
         "id": "qaTDb3KllAw",
@@ -678,10 +787,8 @@ export const allVideos = [
         "source": "@RenaudDekode",
         "date": "2026-03-14",
         "url": "https://www.youtube.com/watch?v=DqS_7hgTnr0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Renaud Dékode : L’IA devient prof interactif...",
-        "isShort": true,
-        "duration": 93
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L’IA devient prof interactif..."
     },
     {
         "id": "uqV3ujeaeKs",
@@ -713,10 +820,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-14",
         "url": "https://www.youtube.com/watch?v=SRZLH77BPm0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Tester les fonctionnalités de l'assistant IA...",
-        "isShort": true,
-        "duration": 105
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Tester les fonctionnalités de l'assistant IA..."
     },
     {
         "id": "wHYwVuH_bAQ",
@@ -726,10 +831,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-14",
         "url": "https://www.youtube.com/watch?v=wHYwVuH_bAQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Introduction à l'assistant IA pour la planification...",
-        "isShort": true,
-        "duration": 160
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Introduction à l'assistant IA pour la planification..."
     },
     {
         "id": "YebMrY_Cr5s",
@@ -750,10 +853,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-13",
         "url": "https://www.youtube.com/watch?v=6N-Jutdbkh4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : Cette compétence humanise Claude !...",
-        "isShort": true,
-        "duration": 45
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Cette compétence humanise Claude !..."
     },
     {
         "id": "K33mOmbobSg",
@@ -763,36 +864,8 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-13",
         "url": "https://www.youtube.com/watch?v=K33mOmbobSg",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : Ne vous fiez pas aux outils d’IA génériques pour vérifier vos textes....",
-        "isShort": true,
-        "duration": 41
-    },
-    {
-        "id": "GKJTs7iuhNI",
-        "videoId": "GKJTs7iuhNI",
-        "title": "Ne vous fiez pas aux outils d’IA génériques pour vérifier vos textes.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=GKJTs7iuhNI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : Ne vous fiez pas aux outils d’IA génériques pour vérifier vos textes....",
-        "isShort": true,
-        "duration": 44
-    },
-    {
-        "id": "OI7U6txpDcs",
-        "videoId": "OI7U6txpDcs",
-        "title": "Ne vous fiez pas aux outils d’IA génériques pour vérifier vos textes.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=OI7U6txpDcs",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Henri · ExplorIA : Ne vous fiez pas aux outils d’IA génériques pour vérifier vos textes....",
-        "isShort": true,
-        "duration": 37
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ne vous fiez pas aux outils d’IA génériques pour vérifier vos textes...."
     },
     {
         "id": "3ktJtROwJ0w",
@@ -802,32 +875,8 @@ export const allVideos = [
         "source": "@RenaudDekode",
         "date": "2026-03-13",
         "url": "https://www.youtube.com/watch?v=3ktJtROwJ0w",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Renaud Dékode : YouTube détecte les deepfakes...",
-        "isShort": true,
-        "duration": 79
-    },
-    {
-        "id": "IgXDmSQ_4qQ",
-        "videoId": "IgXDmSQ_4qQ",
-        "title": "L'actualité tech du 13/03/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=IgXDmSQ_4qQ",
         "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 13/03/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "_kLhKwBKKHA",
-        "videoId": "_kLhKwBKKHA",
-        "title": "Les dingueries de l'IA vraiment au service des humains",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=_kLhKwBKKHA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Les dingueries de l'IA vraiment au service des humains..."
+        "summary": "Nouveauté de Renaud Dékode : YouTube détecte les deepfakes..."
     },
     {
         "id": "r6s_vYTk4kA",
@@ -839,8 +888,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=r6s_vYTk4kA",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Kling : Mouvements Caméra Dignes d'Hollywood #shorts...",
-        "isShort": true,
-        "duration": 35
+        "isShort": true
     },
     {
         "id": "-dUgSiwUS8c",
@@ -852,8 +900,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-dUgSiwUS8c",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Kling 3.0: Voix et Synchronisation Labiale Révolutionnées ! #shorts...",
-        "isShort": true,
-        "duration": 43
+        "isShort": true
     },
     {
         "id": "jRP6JA-B9i0",
@@ -863,10 +910,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-13",
         "url": "https://www.youtube.com/watch?v=jRP6JA-B9i0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Planification réussie et confirmation par e-mail...",
-        "isShort": true,
-        "duration": 111
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Planification réussie et confirmation par e-mail..."
     },
     {
         "id": "lKGoa1YEjb8",
@@ -876,10 +921,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-13",
         "url": "https://www.youtube.com/watch?v=lKGoa1YEjb8",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Défis de prononciation et de corrections...",
-        "isShort": true,
-        "duration": 142
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Défis de prononciation et de corrections..."
     },
     {
         "id": "AR8GzP7tgQY",
@@ -900,10 +943,8 @@ export const allVideos = [
         "source": "@iAlan_automatise",
         "date": "2026-03-12",
         "url": "https://www.youtube.com/watch?v=cv8PsVX1tbg",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de iAlan : Le seul site pour tester TOUS les modèles IA en 2 minutes ⚡...",
-        "isShort": true,
-        "duration": 140
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Le seul site pour tester TOUS les modèles IA en 2 minutes ⚡..."
     },
     {
         "id": "x5T2S3lhfh4",
@@ -915,8 +956,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=x5T2S3lhfh4",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Kling 3.0: La Meilleure IA Vidéo Révolutionne La Création #shorts...",
-        "isShort": true,
-        "duration": 36
+        "isShort": true
     },
     {
         "id": "26AGfcIaYKA",
@@ -928,8 +968,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=26AGfcIaYKA",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Multi-Shot : Révolutionnez vos Vidéos IA Facilement #shorts...",
-        "isShort": true,
-        "duration": 60
+        "isShort": true
     },
     {
         "id": "zEc6z_R8f4M",
@@ -952,8 +991,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=H4Cf2oNKdNA",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Maîtriser le Générateur de Vidéos IA : Votre Méta Prompt Gratuit! #shorts...",
-        "isShort": true,
-        "duration": 35
+        "isShort": true
     },
     {
         "id": "qN3Q7NXQipE",
@@ -963,10 +1001,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-12",
         "url": "https://www.youtube.com/watch?v=qN3Q7NXQipE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Tester les capacités de planification de l'assistant IA...",
-        "isShort": true,
-        "duration": 107
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Tester les capacités de planification de l'assistant IA..."
     },
     {
         "id": "xNC6Iiwx-DA",
@@ -976,10 +1012,8 @@ export const allVideos = [
         "source": "@JonasEkanbo",
         "date": "2026-03-12",
         "url": "https://www.youtube.com/watch?v=xNC6Iiwx-DA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Configuration d'un assistant IA pour la planification...",
-        "isShort": true,
-        "duration": 166
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Configuration d'un assistant IA pour la planification..."
     },
     {
         "id": "XQEdkNRGPZs",
@@ -1024,8 +1058,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9po6SV_RjNY",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Kling 3.0 : Contrôle total de vos scènes AI #shorts...",
-        "isShort": true,
-        "duration": 36
+        "isShort": true
     },
     {
         "id": "J5-KSIG2wAw",
@@ -1037,8 +1070,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=J5-KSIG2wAw",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : IA Révolutionne la Création : De l'Idée à la Réalité Facilement #shorts...",
-        "isShort": true,
-        "duration": 27
+        "isShort": true
     },
     {
         "id": "5oMTZiVdj9U",
@@ -1050,34 +1082,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5oMTZiVdj9U",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : IA Gratuite: L'Agrégateur de Modèles Secrets Révélé #shorts...",
-        "isShort": true,
-        "duration": 75
-    },
-    {
-        "id": "FpXuQPJYkuw",
-        "videoId": "FpXuQPJYkuw",
-        "title": "Introduction à l'intégration de la commande vocale",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-11",
-        "url": "https://www.youtube.com/watch?v=FpXuQPJYkuw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Introduction à l'intégration de la commande vocale...",
-        "isShort": true,
-        "duration": 58
-    },
-    {
-        "id": "7yXJEZuFIGo",
-        "videoId": "7yXJEZuFIGo",
-        "title": "Tests et réflexions finales",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-11",
-        "url": "https://www.youtube.com/watch?v=7yXJEZuFIGo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Jonas Ekanbo : Tests et réflexions finales...",
-        "isShort": true,
-        "duration": 107
+        "isShort": true
     },
     {
         "id": "Q1J4mVqjk7s",
@@ -1100,8 +1105,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gnldMrB64kg",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Intégration Scène Voiture : Une IA Qui Change Tout ! #shorts...",
-        "isShort": true,
-        "duration": 34
+        "isShort": true
     },
     {
         "id": "dxvy83ikgtQ",
@@ -1113,21 +1117,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=dxvy83ikgtQ",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : IA : Génération de Vidéos avec Meta Prompt Gratuit ! #shorts...",
-        "isShort": true,
-        "duration": 58
-    },
-    {
-        "id": "5S319lx1MBs",
-        "videoId": "5S319lx1MBs",
-        "title": "Meilleures Voix IA 2026: Classement Ultime pour Avatar IA #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-10",
-        "url": "https://www.youtube.com/watch?v=5S319lx1MBs",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Meilleures Voix IA 2026: Classement Ultime pour Avatar IA #shorts...",
-        "isShort": true,
-        "duration": 149
+        "isShort": true
     },
     {
         "id": "5T0irFpaa1U",
@@ -1139,32 +1129,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5T0irFpaa1U",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : J’ai créé le Prompt parfait pour TOUTES les IA (ChatGPT, Gemini, Claude…)..."
-    },
-    {
-        "id": "5KEYWpgHl4w",
-        "videoId": "5KEYWpgHl4w",
-        "title": "Fal.ai : Nouvelle Fonctionnalité Révolutionnaire d'Éléments! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-09",
-        "url": "https://www.youtube.com/watch?v=5KEYWpgHl4w",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Fal.ai : Nouvelle Fonctionnalité Révolutionnaire d'Éléments! #shorts...",
-        "isShort": true,
-        "duration": 97
-    },
-    {
-        "id": "h2aKvc0LyE8",
-        "videoId": "h2aKvc0LyE8",
-        "title": "Kling 3.0 : Créez du contenu IA professionnel dès aujourd'hui ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-09",
-        "url": "https://www.youtube.com/watch?v=h2aKvc0LyE8",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Kling 3.0 : Créez du contenu IA professionnel dès aujourd'hui ! #shorts...",
-        "isShort": true,
-        "duration": 62
     },
     {
         "id": "oCRDxYWh4ZI",
@@ -1218,10 +1182,8 @@ export const allVideos = [
         "source": "@JulienSnsn",
         "date": "2026-03-08",
         "url": "https://www.youtube.com/watch?v=k7fvdpqBWcM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Julien Sanson : Voici comment bien configurer un projet Claude Code 👀...",
-        "isShort": true,
-        "duration": 101
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Voici comment bien configurer un projet Claude Code 👀..."
     },
     {
         "id": "FF1JIA_TCug",
@@ -1231,10 +1193,8 @@ export const allVideos = [
         "source": "@BaptIA",
         "date": "2026-03-08",
         "url": "https://www.youtube.com/watch?v=FF1JIA_TCug",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Baptiste Simard - IA : Claude code Remote control vient de détrôner openclaw...",
-        "isShort": true,
-        "duration": 40
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Claude code Remote control vient de détrôner openclaw..."
     },
     {
         "id": "8fpKyNkN3X4",
@@ -1288,10 +1248,8 @@ export const allVideos = [
         "source": "@BaptIA",
         "date": "2026-03-06",
         "url": "https://www.youtube.com/watch?v=wmEVJ3TXinM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des applications de Google...",
-        "isShort": true,
-        "duration": 77
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des applications de Google..."
     },
     {
         "id": "R0hHH4lzfYE",
@@ -1345,10 +1303,8 @@ export const allVideos = [
         "source": "@cedric_effi10",
         "date": "2026-03-04",
         "url": "https://www.youtube.com/watch?v=uU66mgOmgkY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Cédric Girard : Résumer et réviser une œuvre littéraire pour le BAC avec #NotebookLM #revisionexam #français...",
-        "isShort": true,
-        "duration": 113
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Cédric Girard : Résumer et réviser une œuvre littéraire pour le BAC avec #NotebookLM #revisionexam #français..."
     },
     {
         "id": "mSNYOWpnsuY",
@@ -1369,10 +1325,8 @@ export const allVideos = [
         "source": "@BaptIA",
         "date": "2026-03-04",
         "url": "https://www.youtube.com/watch?v=ziMfHt9hnlw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Baptiste Simard - IA : Les meilleurs outils IA à utiliser en 2026...",
-        "isShort": true,
-        "duration": 42
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Les meilleurs outils IA à utiliser en 2026..."
     },
     {
         "id": "5YPzT47Txl8",
@@ -1635,10 +1589,8 @@ export const allVideos = [
         "source": "@BaptIA",
         "date": "2026-02-24",
         "url": "https://www.youtube.com/watch?v=ExfqNGWETMU",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Baptiste Simard - IA : Gemini 3.1 Pro vient de sortir, et c’est une dinguerie...",
-        "isShort": true,
-        "duration": 46
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Gemini 3.1 Pro vient de sortir, et c’est une dinguerie..."
     },
     {
         "id": "--zIrAuE90c",
@@ -1670,10 +1622,8 @@ export const allVideos = [
         "source": "@iAlan_automatise",
         "date": "2026-02-23",
         "url": "https://www.youtube.com/watch?v=4f9JPpdwmWg",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de iAlan : Installer Claude Code sur VS Code en 30 secondes 🎯 (tuto débutant)...",
-        "isShort": true,
-        "duration": 42
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Installer Claude Code sur VS Code en 30 secondes 🎯 (tuto débutant)..."
     },
     {
         "id": "2QY2v_MAg8U",
@@ -1716,10 +1666,8 @@ export const allVideos = [
         "source": "@JulienSnsn",
         "date": "2026-02-22",
         "url": "https://www.youtube.com/watch?v=ebdv_ac6hQY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Julien Sanson : Construis une app en 2 min avec Claude Code (même si t'y connais rien)...",
-        "isShort": true,
-        "duration": 128
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Construis une app en 2 min avec Claude Code (même si t'y connais rien)..."
     },
     {
         "id": "UBpAR_Uewy4",
@@ -1817,10 +1765,8 @@ export const allVideos = [
         "source": "@BaptIA",
         "date": "2026-02-19",
         "url": "https://www.youtube.com/watch?v=Ri3kfMy9aD0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des meilleurs outils IA de 2026...",
-        "isShort": true,
-        "duration": 58
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des meilleurs outils IA de 2026..."
     },
     {
         "id": "JPpP4aLQOpM",
@@ -1852,21 +1798,8 @@ export const allVideos = [
         "source": "@JulienSnsn",
         "date": "2026-02-18",
         "url": "https://www.youtube.com/watch?v=6Z43WEeP6kI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Julien Sanson : Que vaut Claude Sonnet 4.6 ? 👀...",
-        "isShort": true,
-        "duration": 174
-    },
-    {
-        "id": "Z0KJgbqTGMo",
-        "videoId": "Z0KJgbqTGMo",
-        "title": "Claude Sonnet 4.6 : Pourquoi Ce Modèle Peut Tout Changer 😱🌍",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-02-18",
-        "url": "https://www.youtube.com/watch?v=Z0KJgbqTGMo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude Sonnet 4.6 : Pourquoi Ce Modèle Peut Tout Changer 😱🌍..."
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Que vaut Claude Sonnet 4.6 ? 👀..."
     },
     {
         "id": "_EdJxe6f47o",
@@ -1898,10 +1831,8 @@ export const allVideos = [
         "source": "@JulienSnsn",
         "date": "2026-02-17",
         "url": "https://www.youtube.com/watch?v=eILes_d1q8w",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Julien Sanson : La fin de N8N ?...",
-        "isShort": true,
-        "duration": 163
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : La fin de N8N ?..."
     },
     {
         "id": "U5euty-SEbM",
@@ -1944,10 +1875,8 @@ export const allVideos = [
         "source": "@iAlan_automatise",
         "date": "2026-02-16",
         "url": "https://www.youtube.com/watch?v=P56CwdKSyq0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de iAlan : Claude 5 Sonnet va faire trembler OpenAI 👀...",
-        "isShort": true,
-        "duration": 84
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude 5 Sonnet va faire trembler OpenAI 👀..."
     },
     {
         "id": "5bxzPaQm8Vk",
@@ -2100,10 +2029,8 @@ export const allVideos = [
         "source": "@BaptIA",
         "date": "2026-02-10",
         "url": "https://www.youtube.com/watch?v=LERgdkeA5IE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Baptiste Simard - IA : Voici le meilleur moyen de faire de l’argent avec l’IA...",
-        "isShort": true,
-        "duration": 53
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Voici le meilleur moyen de faire de l’argent avec l’IA..."
     },
     {
         "id": "I8sc7anS0fU",
@@ -2135,23 +2062,19 @@ export const allVideos = [
         "source": "@JulienSnsn",
         "date": "2026-02-09",
         "url": "https://www.youtube.com/watch?v=mYAIg2-s6kg",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Julien Sanson : Claude Opus 4.6 : Tout comprendre sur ce nouveau modèle 👀...",
-        "isShort": true,
-        "duration": 88
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Claude Opus 4.6 : Tout comprendre sur ce nouveau modèle 👀..."
     },
     {
         "id": "jd8juEhhYHM",
         "videoId": "jd8juEhhYHM",
-        "title": "Installe GLM 4.7 sur Ollama en 30 SECONDES (100% gratuit) 🚀 #n8n #automation",
+        "title": "Installe GLM 4.7 sur Ollama en 30 SECONDES (100% gratuit) ���� #n8n #automation",
         "author": "iAlan",
         "source": "@iAlan_automatise",
         "date": "2026-02-09",
         "url": "https://www.youtube.com/watch?v=jd8juEhhYHM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de iAlan : Installe GLM 4.7 sur Ollama en 30 SECONDES (100% gratuit) 🚀 #n8n #automation...",
-        "isShort": true,
-        "duration": 86
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Installe GLM 4.7 sur Ollama en 30 SECONDES (100% gratuit) ���� #n8n #automation..."
     },
     {
         "id": "WpUbNZ9paYk",
@@ -2205,10 +2128,8 @@ export const allVideos = [
         "source": "@JulienSnsn",
         "date": "2026-02-08",
         "url": "https://www.youtube.com/watch?v=YQtGgSqaqIE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Julien Sanson : Tu peux désormais créer ta propre équipe d’agents avec Claude Code 👀...",
-        "isShort": true,
-        "duration": 73
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Tu peux désormais créer ta propre équipe d’agents avec Claude Code 👀..."
     },
     {
         "id": "GlZ5Ad65VCU",
@@ -2220,17 +2141,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=GlZ5Ad65VCU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : La NOUVELLE fonctionnalité AGENT TEAMS de Claude Code est INCROYABLE (Opus 4.6)..."
-    },
-    {
-        "id": "kayWzD2q4NI",
-        "videoId": "kayWzD2q4NI",
-        "title": "Comment faire 7.000€/mois avec ClawdBot en Copiant cet Américain.",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-02-07",
-        "url": "https://www.youtube.com/watch?v=kayWzD2q4NI",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Comment faire 7.000€/mois avec ClawdBot en Copiant cet Américain...."
     },
     {
         "id": "Y0XmwxEy8bA",
@@ -2251,10 +2161,8 @@ export const allVideos = [
         "source": "@iAlan_automatise",
         "date": "2026-02-07",
         "url": "https://www.youtube.com/watch?v=BW6lfxbldN8",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de iAlan : Cet agent IA TRAQUE les gens en DIRECT sur Twitch 😱 #n8n #openclaw...",
-        "isShort": true,
-        "duration": 20
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Cet agent IA TRAQUE les gens en DIRECT sur Twitch 😱 #n8n #openclaw..."
     },
     {
         "id": "ooqRqvHbk3w",
@@ -2308,10 +2216,8 @@ export const allVideos = [
         "source": "@JulienSnsn",
         "date": "2026-02-04",
         "url": "https://www.youtube.com/watch?v=ZtyXZwtmxyY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Julien Sanson : Cette automatisation N8N me génère 50 leads/semaine 👀...",
-        "isShort": true,
-        "duration": 75
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Cette automatisation N8N me génère 50 leads/semaine 👀..."
     },
     {
         "id": "MyYVVG2LYAU",
@@ -2365,10 +2271,8 @@ export const allVideos = [
         "source": "@BaptIA",
         "date": "2026-02-03",
         "url": "https://www.youtube.com/watch?v=SvuQFhOg7b4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Baptiste Simard - IA : Installer facilement Claude code en moins de 5 minutes...",
-        "isShort": true,
-        "duration": 55
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Installer facilement Claude code en moins de 5 minutes..."
     },
     {
         "id": "Lda1IGevfQg",
@@ -2400,23 +2304,8 @@ export const allVideos = [
         "source": "@iAlan_automatise",
         "date": "2026-02-02",
         "url": "https://www.youtube.com/watch?v=U08_-f6S4yI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de iAlan : Claude Code crée mon workflow n8n... TOUT SEUL 🤯...",
-        "isShort": true,
-        "duration": 70
-    },
-    {
-        "id": "8dIPg6I7F6w",
-        "videoId": "8dIPg6I7F6w",
-        "title": "10k € par mois avec de vraies compétences. La vente d’infrastructures IA",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-02-02",
-        "url": "https://www.youtube.com/watch?v=8dIPg6I7F6w",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Baptiste Simard - IA : 10k € par mois avec de vraies compétences. La vente d’infrastructures IA...",
-        "isShort": true,
-        "duration": 45
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Code crée mon workflow n8n... TOUT SEUL 🤯..."
     },
     {
         "id": "eZcpO_pd61Q",
@@ -2437,21 +2326,8 @@ export const allVideos = [
         "source": "@JulienSnsn",
         "date": "2026-02-01",
         "url": "https://www.youtube.com/watch?v=_01ux6EX4Vo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Julien Sanson : Comment j'ai rendu Claude EXPERT dans n'importe quel domaine 👀...",
-        "isShort": true,
-        "duration": 113
-    },
-    {
-        "id": "EZv6SmRvqZQ",
-        "videoId": "EZv6SmRvqZQ",
-        "title": "Comment j'ai rendu Claude EXPERT dans n'importe quel domaine ! (Tutoriel)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-02-01",
-        "url": "https://www.youtube.com/watch?v=EZv6SmRvqZQ",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Comment j'ai rendu Claude EXPERT dans n'importe quel domaine ! (Tutoriel)..."
+        "summary": "Nouveauté de Julien Sanson : Comment j'ai rendu Claude EXPERT dans n'importe quel domaine 👀..."
     },
     {
         "id": "JEZconEGZJw",
@@ -2461,23 +2337,8 @@ export const allVideos = [
         "source": "@iAlan_automatise",
         "date": "2026-02-01",
         "url": "https://www.youtube.com/watch?v=JEZconEGZJw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de iAlan : Connecter Qdrant à n8n en 60 secondes ⚡...",
-        "isShort": true,
-        "duration": 35
-    },
-    {
-        "id": "N2Zi_-S-TRw",
-        "videoId": "N2Zi_-S-TRw",
-        "title": "Analyse tes reviews Google automatiquement 👀",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-01-31",
-        "url": "https://www.youtube.com/watch?v=N2Zi_-S-TRw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Julien Sanson : Analyse tes reviews Google automatiquement 👀...",
-        "isShort": true,
-        "duration": 86
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Connecter Qdrant à n8n en 60 secondes ⚡..."
     },
     {
         "id": "PhZks9-syiI",
