@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-20T07:59:26.099Z
+// Fichier généré automatiquement le 2026-03-21T07:46:53.634Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:59:26 AM 3/20/2026";
+export const lastUpdate = "7:46:53 AM 3/21/2026";
 
 export const sources = [
     {
@@ -172,6 +172,96 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "_UpYM8YW4T4",
+        "videoId": "_UpYM8YW4T4",
+        "title": "Réponse de l'assistant IA à la demande de mise à jour",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=_UpYM8YW4T4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Réponse de l'assistant IA à la demande de mise à jour..."
+    },
+    {
+        "id": "NBDiZqJ4WBk",
+        "videoId": "NBDiZqJ4WBk",
+        "title": "IA agent : votre ordi sous contrôle",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=NBDiZqJ4WBk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA agent : votre ordi sous contrôle..."
+    },
+    {
+        "id": "K7SKDZ8HgYs",
+        "videoId": "K7SKDZ8HgYs",
+        "title": "Mars 2026 : le moment de bascule où l'IA a pris notre travail",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=K7SKDZ8HgYs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mars 2026 : le moment de bascule où l'IA a pris notre travail..."
+    },
+    {
+        "id": "WvmbkafUrWg",
+        "videoId": "WvmbkafUrWg",
+        "title": "L'actualité tech du 20/03/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=WvmbkafUrWg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 20/03/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "iFSL_QHyXxs",
+        "videoId": "iFSL_QHyXxs",
+        "title": "Robot soldat au front en Ukraine",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=iFSL_QHyXxs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Robot soldat au front en Ukraine..."
+    },
+    {
+        "id": "DL9imqmWs_8",
+        "videoId": "DL9imqmWs_8",
+        "title": "Améliore la qualité de ton code avec ce plugin Claude Code 🧑‍💻",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=DL9imqmWs_8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Améliore la qualité de ton code avec ce plugin Claude Code 🧑‍💻..."
+    },
+    {
+        "id": "0kFcQYTh9vk",
+        "videoId": "0kFcQYTh9vk",
+        "title": "Claude Remote Control : Révolutionne l'IA ! Découvrez-le. #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=0kFcQYTh9vk",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Remote Control : Révolutionne l'IA ! Découvrez-le. #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "TVCmD9vKoTw",
+        "videoId": "TVCmD9vKoTw",
+        "title": "Cloud Code: L'IA Qui Transforme Votre Entreprise! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-20",
+        "url": "https://www.youtube.com/watch?v=TVCmD9vKoTw",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Cloud Code: L'IA Qui Transforme Votre Entreprise! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "wPjjAJZ54_g",
         "videoId": "wPjjAJZ54_g",
         "title": "Configuration de l'agent IA dans Make",
@@ -341,13 +431,13 @@ export const allVideos = [
     {
         "id": "1UhvZBAT0TI",
         "videoId": "1UhvZBAT0TI",
-        "title": "Maîtrisez l'outil IA le plus puissant de 2026",
+        "title": "CLAUDE CODE peut TOUT faire (je vous montre)",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-03-18",
         "url": "https://www.youtube.com/watch?v=1UhvZBAT0TI",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Maîtrisez l'outil IA le plus puissant de 2026..."
+        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE CODE peut TOUT faire (je vous montre)..."
     },
     {
         "id": "8BxcGwFQrIY",
@@ -692,37 +782,15 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : L'IA modifie tout en profondeur : guerre, cinéma, déplacement, supermarché,......"
     },
     {
-        "id": "NKaDbcKIz2g",
-        "videoId": "NKaDbcKIz2g",
-        "title": "L'actualité tech du 16/03/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-16",
-        "url": "https://www.youtube.com/watch?v=NKaDbcKIz2g",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 16/03/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "O74EfhVoRnM",
-        "videoId": "O74EfhVoRnM",
-        "title": "Des neurones humains jouent à Doom",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-16",
-        "url": "https://www.youtube.com/watch?v=O74EfhVoRnM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Des neurones humains jouent à Doom..."
-    },
-    {
         "id": "-WTWf-TG9wc",
         "videoId": "-WTWf-TG9wc",
-        "title": "Qoder AI : L’IA de Code ULTIME ? (Test Réel sur une App) 😱����",
+        "title": "Qoder AI : L’IA de Code ULTIME ? (Test Réel sur une App) 😱🔥",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-03-16",
         "url": "https://www.youtube.com/watch?v=-WTWf-TG9wc",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qoder AI : L’IA de Code ULTIME ? (Test Réel sur une App) 😱����..."
+        "summary": "Nouveauté de Nerdy Kings : Qoder AI : L’IA de Code ULTIME ? (Test Réel sur une App) 😱🔥..."
     },
     {
         "id": "tCrP94fZqYg",
@@ -792,17 +860,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : CLAUDE a RÉSOLU le plus GROS problème de l’IA...."
     },
     {
-        "id": "8emesqcKiKs",
-        "videoId": "8emesqcKiKs",
-        "title": "Kiro, la plateforme multi-IA gratuite, mise à jour 2.3",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-15",
-        "url": "https://www.youtube.com/watch?v=8emesqcKiKs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Kiro, la plateforme multi-IA gratuite, mise à jour 2.3..."
-    },
-    {
         "id": "Q7RcgXzBtDQ",
         "videoId": "Q7RcgXzBtDQ",
         "title": "L’histoire du milliardaire IA le plus CONTROVERSÉ au monde",
@@ -867,17 +924,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=h5DBeROGXL4",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA..."
-    },
-    {
-        "id": "OzcTmadtr6Y",
-        "videoId": "OzcTmadtr6Y",
-        "title": "IA santé : qui contrôle vos données?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-14",
-        "url": "https://www.youtube.com/watch?v=OzcTmadtr6Y",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA santé : qui contrôle vos données?..."
     },
     {
         "id": "uqV3ujeaeKs",
@@ -990,17 +1036,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=jRP6JA-B9i0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Planification réussie et confirmation par e-mail..."
-    },
-    {
-        "id": "lKGoa1YEjb8",
-        "videoId": "lKGoa1YEjb8",
-        "title": "Défis de prononciation et de corrections",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=lKGoa1YEjb8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Défis de prononciation et de corrections..."
     },
     {
         "id": "AR8GzP7tgQY",
@@ -1129,18 +1164,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "5oMTZiVdj9U",
-        "videoId": "5oMTZiVdj9U",
-        "title": "IA Gratuite: L'Agrégateur de Modèles Secrets Révélé #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-11",
-        "url": "https://www.youtube.com/watch?v=5oMTZiVdj9U",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Gratuite: L'Agrégateur de Modèles Secrets Révélé #shorts...",
-        "isShort": true
-    },
-    {
         "id": "Q1J4mVqjk7s",
         "videoId": "Q1J4mVqjk7s",
         "title": "J’ai Recréé un Marché Mésopotamien Entier... avec Gemini 3.1 Pro",
@@ -1150,18 +1173,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Q1J4mVqjk7s",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : J’ai Recréé un Marché Mésopotamien Entier... avec Gemini 3.1 Pro..."
-    },
-    {
-        "id": "gnldMrB64kg",
-        "videoId": "gnldMrB64kg",
-        "title": "Intégration Scène Voiture : Une IA Qui Change Tout ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-10",
-        "url": "https://www.youtube.com/watch?v=gnldMrB64kg",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Intégration Scène Voiture : Une IA Qui Change Tout ! #shorts...",
-        "isShort": true
     },
     {
         "id": "5T0irFpaa1U",
@@ -2264,17 +2275,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Cette automatisation N8N me génère 50 leads/semaine 👀..."
     },
     {
-        "id": "MyYVVG2LYAU",
-        "videoId": "MyYVVG2LYAU",
-        "title": "Transformer REDDIT en générateur de leads avec N8N (Tutoriel)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-02-04",
-        "url": "https://www.youtube.com/watch?v=MyYVVG2LYAU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Transformer REDDIT en générateur de leads avec N8N (Tutoriel)..."
-    },
-    {
         "id": "rVfoF5Uz4ic",
         "videoId": "rVfoF5Uz4ic",
         "title": "Agents IA : pourquoi j'ai abandonné Cursor pour Google AntiGravity",
@@ -2471,16 +2471,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9h212zWQXjk",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : J’ai enquêté sur ce que fait l’IA à ton cerveau. (Et c’est grave)..."
-    },
-    {
-        "id": "WHA7haYgAhs",
-        "videoId": "WHA7haYgAhs",
-        "title": "Le MEILLEUR prompt pour des infographies qui claquent 🥇",
-        "author": "Cédric Girard",
-        "source": "@cedric_effi10",
-        "date": "2026-01-21",
-        "url": "https://www.youtube.com/watch?v=WHA7haYgAhs",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Cédric Girard : Le MEILLEUR prompt pour des infographies qui claquent 🥇..."
     }
 ];
