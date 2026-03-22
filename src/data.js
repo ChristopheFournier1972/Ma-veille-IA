@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-21T07:46:53.634Z
+// Fichier généré automatiquement le 2026-03-22T07:52:30.577Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:46:53 AM 3/21/2026";
+export const lastUpdate = "7:52:30 AM 3/22/2026";
 
 export const sources = [
     {
@@ -171,6 +171,162 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "Wg-C-71x4l0",
+        "videoId": "Wg-C-71x4l0",
+        "title": "Capacités de l'assistant IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=Wg-C-71x4l0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Capacités de l'assistant IA..."
+    },
+    {
+        "id": "5CH8a_j_pGg",
+        "videoId": "5CH8a_j_pGg",
+        "title": "Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=5CH8a_j_pGg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA..."
+    },
+    {
+        "id": "CbzIYA-Qm2U",
+        "videoId": "CbzIYA-Qm2U",
+        "title": "Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=CbzIYA-Qm2U",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA..."
+    },
+    {
+        "id": "_MffNMhJuXg",
+        "videoId": "_MffNMhJuXg",
+        "title": "Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=_MffNMhJuXg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA..."
+    },
+    {
+        "id": "EGAmlizylp0",
+        "videoId": "EGAmlizylp0",
+        "title": "Importe ta mémoire dans Claude depuis tes autres outils IA !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=EGAmlizylp0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Importe ta mémoire dans Claude depuis tes autres outils IA !..."
+    },
+    {
+        "id": "S2tDcUPGxII",
+        "videoId": "S2tDcUPGxII",
+        "title": "Val Kilmer revient grâce à l’IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=S2tDcUPGxII",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Val Kilmer revient grâce à l’IA..."
+    },
+    {
+        "id": "kkBtjqaOIFI",
+        "videoId": "kkBtjqaOIFI",
+        "title": "Les 4 modes de distribution de l'IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=kkBtjqaOIFI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Les 4 modes de distribution de l'IA..."
+    },
+    {
+        "id": "LE05s0Hzti8",
+        "videoId": "LE05s0Hzti8",
+        "title": "Stitch : le design UI par IA totale",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=LE05s0Hzti8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Stitch : le design UI par IA totale..."
+    },
+    {
+        "id": "rFmH4FxW5Qg",
+        "videoId": "rFmH4FxW5Qg",
+        "title": "OpenClaw : ce que la hype ne vous dit pas",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=rFmH4FxW5Qg",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : OpenClaw : ce que la hype ne vous dit pas..."
+    },
+    {
+        "id": "aELai2cF_kk",
+        "videoId": "aELai2cF_kk",
+        "title": "Ce plugin Claude Code va donner accès à toutes les APIs à jour !",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=aELai2cF_kk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Ce plugin Claude Code va donner accès à toutes les APIs à jour !..."
+    },
+    {
+        "id": "0zlgHVqAEm8",
+        "videoId": "0zlgHVqAEm8",
+        "title": "GPT-5.4 Mini et Nano : Petit Prix… mais Performances Monstrueuses ? 😱💰",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=0zlgHVqAEm8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : GPT-5.4 Mini et Nano : Petit Prix… mais Performances Monstrueuses ? 😱💰..."
+    },
+    {
+        "id": "QLnyvPJYwwc",
+        "videoId": "QLnyvPJYwwc",
+        "title": "Révolution du Développement Web : L'IA Crée Vos Sites ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=QLnyvPJYwwc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Révolution du Développement Web : L'IA Crée Vos Sites ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Zx5mnaE4IB4",
+        "videoId": "Zx5mnaE4IB4",
+        "title": "Claude Code Révolutionne la Création Web: Démo Live! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=Zx5mnaE4IB4",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code Révolutionne la Création Web: Démo Live! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "YEdU-agnfrk",
+        "videoId": "YEdU-agnfrk",
+        "title": "Vérification de la notification par e-mail",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-21",
+        "url": "https://www.youtube.com/watch?v=YEdU-agnfrk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Vérification de la notification par e-mail..."
+    },
     {
         "id": "_UpYM8YW4T4",
         "videoId": "_UpYM8YW4T4",
@@ -650,17 +806,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Netflix rachète l’IA du cinéma..."
     },
     {
-        "id": "b5Cf3jVxZjw",
-        "videoId": "b5Cf3jVxZjw",
-        "title": "Hollywood attaque l’IA de ByteDance",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=b5Cf3jVxZjw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Hollywood attaque l’IA de ByteDance..."
-    },
-    {
         "id": "i5O87yx-HF8",
         "videoId": "i5O87yx-HF8",
         "title": "DuClaw : La Chine est en train DE TUER OpenClaw ? 😱🦞",
@@ -758,28 +903,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gN8VXJd5KsY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 16 outils d’IA en compétition !..."
-    },
-    {
-        "id": "8kc0xEMp-mc",
-        "videoId": "8kc0xEMp-mc",
-        "title": "IA : la guerre passe en mode auto",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-16",
-        "url": "https://www.youtube.com/watch?v=8kc0xEMp-mc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : la guerre passe en mode auto..."
-    },
-    {
-        "id": "teON0fVZrNg",
-        "videoId": "teON0fVZrNg",
-        "title": "L'IA modifie tout en profondeur : guerre, cinéma, déplacement, supermarché,...",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-16",
-        "url": "https://www.youtube.com/watch?v=teON0fVZrNg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA modifie tout en profondeur : guerre, cinéma, déplacement, supermarché,......"
     },
     {
         "id": "-WTWf-TG9wc",
@@ -904,28 +1027,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA..."
     },
     {
-        "id": "PL7rjlMc_ME",
-        "videoId": "PL7rjlMc_ME",
-        "title": "De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-14",
-        "url": "https://www.youtube.com/watch?v=PL7rjlMc_ME",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA..."
-    },
-    {
-        "id": "h5DBeROGXL4",
-        "videoId": "h5DBeROGXL4",
-        "title": "De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-14",
-        "url": "https://www.youtube.com/watch?v=h5DBeROGXL4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA..."
-    },
-    {
         "id": "uqV3ujeaeKs",
         "videoId": "uqV3ujeaeKs",
         "title": "L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)",
@@ -959,17 +1060,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Tester les fonctionnalités de l'assistant IA..."
     },
     {
-        "id": "wHYwVuH_bAQ",
-        "videoId": "wHYwVuH_bAQ",
-        "title": "Introduction à l'assistant IA pour la planification",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-14",
-        "url": "https://www.youtube.com/watch?v=wHYwVuH_bAQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Introduction à l'assistant IA pour la planification..."
-    },
-    {
         "id": "YebMrY_Cr5s",
         "videoId": "YebMrY_Cr5s",
         "title": "Comment utiliser EXCEL avec un AGENT IA ?",
@@ -979,28 +1069,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YebMrY_Cr5s",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Comment utiliser EXCEL avec un AGENT IA ?..."
-    },
-    {
-        "id": "6N-Jutdbkh4",
-        "videoId": "6N-Jutdbkh4",
-        "title": "Cette compétence humanise Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=6N-Jutdbkh4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Cette compétence humanise Claude !..."
-    },
-    {
-        "id": "K33mOmbobSg",
-        "videoId": "K33mOmbobSg",
-        "title": "Ne vous fiez pas aux outils d’IA génériques pour vérifier vos textes.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=K33mOmbobSg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ne vous fiez pas aux outils d’IA génériques pour vérifier vos textes...."
     },
     {
         "id": "r6s_vYTk4kA",
@@ -1025,17 +1093,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Kling 3.0: Voix et Synchronisation Labiale Révolutionnées ! #shorts...",
         "isShort": true
-    },
-    {
-        "id": "jRP6JA-B9i0",
-        "videoId": "jRP6JA-B9i0",
-        "title": "Planification réussie et confirmation par e-mail",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=jRP6JA-B9i0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Planification réussie et confirmation par e-mail..."
     },
     {
         "id": "AR8GzP7tgQY",
@@ -1138,30 +1195,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Mg37t-H7-10",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Google : ce nouvel outil débride ton Claude Code (GRATUIT) 🔥..."
-    },
-    {
-        "id": "9po6SV_RjNY",
-        "videoId": "9po6SV_RjNY",
-        "title": "Kling 3.0 : Contrôle total de vos scènes AI #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-11",
-        "url": "https://www.youtube.com/watch?v=9po6SV_RjNY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Kling 3.0 : Contrôle total de vos scènes AI #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "J5-KSIG2wAw",
-        "videoId": "J5-KSIG2wAw",
-        "title": "IA Révolutionne la Création : De l'Idée à la Réalité Facilement #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-11",
-        "url": "https://www.youtube.com/watch?v=J5-KSIG2wAw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Révolutionne la Création : De l'Idée à la Réalité Facilement #shorts...",
-        "isShort": true
     },
     {
         "id": "Q1J4mVqjk7s",
@@ -1802,17 +1835,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Claude surpasse toutes les IA... 7 exemples concrets !..."
     },
     {
-        "id": "5PNAwJUtfQs",
-        "videoId": "5PNAwJUtfQs",
-        "title": "Gemini 3.1 : Ce que Google prépare en secret… (ÉNORME LEAK) 🚨",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-02-19",
-        "url": "https://www.youtube.com/watch?v=5PNAwJUtfQs",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Gemini 3.1 : Ce que Google prépare en secret… (ÉNORME LEAK) 🚨..."
-    },
-    {
         "id": "Ri3kfMy9aD0",
         "videoId": "Ri3kfMy9aD0",
         "title": "Tierlist des meilleurs outils IA de 2026",
@@ -2264,17 +2286,6 @@ export const allVideos = [
         "summary": "Nouveauté de Cédric Girard : Créer son propre générateur de prompts en 10mn ⏱️..."
     },
     {
-        "id": "ZtyXZwtmxyY",
-        "videoId": "ZtyXZwtmxyY",
-        "title": "Cette automatisation N8N me génère 50 leads/semaine 👀",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-02-04",
-        "url": "https://www.youtube.com/watch?v=ZtyXZwtmxyY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Cette automatisation N8N me génère 50 leads/semaine 👀..."
-    },
-    {
         "id": "rVfoF5Uz4ic",
         "videoId": "rVfoF5Uz4ic",
         "title": "Agents IA : pourquoi j'ai abandonné Cursor pour Google AntiGravity",
@@ -2460,16 +2471,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=APS8tyy0lyg",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Lucas Reverdy : Comment Créer des Avatars IA ultra-réalistes en 2026 (Guide Complet)..."
-    },
-    {
-        "id": "9h212zWQXjk",
-        "videoId": "9h212zWQXjk",
-        "title": "J’ai enquêté sur ce que fait l’IA à ton cerveau. (Et c’est grave)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-01-22",
-        "url": "https://www.youtube.com/watch?v=9h212zWQXjk",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J’ai enquêté sur ce que fait l’IA à ton cerveau. (Et c’est grave)..."
     }
 ];
