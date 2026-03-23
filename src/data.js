@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-22T07:52:30.577Z
+// Fichier généré automatiquement le 2026-03-23T08:39:06.648Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:52:30 AM 3/22/2026";
+export const lastUpdate = "8:39:06 AM 3/23/2026";
 
 export const sources = [
     {
@@ -172,6 +172,107 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "mY3SUnzu6cI",
+        "videoId": "mY3SUnzu6cI",
+        "title": "Capacités multitâches de l'assistant IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=mY3SUnzu6cI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Capacités multitâches de l'assistant IA..."
+    },
+    {
+        "id": "4BgN_poX2R0",
+        "videoId": "4BgN_poX2R0",
+        "title": "Mes 10 skills Claude préférés en 30 secondes",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=4BgN_poX2R0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Mes 10 skills Claude préférés en 30 secondes..."
+    },
+    {
+        "id": "-50BGEYgMr4",
+        "videoId": "-50BGEYgMr4",
+        "title": "Formation Claude IA pour Débutants (22h en 22min)",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Formation Claude IA pour Débutants (22h en 22min)..."
+    },
+    {
+        "id": "GhkppQ6eqlY",
+        "videoId": "GhkppQ6eqlY",
+        "title": "Utilise Claude Code GRATUITEMENT avec OpenRouter !",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=GhkppQ6eqlY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Utilise Claude Code GRATUITEMENT avec OpenRouter !..."
+    },
+    {
+        "id": "6vgFGdalWXQ",
+        "videoId": "6vgFGdalWXQ",
+        "title": "Utilise Claude Code gratuitement avec cette méthode (Pas besoin de RAM)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=6vgFGdalWXQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Utilise Claude Code gratuitement avec cette méthode (Pas besoin de RAM)..."
+    },
+    {
+        "id": "QKuLiksBzbY",
+        "videoId": "QKuLiksBzbY",
+        "title": "MiniMax M2.7 est INCROYABLE 🤯 : Meilleur qu’Opus 4.6 (20x Moins Cher) ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=QKuLiksBzbY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : MiniMax M2.7 est INCROYABLE 🤯 : Meilleur qu’Opus 4.6 (20x Moins Cher) ?..."
+    },
+    {
+        "id": "wpcJQgoALfY",
+        "videoId": "wpcJQgoALfY",
+        "title": "Claude Code : Créez Votre Site Web à Distance avec IA! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=wpcJQgoALfY",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : Créez Votre Site Web à Distance avec IA! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "HUsgNqPxCAI",
+        "videoId": "HUsgNqPxCAI",
+        "title": "Révolution IA: Le Développement Web Transformé! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=HUsgNqPxCAI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Révolution IA: Le Développement Web Transformé! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "oglBcJJKqBQ",
+        "videoId": "oglBcJJKqBQ",
+        "title": "Utilisation de Make pour la création d'agents IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=oglBcJJKqBQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Utilisation de Make pour la création d'agents IA..."
+    },
+    {
         "id": "Wg-C-71x4l0",
         "videoId": "Wg-C-71x4l0",
         "title": "Capacités de l'assistant IA",
@@ -181,6 +282,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Wg-C-71x4l0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Capacités de l'assistant IA..."
+    },
+    {
+        "id": "PAT7dZxCimM",
+        "videoId": "PAT7dZxCimM",
+        "title": "Ton Claude Code oublie TOUT ? Tout savoir sur sa mémoire ! (Guide complet)",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-03-22",
+        "url": "https://www.youtube.com/watch?v=PAT7dZxCimM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : Ton Claude Code oublie TOUT ? Tout savoir sur sa mémoire ! (Guide complet)..."
     },
     {
         "id": "5CH8a_j_pGg",
@@ -1005,28 +1117,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Importance d'une prononciation précise..."
     },
     {
-        "id": "cMSKGqjLSl0",
-        "videoId": "cMSKGqjLSl0",
-        "title": "Défis de prononciation et de reconnaissance",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-15",
-        "url": "https://www.youtube.com/watch?v=cMSKGqjLSl0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Défis de prononciation et de reconnaissance..."
-    },
-    {
-        "id": "TNb7oO1OViw",
-        "videoId": "TNb7oO1OViw",
-        "title": "De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-14",
-        "url": "https://www.youtube.com/watch?v=TNb7oO1OViw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : De Will Smith aux films d’Hollywood : l'ascension fulgurante de l'IA..."
-    },
-    {
         "id": "uqV3ujeaeKs",
         "videoId": "uqV3ujeaeKs",
         "title": "L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)",
@@ -1047,17 +1137,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pbgav-ijKqo",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 : Deux Modèles Furtifs Ont Fuité ? (Test Hunter et Healer)..."
-    },
-    {
-        "id": "SRZLH77BPm0",
-        "videoId": "SRZLH77BPm0",
-        "title": "Tester les fonctionnalités de l'assistant IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-14",
-        "url": "https://www.youtube.com/watch?v=SRZLH77BPm0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Tester les fonctionnalités de l'assistant IA..."
     },
     {
         "id": "YebMrY_Cr5s",
@@ -1138,29 +1217,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=26AGfcIaYKA",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Multi-Shot : Révolutionnez vos Vidéos IA Facilement #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "zEc6z_R8f4M",
-        "videoId": "zEc6z_R8f4M",
-        "title": "NANO BANANA 2 : mon SYSTEME pour générer des images PARFAITES",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-12",
-        "url": "https://www.youtube.com/watch?v=zEc6z_R8f4M",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : NANO BANANA 2 : mon SYSTEME pour générer des images PARFAITES..."
-    },
-    {
-        "id": "H4Cf2oNKdNA",
-        "videoId": "H4Cf2oNKdNA",
-        "title": "Maîtriser le Générateur de Vidéos IA : Votre Méta Prompt Gratuit! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-12",
-        "url": "https://www.youtube.com/watch?v=H4Cf2oNKdNA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Maîtriser le Générateur de Vidéos IA : Votre Méta Prompt Gratuit! #shorts...",
         "isShort": true
     },
     {
@@ -1802,17 +1858,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : ANTIGRAVITY + HOSTINGER : les meilleurs outils pour vibecoder..."
     },
     {
-        "id": "iyB9G5zhkQg",
-        "videoId": "iyB9G5zhkQg",
-        "title": "Gemini 3.1 : Le MEILLEUR MODÈLE Jamais Sorti ? 😱 (Je le teste enfin !)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-02-20",
-        "url": "https://www.youtube.com/watch?v=iyB9G5zhkQg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Gemini 3.1 : Le MEILLEUR MODÈLE Jamais Sorti ? 😱 (Je le teste enfin !)..."
-    },
-    {
         "id": "gob6AZwS-TI",
         "videoId": "gob6AZwS-TI",
         "title": "Le Guide Claude COWORK ULTIME en 2026 ! (méthode complète)",
@@ -2198,28 +2243,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : Cette IA a changé la création de contenu à jamais..."
     },
     {
-        "id": "YQtGgSqaqIE",
-        "videoId": "YQtGgSqaqIE",
-        "title": "Tu peux désormais créer ta propre équipe d’agents avec Claude Code 👀",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-02-08",
-        "url": "https://www.youtube.com/watch?v=YQtGgSqaqIE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Tu peux désormais créer ta propre équipe d’agents avec Claude Code 👀..."
-    },
-    {
-        "id": "GlZ5Ad65VCU",
-        "videoId": "GlZ5Ad65VCU",
-        "title": "La NOUVELLE fonctionnalité AGENT TEAMS de Claude Code est INCROYABLE (Opus 4.6)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-02-08",
-        "url": "https://www.youtube.com/watch?v=GlZ5Ad65VCU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : La NOUVELLE fonctionnalité AGENT TEAMS de Claude Code est INCROYABLE (Opus 4.6)..."
-    },
-    {
         "id": "Y0XmwxEy8bA",
         "videoId": "Y0XmwxEy8bA",
         "title": "J'ai brûlé 300 000 € en publicité entre 2021 et 2026 (voici ce que j’ai appris)",
@@ -2460,16 +2483,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=avDGIyEFl1M",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : CLAUDE CODE x n8n : Installation en 30 Minutes (No Code)..."
-    },
-    {
-        "id": "APS8tyy0lyg",
-        "videoId": "APS8tyy0lyg",
-        "title": "Comment Créer des Avatars IA ultra-réalistes en 2026 (Guide Complet)",
-        "author": "Lucas Reverdy",
-        "source": "@reverdybusiness",
-        "date": "2026-01-23",
-        "url": "https://www.youtube.com/watch?v=APS8tyy0lyg",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Lucas Reverdy : Comment Créer des Avatars IA ultra-réalistes en 2026 (Guide Complet)..."
     }
 ];
