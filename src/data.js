@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-23T08:39:06.648Z
+// Fichier généré automatiquement le 2026-03-24T08:08:12.654Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:39:06 AM 3/23/2026";
+export const lastUpdate = "8:08:12 AM 3/24/2026";
 
 export const sources = [
     {
@@ -172,6 +172,174 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "zTeY21ZJNb0",
+        "videoId": "zTeY21ZJNb0",
+        "title": "Création d'un agent IA pour envoyer des e-mails",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-24",
+        "url": "https://www.youtube.com/watch?v=zTeY21ZJNb0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Création d'un agent IA pour envoyer des e-mails..."
+    },
+    {
+        "id": "I378VC9wMiY",
+        "videoId": "I378VC9wMiY",
+        "title": "Ce site te donne accès à des milliers de modèles d’IA !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=I378VC9wMiY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ce site te donne accès à des milliers de modèles d’IA !..."
+    },
+    {
+        "id": "glnQ5BEGPfM",
+        "videoId": "glnQ5BEGPfM",
+        "title": "Mieux utiliser l'IA en entreprise 🤖",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=glnQ5BEGPfM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Mieux utiliser l'IA en entreprise 🤖..."
+    },
+    {
+        "id": "6lnXZWQaADg",
+        "videoId": "6lnXZWQaADg",
+        "title": "Mieux utiliser l'IA en entreprise 🤖",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=6lnXZWQaADg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Mieux utiliser l'IA en entreprise 🤖..."
+    },
+    {
+        "id": "H1GrAeK8L8w",
+        "videoId": "H1GrAeK8L8w",
+        "title": "Mieux utiliser l'IA en entreprise 🤖",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=H1GrAeK8L8w",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Mieux utiliser l'IA en entreprise 🤖..."
+    },
+    {
+        "id": "HSiiSQqGEUI",
+        "videoId": "HSiiSQqGEUI",
+        "title": "Musk fabrique ses propres puces IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=HSiiSQqGEUI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Musk fabrique ses propres puces IA..."
+    },
+    {
+        "id": "FWV5DgQ4pO4",
+        "videoId": "FWV5DgQ4pO4",
+        "title": "L'actualité tech du 23/03/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=FWV5DgQ4pO4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 23/03/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "9vNeiqQT-XQ",
+        "videoId": "9vNeiqQT-XQ",
+        "title": "Elon Musk en Maître de l'IA, du Monde et de l'Espace ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=9vNeiqQT-XQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Elon Musk en Maître de l'IA, du Monde et de l'Espace ?..."
+    },
+    {
+        "id": "xCfx6QKmdaU",
+        "videoId": "xCfx6QKmdaU",
+        "title": "McDo teste des robots humanoïdes",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=xCfx6QKmdaU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : McDo teste des robots humanoïdes..."
+    },
+    {
+        "id": "wWC4wgSF984",
+        "videoId": "wWC4wgSF984",
+        "title": "Cette IA améliore n'importe quelle photo instantanément 🤯  #astuce",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=wWC4wgSF984",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Cette IA améliore n'importe quelle photo instantanément 🤯  #astuce..."
+    },
+    {
+        "id": "z7cStzDkM04",
+        "videoId": "z7cStzDkM04",
+        "title": "Claude Code : Créez votre site web avec l'IA ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=z7cStzDkM04",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : Créez votre site web avec l'IA ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "W8FXXyUY5mI",
+        "videoId": "W8FXXyUY5mI",
+        "title": "Claude Code: Il crée votre site Web par magie ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=W8FXXyUY5mI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: Il crée votre site Web par magie ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "mne9Vc-BeBw",
+        "videoId": "mne9Vc-BeBw",
+        "title": "Cloud Code: Créez des Landing Pages IA sur Mesure Facilement #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=mne9Vc-BeBw",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Cloud Code: Créez des Landing Pages IA sur Mesure Facilement #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "iygwnIllavw",
+        "videoId": "iygwnIllavw",
+        "title": "CLAUDE CODE + cette TECHNIQUE = Un site à 9 700€ en 10 MIN !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=iygwnIllavw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE + cette TECHNIQUE = Un site à 9 700€ en 10 MIN !..."
+    },
+    {
+        "id": "Os8Mwnk6FSg",
+        "videoId": "Os8Mwnk6FSg",
+        "title": "Saisie vocale et textuelle pour l'assistant IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=Os8Mwnk6FSg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Saisie vocale et textuelle pour l'assistant IA..."
+    },
+    {
         "id": "mY3SUnzu6cI",
         "videoId": "mY3SUnzu6cI",
         "title": "Capacités multitâches de l'assistant IA",
@@ -181,6 +349,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mY3SUnzu6cI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Capacités multitâches de l'assistant IA..."
+    },
+    {
+        "id": "VxAjVp09vDw",
+        "videoId": "VxAjVp09vDw",
+        "title": "Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-03-23",
+        "url": "https://www.youtube.com/watch?v=VxAjVp09vDw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)..."
     },
     {
         "id": "4BgN_poX2R0",
@@ -374,13 +553,13 @@ export const allVideos = [
     {
         "id": "rFmH4FxW5Qg",
         "videoId": "rFmH4FxW5Qg",
-        "title": "OpenClaw : ce que la hype ne vous dit pas",
+        "title": "Le vrai problème d'OpenClaw (que personne ne mentionne)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-03-21",
         "url": "https://www.youtube.com/watch?v=rFmH4FxW5Qg",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : OpenClaw : ce que la hype ne vous dit pas..."
+        "summary": "Nouveauté de Eliott Meunier : Le vrai problème d'OpenClaw (que personne ne mentionne)..."
     },
     {
         "id": "aELai2cF_kk",
@@ -741,39 +920,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Révolutionnez votre apprentissage avec cette IA...."
     },
     {
-        "id": "P6LrFqE07Gs",
-        "videoId": "P6LrFqE07Gs",
-        "title": "Mistral lance son offensive IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=P6LrFqE07Gs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral lance son offensive IA..."
-    },
-    {
-        "id": "4tz4sUSE7KE",
-        "videoId": "4tz4sUSE7KE",
-        "title": "Mistral devient un champion mondial, les IA US tremblent",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=4tz4sUSE7KE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral devient un champion mondial, les IA US tremblent..."
-    },
-    {
-        "id": "WuSyRYjE2fI",
-        "videoId": "WuSyRYjE2fI",
-        "title": "Supermarché sous surveillance IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=WuSyRYjE2fI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Supermarché sous surveillance IA..."
-    },
-    {
         "id": "BKAfkvBaevs",
         "videoId": "BKAfkvBaevs",
         "title": "5 plugins qui vont rendre ton Claude Code surpuissant",
@@ -885,39 +1031,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Optimisez votre temps avec l'IA..."
     },
     {
-        "id": "NLIaXbQBLus",
-        "videoId": "NLIaXbQBLus",
-        "title": "Optimisez votre temps avec l'IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=NLIaXbQBLus",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Optimisez votre temps avec l'IA..."
-    },
-    {
-        "id": "iWp5fSufk5c",
-        "videoId": "iWp5fSufk5c",
-        "title": "Optimisez votre temps avec l'IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=iWp5fSufk5c",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Optimisez votre temps avec l'IA..."
-    },
-    {
-        "id": "C5KrDMNY9UI",
-        "videoId": "C5KrDMNY9UI",
-        "title": "Netflix rachète l’IA du cinéma",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=C5KrDMNY9UI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Netflix rachète l’IA du cinéma..."
-    },
-    {
         "id": "i5O87yx-HF8",
         "videoId": "i5O87yx-HF8",
         "title": "DuClaw : La Chine est en train DE TUER OpenClaw ? 😱🦞",
@@ -995,28 +1108,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : IA, CLAUDE CODE, SAAS,... ET TOUT CE QUI VA AVEC...."
     },
     {
-        "id": "7H8RJlYCDkU",
-        "videoId": "7H8RJlYCDkU",
-        "title": "3 outils Claude gratuits pour ne pas prendre de retard sur l’IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-16",
-        "url": "https://www.youtube.com/watch?v=7H8RJlYCDkU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 3 outils Claude gratuits pour ne pas prendre de retard sur l’IA !..."
-    },
-    {
-        "id": "gN8VXJd5KsY",
-        "videoId": "gN8VXJd5KsY",
-        "title": "16 outils d’IA en compétition !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-16",
-        "url": "https://www.youtube.com/watch?v=gN8VXJd5KsY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 16 outils d’IA en compétition !..."
-    },
-    {
         "id": "-WTWf-TG9wc",
         "videoId": "-WTWf-TG9wc",
         "title": "Qoder AI : L’IA de Code ULTIME ? (Test Réel sur une App) 😱🔥",
@@ -1049,17 +1140,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=J4LBcR5WAns",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Gestion des événements qui se chevauchent..."
-    },
-    {
-        "id": "grsFkHEquMU",
-        "videoId": "grsFkHEquMU",
-        "title": "Création d'événement réussie et notification par e-mail",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-16",
-        "url": "https://www.youtube.com/watch?v=grsFkHEquMU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Création d'événement réussie et notification par e-mail..."
     },
     {
         "id": "30Ia0AVIdys",
@@ -1106,17 +1186,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : L’histoire du milliardaire IA le plus CONTROVERSÉ au monde..."
     },
     {
-        "id": "KZb7YAVHpzA",
-        "videoId": "KZb7YAVHpzA",
-        "title": "Importance d'une prononciation précise",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-15",
-        "url": "https://www.youtube.com/watch?v=KZb7YAVHpzA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Importance d'une prononciation précise..."
-    },
-    {
         "id": "uqV3ujeaeKs",
         "videoId": "uqV3ujeaeKs",
         "title": "L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)",
@@ -1150,30 +1219,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : Comment utiliser EXCEL avec un AGENT IA ?..."
     },
     {
-        "id": "r6s_vYTk4kA",
-        "videoId": "r6s_vYTk4kA",
-        "title": "Kling : Mouvements Caméra Dignes d'Hollywood #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=r6s_vYTk4kA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Kling : Mouvements Caméra Dignes d'Hollywood #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "-dUgSiwUS8c",
-        "videoId": "-dUgSiwUS8c",
-        "title": "Kling 3.0: Voix et Synchronisation Labiale Révolutionnées ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=-dUgSiwUS8c",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Kling 3.0: Voix et Synchronisation Labiale Révolutionnées ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "AR8GzP7tgQY",
         "videoId": "AR8GzP7tgQY",
         "title": "Anthropic Explique ENFIN Pourquoi Les IA Deviennent Folles 😱 (Le Persona Drift)",
@@ -1194,30 +1239,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=cv8PsVX1tbg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Le seul site pour tester TOUS les modèles IA en 2 minutes ⚡..."
-    },
-    {
-        "id": "x5T2S3lhfh4",
-        "videoId": "x5T2S3lhfh4",
-        "title": "Kling 3.0: La Meilleure IA Vidéo Révolutionne La Création #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-12",
-        "url": "https://www.youtube.com/watch?v=x5T2S3lhfh4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Kling 3.0: La Meilleure IA Vidéo Révolutionne La Création #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "26AGfcIaYKA",
-        "videoId": "26AGfcIaYKA",
-        "title": "Multi-Shot : Révolutionnez vos Vidéos IA Facilement #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-12",
-        "url": "https://www.youtube.com/watch?v=26AGfcIaYKA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Multi-Shot : Révolutionnez vos Vidéos IA Facilement #shorts...",
-        "isShort": true
     },
     {
         "id": "XQEdkNRGPZs",
@@ -2373,17 +2394,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=U8F50w4GTq8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Claude Code : le guide complet pour les non-devs..."
-    },
-    {
-        "id": "U08_-f6S4yI",
-        "videoId": "U08_-f6S4yI",
-        "title": "Claude Code crée mon workflow n8n... TOUT SEUL 🤯",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-02-02",
-        "url": "https://www.youtube.com/watch?v=U08_-f6S4yI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude Code crée mon workflow n8n... TOUT SEUL 🤯..."
     },
     {
         "id": "eZcpO_pd61Q",
