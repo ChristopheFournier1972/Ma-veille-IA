@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-24T08:08:12.654Z
+// Fichier généré automatiquement le 2026-03-25T08:06:51.607Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:08:12 AM 3/24/2026";
+export const lastUpdate = "8:06:51 AM 3/25/2026";
 
 export const sources = [
     {
@@ -171,6 +171,106 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "0umUDmTuSFM",
+        "videoId": "0umUDmTuSFM",
+        "title": "Conclusion et prochaines étapes (1)",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=0umUDmTuSFM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Conclusion et prochaines étapes (1)..."
+    },
+    {
+        "id": "-LXUVXwv2FI",
+        "videoId": "-LXUVXwv2FI",
+        "title": "Claude Dispatch, la nouvelle folie d'Anthropic !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-03-24",
+        "url": "https://www.youtube.com/watch?v=-LXUVXwv2FI",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Claude Dispatch, la nouvelle folie d'Anthropic !..."
+    },
+    {
+        "id": "cuj50UW_Bt8",
+        "videoId": "cuj50UW_Bt8",
+        "title": "WordPress agents : fin du contenu ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-24",
+        "url": "https://www.youtube.com/watch?v=cuj50UW_Bt8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : WordPress agents : fin du contenu ?..."
+    },
+    {
+        "id": "6ViOyKaXx18",
+        "videoId": "6ViOyKaXx18",
+        "title": "Intégrer l'IA en entreprise",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-24",
+        "url": "https://www.youtube.com/watch?v=6ViOyKaXx18",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Intégrer l'IA en entreprise..."
+    },
+    {
+        "id": "3w3G9MPlv68",
+        "videoId": "3w3G9MPlv68",
+        "title": "Deepfakes sexuels : l’UE frappe Grok",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-24",
+        "url": "https://www.youtube.com/watch?v=3w3G9MPlv68",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Deepfakes sexuels : l’UE frappe Grok..."
+    },
+    {
+        "id": "6E7_p3gxRdc",
+        "videoId": "6E7_p3gxRdc",
+        "title": "Mimo V2 Pro est INCROYABLE : Niveau Opus 4.6… Mais 8x Moins Cher ? 🤯",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-24",
+        "url": "https://www.youtube.com/watch?v=6E7_p3gxRdc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Mimo V2 Pro est INCROYABLE : Niveau Opus 4.6… Mais 8x Moins Cher ? 🤯..."
+    },
+    {
+        "id": "e0hwvA2cjGY",
+        "videoId": "e0hwvA2cjGY",
+        "title": "Openclaw 3.23 est INCROYABLE - Voici ce que ça change",
+        "author": "Hugo Buisson",
+        "source": "@Hugo_Buisson",
+        "date": "2026-03-24",
+        "url": "https://www.youtube.com/watch?v=e0hwvA2cjGY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Hugo Buisson : Openclaw 3.23 est INCROYABLE - Voici ce que ça change..."
+    },
+    {
+        "id": "piKEEbqoKzM",
+        "videoId": "piKEEbqoKzM",
+        "title": "Développez votre site Web à distance avec Claude Code! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-24",
+        "url": "https://www.youtube.com/watch?v=piKEEbqoKzM",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Développez votre site Web à distance avec Claude Code! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "L1-dESMgALM",
+        "videoId": "L1-dESMgALM",
+        "title": "Exécution du test d'envoi d'e-mails",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-24",
+        "url": "https://www.youtube.com/watch?v=L1-dESMgALM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Exécution du test d'envoi d'e-mails..."
+    },
     {
         "id": "zTeY21ZJNb0",
         "videoId": "zTeY21ZJNb0",
@@ -753,39 +853,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : OpenAI change tout pour le code..."
     },
     {
-        "id": "D4sh9sa_W90",
-        "videoId": "D4sh9sa_W90",
-        "title": "Peut-on vraiment faire tourner l'IA sur son propre PC en 2026 ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=D4sh9sa_W90",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Peut-on vraiment faire tourner l'IA sur son propre PC en 2026 ?..."
-    },
-    {
-        "id": "r5cUXrLCjeE",
-        "videoId": "r5cUXrLCjeE",
-        "title": "Nvidia veut devenir l’OS de l’IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=r5cUXrLCjeE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Nvidia veut devenir l’OS de l’IA..."
-    },
-    {
-        "id": "mG4ubvIeuMg",
-        "videoId": "mG4ubvIeuMg",
-        "title": "L'actualité tech du 18/03/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=mG4ubvIeuMg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 18/03/2026 en Live sur Renaud Dékode..."
-    },
-    {
         "id": "THc6XfAUFpU",
         "videoId": "THc6XfAUFpU",
         "title": "Transforme ta création de projet en donnant des superpouvoirs à ton Claude Code 🦸🏼‍♂️",
@@ -1064,17 +1131,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Créer et modifier des rendez-vous avec AI Assistant..."
     },
     {
-        "id": "lNIdJMTjjrY",
-        "videoId": "lNIdJMTjjrY",
-        "title": "Apprendre de ses erreurs et s'améliorer",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=lNIdJMTjjrY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Apprendre de ses erreurs et s'améliorer..."
-    },
-    {
         "id": "yUaIYBlIFdw",
         "videoId": "yUaIYBlIFdw",
         "title": "Comment bien utiliser Google Antigravity – Tuto Complet",
@@ -1117,29 +1173,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-WTWf-TG9wc",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Qoder AI : L’IA de Code ULTIME ? (Test Réel sur une App) 😱🔥..."
-    },
-    {
-        "id": "tCrP94fZqYg",
-        "videoId": "tCrP94fZqYg",
-        "title": "Claude Code : Le Meilleur Outil IA pour Vos Vidéos YouTube #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-16",
-        "url": "https://www.youtube.com/watch?v=tCrP94fZqYg",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Le Meilleur Outil IA pour Vos Vidéos YouTube #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "J4LBcR5WAns",
-        "videoId": "J4LBcR5WAns",
-        "title": "Gestion des événements qui se chevauchent",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-16",
-        "url": "https://www.youtube.com/watch?v=J4LBcR5WAns",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Gestion des événements qui se chevauchent..."
     },
     {
         "id": "30Ia0AVIdys",
@@ -1767,17 +1800,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=--zIrAuE90c",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Apprendre en 2026 : Ma méthode pour assimiler 2x plus d’infos..."
-    },
-    {
-        "id": "N4OJX2POHH4",
-        "videoId": "N4OJX2POHH4",
-        "title": "Qwen 3.5 397B-A17B : Le MEILLEUR Modèle OPEN SOURCE Jamais Sorti ? 🚨😱",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-02-23",
-        "url": "https://www.youtube.com/watch?v=N4OJX2POHH4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qwen 3.5 397B-A17B : Le MEILLEUR Modèle OPEN SOURCE Jamais Sorti ? 🚨😱..."
     },
     {
         "id": "4f9JPpdwmWg",
@@ -2471,27 +2493,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Y_qqLO--XCM",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : L'erreur que tout le monde fait en apprenant avec l'IA..."
-    },
-    {
-        "id": "z0Hxx4gutBE",
-        "videoId": "z0Hxx4gutBE",
-        "title": "L’IA vient de franchir un cap flippant (Guide Complet Claude)",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-01-25",
-        "url": "https://www.youtube.com/watch?v=z0Hxx4gutBE",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : L’IA vient de franchir un cap flippant (Guide Complet Claude)..."
-    },
-    {
-        "id": "avDGIyEFl1M",
-        "videoId": "avDGIyEFl1M",
-        "title": "CLAUDE CODE x n8n : Installation en 30 Minutes (No Code)",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-01-25",
-        "url": "https://www.youtube.com/watch?v=avDGIyEFl1M",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : CLAUDE CODE x n8n : Installation en 30 Minutes (No Code)..."
     }
 ];
