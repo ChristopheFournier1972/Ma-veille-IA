@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-25T08:06:51.607Z
+// Fichier généré automatiquement le 2026-03-26T08:37:26.633Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:06:51 AM 3/25/2026";
+export const lastUpdate = "8:37:26 AM 3/26/2026";
 
 export const sources = [
     {
@@ -171,6 +171,118 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "XgNLkXEXAlc",
+        "videoId": "XgNLkXEXAlc",
+        "title": "Récapitulatif de la vidéo précédente",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=XgNLkXEXAlc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Récapitulatif de la vidéo précédente..."
+    },
+    {
+        "id": "Z50mk04Xlis",
+        "videoId": "Z50mk04Xlis",
+        "title": "Claude Code pour les NULS : Crée ton premier projet IA en 2026",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=Z50mk04Xlis",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Claude Code pour les NULS : Crée ton premier projet IA en 2026..."
+    },
+    {
+        "id": "OdpfCnVjJxM",
+        "videoId": "OdpfCnVjJxM",
+        "title": "AGI déjà là ? Le pari Nvidia",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=OdpfCnVjJxM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : AGI déjà là ? Le pari Nvidia..."
+    },
+    {
+        "id": "hqhNWQM_bng",
+        "videoId": "hqhNWQM_bng",
+        "title": "L'AGI est-elle atteinte ? Et fait-elle naître le meilleur ou le pire ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=hqhNWQM_bng",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'AGI est-elle atteinte ? Et fait-elle naître le meilleur ou le pire ?..."
+    },
+    {
+        "id": "Qa_Vc9Tb7w4",
+        "videoId": "Qa_Vc9Tb7w4",
+        "title": "L'actualité tech du 25/03/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=Qa_Vc9Tb7w4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 25/03/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "Xt6w8J3HdcA",
+        "videoId": "Xt6w8J3HdcA",
+        "title": "BMW lance des robots humanoïdes",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=Xt6w8J3HdcA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : BMW lance des robots humanoïdes..."
+    },
+    {
+        "id": "adMlsFoc3z4",
+        "videoId": "adMlsFoc3z4",
+        "title": "Claude Dispatch : l’IA qui agit à ta place (test réel)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=adMlsFoc3z4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Dispatch : l’IA qui agit à ta place (test réel)..."
+    },
+    {
+        "id": "G0vhlJ02rN8",
+        "videoId": "G0vhlJ02rN8",
+        "title": "Révélez vos AirPods avec l'IA : De l'image à la vidéo explosive ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=G0vhlJ02rN8",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Révélez vos AirPods avec l'IA : De l'image à la vidéo explosive ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "A6LK27QEY5w",
+        "videoId": "A6LK27QEY5w",
+        "title": "Crée des sites web Apple avec Claude AI &amp; VS Code #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=A6LK27QEY5w",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Crée des sites web Apple avec Claude AI &amp; VS Code #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "30VZNsv1C_U",
+        "videoId": "30VZNsv1C_U",
+        "title": "Introduction à l'agent IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-25",
+        "url": "https://www.youtube.com/watch?v=30VZNsv1C_U",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Introduction à l'agent IA..."
+    },
     {
         "id": "0umUDmTuSFM",
         "videoId": "0umUDmTuSFM",
@@ -475,13 +587,13 @@ export const allVideos = [
     {
         "id": "-50BGEYgMr4",
         "videoId": "-50BGEYgMr4",
-        "title": "Formation Claude IA pour Débutants (22h en 22min)",
+        "title": "Tout Comprendre sur Claude IA en 22 Minutes",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-03-22",
         "url": "https://www.youtube.com/watch?v=-50BGEYgMr4",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Formation Claude IA pour Débutants (22h en 22min)..."
+        "summary": "Nouveauté de Yassine Sdiri : Tout Comprendre sur Claude IA en 22 Minutes..."
     },
     {
         "id": "GhkppQ6eqlY",
@@ -741,39 +853,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : IA agent : votre ordi sous contrôle..."
     },
     {
-        "id": "K7SKDZ8HgYs",
-        "videoId": "K7SKDZ8HgYs",
-        "title": "Mars 2026 : le moment de bascule où l'IA a pris notre travail",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=K7SKDZ8HgYs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mars 2026 : le moment de bascule où l'IA a pris notre travail..."
-    },
-    {
-        "id": "WvmbkafUrWg",
-        "videoId": "WvmbkafUrWg",
-        "title": "L'actualité tech du 20/03/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=WvmbkafUrWg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 20/03/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "iFSL_QHyXxs",
-        "videoId": "iFSL_QHyXxs",
-        "title": "Robot soldat au front en Ukraine",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=iFSL_QHyXxs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Robot soldat au front en Ukraine..."
-    },
-    {
         "id": "DL9imqmWs_8",
         "videoId": "DL9imqmWs_8",
         "title": "Améliore la qualité de ton code avec ce plugin Claude Code 🧑‍💻",
@@ -840,17 +919,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=X43XHtAUMCA",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Microsoft lance Copilot Cowork et... c'est une claque !..."
-    },
-    {
-        "id": "20GaJOIOQEE",
-        "videoId": "20GaJOIOQEE",
-        "title": "OpenAI change tout pour le code",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=20GaJOIOQEE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI change tout pour le code..."
     },
     {
         "id": "THc6XfAUFpU",
@@ -1020,29 +1088,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Mistral Small 4 : Que Vaut VRAIMENT ce Modèle OPEN SOURCE 120B ? 🇫🇷😱..."
     },
     {
-        "id": "qb3y2Gk6D_E",
-        "videoId": "qb3y2Gk6D_E",
-        "title": "CLAUDE CODE vient de révolutionner le DEVELOPPEMENT WEB (je t'explique pourquoi)",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=qb3y2Gk6D_E",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE vient de révolutionner le DEVELOPPEMENT WEB (je t'explique pourquoi)..."
-    },
-    {
-        "id": "cpMH3AbKwdo",
-        "videoId": "cpMH3AbKwdo",
-        "title": "Meilleurs Outils IA Automatisation 2026: Mon Classement Ultime! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=cpMH3AbKwdo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Meilleurs Outils IA Automatisation 2026: Mon Classement Ultime! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "iaCias1XUAA",
         "videoId": "iaCias1XUAA",
         "title": "Intégration des commandes vocales avec l'assistant IA",
@@ -1052,17 +1097,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iaCias1XUAA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Intégration des commandes vocales avec l'assistant IA..."
-    },
-    {
-        "id": "nGWLapK9e2k",
-        "videoId": "nGWLapK9e2k",
-        "title": "Mise à jour du système de planification de l'agent IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=nGWLapK9e2k",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Mise à jour du système de planification de l'agent IA..."
     },
     {
         "id": "vP0qh6ch99o",
@@ -1118,17 +1152,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vJNF25rhYj4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : RAG + Gemini en 2026 (TUTO)🔥..."
-    },
-    {
-        "id": "de7ApxWWYI8",
-        "videoId": "de7ApxWWYI8",
-        "title": "Créer et modifier des rendez-vous avec AI Assistant",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=de7ApxWWYI8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Créer et modifier des rendez-vous avec AI Assistant..."
     },
     {
         "id": "yUaIYBlIFdw",
@@ -1606,13 +1629,13 @@ export const allVideos = [
     {
         "id": "XnkPhN7S3B8",
         "videoId": "XnkPhN7S3B8",
-        "title": "Le monde entier est obsédé par OpenClaw (Guide Complet Débutant)",
+        "title": "Pourquoi le monde entier est obsédé par OpenClaw (Guide Complet Débutant)",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-03-01",
         "url": "https://www.youtube.com/watch?v=XnkPhN7S3B8",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Le monde entier est obsédé par OpenClaw (Guide Complet Débutant)..."
+        "summary": "Nouveauté de Yassine Sdiri : Pourquoi le monde entier est obsédé par OpenClaw (Guide Complet Débutant)..."
     },
     {
         "id": "xfO9fMx6PlA",
@@ -2277,13 +2300,13 @@ export const allVideos = [
     {
         "id": "5rYeXw5xGro",
         "videoId": "5rYeXw5xGro",
-        "title": "Cette IA a changé la création de contenu à jamais",
+        "title": "Claude IA va changé la création de contenu à jamais",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-02-08",
         "url": "https://www.youtube.com/watch?v=5rYeXw5xGro",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Cette IA a changé la création de contenu à jamais..."
+        "summary": "Nouveauté de Yassine Sdiri : Claude IA va changé la création de contenu à jamais..."
     },
     {
         "id": "Y0XmwxEy8bA",
@@ -2350,28 +2373,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vkY_TWpM_lc",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Cédric Girard : Créer son propre générateur de prompts en 10mn ⏱️..."
-    },
-    {
-        "id": "rVfoF5Uz4ic",
-        "videoId": "rVfoF5Uz4ic",
-        "title": "Agents IA : pourquoi j'ai abandonné Cursor pour Google AntiGravity",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-02-03",
-        "url": "https://www.youtube.com/watch?v=rVfoF5Uz4ic",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : Agents IA : pourquoi j'ai abandonné Cursor pour Google AntiGravity..."
-    },
-    {
-        "id": "Te7ZC99DPuo",
-        "videoId": "Te7ZC99DPuo",
-        "title": "Agent IA 24/7 : Clawdbot + Ollama 0€ en local 🤯(TUTO)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-02-03",
-        "url": "https://www.youtube.com/watch?v=Te7ZC99DPuo",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Agent IA 24/7 : Clawdbot + Ollama 0€ en local 🤯(TUTO)..."
     },
     {
         "id": "8xtrYwjEw8w",
@@ -2482,16 +2483,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=_gheLKwlhSE",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Comment vraiment progresser avec l’IA pour apprendre ?..."
-    },
-    {
-        "id": "Y_qqLO--XCM",
-        "videoId": "Y_qqLO--XCM",
-        "title": "L'erreur que tout le monde fait en apprenant avec l'IA",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-01-26",
-        "url": "https://www.youtube.com/watch?v=Y_qqLO--XCM",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L'erreur que tout le monde fait en apprenant avec l'IA..."
     }
 ];
