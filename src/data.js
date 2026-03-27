@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-26T08:37:26.633Z
+// Fichier généré automatiquement le 2026-03-27T08:10:00.579Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:37:26 AM 3/26/2026";
+export const lastUpdate = "8:10:00 AM 3/27/2026";
 
 export const sources = [
     {
@@ -172,6 +172,107 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "W7Z5ATjmois",
+        "videoId": "W7Z5ATjmois",
+        "title": "L’AGI n’est pas prête d’arriver, voici la preuve",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-27",
+        "url": "https://www.youtube.com/watch?v=W7Z5ATjmois",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : L’AGI n’est pas prête d’arriver, voici la preuve..."
+    },
+    {
+        "id": "eMwE20u3VhU",
+        "videoId": "eMwE20u3VhU",
+        "title": "Configuration de l'outil d'envoi d'e-mails",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-27",
+        "url": "https://www.youtube.com/watch?v=eMwE20u3VhU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Configuration de l'outil d'envoi d'e-mails..."
+    },
+    {
+        "id": "_kOfEtviiNU",
+        "videoId": "_kOfEtviiNU",
+        "title": "Claude devient agent autonome",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=_kOfEtviiNU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude devient agent autonome..."
+    },
+    {
+        "id": "mATrRzWV1CU",
+        "videoId": "mATrRzWV1CU",
+        "title": "Claude contrôle tout, contrôlez Claude !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=mATrRzWV1CU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude contrôle tout, contrôlez Claude !..."
+    },
+    {
+        "id": "XP8hdgZEkkc",
+        "videoId": "XP8hdgZEkkc",
+        "title": "IA : 5 millions d’emplois menacés",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=XP8hdgZEkkc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : 5 millions d’emplois menacés..."
+    },
+    {
+        "id": "P-CRHw0vqtE",
+        "videoId": "P-CRHw0vqtE",
+        "title": "ARC-AGI-3 : Le NOUVEAU Benchmark Qui Casse le Mythe de l’AGI 😱🚨",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=P-CRHw0vqtE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : ARC-AGI-3 : Le NOUVEAU Benchmark Qui Casse le Mythe de l’AGI 😱🚨..."
+    },
+    {
+        "id": "CHQCO_fBHMs",
+        "videoId": "CHQCO_fBHMs",
+        "title": "Crée ton Site Web IA de A à Z avec AzurAI ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=CHQCO_fBHMs",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Crée ton Site Web IA de A à Z avec AzurAI ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "I5oVyIHDm9M",
+        "videoId": "I5oVyIHDm9M",
+        "title": "Créez des Vidéos Incroyables avec l'IA : De l'Image à la Transition Époustouflante #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=I5oVyIHDm9M",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez des Vidéos Incroyables avec l'IA : De l'Image à la Transition Époustouflante #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "R9xVAS3ieGY",
+        "videoId": "R9xVAS3ieGY",
+        "title": "Ajout d'outils spécifiques au scénario",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=R9xVAS3ieGY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Ajout d'outils spécifiques au scénario..."
+    },
+    {
         "id": "XgNLkXEXAlc",
         "videoId": "XgNLkXEXAlc",
         "title": "Récapitulatif de la vidéo précédente",
@@ -181,6 +282,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XgNLkXEXAlc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Récapitulatif de la vidéo précédente..."
+    },
+    {
+        "id": "4GgbcgfKibw",
+        "videoId": "4GgbcgfKibw",
+        "title": "Créer une chanson avec l'IA Gemini (Tuto Lyria 3 Pro)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-03-26",
+        "url": "https://www.youtube.com/watch?v=4GgbcgfKibw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Créer une chanson avec l'IA Gemini (Tuto Lyria 3 Pro)..."
     },
     {
         "id": "Z50mk04Xlis",
@@ -240,24 +352,24 @@ export const allVideos = [
     {
         "id": "adMlsFoc3z4",
         "videoId": "adMlsFoc3z4",
-        "title": "Claude Dispatch : l’IA qui agit à ta place (test réel)",
+        "title": "Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀",
         "author": "iAlan",
         "source": "@iAlan_automatise",
         "date": "2026-03-25",
         "url": "https://www.youtube.com/watch?v=adMlsFoc3z4",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude Dispatch : l’IA qui agit à ta place (test réel)..."
+        "summary": "Nouveauté de iAlan : Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀..."
     },
     {
         "id": "G0vhlJ02rN8",
         "videoId": "G0vhlJ02rN8",
-        "title": "Révélez vos AirPods avec l'IA : De l'image à la vidéo explosive ! #shorts",
+        "title": "Révélez vos AirPods avec l'IA : De l'image à la vid��o explosive ! #shorts",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-03-25",
         "url": "https://www.youtube.com/watch?v=G0vhlJ02rN8",
         "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Révélez vos AirPods avec l'IA : De l'image à la vidéo explosive ! #shorts...",
+        "summary": "Nouveauté de Thomas Berton : Révélez vos AirPods avec l'IA : De l'image à la vid��o explosive ! #shorts...",
         "isShort": true
     },
     {
@@ -741,28 +853,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Val Kilmer revient grâce à l’IA..."
     },
     {
-        "id": "kkBtjqaOIFI",
-        "videoId": "kkBtjqaOIFI",
-        "title": "Les 4 modes de distribution de l'IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=kkBtjqaOIFI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Les 4 modes de distribution de l'IA..."
-    },
-    {
-        "id": "LE05s0Hzti8",
-        "videoId": "LE05s0Hzti8",
-        "title": "Stitch : le design UI par IA totale",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=LE05s0Hzti8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Stitch : le design UI par IA totale..."
-    },
-    {
         "id": "rFmH4FxW5Qg",
         "videoId": "rFmH4FxW5Qg",
         "title": "Le vrai problème d'OpenClaw (que personne ne mentionne)",
@@ -840,17 +930,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=_UpYM8YW4T4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Réponse de l'assistant IA à la demande de mise à jour..."
-    },
-    {
-        "id": "NBDiZqJ4WBk",
-        "videoId": "NBDiZqJ4WBk",
-        "title": "IA agent : votre ordi sous contrôle",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-20",
-        "url": "https://www.youtube.com/watch?v=NBDiZqJ4WBk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA agent : votre ordi sous contrôle..."
     },
     {
         "id": "DL9imqmWs_8",
@@ -943,30 +1022,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Cet outil IA améliore n'importe quelle vidéo en quelques clics 👀..."
     },
     {
-        "id": "s-Mnywn9g74",
-        "videoId": "s-Mnywn9g74",
-        "title": "IA Révolutionnaire : Images 4K Ultra-Réalistes 5x Plus Rapides ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=s-Mnywn9g74",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Révolutionnaire : Images 4K Ultra-Réalistes 5x Plus Rapides ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "y4a3cW8Ktto",
-        "videoId": "y4a3cW8Ktto",
-        "title": "IA Ultra-Réaliste : Trompez Vos Proches Facilement ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=y4a3cW8Ktto",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Ultra-Réaliste : Trompez Vos Proches Facilement ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "_Z2_E20b6Yc",
         "videoId": "_Z2_E20b6Yc",
         "title": "Introduction à l'assistant IA pour la gestion des plannings",
@@ -976,17 +1031,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=_Z2_E20b6Yc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Introduction à l'assistant IA pour la gestion des plannings..."
-    },
-    {
-        "id": "rJdSxCI2Wvw",
-        "videoId": "rJdSxCI2Wvw",
-        "title": "Capacités et avenir des assistants IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=rJdSxCI2Wvw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Capacités et avenir des assistants IA..."
     },
     {
         "id": "_5J0kKE13xM",
@@ -1086,17 +1130,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kKBXnbNUjTc",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Mistral Small 4 : Que Vaut VRAIMENT ce Modèle OPEN SOURCE 120B ? 🇫🇷😱..."
-    },
-    {
-        "id": "iaCias1XUAA",
-        "videoId": "iaCias1XUAA",
-        "title": "Intégration des commandes vocales avec l'assistant IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=iaCias1XUAA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Intégration des commandes vocales avec l'assistant IA..."
     },
     {
         "id": "vP0qh6ch99o",
@@ -1693,17 +1726,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : LA FIN DES DÉVELOPPEURS ? Le métier évolue grandement..."
     },
     {
-        "id": "9yBJwXYYDXk",
-        "videoId": "9yBJwXYYDXk",
-        "title": "Nano Banana 2 vs GPT Image : Lequel Est Le Meilleur ? (Je les teste à fond !) 😱🔥",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-02-27",
-        "url": "https://www.youtube.com/watch?v=9yBJwXYYDXk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Nano Banana 2 vs GPT Image : Lequel Est Le Meilleur ? (Je les teste à fond !) 😱🔥..."
-    },
-    {
         "id": "YaK_n0yhPXE",
         "videoId": "YaK_n0yhPXE",
         "title": "Claude connecte Google à n8n sans erreur | Tutoriel complet",
@@ -1757,17 +1779,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fKGW2r8z6iI",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Claude Cowork est la première IA qui donne l'impression d'être un véritable employé...."
-    },
-    {
-        "id": "_cSXRkdLf2Q",
-        "videoId": "_cSXRkdLf2Q",
-        "title": "Anthropic vs DeepSeek : le SCANDALE Qui va Changer le Futur de l’IA ? 😱🚨",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-02-25",
-        "url": "https://www.youtube.com/watch?v=_cSXRkdLf2Q",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Anthropic vs DeepSeek : le SCANDALE Qui va Changer le Futur de l’IA ? 😱🚨..."
     },
     {
         "id": "gIhkAD_DCOo",
@@ -2472,16 +2483,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=VgtByqdAsbQ",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Installe le (meilleur) Super Agent IA : OpenClaw..."
-    },
-    {
-        "id": "_gheLKwlhSE",
-        "videoId": "_gheLKwlhSE",
-        "title": "Comment vraiment progresser avec l’IA pour apprendre ?",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-01-27",
-        "url": "https://www.youtube.com/watch?v=_gheLKwlhSE",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Comment vraiment progresser avec l’IA pour apprendre ?..."
     }
 ];
