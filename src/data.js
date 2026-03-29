@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-28T07:57:42.618Z
+// Fichier généré automatiquement le 2026-03-29T08:02:56.403Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:57:42 AM 3/28/2026";
+export const lastUpdate = "8:02:56 AM 3/29/2026";
 
 export const sources = [
     {
@@ -171,6 +171,107 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "ecsatsMLiwM",
+        "videoId": "ecsatsMLiwM",
+        "title": "Introduction aux assistants IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=ecsatsMLiwM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Introduction aux assistants IA..."
+    },
+    {
+        "id": "zdLyjFbQMdM",
+        "videoId": "zdLyjFbQMdM",
+        "title": "TurboQuant : IA 6x moins de mémoire",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-28",
+        "url": "https://www.youtube.com/watch?v=zdLyjFbQMdM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : TurboQuant : IA 6x moins de mémoire..."
+    },
+    {
+        "id": "O0Udc5qUDzQ",
+        "videoId": "O0Udc5qUDzQ",
+        "title": "Un site COMPLET en 10mn pour 12€ : le vibe-coding devient DINGUE",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-28",
+        "url": "https://www.youtube.com/watch?v=O0Udc5qUDzQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Un site COMPLET en 10mn pour 12€ : le vibe-coding devient DINGUE..."
+    },
+    {
+        "id": "fTvf0IJsUjg",
+        "videoId": "fTvf0IJsUjg",
+        "title": "Google Lyria 3 Pro compose vraiment",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-28",
+        "url": "https://www.youtube.com/watch?v=fTvf0IJsUjg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google Lyria 3 Pro compose vraiment..."
+    },
+    {
+        "id": "PT-xSwitJl8",
+        "videoId": "PT-xSwitJl8",
+        "title": "TRIBE v2 : le NOUVEAU Modèle de Meta qui Simule Ton Cerveau 🧠😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-28",
+        "url": "https://www.youtube.com/watch?v=PT-xSwitJl8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : TRIBE v2 : le NOUVEAU Modèle de Meta qui Simule Ton Cerveau 🧠😱..."
+    },
+    {
+        "id": "xXWznwbcFe8",
+        "videoId": "xXWznwbcFe8",
+        "title": "J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-03-28",
+        "url": "https://www.youtube.com/watch?v=xXWznwbcFe8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce..."
+    },
+    {
+        "id": "YLDY9537UTE",
+        "videoId": "YLDY9537UTE",
+        "title": "WaveSpeed AI: Le futur de la création d'images et vidéos avec Kling &amp; Nano Banana 2 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-28",
+        "url": "https://www.youtube.com/watch?v=YLDY9537UTE",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : WaveSpeed AI: Le futur de la création d'images et vidéos avec Kling &amp; Nano Banana 2 #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Ma8GOJhzXTw",
+        "videoId": "Ma8GOJhzXTw",
+        "title": "Créez des sites web avec Claude Code &amp; VS Code ! 🚀 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-28",
+        "url": "https://www.youtube.com/watch?v=Ma8GOJhzXTw",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez des sites web avec Claude Code &amp; VS Code ! 🚀 #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "JQiMPJP7VfY",
+        "videoId": "JQiMPJP7VfY",
+        "title": "Test de l'assistant IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-28",
+        "url": "https://www.youtube.com/watch?v=JQiMPJP7VfY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Test de l'assistant IA..."
+    },
     {
         "id": "DnPYSCBFzcE",
         "videoId": "DnPYSCBFzcE",
@@ -585,28 +686,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : WordPress agents : fin du contenu ?..."
     },
     {
-        "id": "6ViOyKaXx18",
-        "videoId": "6ViOyKaXx18",
-        "title": "Intégrer l'IA en entreprise",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=6ViOyKaXx18",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Intégrer l'IA en entreprise..."
-    },
-    {
-        "id": "3w3G9MPlv68",
-        "videoId": "3w3G9MPlv68",
-        "title": "Deepfakes sexuels : l’UE frappe Grok",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=3w3G9MPlv68",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Deepfakes sexuels : l’UE frappe Grok..."
-    },
-    {
         "id": "6E7_p3gxRdc",
         "videoId": "6E7_p3gxRdc",
         "title": "Mimo V2 Pro est INCROYABLE : Niveau Opus 4.6… Mais 8x Moins Cher ? 🤯",
@@ -705,17 +784,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=H1GrAeK8L8w",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Mieux utiliser l'IA en entreprise 🤖..."
-    },
-    {
-        "id": "HSiiSQqGEUI",
-        "videoId": "HSiiSQqGEUI",
-        "title": "Musk fabrique ses propres puces IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=HSiiSQqGEUI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Musk fabrique ses propres puces IA..."
     },
     {
         "id": "wWC4wgSF984",
@@ -987,63 +1055,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Ce plugin Claude Code va donner accès à toutes les APIs à jour !..."
     },
     {
-        "id": "0zlgHVqAEm8",
-        "videoId": "0zlgHVqAEm8",
-        "title": "GPT-5.4 Mini et Nano : Petit Prix… mais Performances Monstrueuses ? 😱💰",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=0zlgHVqAEm8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GPT-5.4 Mini et Nano : Petit Prix… mais Performances Monstrueuses ? 😱💰..."
-    },
-    {
-        "id": "QLnyvPJYwwc",
-        "videoId": "QLnyvPJYwwc",
-        "title": "Révolution du Développement Web : L'IA Crée Vos Sites ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=QLnyvPJYwwc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Révolution du Développement Web : L'IA Crée Vos Sites ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "Zx5mnaE4IB4",
-        "videoId": "Zx5mnaE4IB4",
-        "title": "Claude Code Révolutionne la Création Web: Démo Live! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=Zx5mnaE4IB4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code Révolutionne la Création Web: Démo Live! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "YEdU-agnfrk",
-        "videoId": "YEdU-agnfrk",
-        "title": "Vérification de la notification par e-mail",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=YEdU-agnfrk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Vérification de la notification par e-mail..."
-    },
-    {
-        "id": "_UpYM8YW4T4",
-        "videoId": "_UpYM8YW4T4",
-        "title": "Réponse de l'assistant IA à la demande de mise à jour",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=_UpYM8YW4T4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Réponse de l'assistant IA à la demande de mise à jour..."
-    },
-    {
         "id": "DL9imqmWs_8",
         "videoId": "DL9imqmWs_8",
         "title": "Améliore la qualité de ton code avec ce plugin Claude Code 🧑‍💻",
@@ -1277,13 +1288,13 @@ export const allVideos = [
     {
         "id": "Q7RcgXzBtDQ",
         "videoId": "Q7RcgXzBtDQ",
-        "title": "L’histoire du milliardaire IA le plus CONTROVERSÉ au monde",
+        "title": "L'art de devenir milliardaire à 19 ans grâce à l'IA",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-03-15",
         "url": "https://www.youtube.com/watch?v=Q7RcgXzBtDQ",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : L’histoire du milliardaire IA le plus CONTROVERSÉ au monde..."
+        "summary": "Nouveauté de Yassine Sdiri : L'art de devenir milliardaire à 19 ans grâce à l'IA..."
     },
     {
         "id": "uqV3ujeaeKs",
@@ -2342,17 +2353,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : J'ai brûlé 300 000 € en publicité entre 2021 et 2026 (voici ce que j’ai appris)..."
     },
     {
-        "id": "BW6lfxbldN8",
-        "videoId": "BW6lfxbldN8",
-        "title": "Cet agent IA TRAQUE les gens en DIRECT sur Twitch 😱 #n8n #openclaw",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-02-07",
-        "url": "https://www.youtube.com/watch?v=BW6lfxbldN8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Cet agent IA TRAQUE les gens en DIRECT sur Twitch 😱 #n8n #openclaw..."
-    },
-    {
         "id": "ooqRqvHbk3w",
         "videoId": "ooqRqvHbk3w",
         "title": "OpenAI Codex : ne fais pas la même erreur que moi",
@@ -2450,27 +2450,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=eZcpO_pd61Q",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comment Automatiser N'IMPORTE Quelle Entreprise Avec l'IA..."
-    },
-    {
-        "id": "o_yns1jHS98",
-        "videoId": "o_yns1jHS98",
-        "title": "J'ai testé Claude dans Excel... et c'est magique !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-01-29",
-        "url": "https://www.youtube.com/watch?v=o_yns1jHS98",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J'ai testé Claude dans Excel... et c'est magique !..."
-    },
-    {
-        "id": "gqcujJDO16E",
-        "videoId": "gqcujJDO16E",
-        "title": "Comment créer une BD IA avec NotebookLM 🧐",
-        "author": "Cédric Girard",
-        "source": "@cedric_effi10",
-        "date": "2026-01-29",
-        "url": "https://www.youtube.com/watch?v=gqcujJDO16E",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Cédric Girard : Comment créer une BD IA avec NotebookLM 🧐..."
     }
 ];
