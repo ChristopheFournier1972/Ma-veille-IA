@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-29T08:02:56.403Z
+// Fichier généré automatiquement le 2026-03-30T10:43:52.468Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:02:56 AM 3/29/2026";
+export const lastUpdate = "10:43:52 AM 3/30/2026";
 
 export const sources = [
     {
@@ -172,6 +172,119 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "yLnN-f9V2LQ",
+        "videoId": "yLnN-f9V2LQ",
+        "title": "Actus, débats, tutos, IA, web, tech : on décode et on forge le progrès !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=yLnN-f9V2LQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Actus, débats, tutos, IA, web, tech : on décode et on forge le progrès !..."
+    },
+    {
+        "id": "pOc4m7UPeWg",
+        "videoId": "pOc4m7UPeWg",
+        "title": "Voxtral : Mistral bouscule la voix",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=pOc4m7UPeWg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Voxtral : Mistral bouscule la voix..."
+    },
+    {
+        "id": "jfZH8q4cF6I",
+        "videoId": "jfZH8q4cF6I",
+        "title": "Kling : Créez des vidéos parfaites à 1080p pour 67 centimes ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=jfZH8q4cF6I",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Kling : Créez des vidéos parfaites à 1080p pour 67 centimes ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Q_Zm-DbJamw",
+        "videoId": "Q_Zm-DbJamw",
+        "title": "Créer un agent IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=Q_Zm-DbJamw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Créer un agent IA..."
+    },
+    {
+        "id": "7PXK7qmmgvQ",
+        "videoId": "7PXK7qmmgvQ",
+        "title": "On m'a payé +10k€ pour un Outil IA (j'ai aucune compétence technique)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=7PXK7qmmgvQ",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : On m'a payé +10k€ pour un Outil IA (j'ai aucune compétence technique)..."
+    },
+    {
+        "id": "sJeAFbIJwFA",
+        "videoId": "sJeAFbIJwFA",
+        "title": "Apprenez ça au lieu de l'automatisation en 2026",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=sJeAFbIJwFA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Apprenez ça au lieu de l'automatisation en 2026..."
+    },
+    {
+        "id": "Wue_5RVLpRk",
+        "videoId": "Wue_5RVLpRk",
+        "title": "GLM 5.1: La Vraie Menace Pour Claude Opus ? (5x moins cher) 😱🇨🇳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=Wue_5RVLpRk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : GLM 5.1: La Vraie Menace Pour Claude Opus ? (5x moins cher) 😱🇨🇳..."
+    },
+    {
+        "id": "h2pCb7_GyGI",
+        "videoId": "h2pCb7_GyGI",
+        "title": "Créez un site web pour VOTRE produit unique avec ce stylo ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=h2pCb7_GyGI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez un site web pour VOTRE produit unique avec ce stylo ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "ib4HN0EtRuo",
+        "videoId": "ib4HN0EtRuo",
+        "title": "Site Web Créé par IA : Le Résultat vous Surprendra ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=ib4HN0EtRuo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Site Web Créé par IA : Le Résultat vous Surprendra ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "DoTUBOI3Uz4",
+        "videoId": "DoTUBOI3Uz4",
+        "title": "Composants d'un système d'IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=DoTUBOI3Uz4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Composants d'un système d'IA..."
+    },
+    {
         "id": "ecsatsMLiwM",
         "videoId": "ecsatsMLiwM",
         "title": "Introduction aux assistants IA",
@@ -181,6 +294,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ecsatsMLiwM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Introduction aux assistants IA..."
+    },
+    {
+        "id": "9gpanAr9M_s",
+        "videoId": "9gpanAr9M_s",
+        "title": "Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-03-29",
+        "url": "https://www.youtube.com/watch?v=9gpanAr9M_s",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)..."
     },
     {
         "id": "zdLyjFbQMdM",
@@ -596,17 +720,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 25/03/2026 en Live sur Renaud Dékode..."
     },
     {
-        "id": "Xt6w8J3HdcA",
-        "videoId": "Xt6w8J3HdcA",
-        "title": "BMW lance des robots humanoïdes",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-25",
-        "url": "https://www.youtube.com/watch?v=Xt6w8J3HdcA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : BMW lance des robots humanoïdes..."
-    },
-    {
         "id": "adMlsFoc3z4",
         "videoId": "adMlsFoc3z4",
         "title": "Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀",
@@ -673,17 +786,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-LXUVXwv2FI",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Claude Dispatch, la nouvelle folie d'Anthropic !..."
-    },
-    {
-        "id": "cuj50UW_Bt8",
-        "videoId": "cuj50UW_Bt8",
-        "title": "WordPress agents : fin du contenu ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=cuj50UW_Bt8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : WordPress agents : fin du contenu ?..."
     },
     {
         "id": "6E7_p3gxRdc",
@@ -833,17 +935,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "iygwnIllavw",
-        "videoId": "iygwnIllavw",
-        "title": "CLAUDE CODE + cette TECHNIQUE = Un site à 9 700€ en 10 MIN !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=iygwnIllavw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE + cette TECHNIQUE = Un site à 9 700€ en 10 MIN !..."
-    },
-    {
         "id": "Os8Mwnk6FSg",
         "videoId": "Os8Mwnk6FSg",
         "title": "Saisie vocale et textuelle pour l'assistant IA",
@@ -930,52 +1021,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QKuLiksBzbY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : MiniMax M2.7 est INCROYABLE 🤯 : Meilleur qu’Opus 4.6 (20x Moins Cher) ?..."
-    },
-    {
-        "id": "wpcJQgoALfY",
-        "videoId": "wpcJQgoALfY",
-        "title": "Claude Code : Créez Votre Site Web à Distance avec IA! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-22",
-        "url": "https://www.youtube.com/watch?v=wpcJQgoALfY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Créez Votre Site Web à Distance avec IA! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "HUsgNqPxCAI",
-        "videoId": "HUsgNqPxCAI",
-        "title": "Révolution IA: Le Développement Web Transformé! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-22",
-        "url": "https://www.youtube.com/watch?v=HUsgNqPxCAI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Révolution IA: Le Développement Web Transformé! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "oglBcJJKqBQ",
-        "videoId": "oglBcJJKqBQ",
-        "title": "Utilisation de Make pour la création d'agents IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-22",
-        "url": "https://www.youtube.com/watch?v=oglBcJJKqBQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Utilisation de Make pour la création d'agents IA..."
-    },
-    {
-        "id": "Wg-C-71x4l0",
-        "videoId": "Wg-C-71x4l0",
-        "title": "Capacités de l'assistant IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-22",
-        "url": "https://www.youtube.com/watch?v=Wg-C-71x4l0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Capacités de l'assistant IA..."
     },
     {
         "id": "PAT7dZxCimM",
@@ -1704,17 +1749,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : J'ai branché l'IA sur mon second cerveau (avant/après)..."
     },
     {
-        "id": "QqNHbP9AzLY",
-        "videoId": "QqNHbP9AzLY",
-        "title": "Music GPT : La MEILLEURE alternative à Suno AI ? 🤔 (TEST COMPLET)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-01",
-        "url": "https://www.youtube.com/watch?v=QqNHbP9AzLY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Music GPT : La MEILLEURE alternative à Suno AI ? 🤔 (TEST COMPLET)..."
-    },
-    {
         "id": "UWtsTSy71j0",
         "videoId": "UWtsTSy71j0",
         "title": "BREAKING NEWS : CLAUDE VIENT JUSTE D'ÊTRE BANNI DES USA.",
@@ -2320,17 +2354,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : AntiGravity : une app en 5 MINUTES (et c'est gratuit)..."
     },
     {
-        "id": "v_1uNy9TA3g",
-        "videoId": "v_1uNy9TA3g",
-        "title": "On a généré 610.000€ dans l'IA avec cette Méthode Contre Intuitive (Copie-la)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-02-08",
-        "url": "https://www.youtube.com/watch?v=v_1uNy9TA3g",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : On a généré 610.000€ dans l'IA avec cette Méthode Contre Intuitive (Copie-la)..."
-    },
-    {
         "id": "5rYeXw5xGro",
         "videoId": "5rYeXw5xGro",
         "title": "Claude IA va changé la création de contenu à jamais",
@@ -2406,17 +2429,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8xtrYwjEw8w",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : J'ai Construis Un Site Web Animé En 7 Minutes Grâce à l'IA..."
-    },
-    {
-        "id": "SvuQFhOg7b4",
-        "videoId": "SvuQFhOg7b4",
-        "title": "Installer facilement Claude code en moins de 5 minutes",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-02-03",
-        "url": "https://www.youtube.com/watch?v=SvuQFhOg7b4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Installer facilement Claude code en moins de 5 minutes..."
     },
     {
         "id": "Lda1IGevfQg",
