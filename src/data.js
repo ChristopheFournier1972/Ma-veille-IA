@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-30T10:43:52.468Z
+// Fichier généré automatiquement le 2026-03-31T09:45:47.272Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:43:52 AM 3/30/2026";
+export const lastUpdate = "9:45:47 AM 3/31/2026";
 
 export const sources = [
     {
@@ -172,15 +172,148 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "UdTHKV7Taok",
+        "videoId": "UdTHKV7Taok",
+        "title": "Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=UdTHKV7Taok",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !..."
+    },
+    {
+        "id": "_fBIIwT3fjA",
+        "videoId": "_fBIIwT3fjA",
+        "title": "Seedance remplace Sora en force",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=_fBIIwT3fjA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Seedance remplace Sora en force..."
+    },
+    {
+        "id": "1lpE_68dX0w",
+        "videoId": "1lpE_68dX0w",
+        "title": "Claude Code V/S n8n : Le Remplaçant Déjà Là? #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=1lpE_68dX0w",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code V/S n8n : Le Remplaçant Déjà Là? #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "k04lLRq3r0o",
+        "videoId": "k04lLRq3r0o",
+        "title": "CLAUDE CODE va-t-il remplacer N8N ? (je fais le test ULTIME)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=k04lLRq3r0o",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE va-t-il remplacer N8N ? (je fais le test ULTIME)..."
+    },
+    {
+        "id": "YxK6e106zg8",
+        "videoId": "YxK6e106zg8",
+        "title": "Intégration avec Telegram",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=YxK6e106zg8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Intégration avec Telegram..."
+    },
+    {
+        "id": "SrMi-w30ymo",
+        "videoId": "SrMi-w30ymo",
+        "title": "Cette IA chinoise va détrôner Photoshop ?",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=SrMi-w30ymo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Cette IA chinoise va détrôner Photoshop ?..."
+    },
+    {
+        "id": "kwi4T-eauwQ",
+        "videoId": "kwi4T-eauwQ",
+        "title": "ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=kwi4T-eauwQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore...."
+    },
+    {
+        "id": "TB3Fd0Y_aR8",
+        "videoId": "TB3Fd0Y_aR8",
+        "title": "ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=TB3Fd0Y_aR8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore...."
+    },
+    {
+        "id": "N14pwrF7iu8",
+        "videoId": "N14pwrF7iu8",
+        "title": "ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=N14pwrF7iu8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT en entreprise : Ce que les patrons ne comprennent pas encore...."
+    },
+    {
+        "id": "ESvW-hCHJGc",
+        "videoId": "ESvW-hCHJGc",
+        "title": "Ce site te permet d’utiliser tout les outils d’IA gratuitement",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=ESvW-hCHJGc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ce site te permet d’utiliser tout les outils d’IA gratuitement..."
+    },
+    {
+        "id": "vXCz04jWFEA",
+        "videoId": "vXCz04jWFEA",
+        "title": "OpenAI abandonne Sora en 6 mois",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=vXCz04jWFEA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI abandonne Sora en 6 mois..."
+    },
+    {
         "id": "yLnN-f9V2LQ",
         "videoId": "yLnN-f9V2LQ",
-        "title": "Actus, débats, tutos, IA, web, tech : on décode et on forge le progrès !",
+        "title": "L'actualité tech du 30/03/2026 en Live sur Renaud Dékode",
         "author": "Renaud Dékode",
         "source": "@RenaudDekode",
         "date": "2026-03-30",
         "url": "https://www.youtube.com/watch?v=yLnN-f9V2LQ",
         "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Actus, débats, tutos, IA, web, tech : on décode et on forge le progrès !..."
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 30/03/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "2n_Ap1BE34g",
+        "videoId": "2n_Ap1BE34g",
+        "title": "Seedance, Mythos, et la pub: l'IA hors de contrôle ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=2n_Ap1BE34g",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Seedance, Mythos, et la pub: l'IA hors de contrôle ?..."
     },
     {
         "id": "pOc4m7UPeWg",
@@ -192,6 +325,29 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pOc4m7UPeWg",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Voxtral : Mistral bouscule la voix..."
+    },
+    {
+        "id": "X0xCiXQPXvM",
+        "videoId": "X0xCiXQPXvM",
+        "title": "Tribe V2 : Quand Meta contrôle ton cerveau 😳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=X0xCiXQPXvM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Tribe V2 : Quand Meta contrôle ton cerveau 😳..."
+    },
+    {
+        "id": "0ZpaYs68sbQ",
+        "videoId": "0ZpaYs68sbQ",
+        "title": "Créez un site web PRO avec l'IA en 10 minutes ! ⚡️ #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=0ZpaYs68sbQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez un site web PRO avec l'IA en 10 minutes ! ⚡️ #shorts...",
+        "isShort": true
     },
     {
         "id": "jfZH8q4cF6I",
@@ -206,6 +362,17 @@ export const allVideos = [
         "isShort": true
     },
     {
+        "id": "3P8XFOKn4SA",
+        "videoId": "3P8XFOKn4SA",
+        "title": "Configuration de l'agent AI",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=3P8XFOKn4SA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Configuration de l'agent AI..."
+    },
+    {
         "id": "Q_Zm-DbJamw",
         "videoId": "Q_Zm-DbJamw",
         "title": "Créer un agent IA",
@@ -215,6 +382,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Q_Zm-DbJamw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Créer un agent IA..."
+    },
+    {
+        "id": "2lWwlaOMMcQ",
+        "videoId": "2lWwlaOMMcQ",
+        "title": "Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-03-30",
+        "url": "https://www.youtube.com/watch?v=2lWwlaOMMcQ",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT..."
     },
     {
         "id": "7PXK7qmmgvQ",
@@ -687,39 +865,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : Claude Code pour les NULS : Crée ton premier projet IA en 2026..."
     },
     {
-        "id": "OdpfCnVjJxM",
-        "videoId": "OdpfCnVjJxM",
-        "title": "AGI déjà là ? Le pari Nvidia",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-25",
-        "url": "https://www.youtube.com/watch?v=OdpfCnVjJxM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : AGI déjà là ? Le pari Nvidia..."
-    },
-    {
-        "id": "hqhNWQM_bng",
-        "videoId": "hqhNWQM_bng",
-        "title": "L'AGI est-elle atteinte ? Et fait-elle naître le meilleur ou le pire ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-25",
-        "url": "https://www.youtube.com/watch?v=hqhNWQM_bng",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'AGI est-elle atteinte ? Et fait-elle naître le meilleur ou le pire ?..."
-    },
-    {
-        "id": "Qa_Vc9Tb7w4",
-        "videoId": "Qa_Vc9Tb7w4",
-        "title": "L'actualité tech du 25/03/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-25",
-        "url": "https://www.youtube.com/watch?v=Qa_Vc9Tb7w4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 25/03/2026 en Live sur Renaud Dékode..."
-    },
-    {
         "id": "adMlsFoc3z4",
         "videoId": "adMlsFoc3z4",
         "title": "Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀",
@@ -899,64 +1044,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Cette IA améliore n'importe quelle photo instantanément 🤯  #astuce..."
     },
     {
-        "id": "z7cStzDkM04",
-        "videoId": "z7cStzDkM04",
-        "title": "Claude Code : Créez votre site web avec l'IA ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=z7cStzDkM04",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Créez votre site web avec l'IA ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "W8FXXyUY5mI",
-        "videoId": "W8FXXyUY5mI",
-        "title": "Claude Code: Il crée votre site Web par magie ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=W8FXXyUY5mI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: Il crée votre site Web par magie ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "mne9Vc-BeBw",
-        "videoId": "mne9Vc-BeBw",
-        "title": "Cloud Code: Créez des Landing Pages IA sur Mesure Facilement #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=mne9Vc-BeBw",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Cloud Code: Créez des Landing Pages IA sur Mesure Facilement #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "Os8Mwnk6FSg",
-        "videoId": "Os8Mwnk6FSg",
-        "title": "Saisie vocale et textuelle pour l'assistant IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=Os8Mwnk6FSg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Saisie vocale et textuelle pour l'assistant IA..."
-    },
-    {
-        "id": "mY3SUnzu6cI",
-        "videoId": "mY3SUnzu6cI",
-        "title": "Capacités multitâches de l'assistant IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=mY3SUnzu6cI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Capacités multitâches de l'assistant IA..."
-    },
-    {
         "id": "VxAjVp09vDw",
         "videoId": "VxAjVp09vDw",
         "title": "Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)",
@@ -1032,50 +1119,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PAT7dZxCimM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Ton Claude Code oublie TOUT ? Tout savoir sur sa mémoire ! (Guide complet)..."
-    },
-    {
-        "id": "5CH8a_j_pGg",
-        "videoId": "5CH8a_j_pGg",
-        "title": "Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=5CH8a_j_pGg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA..."
-    },
-    {
-        "id": "CbzIYA-Qm2U",
-        "videoId": "CbzIYA-Qm2U",
-        "title": "Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=CbzIYA-Qm2U",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA..."
-    },
-    {
-        "id": "_MffNMhJuXg",
-        "videoId": "_MffNMhJuXg",
-        "title": "Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=_MffNMhJuXg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Finies les leçons à l’ancienne : vos enfants ont besoin de l’IA..."
-    },
-    {
-        "id": "EGAmlizylp0",
-        "videoId": "EGAmlizylp0",
-        "title": "Importe ta mémoire dans Claude depuis tes autres outils IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=EGAmlizylp0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Importe ta mémoire dans Claude depuis tes autres outils IA !..."
     },
     {
         "id": "rFmH4FxW5Qg",
@@ -1164,17 +1207,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=_5J0kKE13xM",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : MISTRAL AI a fait une GROSSE annonce (MISTRAL FORGE)..."
-    },
-    {
-        "id": "Izwl9gt_rsI",
-        "videoId": "Izwl9gt_rsI",
-        "title": "Classement des outils IA.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=Izwl9gt_rsI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Classement des outils IA...."
     },
     {
         "id": "BKAfkvBaevs",
@@ -1553,13 +1585,13 @@ export const allVideos = [
     {
         "id": "WHvWcZ4uDsU",
         "videoId": "WHvWcZ4uDsU",
-        "title": "GPT 5.4 : La Plus Grosse Révolution d’OpenAI ? 🤔 (Je Le Teste à Fond)",
+        "title": "GPT 5.4 : La Plus Grosse Révolution d’OpenAI ? ��� (Je Le Teste à Fond)",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-03-06",
         "url": "https://www.youtube.com/watch?v=WHvWcZ4uDsU",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GPT 5.4 : La Plus Grosse Révolution d’OpenAI ? 🤔 (Je Le Teste à Fond)..."
+        "summary": "Nouveauté de Nerdy Kings : GPT 5.4 : La Plus Grosse Révolution d’OpenAI ? ��� (Je Le Teste à Fond)..."
     },
     {
         "id": "wmEVJ3TXinM",
@@ -1670,17 +1702,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YW-q8jj9cXY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Cédric Girard : Nouveautés NotebookLM 2026 : 5 use cases + 1 bonus 🤯..."
-    },
-    {
-        "id": "54Pil7wUdek",
-        "videoId": "54Pil7wUdek",
-        "title": "DeepSeek V4 : Ce Qu’ils Préparent En Secret… (ÉNORME LEAK) 🚨",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-03",
-        "url": "https://www.youtube.com/watch?v=54Pil7wUdek",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 : Ce Qu’ils Préparent En Secret… (ÉNORME LEAK) 🚨..."
     },
     {
         "id": "J_vj9287Jo0",
