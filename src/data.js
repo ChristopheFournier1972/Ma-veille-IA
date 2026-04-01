@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-03-31T09:45:47.272Z
+// Fichier généré automatiquement le 2026-04-01T09:53:28.646Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:45:47 AM 3/31/2026";
+export const lastUpdate = "9:53:28 AM 4/1/2026";
 
 export const sources = [
     {
@@ -172,6 +172,51 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "FpVB_B6etu4",
+        "videoId": "FpVB_B6etu4",
+        "title": "GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=FpVB_B6etu4",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)..."
+    },
+    {
+        "id": "IAniQ4Kahl4",
+        "videoId": "IAniQ4Kahl4",
+        "title": "ChatGPT devient machine à pubs",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=IAniQ4Kahl4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT devient machine à pubs..."
+    },
+    {
+        "id": "uOmSNkQEz4g",
+        "videoId": "uOmSNkQEz4g",
+        "title": "Claude Code: Créez des sites web GRATUITEMENT avec l'IA ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=uOmSNkQEz4g",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: Créez des sites web GRATUITEMENT avec l'IA ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "WPrEuTqyloc",
+        "videoId": "WPrEuTqyloc",
+        "title": "Conclusion et prochaines étapes",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=WPrEuTqyloc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Conclusion et prochaines étapes..."
+    },
+    {
         "id": "UdTHKV7Taok",
         "videoId": "UdTHKV7Taok",
         "title": "Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !",
@@ -183,6 +228,17 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !..."
     },
     {
+        "id": "7ZL17KDeOls",
+        "videoId": "7ZL17KDeOls",
+        "title": "Mythos : l’IA trop dangereuse ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=7ZL17KDeOls",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mythos : l’IA trop dangereuse ?..."
+    },
+    {
         "id": "_fBIIwT3fjA",
         "videoId": "_fBIIwT3fjA",
         "title": "Seedance remplace Sora en force",
@@ -192,6 +248,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=_fBIIwT3fjA",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Seedance remplace Sora en force..."
+    },
+    {
+        "id": "6mhAK3OqToA",
+        "videoId": "6mhAK3OqToA",
+        "title": "Onspace.ai : Je Build Une App IA Mobile Rentable en 10 min 😱🚨",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=6mhAK3OqToA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Onspace.ai : Je Build Une App IA Mobile Rentable en 10 min 😱🚨..."
     },
     {
         "id": "1lpE_68dX0w",
@@ -217,6 +284,17 @@ export const allVideos = [
         "summary": "Nouveauté de Thomas Berton : CLAUDE CODE va-t-il remplacer N8N ? (je fais le test ULTIME)..."
     },
     {
+        "id": "mmf4IM9QnSM",
+        "videoId": "mmf4IM9QnSM",
+        "title": "Tester l'agent IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=mmf4IM9QnSM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Tester l'agent IA..."
+    },
+    {
         "id": "YxK6e106zg8",
         "videoId": "YxK6e106zg8",
         "title": "Intégration avec Telegram",
@@ -226,6 +304,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YxK6e106zg8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Intégration avec Telegram..."
+    },
+    {
+        "id": "Ksaqjr4QFdk",
+        "videoId": "Ksaqjr4QFdk",
+        "title": "Cette nouveauté Claude est DINGUE (le futur de l'IA)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-03-31",
+        "url": "https://www.youtube.com/watch?v=Ksaqjr4QFdk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Cette nouveauté Claude est DINGUE (le futur de l'IA)..."
     },
     {
         "id": "SrMi-w30ymo",
@@ -764,28 +853,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Claude devient agent autonome..."
     },
     {
-        "id": "mATrRzWV1CU",
-        "videoId": "mATrRzWV1CU",
-        "title": "Claude contrôle tout, contrôlez Claude !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-26",
-        "url": "https://www.youtube.com/watch?v=mATrRzWV1CU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude contrôle tout, contrôlez Claude !..."
-    },
-    {
-        "id": "XP8hdgZEkkc",
-        "videoId": "XP8hdgZEkkc",
-        "title": "IA : 5 millions d’emplois menacés",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-26",
-        "url": "https://www.youtube.com/watch?v=XP8hdgZEkkc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : 5 millions d’emplois menacés..."
-    },
-    {
         "id": "P-CRHw0vqtE",
         "videoId": "P-CRHw0vqtE",
         "title": "ARC-AGI-3 : Le NOUVEAU Benchmark Qui Casse le Mythe de l’AGI 😱🚨",
@@ -953,40 +1020,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=e0hwvA2cjGY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Openclaw 3.23 est INCROYABLE - Voici ce que ça change..."
-    },
-    {
-        "id": "piKEEbqoKzM",
-        "videoId": "piKEEbqoKzM",
-        "title": "Développez votre site Web à distance avec Claude Code! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=piKEEbqoKzM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Développez votre site Web à distance avec Claude Code! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "L1-dESMgALM",
-        "videoId": "L1-dESMgALM",
-        "title": "Exécution du test d'envoi d'e-mails",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=L1-dESMgALM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Exécution du test d'envoi d'e-mails..."
-    },
-    {
-        "id": "zTeY21ZJNb0",
-        "videoId": "zTeY21ZJNb0",
-        "title": "Création d'un agent IA pour envoyer des e-mails",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=zTeY21ZJNb0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Création d'un agent IA pour envoyer des e-mails..."
     },
     {
         "id": "I378VC9wMiY",
@@ -1585,13 +1618,13 @@ export const allVideos = [
     {
         "id": "WHvWcZ4uDsU",
         "videoId": "WHvWcZ4uDsU",
-        "title": "GPT 5.4 : La Plus Grosse Révolution d’OpenAI ? ��� (Je Le Teste à Fond)",
+        "title": "GPT 5.4 : La Plus Grosse Révolution d’OpenAI ? 🤔 (Je Le Teste à Fond)",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-03-06",
         "url": "https://www.youtube.com/watch?v=WHvWcZ4uDsU",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GPT 5.4 : La Plus Grosse Révolution d’OpenAI ? ��� (Je Le Teste à Fond)..."
+        "summary": "Nouveauté de Nerdy Kings : GPT 5.4 : La Plus Grosse Révolution d’OpenAI ? 🤔 (Je Le Teste à Fond)..."
     },
     {
         "id": "wmEVJ3TXinM",
@@ -1625,17 +1658,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yhonnrrw2KU",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Je vous présente mon système IA (+ réponses à vos questions)..."
-    },
-    {
-        "id": "Wlf1_zTdaTo",
-        "videoId": "Wlf1_zTdaTo",
-        "title": "Skywork 2.0 : Test | Cette IA Gratuite A Créé Mon App Entière (Et C’est Impressionnant) 😱🔥",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-05",
-        "url": "https://www.youtube.com/watch?v=Wlf1_zTdaTo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Skywork 2.0 : Test | Cette IA Gratuite A Créé Mon App Entière (Et C’est Impressionnant) 😱🔥..."
     },
     {
         "id": "E3j_BCtwWew",
@@ -2397,17 +2419,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : J'ai brûlé 300 000 € en publicité entre 2021 et 2026 (voici ce que j’ai appris)..."
     },
     {
-        "id": "ooqRqvHbk3w",
-        "videoId": "ooqRqvHbk3w",
-        "title": "OpenAI Codex : ne fais pas la même erreur que moi",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-02-05",
-        "url": "https://www.youtube.com/watch?v=ooqRqvHbk3w",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : OpenAI Codex : ne fais pas la même erreur que moi..."
-    },
-    {
         "id": "zdQOD-G49yw",
         "videoId": "zdQOD-G49yw",
         "title": "Ces 7 IA GRATUITES de Google sont surpuissantes ! (Plus besoin de payer)",
@@ -2472,16 +2483,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=U8F50w4GTq8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Claude Code : le guide complet pour les non-devs..."
-    },
-    {
-        "id": "eZcpO_pd61Q",
-        "videoId": "eZcpO_pd61Q",
-        "title": "Comment Automatiser N'IMPORTE Quelle Entreprise Avec l'IA",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-02-01",
-        "url": "https://www.youtube.com/watch?v=eZcpO_pd61Q",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment Automatiser N'IMPORTE Quelle Entreprise Avec l'IA..."
     }
 ];
