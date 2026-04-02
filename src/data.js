@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-01T09:53:28.646Z
+// Fichier généré automatiquement le 2026-04-02T09:40:22.805Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:53:28 AM 4/1/2026";
+export const lastUpdate = "9:40:22 AM 4/2/2026";
 
 export const sources = [
     {
@@ -172,6 +172,17 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "bTvZ4n2wvLU",
+        "videoId": "bTvZ4n2wvLU",
+        "title": "Mistral bâtit son empire IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-02",
+        "url": "https://www.youtube.com/watch?v=bTvZ4n2wvLU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral bâtit son empire IA..."
+    },
+    {
         "id": "FpVB_B6etu4",
         "videoId": "FpVB_B6etu4",
         "title": "GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)",
@@ -183,6 +194,83 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)..."
     },
     {
+        "id": "tLjmEe-xeDw",
+        "videoId": "tLjmEe-xeDw",
+        "title": "ChatGPT est dépassé",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=tLjmEe-xeDw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT est dépassé..."
+    },
+    {
+        "id": "C6QijZEIctU",
+        "videoId": "C6QijZEIctU",
+        "title": "ChatGPT est dépassé",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=C6QijZEIctU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT est dépassé..."
+    },
+    {
+        "id": "pVZfAvrjjoQ",
+        "videoId": "pVZfAvrjjoQ",
+        "title": "ChatGPT est dépassé",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=pVZfAvrjjoQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT est dépassé..."
+    },
+    {
+        "id": "NUozR4UEYFk",
+        "videoId": "NUozR4UEYFk",
+        "title": "Trouve un emploi avec Claude IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=NUozR4UEYFk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Trouve un emploi avec Claude IA..."
+    },
+    {
+        "id": "Xmy-DzehmF8",
+        "videoId": "Xmy-DzehmF8",
+        "title": "Claude Code leak: agent caché",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=Xmy-DzehmF8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude Code leak: agent caché..."
+    },
+    {
+        "id": "AWY5e8lxGx4",
+        "videoId": "AWY5e8lxGx4",
+        "title": "Claude Code fuite et Mistral défonce tout (restez jusqu'à l'outro)",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=AWY5e8lxGx4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude Code fuite et Mistral défonce tout (restez jusqu'à l'outro)..."
+    },
+    {
+        "id": "t84FQo_xBJs",
+        "videoId": "t84FQo_xBJs",
+        "title": "L'actualité tech du 01/04/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=t84FQo_xBJs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 01/04/2026 en Live sur Renaud Dékode..."
+    },
+    {
         "id": "IAniQ4Kahl4",
         "videoId": "IAniQ4Kahl4",
         "title": "ChatGPT devient machine à pubs",
@@ -192,6 +280,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IAniQ4Kahl4",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : ChatGPT devient machine à pubs..."
+    },
+    {
+        "id": "mUFTkEVVeK8",
+        "videoId": "mUFTkEVVeK8",
+        "title": "Codex arrive dans Claude Code (TEST)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=mUFTkEVVeK8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Codex arrive dans Claude Code (TEST)..."
     },
     {
         "id": "uOmSNkQEz4g",
@@ -215,6 +314,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=WPrEuTqyloc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Conclusion et prochaines étapes..."
+    },
+    {
+        "id": "PiMNs7xHp2M",
+        "videoId": "PiMNs7xHp2M",
+        "title": "CLAUDE CODE Transforme Ton PC en Assistant IA : Il Fait TOUT à Ta Place ! (même débutant)",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-04-01",
+        "url": "https://www.youtube.com/watch?v=PiMNs7xHp2M",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : CLAUDE CODE Transforme Ton PC en Assistant IA : Il Fait TOUT à Ta Place ! (même débutant)..."
     },
     {
         "id": "UdTHKV7Taok",
@@ -275,13 +385,13 @@ export const allVideos = [
     {
         "id": "k04lLRq3r0o",
         "videoId": "k04lLRq3r0o",
-        "title": "CLAUDE CODE va-t-il remplacer N8N ? (je fais le test ULTIME)",
+        "title": "Le nouveau CLAUDE CODE à tué n8n ?? Je fais le test ULTIME (sans coder)",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-03-31",
         "url": "https://www.youtube.com/watch?v=k04lLRq3r0o",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE va-t-il remplacer N8N ? (je fais le test ULTIME)..."
+        "summary": "Nouveauté de Thomas Berton : Le nouveau CLAUDE CODE à tué n8n ?? Je fais le test ULTIME (sans coder)..."
     },
     {
         "id": "mmf4IM9QnSM",
@@ -752,48 +862,15 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Google impose la voix en temps réel..."
     },
     {
-        "id": "WFZDncTL2Do",
-        "videoId": "WFZDncTL2Do",
-        "title": "L'actualité tech du 27/03/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=WFZDncTL2Do",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 27/03/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "KnExl4-MnEE",
-        "videoId": "KnExl4-MnEE",
-        "title": "L'IA dans la voix et la musique : TOUT vient de changer !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=KnExl4-MnEE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA dans la voix et la musique : TOUT vient de changer !..."
-    },
-    {
-        "id": "9XxCtar7OEo",
-        "videoId": "9XxCtar7OEo",
-        "title": "Robots humanoïdes : Chine accélère",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=9XxCtar7OEo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Robots humanoïdes : Chine accélère..."
-    },
-    {
         "id": "W7Z5ATjmois",
         "videoId": "W7Z5ATjmois",
-        "title": "L’AGI n’est pas prête d’arriver, voici la preuve",
+        "title": "L��AGI n’est pas prête d’arriver, voici la preuve",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-03-27",
         "url": "https://www.youtube.com/watch?v=W7Z5ATjmois",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : L’AGI n’est pas prête d’arriver, voici la preuve..."
+        "summary": "Nouveauté de Nerdy Kings : L��AGI n’est pas prête d’arriver, voici la preuve..."
     },
     {
         "id": "YmCX3OOEAv8",
@@ -840,17 +917,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=eMwE20u3VhU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Configuration de l'outil d'envoi d'e-mails..."
-    },
-    {
-        "id": "_kOfEtviiNU",
-        "videoId": "_kOfEtviiNU",
-        "title": "Claude devient agent autonome",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-26",
-        "url": "https://www.youtube.com/watch?v=_kOfEtviiNU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude devient agent autonome..."
     },
     {
         "id": "P-CRHw0vqtE",
@@ -1033,39 +1099,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Ce site te donne accès à des milliers de modèles d’IA !..."
     },
     {
-        "id": "glnQ5BEGPfM",
-        "videoId": "glnQ5BEGPfM",
-        "title": "Mieux utiliser l'IA en entreprise 🤖",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=glnQ5BEGPfM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Mieux utiliser l'IA en entreprise 🤖..."
-    },
-    {
-        "id": "6lnXZWQaADg",
-        "videoId": "6lnXZWQaADg",
-        "title": "Mieux utiliser l'IA en entreprise 🤖",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=6lnXZWQaADg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Mieux utiliser l'IA en entreprise 🤖..."
-    },
-    {
-        "id": "H1GrAeK8L8w",
-        "videoId": "H1GrAeK8L8w",
-        "title": "Mieux utiliser l'IA en entreprise 🤖",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=H1GrAeK8L8w",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Mieux utiliser l'IA en entreprise 🤖..."
-    },
-    {
         "id": "wWC4wgSF984",
         "videoId": "wWC4wgSF984",
         "title": "Cette IA améliore n'importe quelle photo instantanément 🤯  #astuce",
@@ -1086,17 +1119,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=VxAjVp09vDw",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)..."
-    },
-    {
-        "id": "4BgN_poX2R0",
-        "videoId": "4BgN_poX2R0",
-        "title": "Mes 10 skills Claude préférés en 30 secondes",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-22",
-        "url": "https://www.youtube.com/watch?v=4BgN_poX2R0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Mes 10 skills Claude préférés en 30 secondes..."
     },
     {
         "id": "-50BGEYgMr4",
@@ -1387,13 +1409,13 @@ export const allVideos = [
     {
         "id": "vWMA0U2xj50",
         "videoId": "vWMA0U2xj50",
-        "title": "CLAUDE a RÉSOLU le plus GROS problème de l’IA.",
+        "title": "CLAUDE a RÉSOLU le plus GROS problème de l'IA.",
         "author": "Simon Music",
         "source": "@Simon_bcome",
         "date": "2026-03-15",
         "url": "https://www.youtube.com/watch?v=vWMA0U2xj50",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : CLAUDE a RÉSOLU le plus GROS problème de l’IA...."
+        "summary": "Nouveauté de Simon Music : CLAUDE a RÉSOLU le plus GROS problème de l'IA...."
     },
     {
         "id": "Q7RcgXzBtDQ",
@@ -2364,17 +2386,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Claude Opus 4.6 : Tout comprendre sur ce nouveau modèle 👀..."
     },
     {
-        "id": "jd8juEhhYHM",
-        "videoId": "jd8juEhhYHM",
-        "title": "Installe GLM 4.7 sur Ollama en 30 SECONDES (100% gratuit) 🚀 #n8n #automation",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-02-09",
-        "url": "https://www.youtube.com/watch?v=jd8juEhhYHM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Installe GLM 4.7 sur Ollama en 30 SECONDES (100% gratuit) 🚀 #n8n #automation..."
-    },
-    {
         "id": "WpUbNZ9paYk",
         "videoId": "WpUbNZ9paYk",
         "title": "ChatGPT Ne Te Diras Pas Quand Tes Idées Sont NULLES (Sauf Si Tu Fais ÇA)",
@@ -2472,16 +2483,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Lda1IGevfQg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : NotebookLM pas à pas. Apprendre plus vite avec l’IA en moins de 20 minutes..."
-    },
-    {
-        "id": "U8F50w4GTq8",
-        "videoId": "U8F50w4GTq8",
-        "title": "Claude Code : le guide complet pour les non-devs",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-02-02",
-        "url": "https://www.youtube.com/watch?v=U8F50w4GTq8",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Claude Code : le guide complet pour les non-devs..."
     }
 ];
