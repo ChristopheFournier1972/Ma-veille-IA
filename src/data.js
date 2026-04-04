@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-03T08:36:09.998Z
+// Fichier généré automatiquement le 2026-04-04T08:00:41.500Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:36:09 AM 4/3/2026";
+export const lastUpdate = "8:00:41 AM 4/4/2026";
 
 export const sources = [
     {
@@ -171,6 +171,63 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "QwaBCHsFzqI",
+        "videoId": "QwaBCHsFzqI",
+        "title": "L'actualité tech du 03/04/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-04",
+        "url": "https://www.youtube.com/watch?v=QwaBCHsFzqI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 03/04/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "McheLhfPDoI",
+        "videoId": "McheLhfPDoI",
+        "title": "La course de l'IA nous envoie dans le mur ou dans le futur ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-03",
+        "url": "https://www.youtube.com/watch?v=McheLhfPDoI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : La course de l'IA nous envoie dans le mur ou dans le futur ?..."
+    },
+    {
+        "id": "-pS4zolXJIc",
+        "videoId": "-pS4zolXJIc",
+        "title": "Réseaux sociaux interdits - de 15 ans ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-03",
+        "url": "https://www.youtube.com/watch?v=-pS4zolXJIc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Réseaux sociaux interdits - de 15 ans ?..."
+    },
+    {
+        "id": "hoCEwqt7e5Y",
+        "videoId": "hoCEwqt7e5Y",
+        "title": "Claude Code : Automatisez VOS WORKFLOWS Complexes, Pas juste des emails ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-03",
+        "url": "https://www.youtube.com/watch?v=hoCEwqt7e5Y",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : Automatisez VOS WORKFLOWS Complexes, Pas juste des emails ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "WB5Ct36tpXA",
+        "videoId": "WB5Ct36tpXA",
+        "title": "L'IA rédige vos descriptions YouTube en un clin d'œil ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-03",
+        "url": "https://www.youtube.com/watch?v=WB5Ct36tpXA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : L'IA rédige vos descriptions YouTube en un clin d'œil ! #shorts...",
+        "isShort": true
+    },
     {
         "id": "95YMCtc9SZk",
         "videoId": "95YMCtc9SZk",
@@ -594,17 +651,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Seedance, Mythos, et la pub: l'IA hors de contrôle ?..."
     },
     {
-        "id": "pOc4m7UPeWg",
-        "videoId": "pOc4m7UPeWg",
-        "title": "Voxtral : Mistral bouscule la voix",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=pOc4m7UPeWg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Voxtral : Mistral bouscule la voix..."
-    },
-    {
         "id": "X0xCiXQPXvM",
         "videoId": "X0xCiXQPXvM",
         "title": "Tribe V2 : Quand Meta contrôle ton cerveau 😳",
@@ -761,28 +807,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9gpanAr9M_s",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)..."
-    },
-    {
-        "id": "zdLyjFbQMdM",
-        "videoId": "zdLyjFbQMdM",
-        "title": "TurboQuant : IA 6x moins de mémoire",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-28",
-        "url": "https://www.youtube.com/watch?v=zdLyjFbQMdM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : TurboQuant : IA 6x moins de mémoire..."
-    },
-    {
-        "id": "O0Udc5qUDzQ",
-        "videoId": "O0Udc5qUDzQ",
-        "title": "Un site COMPLET en 10mn pour 12€ : le vibe-coding devient DINGUE",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-28",
-        "url": "https://www.youtube.com/watch?v=O0Udc5qUDzQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Un site COMPLET en 10mn pour 12€ : le vibe-coding devient DINGUE..."
     },
     {
         "id": "PT-xSwitJl8",
@@ -985,30 +1009,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=P-CRHw0vqtE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : ARC-AGI-3 : Le NOUVEAU Benchmark Qui Casse le Mythe de l’AGI 😱🚨..."
-    },
-    {
-        "id": "CHQCO_fBHMs",
-        "videoId": "CHQCO_fBHMs",
-        "title": "Crée ton Site Web IA de A à Z avec AzurAI ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-26",
-        "url": "https://www.youtube.com/watch?v=CHQCO_fBHMs",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Crée ton Site Web IA de A à Z avec AzurAI ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "I5oVyIHDm9M",
-        "videoId": "I5oVyIHDm9M",
-        "title": "Créez des Vidéos Incroyables avec l'IA : De l'Image à la Transition Époustouflante #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-26",
-        "url": "https://www.youtube.com/watch?v=I5oVyIHDm9M",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez des Vidéos Incroyables avec l'IA : De l'Image à la Transition Époustouflante #shorts...",
-        "isShort": true
     },
     {
         "id": "R9xVAS3ieGY",
@@ -2472,16 +2472,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=CMMclQq54hA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Les 5 meilleurs business à lancer en 2026 !..."
-    },
-    {
-        "id": "vkY_TWpM_lc",
-        "videoId": "vkY_TWpM_lc",
-        "title": "Créer son propre générateur de prompts en 10mn ⏱️",
-        "author": "Cédric Girard",
-        "source": "@cedric_effi10",
-        "date": "2026-02-04",
-        "url": "https://www.youtube.com/watch?v=vkY_TWpM_lc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Cédric Girard : Créer son propre générateur de prompts en 10mn ⏱️..."
     }
 ];
