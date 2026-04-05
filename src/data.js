@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-04T08:00:41.500Z
+// Fichier généré automatiquement le 2026-04-05T08:04:42.900Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:00:41 AM 4/4/2026";
+export const lastUpdate = "8:04:42 AM 4/5/2026";
 
 export const sources = [
     {
@@ -172,6 +172,39 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "sbl9oFY-xXY",
+        "videoId": "sbl9oFY-xXY",
+        "title": "5 commandes secrètes qui rendent Claude 10x plus puissant",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-04",
+        "url": "https://www.youtube.com/watch?v=sbl9oFY-xXY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 commandes secrètes qui rendent Claude 10x plus puissant..."
+    },
+    {
+        "id": "qkDQMUVzLNY",
+        "videoId": "qkDQMUVzLNY",
+        "title": "Le Guide ULTIME de Claude en 2026 (de débutant à expert)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-04",
+        "url": "https://www.youtube.com/watch?v=qkDQMUVzLNY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le Guide ULTIME de Claude en 2026 (de débutant à expert)..."
+    },
+    {
+        "id": "G482Ts8NsA0",
+        "videoId": "G482Ts8NsA0",
+        "title": "Oracle licencie pour financer l’IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-04",
+        "url": "https://www.youtube.com/watch?v=G482Ts8NsA0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Oracle licencie pour financer l’IA..."
+    },
+    {
         "id": "QwaBCHsFzqI",
         "videoId": "QwaBCHsFzqI",
         "title": "L'actualité tech du 03/04/2026 en Live sur Renaud Dékode",
@@ -181,6 +214,41 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QwaBCHsFzqI",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 03/04/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "Kksw2LAMXvg",
+        "videoId": "Kksw2LAMXvg",
+        "title": "Gemma 4 (26B &amp; 31B) : Les Meilleurs Modèles Open Source du Moment ? 😱🔥",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-04",
+        "url": "https://www.youtube.com/watch?v=Kksw2LAMXvg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Gemma 4 (26B &amp; 31B) : Les Meilleurs Modèles Open Source du Moment ? 😱🔥..."
+    },
+    {
+        "id": "MbqpwzsUF5M",
+        "videoId": "MbqpwzsUF5M",
+        "title": "Automatisation YouTube : L'IA crée vos descriptions et posts en un clin d'œil ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-04",
+        "url": "https://www.youtube.com/watch?v=MbqpwzsUF5M",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Automatisation YouTube : L'IA crée vos descriptions et posts en un clin d'œil ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "jfADiJFO7rs",
+        "videoId": "jfADiJFO7rs",
+        "title": "Claude Code Révolutionne Vos Descriptions YouTube avec l'IA ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-04",
+        "url": "https://www.youtube.com/watch?v=jfADiJFO7rs",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code Révolutionne Vos Descriptions YouTube avec l'IA ! #shorts...",
+        "isShort": true
     },
     {
         "id": "McheLhfPDoI",
@@ -640,17 +708,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 30/03/2026 en Live sur Renaud Dékode..."
     },
     {
-        "id": "2n_Ap1BE34g",
-        "videoId": "2n_Ap1BE34g",
-        "title": "Seedance, Mythos, et la pub: l'IA hors de contrôle ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=2n_Ap1BE34g",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Seedance, Mythos, et la pub: l'IA hors de contrôle ?..."
-    },
-    {
         "id": "X0xCiXQPXvM",
         "videoId": "X0xCiXQPXvM",
         "title": "Tribe V2 : Quand Meta contrôle ton cerveau 😳",
@@ -921,17 +978,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : L'IA va changer votre métier..."
     },
     {
-        "id": "SIYYuHrpHmM",
-        "videoId": "SIYYuHrpHmM",
-        "title": "L'IA va changer votre métier",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=SIYYuHrpHmM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : L'IA va changer votre métier..."
-    },
-    {
         "id": "4aUzQlpRQbk",
         "videoId": "4aUzQlpRQbk",
         "title": "Copilot dans Powerpoint est devenu dingue !",
@@ -952,30 +998,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=W7Z5ATjmois",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : L’AGI n’est pas prête d’arriver, voici la preuve..."
-    },
-    {
-        "id": "YmCX3OOEAv8",
-        "videoId": "YmCX3OOEAv8",
-        "title": "Claude AI Crée un Site Web en 3 Minutes ? Incroyable ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=YmCX3OOEAv8",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude AI Crée un Site Web en 3 Minutes ? Incroyable ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "6sQKgEIuZNU",
-        "videoId": "6sQKgEIuZNU",
-        "title": "Google AI Studio: Configure NanoBanana 2 pour des images 4K ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=6sQKgEIuZNU",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Google AI Studio: Configure NanoBanana 2 pour des images 4K ! #shorts...",
-        "isShort": true
     },
     {
         "id": "JKvPT45wsF0",
@@ -1119,17 +1141,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=e0hwvA2cjGY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Openclaw 3.23 est INCROYABLE - Voici ce que ça change..."
-    },
-    {
-        "id": "I378VC9wMiY",
-        "videoId": "I378VC9wMiY",
-        "title": "Ce site te donne accès à des milliers de modèles d’IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=I378VC9wMiY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ce site te donne accès à des milliers de modèles d’IA !..."
     },
     {
         "id": "wWC4wgSF984",
@@ -1548,17 +1559,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Mg37t-H7-10",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Google : ce nouvel outil débride ton Claude Code (GRATUIT) 🔥..."
-    },
-    {
-        "id": "Q1J4mVqjk7s",
-        "videoId": "Q1J4mVqjk7s",
-        "title": "J’ai Recréé un Marché Mésopotamien Entier... avec Gemini 3.1 Pro",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-10",
-        "url": "https://www.youtube.com/watch?v=Q1J4mVqjk7s",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : J’ai Recréé un Marché Mésopotamien Entier... avec Gemini 3.1 Pro..."
     },
     {
         "id": "5T0irFpaa1U",
@@ -2450,27 +2450,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Y0XmwxEy8bA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : J'ai brûlé 300 000 € en publicité entre 2021 et 2026 (voici ce que j’ai appris)..."
-    },
-    {
-        "id": "zdQOD-G49yw",
-        "videoId": "zdQOD-G49yw",
-        "title": "Ces 7 IA GRATUITES de Google sont surpuissantes ! (Plus besoin de payer)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-02-05",
-        "url": "https://www.youtube.com/watch?v=zdQOD-G49yw",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Ces 7 IA GRATUITES de Google sont surpuissantes ! (Plus besoin de payer)..."
-    },
-    {
-        "id": "CMMclQq54hA",
-        "videoId": "CMMclQq54hA",
-        "title": "Les 5 meilleurs business à lancer en 2026 !",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-02-05",
-        "url": "https://www.youtube.com/watch?v=CMMclQq54hA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Les 5 meilleurs business à lancer en 2026 !..."
     }
 ];
