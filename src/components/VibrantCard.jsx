@@ -4,6 +4,10 @@ const VibrantCard = ({ video, isArchived, onArchive }) => {
     // Auto-generate YouTube thumbnail from videoId
     const thumbnail = video.thumbnail || `https://i.ytimg.com/vi/${video.videoId}/hqdefault.jpg`;
 
+    const formattedDate = video.date
+        ? new Date(video.date).toLocaleDateString('fr-FR', { day: 'numeric', month: 'short', year: 'numeric' })
+        : '';
+
     return (
         <section className="magazine-row">
             <div className="magazine-image-container">
@@ -23,7 +27,7 @@ const VibrantCard = ({ video, isArchived, onArchive }) => {
                 )}
 
                 <div className="magazine-footer">
-                    <span className="video-author">{video.author}</span>
+                    <span className="video-author">{video.author}{formattedDate && ` · ${formattedDate}`}</span>
                     <div className="card-actions">
                         <button
                             onClick={onArchive}
