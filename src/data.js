@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-06T09:55:54.104Z
+// Fichier généré automatiquement le 2026-04-07T09:52:04.146Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:55:54 AM 4/6/2026";
+export const lastUpdate = "9:52:04 AM 4/7/2026";
 
 export const sources = [
     {
@@ -172,6 +172,96 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "fAB9YTgAu2c",
+        "videoId": "fAB9YTgAu2c",
+        "title": "CLAUDE CODE contrôle mon PC à distance (c'est fou)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=fAB9YTgAu2c",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE contrôle mon PC à distance (c'est fou)..."
+    },
+    {
+        "id": "wkj501BcL0U",
+        "videoId": "wkj501BcL0U",
+        "title": "Transforme ta vidéo dans une ambiance « Golden Hour »",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=wkj501BcL0U",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Transforme ta vidéo dans une ambiance « Golden Hour »..."
+    },
+    {
+        "id": "KY570bUZLxY",
+        "videoId": "KY570bUZLxY",
+        "title": "Copilot devient agent autonome",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=KY570bUZLxY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Copilot devient agent autonome..."
+    },
+    {
+        "id": "lCEJ-tAS9_U",
+        "videoId": "lCEJ-tAS9_U",
+        "title": "Les 16 commandements pour économiser des tokens et rendre l'IA plus performante",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=lCEJ-tAS9_U",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Les 16 commandements pour économiser des tokens et rendre l'IA plus performante..."
+    },
+    {
+        "id": "avDtMURiHs0",
+        "videoId": "avDtMURiHs0",
+        "title": "Qwen 3.5 Omni Plus : L’IA Omnimodale la Plus Avancée Du Moment ? 😱🇨🇳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=avDtMURiHs0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.5 Omni Plus : L’IA Omnimodale la Plus Avancée Du Moment ? 😱🇨🇳..."
+    },
+    {
+        "id": "rAXZYTg_SFs",
+        "videoId": "rAXZYTg_SFs",
+        "title": "N8N &amp; Claude Code: Attention aux injections de prompt dévastatrices! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=rAXZYTg_SFs",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : N8N &amp; Claude Code: Attention aux injections de prompt dévastatrices! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "dP1VThZHwfo",
+        "videoId": "dP1VThZHwfo",
+        "title": "Claude Code Corrige L'Erreur &quot;Cloud Code&quot; Automatiquement ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=dP1VThZHwfo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code Corrige L'Erreur &quot;Cloud Code&quot; Automatiquement ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "BWwGSK-pKpY",
+        "videoId": "BWwGSK-pKpY",
+        "title": "Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-04-06",
+        "url": "https://www.youtube.com/watch?v=BWwGSK-pKpY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)..."
+    },
+    {
         "id": "-xOk8SVdC6U",
         "videoId": "-xOk8SVdC6U",
         "title": "1,8 Milliards de dollars TOUT SEUL grâce à l'IA (Comment il a fait ?)",
@@ -242,13 +332,13 @@ export const allVideos = [
     {
         "id": "qkDQMUVzLNY",
         "videoId": "qkDQMUVzLNY",
-        "title": "Le Guide ULTIME de Claude en 2026 (de débutant à expert)",
+        "title": "J'utilise Claude depuis 643 jours : je te donne TOUT ce que je sais",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-04-04",
         "url": "https://www.youtube.com/watch?v=qkDQMUVzLNY",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le Guide ULTIME de Claude en 2026 (de débutant à expert)..."
+        "summary": "Nouveauté de Henri · ExplorIA : J'utilise Claude depuis 643 jours : je te donne TOUT ce que je sais..."
     },
     {
         "id": "G482Ts8NsA0",
@@ -743,28 +833,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Ce site te permet d’utiliser tout les outils d’IA gratuitement..."
     },
     {
-        "id": "vXCz04jWFEA",
-        "videoId": "vXCz04jWFEA",
-        "title": "OpenAI abandonne Sora en 6 mois",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=vXCz04jWFEA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI abandonne Sora en 6 mois..."
-    },
-    {
-        "id": "yLnN-f9V2LQ",
-        "videoId": "yLnN-f9V2LQ",
-        "title": "L'actualité tech du 30/03/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=yLnN-f9V2LQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 30/03/2026 en Live sur Renaud Dékode..."
-    },
-    {
         "id": "X0xCiXQPXvM",
         "videoId": "X0xCiXQPXvM",
         "title": "Tribe V2 : Quand Meta contrôle ton cerveau 😳",
@@ -785,18 +853,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=0ZpaYs68sbQ",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Créez un site web PRO avec l'IA en 10 minutes ! ⚡️ #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "jfZH8q4cF6I",
-        "videoId": "jfZH8q4cF6I",
-        "title": "Kling : Créez des vidéos parfaites à 1080p pour 67 centimes ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=jfZH8q4cF6I",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Kling : Créez des vidéos parfaites à 1080p pour 67 centimes ! #shorts...",
         "isShort": true
     },
     {
@@ -864,30 +920,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Wue_5RVLpRk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : GLM 5.1: La Vraie Menace Pour Claude Opus ? (5x moins cher) 😱🇨🇳..."
-    },
-    {
-        "id": "h2pCb7_GyGI",
-        "videoId": "h2pCb7_GyGI",
-        "title": "Créez un site web pour VOTRE produit unique avec ce stylo ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=h2pCb7_GyGI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez un site web pour VOTRE produit unique avec ce stylo ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "ib4HN0EtRuo",
-        "videoId": "ib4HN0EtRuo",
-        "title": "Site Web Créé par IA : Le Résultat vous Surprendra ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=ib4HN0EtRuo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Site Web Créé par IA : Le Résultat vous Surprendra ! #shorts...",
-        "isShort": true
     },
     {
         "id": "DoTUBOI3Uz4",
@@ -996,17 +1028,6 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-27",
         "url": "https://www.youtube.com/watch?v=USB5j7nyeRw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : L'IA va changer votre métier..."
-    },
-    {
-        "id": "eKfuvz-lhR8",
-        "videoId": "eKfuvz-lhR8",
-        "title": "L'IA va changer votre métier",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=eKfuvz-lhR8",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : L'IA va changer votre métier..."
     },
@@ -1537,17 +1558,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YebMrY_Cr5s",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Comment utiliser EXCEL avec un AGENT IA ?..."
-    },
-    {
-        "id": "AR8GzP7tgQY",
-        "videoId": "AR8GzP7tgQY",
-        "title": "Anthropic Explique ENFIN Pourquoi Les IA Deviennent Folles 😱 (Le Persona Drift)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-12",
-        "url": "https://www.youtube.com/watch?v=AR8GzP7tgQY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Anthropic Explique ENFIN Pourquoi Les IA Deviennent Folles 😱 (Le Persona Drift)..."
     },
     {
         "id": "cv8PsVX1tbg",
@@ -2450,16 +2460,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5rYeXw5xGro",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Claude IA va changé la création de contenu à jamais..."
-    },
-    {
-        "id": "Y0XmwxEy8bA",
-        "videoId": "Y0XmwxEy8bA",
-        "title": "J'ai brûlé 300 000 € en publicité entre 2021 et 2026 (voici ce que j’ai appris)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-02-07",
-        "url": "https://www.youtube.com/watch?v=Y0XmwxEy8bA",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : J'ai brûlé 300 000 € en publicité entre 2021 et 2026 (voici ce que j’ai appris)..."
     }
 ];
