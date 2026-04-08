@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-07T09:52:04.146Z
+// Fichier généré automatiquement le 2026-04-08T09:51:25.165Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:52:04 AM 4/7/2026";
+export const lastUpdate = "9:51:25 AM 4/8/2026";
 
 export const sources = [
     {
@@ -172,15 +172,116 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "ha6JkWePF94",
+        "videoId": "ha6JkWePF94",
+        "title": "J'AI LAISSÉ UNE IA CHOISIR MON APPARTEMENT ! (Résultat CHOQUANT)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=ha6JkWePF94",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : J'AI LAISSÉ UNE IA CHOISIR MON APPARTEMENT ! (Résultat CHOQUANT)..."
+    },
+    {
+        "id": "qbBpq70M_Ys",
+        "videoId": "qbBpq70M_Ys",
+        "title": "Meta prédit votre cerveau ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-08",
+        "url": "https://www.youtube.com/watch?v=qbBpq70M_Ys",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta prédit votre cerveau ?..."
+    },
+    {
+        "id": "PJtphhpRm1E",
+        "videoId": "PJtphhpRm1E",
+        "title": "Produire du meilleur contenu grâce à l’IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=PJtphhpRm1E",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Produire du meilleur contenu grâce à l’IA..."
+    },
+    {
+        "id": "dFM7dnRRdM8",
+        "videoId": "dFM7dnRRdM8",
+        "title": "Le nouveau GPT Image 2 dans ChatGPT est époustouflant !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=dFM7dnRRdM8",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Le nouveau GPT Image 2 dans ChatGPT est époustouflant !..."
+    },
+    {
+        "id": "Kv5g1j-lzug",
+        "videoId": "Kv5g1j-lzug",
+        "title": "IA : pénurie d’hélium, chaos tech",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=Kv5g1j-lzug",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : pénurie d’hélium, chaos tech..."
+    },
+    {
+        "id": "qn-mTwCVO88",
+        "videoId": "qn-mTwCVO88",
+        "title": "Si tu débutes sur Claude Code apprends ça 👀",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=qn-mTwCVO88",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Si tu débutes sur Claude Code apprends ça 👀..."
+    },
+    {
+        "id": "6d9HeBlu7Iw",
+        "videoId": "6d9HeBlu7Iw",
+        "title": "Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais.",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=6d9HeBlu7Iw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais...."
+    },
+    {
+        "id": "g57l3uFVffA",
+        "videoId": "g57l3uFVffA",
+        "title": "Automatisez Vos Vidéos YouTube Avec une IA Connectée à Telegram ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=g57l3uFVffA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Automatisez Vos Vidéos YouTube Avec une IA Connectée à Telegram ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "deD29pvffko",
+        "videoId": "deD29pvffko",
+        "title": "Claude Code vs N8N : Lequel choisir pour vos automatisations ? #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-07",
+        "url": "https://www.youtube.com/watch?v=deD29pvffko",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code vs N8N : Lequel choisir pour vos automatisations ? #shorts...",
+        "isShort": true
+    },
+    {
         "id": "fAB9YTgAu2c",
         "videoId": "fAB9YTgAu2c",
-        "title": "CLAUDE CODE contrôle mon PC à distance (c'est fou)",
+        "title": "CLAUDE CODE AIOS est là : Le Plugin Télégram (ça change tout)",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-04-07",
         "url": "https://www.youtube.com/watch?v=fAB9YTgAu2c",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE contrôle mon PC à distance (c'est fou)..."
+        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE AIOS est là : Le Plugin Télégram (ça change tout)..."
     },
     {
         "id": "wkj501BcL0U",
@@ -689,28 +790,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !..."
     },
     {
-        "id": "7ZL17KDeOls",
-        "videoId": "7ZL17KDeOls",
-        "title": "Mythos : l’IA trop dangereuse ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=7ZL17KDeOls",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mythos : l’IA trop dangereuse ?..."
-    },
-    {
-        "id": "_fBIIwT3fjA",
-        "videoId": "_fBIIwT3fjA",
-        "title": "Seedance remplace Sora en force",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=_fBIIwT3fjA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Seedance remplace Sora en force..."
-    },
-    {
         "id": "6mhAK3OqToA",
         "videoId": "6mhAK3OqToA",
         "title": "Onspace.ai : Je Build Une App IA Mobile Rentable en 10 min 😱🚨",
@@ -732,17 +811,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Claude Code V/S n8n : Le Remplaçant Déjà Là? #shorts...",
         "isShort": true
-    },
-    {
-        "id": "k04lLRq3r0o",
-        "videoId": "k04lLRq3r0o",
-        "title": "Le nouveau CLAUDE CODE à tué n8n ?? Je fais le test ULTIME (sans coder)",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=k04lLRq3r0o",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Le nouveau CLAUDE CODE à tué n8n ?? Je fais le test ULTIME (sans coder)..."
     },
     {
         "id": "mmf4IM9QnSM",
@@ -842,18 +910,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=X0xCiXQPXvM",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Tribe V2 : Quand Meta contrôle ton cerveau 😳..."
-    },
-    {
-        "id": "0ZpaYs68sbQ",
-        "videoId": "0ZpaYs68sbQ",
-        "title": "Créez un site web PRO avec l'IA en 10 minutes ! ⚡️ #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=0ZpaYs68sbQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez un site web PRO avec l'IA en 10 minutes ! ⚡️ #shorts...",
-        "isShort": true
     },
     {
         "id": "3P8XFOKn4SA",
@@ -1017,17 +1073,6 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-03-27",
         "url": "https://www.youtube.com/watch?v=pYdd9vtJOD8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : L'IA va changer votre métier..."
-    },
-    {
-        "id": "USB5j7nyeRw",
-        "videoId": "USB5j7nyeRw",
-        "title": "L'IA va changer votre métier",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=USB5j7nyeRw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : L'IA va changer votre métier..."
     },
@@ -2220,17 +2265,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : La fin de N8N ?..."
     },
     {
-        "id": "U5euty-SEbM",
-        "videoId": "U5euty-SEbM",
-        "title": "La fin de N8N ?",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-02-17",
-        "url": "https://www.youtube.com/watch?v=U5euty-SEbM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : La fin de N8N ?..."
-    },
-    {
         "id": "A8curb1SrKg",
         "videoId": "A8curb1SrKg",
         "title": "Claude Code AGENT TEAMS : cette NOUVELLE fonctionnalité CHANGE TOUT  🚀",
@@ -2418,17 +2452,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludovic Nédélec : Créer tes propres outils d’apprentissage avec Claude (mode artefact)..."
     },
     {
-        "id": "mYAIg2-s6kg",
-        "videoId": "mYAIg2-s6kg",
-        "title": "Claude Opus 4.6 : Tout comprendre sur ce nouveau modèle 👀",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-02-09",
-        "url": "https://www.youtube.com/watch?v=mYAIg2-s6kg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Claude Opus 4.6 : Tout comprendre sur ce nouveau modèle 👀..."
-    },
-    {
         "id": "WpUbNZ9paYk",
         "videoId": "WpUbNZ9paYk",
         "title": "ChatGPT Ne Te Diras Pas Quand Tes Idées Sont NULLES (Sauf Si Tu Fais ÇA)",
@@ -2438,27 +2461,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=WpUbNZ9paYk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : ChatGPT Ne Te Diras Pas Quand Tes Idées Sont NULLES (Sauf Si Tu Fais ÇA)..."
-    },
-    {
-        "id": "nYRTnL80W_k",
-        "videoId": "nYRTnL80W_k",
-        "title": "AntiGravity : une app en 5 MINUTES (et c'est gratuit)",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-02-08",
-        "url": "https://www.youtube.com/watch?v=nYRTnL80W_k",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : AntiGravity : une app en 5 MINUTES (et c'est gratuit)..."
-    },
-    {
-        "id": "5rYeXw5xGro",
-        "videoId": "5rYeXw5xGro",
-        "title": "Claude IA va changé la création de contenu à jamais",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-02-08",
-        "url": "https://www.youtube.com/watch?v=5rYeXw5xGro",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Claude IA va changé la création de contenu à jamais..."
     }
 ];
