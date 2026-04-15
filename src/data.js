@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-14T07:25:36.625Z
+// Fichier généré automatiquement le 2026-04-15T07:26:20.082Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:25:36 AM 4/14/2026";
+export const lastUpdate = "7:26:20 AM 4/15/2026";
 
 export const sources = [
     {
@@ -171,6 +171,72 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "ol-6uHtwPa8",
+        "videoId": "ol-6uHtwPa8",
+        "title": "Vibe Prospecting - Claude IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-14",
+        "url": "https://www.youtube.com/watch?v=ol-6uHtwPa8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Vibe Prospecting - Claude IA..."
+    },
+    {
+        "id": "9RVzj8bJj6g",
+        "videoId": "9RVzj8bJj6g",
+        "title": "Copilot Cowork est désormais disponible... quelle folie !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-04-14",
+        "url": "https://www.youtube.com/watch?v=9RVzj8bJj6g",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Copilot Cowork est désormais disponible... quelle folie !..."
+    },
+    {
+        "id": "Tp0pYeCiGRI",
+        "videoId": "Tp0pYeCiGRI",
+        "title": "AGI en 5 ans: Hassabis alerte",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-14",
+        "url": "https://www.youtube.com/watch?v=Tp0pYeCiGRI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : AGI en 5 ans: Hassabis alerte..."
+    },
+    {
+        "id": "iAuOrfW2KpU",
+        "videoId": "iAuOrfW2KpU",
+        "title": "École, IA et la fracture cognitive qui vient",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-14",
+        "url": "https://www.youtube.com/watch?v=iAuOrfW2KpU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : École, IA et la fracture cognitive qui vient..."
+    },
+    {
+        "id": "qffap7gnfNw",
+        "videoId": "qffap7gnfNw",
+        "title": "Meta AI expose la vie privée ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-14",
+        "url": "https://www.youtube.com/watch?v=qffap7gnfNw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta AI expose la vie privée ?..."
+    },
+    {
+        "id": "9_T-RzbA_EQ",
+        "videoId": "9_T-RzbA_EQ",
+        "title": "Votre futur employeur est une IA (ça a déjà commencé)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-04-14",
+        "url": "https://www.youtube.com/watch?v=9_T-RzbA_EQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Votre futur employeur est une IA (ça a déjà commencé)..."
+    },
     {
         "id": "Dv6suL5-fAE",
         "videoId": "Dv6suL5-fAE",
@@ -598,28 +664,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : IA : émotions qui dictent ses choix..."
     },
     {
-        "id": "xORISg-5T9o",
-        "videoId": "xORISg-5T9o",
-        "title": "La stratégie IA de Microsoft ! Avec Elliott Pierret.",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=xORISg-5T9o",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : La stratégie IA de Microsoft ! Avec Elliott Pierret...."
-    },
-    {
-        "id": "Hlnlr2UUptA",
-        "videoId": "Hlnlr2UUptA",
-        "title": "Anthropic ferme le robinet IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=Hlnlr2UUptA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Anthropic ferme le robinet IA..."
-    },
-    {
         "id": "-cjtkR_lR2Q",
         "videoId": "-cjtkR_lR2Q",
         "title": "Claude Mythos : L’IA Trop Dangereuse Pour Être Publiée ? 😱",
@@ -697,17 +741,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iLpyTd5biIA",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : La nouvelle IA de Claude vient de changer Internet pour toujours..."
-    },
-    {
-        "id": "dd0HFOFhOjQ",
-        "videoId": "dd0HFOFhOjQ",
-        "title": "OpenAI veut taxer les robots",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-08",
-        "url": "https://www.youtube.com/watch?v=dd0HFOFhOjQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI veut taxer les robots..."
     },
     {
         "id": "ep5BYfZtINM",
@@ -1007,17 +1040,6 @@ export const allVideos = [
         "source": "@HenriExplorIA",
         "date": "2026-04-01",
         "url": "https://www.youtube.com/watch?v=C6QijZEIctU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT est dépassé..."
-    },
-    {
-        "id": "pVZfAvrjjoQ",
-        "videoId": "pVZfAvrjjoQ",
-        "title": "ChatGPT est dépassé",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=pVZfAvrjjoQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : ChatGPT est dépassé..."
     },
@@ -2406,27 +2428,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=P56CwdKSyq0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude 5 Sonnet va faire trembler OpenAI 👀..."
-    },
-    {
-        "id": "OrrvAMRUYy0",
-        "videoId": "OrrvAMRUYy0",
-        "title": "Arrête d'utiliser des agents IA pour tout (utilise ça à la place)",
-        "author": "Ousmane Automatise",
-        "source": "@ousmanedf",
-        "date": "2026-02-15",
-        "url": "https://www.youtube.com/watch?v=OrrvAMRUYy0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ousmane Automatise : Arrête d'utiliser des agents IA pour tout (utilise ça à la place)..."
-    },
-    {
-        "id": "OW-t9oaTyGU",
-        "videoId": "OW-t9oaTyGU",
-        "title": "J’ai Recréé une APP à 34M€ en 20 Minutes avec l’IA",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-02-15",
-        "url": "https://www.youtube.com/watch?v=OW-t9oaTyGU",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : J’ai Recréé une APP à 34M€ en 20 Minutes avec l’IA..."
     }
 ];
