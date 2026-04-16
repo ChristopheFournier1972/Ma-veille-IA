@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-15T07:26:20.082Z
+// Fichier généré automatiquement le 2026-04-16T07:26:39.228Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:26:20 AM 4/15/2026";
+export const lastUpdate = "7:26:39 AM 4/16/2026";
 
 export const sources = [
     {
@@ -172,6 +172,106 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "FkWkC9UEQ-A",
+        "videoId": "FkWkC9UEQ-A",
+        "title": "J'ai arrêté de payer Claude Code (je te montre comment)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=FkWkC9UEQ-A",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : J'ai arrêté de payer Claude Code (je te montre comment)..."
+    },
+    {
+        "id": "1_xVd348jV8",
+        "videoId": "1_xVd348jV8",
+        "title": "Claude Routines vient de sortir, et c'est DINGUE (Agents 24h/24 et 7j/7)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=1_xVd348jV8",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Claude Routines vient de sortir, et c'est DINGUE (Agents 24h/24 et 7j/7)..."
+    },
+    {
+        "id": "R0YKM1KHa_A",
+        "videoId": "R0YKM1KHa_A",
+        "title": "Ukraine : robots capturent tranchée",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=R0YKM1KHa_A",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Ukraine : robots capturent tranchée..."
+    },
+    {
+        "id": "HARGEG-PIEw",
+        "videoId": "HARGEG-PIEw",
+        "title": "L'actualité tech du 15/04/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=HARGEG-PIEw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 15/04/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "JG5IQcg6PaY",
+        "videoId": "JG5IQcg6PaY",
+        "title": "Guerre, école, travail : l’IA change le Monde maintenant !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=JG5IQcg6PaY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Guerre, école, travail : l’IA change le Monde maintenant !..."
+    },
+    {
+        "id": "sNmTvMOcd1k",
+        "videoId": "sNmTvMOcd1k",
+        "title": "Netflix : l’IA réécrit la réalité",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=sNmTvMOcd1k",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Netflix : l’IA réécrit la réalité..."
+    },
+    {
+        "id": "lZMXl3CfZn8",
+        "videoId": "lZMXl3CfZn8",
+        "title": "Karpathy a tort : voici comment structurer votre savoir pour l'IA",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=lZMXl3CfZn8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Karpathy a tort : voici comment structurer votre savoir pour l'IA..."
+    },
+    {
+        "id": "x35M5aKFN78",
+        "videoId": "x35M5aKFN78",
+        "title": "J'ai testé Claude Managed Agents pour que tu n'aies pas à le faire.",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=x35M5aKFN78",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : J'ai testé Claude Managed Agents pour que tu n'aies pas à le faire...."
+    },
+    {
+        "id": "--EcemLcPng",
+        "videoId": "--EcemLcPng",
+        "title": "Meilleures Voix IA 2026: Mon Classement Ultime #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-15",
+        "url": "https://www.youtube.com/watch?v=--EcemLcPng",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Meilleures Voix IA 2026: Mon Classement Ultime #shorts...",
+        "isShort": true
+    },
+    {
         "id": "ol-6uHtwPa8",
         "videoId": "ol-6uHtwPa8",
         "title": "Vibe Prospecting - Claude IA",
@@ -262,13 +362,13 @@ export const allVideos = [
     {
         "id": "wriLF7fReMQ",
         "videoId": "wriLF7fReMQ",
-        "title": "Claude fait votre Excel à votre place",
+        "title": "CLAUDE dans EXCEL : l'IA qui change tout",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-04-13",
         "url": "https://www.youtube.com/watch?v=wriLF7fReMQ",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude fait votre Excel à votre place..."
+        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE dans EXCEL : l'IA qui change tout..."
     },
     {
         "id": "BP8dRHl3ij4",
@@ -552,39 +652,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : L'IA organise mes vacances, imaginez ce qu'elle fait pour mon business..."
     },
     {
-        "id": "uHoFblHh4po",
-        "videoId": "uHoFblHh4po",
-        "title": "Meta Muse Spark change la donne IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-10",
-        "url": "https://www.youtube.com/watch?v=uHoFblHh4po",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Meta Muse Spark change la donne IA..."
-    },
-    {
-        "id": "81EyFlkFFm8",
-        "videoId": "81EyFlkFFm8",
-        "title": "Méta sort son IA, Anthropic est déjà trop loin !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-10",
-        "url": "https://www.youtube.com/watch?v=81EyFlkFFm8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Méta sort son IA, Anthropic est déjà trop loin !..."
-    },
-    {
-        "id": "5m4SG_vS0hM",
-        "videoId": "5m4SG_vS0hM",
-        "title": "Votre jumeau numérique vous soigne",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-10",
-        "url": "https://www.youtube.com/watch?v=5m4SG_vS0hM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Votre jumeau numérique vous soigne..."
-    },
-    {
         "id": "k5c0MC0BAX8",
         "videoId": "k5c0MC0BAX8",
         "title": "Muse Spark : l’IA de Meta est INCROYABLE ? (test complet) 😱🚨",
@@ -651,17 +718,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=_vUbdaThfag",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot est devenu incroyable... 7 exemples concrets !..."
-    },
-    {
-        "id": "Tod9azG43t4",
-        "videoId": "Tod9azG43t4",
-        "title": "IA : émotions qui dictent ses choix",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=Tod9azG43t4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : émotions qui dictent ses choix..."
     },
     {
         "id": "-cjtkR_lR2Q",
@@ -887,18 +943,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=avDtMURiHs0",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Qwen 3.5 Omni Plus : L’IA Omnimodale la Plus Avancée Du Moment ? 😱🇨🇳..."
-    },
-    {
-        "id": "rAXZYTg_SFs",
-        "videoId": "rAXZYTg_SFs",
-        "title": "N8N &amp; Claude Code: Attention aux injections de prompt dévastatrices! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=rAXZYTg_SFs",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : N8N &amp; Claude Code: Attention aux injections de prompt dévastatrices! #shorts...",
-        "isShort": true
     },
     {
         "id": "BWwGSK-pKpY",
@@ -2243,17 +2287,6 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : Gemini 3.1 Pro + Antigravity détruisent tous les designers de sites..."
     },
     {
-        "id": "3gNKmyr7Q28",
-        "videoId": "3gNKmyr7Q28",
-        "title": "Comment signer ses Premiers Clients IA (avec 0 audience et 0 témoignages).",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-02-22",
-        "url": "https://www.youtube.com/watch?v=3gNKmyr7Q28",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Comment signer ses Premiers Clients IA (avec 0 audience et 0 témoignages)...."
-    },
-    {
         "id": "unA3slO6aSY",
         "videoId": "unA3slO6aSY",
         "title": "5 Automatisations IA à Implémenter dans TOUTES Les Entreprises",
@@ -2364,17 +2397,6 @@ export const allVideos = [
         "summary": "Nouveauté de Lucas Reverdy : Comment Prospecter sur Linkedin en Automatique avec n8n, Unipile et Apify (Système Complet)..."
     },
     {
-        "id": "6Z43WEeP6kI",
-        "videoId": "6Z43WEeP6kI",
-        "title": "Que vaut Claude Sonnet 4.6 ? 👀",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-02-18",
-        "url": "https://www.youtube.com/watch?v=6Z43WEeP6kI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Que vaut Claude Sonnet 4.6 ? 👀..."
-    },
-    {
         "id": "_EdJxe6f47o",
         "videoId": "_EdJxe6f47o",
         "title": "J'ai payé les 3 abonnements IA : Lequel vaut VRAIMENT ses 20€ ?",
@@ -2417,16 +2439,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=hY49cyKN1T0",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Mode apprentissage IA : ChatGPT ou Gemini, qui est le plus EFFICACE ?..."
-    },
-    {
-        "id": "P56CwdKSyq0",
-        "videoId": "P56CwdKSyq0",
-        "title": "Claude 5 Sonnet va faire trembler OpenAI 👀",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-02-16",
-        "url": "https://www.youtube.com/watch?v=P56CwdKSyq0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude 5 Sonnet va faire trembler OpenAI 👀..."
     }
 ];
