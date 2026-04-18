@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-17T07:27:30.385Z
+// Fichier généré automatiquement le 2026-04-18T07:02:49.337Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:27:30 AM 4/17/2026";
+export const lastUpdate = "7:02:49 AM 4/18/2026";
 
 export const sources = [
     {
@@ -171,6 +171,117 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "DHBtvl6k_1E",
+        "videoId": "DHBtvl6k_1E",
+        "title": "J’ai nettoyé ma boîte mail grâce à Claude Cowork",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=DHBtvl6k_1E",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : J’ai nettoyé ma boîte mail grâce à Claude Cowork..."
+    },
+    {
+        "id": "MEFNXtD_Wgw",
+        "videoId": "MEFNXtD_Wgw",
+        "title": "Claude Opus 4.7 : lent mais juste",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=MEFNXtD_Wgw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude Opus 4.7 : lent mais juste..."
+    },
+    {
+        "id": "YE9u8d7yylE",
+        "videoId": "YE9u8d7yylE",
+        "title": "L'actualité tech du 17/04/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=YE9u8d7yylE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 17/04/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "3v1PNed58tU",
+        "videoId": "3v1PNed58tU",
+        "title": "IA : des Modèles, et des Systèmes pour les gouverner tous !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=3v1PNed58tU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : des Modèles, et des Systèmes pour les gouverner tous !..."
+    },
+    {
+        "id": "gaP87DKeU3w",
+        "videoId": "gaP87DKeU3w",
+        "title": "GPT-6 va verrouiller les boîtes",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=gaP87DKeU3w",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-6 va verrouiller les boîtes..."
+    },
+    {
+        "id": "WLn98Sdvb3c",
+        "videoId": "WLn98Sdvb3c",
+        "title": "Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=WLn98Sdvb3c",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨..."
+    },
+    {
+        "id": "wRaGk8WVBEI",
+        "videoId": "wRaGk8WVBEI",
+        "title": "Opus 4.7 dans Claude Code : ça CHANGE tout 🔥",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=wRaGk8WVBEI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Opus 4.7 dans Claude Code : ça CHANGE tout 🔥..."
+    },
+    {
+        "id": "LAgKHltJRW0",
+        "videoId": "LAgKHltJRW0",
+        "title": "Ce site web est une COPIE PARFAITE de ma maquette ! 🤯 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=LAgKHltJRW0",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Ce site web est une COPIE PARFAITE de ma maquette ! 🤯 #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "7sgi0zIf8r0",
+        "videoId": "7sgi0zIf8r0",
+        "title": "GUIDE COMPLET : Maîtrise Claude OPUS 4.7 en 38 min (débutant) !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=7sgi0zIf8r0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : GUIDE COMPLET : Maîtrise Claude OPUS 4.7 en 38 min (débutant) !..."
+    },
+    {
+        "id": "sb0PTDh2zLs",
+        "videoId": "sb0PTDh2zLs",
+        "title": "Canva vient de lancer quelque chose d'INSANE 🤯",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-04-17",
+        "url": "https://www.youtube.com/watch?v=sb0PTDh2zLs",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Canva vient de lancer quelque chose d'INSANE 🤯..."
+    },
     {
         "id": "er63Jet24pM",
         "videoId": "er63Jet24pM",
@@ -481,39 +592,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : France quitte Microsoft ?..."
     },
     {
-        "id": "C1w7y04jmd0",
-        "videoId": "C1w7y04jmd0",
-        "title": "IA : est-ce qu'il est déjà trop tard ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=C1w7y04jmd0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : est-ce qu'il est déjà trop tard ?..."
-    },
-    {
-        "id": "gln687SPJ98",
-        "videoId": "gln687SPJ98",
-        "title": "L'actualité tech du 13/04/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=gln687SPJ98",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 13/04/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "OATR9eg3-CQ",
-        "videoId": "OATR9eg3-CQ",
-        "title": "Ton clone IA poste à ta place",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=OATR9eg3-CQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Ton clone IA poste à ta place..."
-    },
-    {
         "id": "BE-a3usqB4w",
         "videoId": "BE-a3usqB4w",
         "title": "Claude AI: Test Dispatch avec Nouvelle Fonctionnalité Incroyable #shorts",
@@ -604,17 +682,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=34LSk9nSXYM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Automatisez le découpage de vos vidéos avec n8n et FFmpeg..."
-    },
-    {
-        "id": "w-pdVYbQYuc",
-        "videoId": "w-pdVYbQYuc",
-        "title": "Anthropic lance agents IA gérés",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-11",
-        "url": "https://www.youtube.com/watch?v=w-pdVYbQYuc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Anthropic lance agents IA gérés..."
     },
     {
         "id": "w7Hli9du028",
@@ -955,18 +1022,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "deD29pvffko",
-        "videoId": "deD29pvffko",
-        "title": "Claude Code vs N8N : Lequel choisir pour vos automatisations ? #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=deD29pvffko",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code vs N8N : Lequel choisir pour vos automatisations ? #shorts...",
-        "isShort": true
-    },
-    {
         "id": "wkj501BcL0U",
         "videoId": "wkj501BcL0U",
         "title": "Transforme ta vidéo dans une ambiance « Golden Hour »",
@@ -1108,17 +1163,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=FpVB_B6etu4",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : GUIDE GRATUIT : Maîtriser Antigravity comme un PRO (1h30)..."
-    },
-    {
-        "id": "tLjmEe-xeDw",
-        "videoId": "tLjmEe-xeDw",
-        "title": "ChatGPT est dépassé",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=tLjmEe-xeDw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT est dépassé..."
     },
     {
         "id": "mUFTkEVVeK8",
@@ -1702,17 +1746,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=20Q2Ry-Q8mA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Suis ta conso Claude Code super simplement ! 👀..."
-    },
-    {
-        "id": "kKBXnbNUjTc",
-        "videoId": "kKBXnbNUjTc",
-        "title": "Mistral Small 4 : Que Vaut VRAIMENT ce Modèle OPEN SOURCE 120B ? 🇫🇷😱",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=kKBXnbNUjTc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Mistral Small 4 : Que Vaut VRAIMENT ce Modèle OPEN SOURCE 120B ? 🇫🇷😱..."
     },
     {
         "id": "vP0qh6ch99o",
@@ -2406,16 +2439,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Ri3kfMy9aD0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des meilleurs outils IA de 2026..."
-    },
-    {
-        "id": "t3Dr073cCHQ",
-        "videoId": "t3Dr073cCHQ",
-        "title": "Comment Prospecter sur Linkedin en Automatique avec n8n, Unipile et Apify (Système Complet)",
-        "author": "Lucas Reverdy",
-        "source": "@reverdybusiness",
-        "date": "2026-02-18",
-        "url": "https://www.youtube.com/watch?v=t3Dr073cCHQ",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Lucas Reverdy : Comment Prospecter sur Linkedin en Automatique avec n8n, Unipile et Apify (Système Complet)..."
     }
 ];
