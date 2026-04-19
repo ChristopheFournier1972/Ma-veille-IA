@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-18T07:02:49.337Z
+// Fichier généré automatiquement le 2026-04-19T07:14:31.776Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:02:49 AM 4/18/2026";
+export const lastUpdate = "7:14:31 AM 4/19/2026";
 
 export const sources = [
     {
@@ -171,6 +171,85 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "Pz9R-Y8eISU",
+        "videoId": "Pz9R-Y8eISU",
+        "title": "Créer des vidéos IA gratuitement avec LTX Studio",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-18",
+        "url": "https://www.youtube.com/watch?v=Pz9R-Y8eISU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Créer des vidéos IA gratuitement avec LTX Studio..."
+    },
+    {
+        "id": "TN-YIggmDmQ",
+        "videoId": "TN-YIggmDmQ",
+        "title": "CLAUDE CODE crée tes AGENTS IA (sans coder)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-18",
+        "url": "https://www.youtube.com/watch?v=TN-YIggmDmQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE CODE crée tes AGENTS IA (sans coder)..."
+    },
+    {
+        "id": "p4zfb5MiWAE",
+        "videoId": "p4zfb5MiWAE",
+        "title": "OpenAI crée un coéquipier IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-18",
+        "url": "https://www.youtube.com/watch?v=p4zfb5MiWAE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI crée un coéquipier IA..."
+    },
+    {
+        "id": "FssLGyOHto4",
+        "videoId": "FssLGyOHto4",
+        "title": "Claude Code : IA qui code la nuit",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-18",
+        "url": "https://www.youtube.com/watch?v=FssLGyOHto4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude Code : IA qui code la nuit..."
+    },
+    {
+        "id": "XphRDltcYSA",
+        "videoId": "XphRDltcYSA",
+        "title": "Le Second Cerveau IA le plus complet que j'ai vu (démo d'Ulysse Lubin)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-04-18",
+        "url": "https://www.youtube.com/watch?v=XphRDltcYSA",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le Second Cerveau IA le plus complet que j'ai vu (démo d'Ulysse Lubin)..."
+    },
+    {
+        "id": "dgVmGBLTMQA",
+        "videoId": "dgVmGBLTMQA",
+        "title": "Créez des Sites Web Parfaits: Intégrez Facilement Vos Designs Stitch avec Claude Code! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-18",
+        "url": "https://www.youtube.com/watch?v=dgVmGBLTMQA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez des Sites Web Parfaits: Intégrez Facilement Vos Designs Stitch avec Claude Code! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "4TamT8db7GQ",
+        "videoId": "4TamT8db7GQ",
+        "title": "Stitch de Google: La fin des designers web est là! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-18",
+        "url": "https://www.youtube.com/watch?v=4TamT8db7GQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Stitch de Google: La fin des designers web est là! #shorts...",
+        "isShort": true
+    },
     {
         "id": "DHBtvl6k_1E",
         "videoId": "DHBtvl6k_1E",
@@ -515,17 +594,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : École, IA et la fracture cognitive qui vient..."
     },
     {
-        "id": "qffap7gnfNw",
-        "videoId": "qffap7gnfNw",
-        "title": "Meta AI expose la vie privée ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-14",
-        "url": "https://www.youtube.com/watch?v=qffap7gnfNw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Meta AI expose la vie privée ?..."
-    },
-    {
         "id": "9_T-RzbA_EQ",
         "videoId": "9_T-RzbA_EQ",
         "title": "Votre futur employeur est une IA (ça a déjà commencé)",
@@ -579,17 +647,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BP8dRHl3ij4",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : MAUVAIS vs BON vs EXCELLENT 🤖..."
-    },
-    {
-        "id": "2JWn2kiOO4w",
-        "videoId": "2JWn2kiOO4w",
-        "title": "France quitte Microsoft ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=2JWn2kiOO4w",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : France quitte Microsoft ?..."
     },
     {
         "id": "BE-a3usqB4w",
@@ -943,18 +1000,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Qwen 3.6 Plus : Enfin un Modèle Open Source au Niveau d’Opus ? 😱🔥..."
     },
     {
-        "id": "BoNBJYEY4ok",
-        "videoId": "BoNBJYEY4ok",
-        "title": "Le plan COMPLET de Claude : L'IA qui transforme YouTube en OR ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-08",
-        "url": "https://www.youtube.com/watch?v=BoNBJYEY4ok",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Le plan COMPLET de Claude : L'IA qui transforme YouTube en OR ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "svRtxQemC9I",
         "videoId": "svRtxQemC9I",
         "title": "J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)",
@@ -1008,18 +1053,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=6d9HeBlu7Iw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais...."
-    },
-    {
-        "id": "g57l3uFVffA",
-        "videoId": "g57l3uFVffA",
-        "title": "Automatisez Vos Vidéos YouTube Avec une IA Connectée à Telegram ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=g57l3uFVffA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Automatisez Vos Vidéos YouTube Avec une IA Connectée à Telegram ! #shorts...",
-        "isShort": true
     },
     {
         "id": "wkj501BcL0U",
@@ -1086,28 +1119,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ecL5Kt4v-kI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce..."
-    },
-    {
-        "id": "sbl9oFY-xXY",
-        "videoId": "sbl9oFY-xXY",
-        "title": "5 commandes secrètes qui rendent Claude 10x plus puissant",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-04",
-        "url": "https://www.youtube.com/watch?v=sbl9oFY-xXY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 commandes secrètes qui rendent Claude 10x plus puissant..."
-    },
-    {
-        "id": "qkDQMUVzLNY",
-        "videoId": "qkDQMUVzLNY",
-        "title": "J'utilise Claude depuis 643 jours : je te donne TOUT ce que je sais",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-04",
-        "url": "https://www.youtube.com/watch?v=qkDQMUVzLNY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : J'utilise Claude depuis 643 jours : je te donne TOUT ce que je sais..."
     },
     {
         "id": "Kksw2LAMXvg",
@@ -2417,27 +2428,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gob6AZwS-TI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Le Guide Claude COWORK ULTIME en 2026 ! (méthode complète)..."
-    },
-    {
-        "id": "RLpMbcWaQnE",
-        "videoId": "RLpMbcWaQnE",
-        "title": "Claude surpasse toutes les IA... 7 exemples concrets !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-02-19",
-        "url": "https://www.youtube.com/watch?v=RLpMbcWaQnE",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Claude surpasse toutes les IA... 7 exemples concrets !..."
-    },
-    {
-        "id": "Ri3kfMy9aD0",
-        "videoId": "Ri3kfMy9aD0",
-        "title": "Tierlist des meilleurs outils IA de 2026",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-02-19",
-        "url": "https://www.youtube.com/watch?v=Ri3kfMy9aD0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des meilleurs outils IA de 2026..."
     }
 ];
