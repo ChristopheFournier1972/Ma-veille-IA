@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-22T07:27:42.665Z
+// Fichier généré automatiquement le 2026-04-23T07:45:51.211Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:27:42 AM 4/22/2026";
+export const lastUpdate = "7:45:51 AM 4/23/2026";
 
 export const sources = [
     {
@@ -171,6 +171,152 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "uozXZRzevKQ",
+        "videoId": "uozXZRzevKQ",
+        "title": "Sélectionner et commenter des éléments visuels en direct #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=uozXZRzevKQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Sélectionner et commenter des éléments visuels en direct #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "lXnCuvAbXrA",
+        "videoId": "lXnCuvAbXrA",
+        "title": "Agents IA : j'aurai aimé avoir connu ce prompt plus tôt",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=lXnCuvAbXrA",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Agents IA : j'aurai aimé avoir connu ce prompt plus tôt..."
+    },
+    {
+        "id": "jyUJUyYEraI",
+        "videoId": "jyUJUyYEraI",
+        "title": "ChatGPT vient de lancer GPT Image 2.0 (et c’est WOW…)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=jyUJUyYEraI",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : ChatGPT vient de lancer GPT Image 2.0 (et c’est WOW…)..."
+    },
+    {
+        "id": "dOlYHNSifGc",
+        "videoId": "dOlYHNSifGc",
+        "title": "Le nouveau GPT Image 2 est disponible.. et c'est bluffant !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=dOlYHNSifGc",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Le nouveau GPT Image 2 est disponible.. et c'est bluffant !..."
+    },
+    {
+        "id": "1tH_6orOqek",
+        "videoId": "1tH_6orOqek",
+        "title": "ChatGPT Images pense avant créer",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=1tH_6orOqek",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT Images pense avant créer..."
+    },
+    {
+        "id": "TMUMzyn6_zE",
+        "videoId": "TMUMzyn6_zE",
+        "title": "L'actualité tech du 22/04/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=TMUMzyn6_zE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 22/04/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "w6_C4EoI8p8",
+        "videoId": "w6_C4EoI8p8",
+        "title": "ChatGPT Image 2.0, piratage, espionnage : ne croyez plus à rien !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=w6_C4EoI8p8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT Image 2.0, piratage, espionnage : ne croyez plus à rien !..."
+    },
+    {
+        "id": "39IDSSYxj-U",
+        "videoId": "39IDSSYxj-U",
+        "title": "Musk promet un revenu avec l’IA ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=39IDSSYxj-U",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Musk promet un revenu avec l’IA ?..."
+    },
+    {
+        "id": "CkUtbdamfCk",
+        "videoId": "CkUtbdamfCk",
+        "title": "Je regrette d'avoir créé des interfaces avec l'IA (pas à cause du code)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=CkUtbdamfCk",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Je regrette d'avoir créé des interfaces avec l'IA (pas à cause du code)..."
+    },
+    {
+        "id": "5G8ampZBkKE",
+        "videoId": "5G8ampZBkKE",
+        "title": "🚨 Qwen 3.6-35B-A3B : UN TOURNANT pour l’Open Source ? (Adieu Gemma 4) 😳🔥",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=5G8ampZBkKE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : 🚨 Qwen 3.6-35B-A3B : UN TOURNANT pour l’Open Source ? (Adieu Gemma 4) 😳🔥..."
+    },
+    {
+        "id": "XByAQxs4yCY",
+        "videoId": "XByAQxs4yCY",
+        "title": "GPT Image 2 vs Nano Banana 2 : lequel est vraiment le meilleur 🏆",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=XByAQxs4yCY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : GPT Image 2 vs Nano Banana 2 : lequel est vraiment le meilleur 🏆..."
+    },
+    {
+        "id": "MPVAXuCpQOI",
+        "videoId": "MPVAXuCpQOI",
+        "title": "Stitch IA : L'art de créer un site web unique et cohérent #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=MPVAXuCpQOI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Stitch IA : L'art de créer un site web unique et cohérent #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Tr9xtmY5Msk",
+        "videoId": "Tr9xtmY5Msk",
+        "title": "L'IA Réinvente le Web Design : Couleurs et Modification Facile ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-04-22",
+        "url": "https://www.youtube.com/watch?v=Tr9xtmY5Msk",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : L'IA Réinvente le Web Design : Couleurs et Modification Facile ! #shorts...",
+        "isShort": true
+    },
     {
         "id": "JLrI5I3114M",
         "videoId": "JLrI5I3114M",
@@ -576,28 +722,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 17/04/2026 en Live sur Renaud Dékode..."
     },
     {
-        "id": "3v1PNed58tU",
-        "videoId": "3v1PNed58tU",
-        "title": "IA : des Modèles, et des Systèmes pour les gouverner tous !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=3v1PNed58tU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : des Modèles, et des Systèmes pour les gouverner tous !..."
-    },
-    {
-        "id": "gaP87DKeU3w",
-        "videoId": "gaP87DKeU3w",
-        "title": "GPT-6 va verrouiller les boîtes",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=gaP87DKeU3w",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-6 va verrouiller les boîtes..."
-    },
-    {
         "id": "WLn98Sdvb3c",
         "videoId": "WLn98Sdvb3c",
         "title": "Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨",
@@ -674,28 +798,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=R7O2TaM709Y",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : J’ai créé une équipe d’Agents IA dans Claude ! (Ils bossent pour moi)..."
-    },
-    {
-        "id": "XdSxXREtGoE",
-        "videoId": "XdSxXREtGoE",
-        "title": "L’IA change, crée ou détruit le travail ? Avec Laurent Cappelletti",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-16",
-        "url": "https://www.youtube.com/watch?v=XdSxXREtGoE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L’IA change, crée ou détruit le travail ? Avec Laurent Cappelletti..."
-    },
-    {
-        "id": "Lv2Kk9B8Vwg",
-        "videoId": "Lv2Kk9B8Vwg",
-        "title": "IA : la fracture devient violente",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-16",
-        "url": "https://www.youtube.com/watch?v=Lv2Kk9B8Vwg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : la fracture devient violente..."
     },
     {
         "id": "2CT3wqam2DY",
@@ -876,18 +978,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "k3YkKPM9MjY",
-        "videoId": "k3YkKPM9MjY",
-        "title": "Claude in Chrome : La révolution pour YouTube #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=k3YkKPM9MjY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude in Chrome : La révolution pour YouTube #shorts...",
-        "isShort": true
-    },
-    {
         "id": "LbPvgHNthJs",
         "videoId": "LbPvgHNthJs",
         "title": "J'ai appris l'espagnol en 2 semaines avec l'IA (Je teste ça à Séville)",
@@ -912,37 +1002,13 @@ export const allVideos = [
     {
         "id": "kEedBb-kT9g",
         "videoId": "kEedBb-kT9g",
-        "title": "Tout Comprendre sur l’IA Claude Cowork en 37 Minutes",
+        "title": "Comment maîtriser Claude Cowork mieux que 99% de la population",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-04-12",
         "url": "https://www.youtube.com/watch?v=kEedBb-kT9g",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Tout Comprendre sur l’IA Claude Cowork en 37 Minutes..."
-    },
-    {
-        "id": "JSeKrPaK2oY",
-        "videoId": "JSeKrPaK2oY",
-        "title": "Claude: L'IA qui navigue sur votre YouTube! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-12",
-        "url": "https://www.youtube.com/watch?v=JSeKrPaK2oY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude: L'IA qui navigue sur votre YouTube! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "pO8GD5zKORo",
-        "videoId": "pO8GD5zKORo",
-        "title": "Claude IA : Exploitez son potentiel MAX sur Terminal ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-12",
-        "url": "https://www.youtube.com/watch?v=pO8GD5zKORo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude IA : Exploitez son potentiel MAX sur Terminal ! #shorts...",
-        "isShort": true
+        "summary": "Nouveauté de Yassine Sdiri : Comment maîtriser Claude Cowork mieux que 99% de la population..."
     },
     {
         "id": "34LSk9nSXYM",
@@ -1024,13 +1090,13 @@ export const allVideos = [
     {
         "id": "_vUbdaThfag",
         "videoId": "_vUbdaThfag",
-        "title": "7 Utilisations incroyables de Microsoft Copilot ! (Il a changé !)",
+        "title": "Microsoft Copilot a totalement changé ! (7 exemples INCROYABLES)",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-04-09",
         "url": "https://www.youtube.com/watch?v=_vUbdaThfag",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : 7 Utilisations incroyables de Microsoft Copilot ! (Il a changé !)..."
+        "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot a totalement changé ! (7 exemples INCROYABLES)..."
     },
     {
         "id": "-cjtkR_lR2Q",
@@ -1704,17 +1770,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Utilise Claude Code gratuitement avec cette méthode (Pas besoin de RAM)..."
     },
     {
-        "id": "QKuLiksBzbY",
-        "videoId": "QKuLiksBzbY",
-        "title": "MiniMax M2.7 est INCROYABLE 🤯 : Meilleur qu’Opus 4.6 (20x Moins Cher) ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-22",
-        "url": "https://www.youtube.com/watch?v=QKuLiksBzbY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : MiniMax M2.7 est INCROYABLE 🤯 : Meilleur qu’Opus 4.6 (20x Moins Cher) ?..."
-    },
-    {
         "id": "PAT7dZxCimM",
         "videoId": "PAT7dZxCimM",
         "title": "Ton Claude Code oublie TOUT ? Tout savoir sur sa mémoire ! (Guide complet)",
@@ -2276,17 +2331,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : J'ai branché l'IA sur mon second cerveau (avant/après)..."
     },
     {
-        "id": "UWtsTSy71j0",
-        "videoId": "UWtsTSy71j0",
-        "title": "BREAKING NEWS : CLAUDE VIENT JUSTE D'ÊTRE BANNI DES USA.",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-02-28",
-        "url": "https://www.youtube.com/watch?v=UWtsTSy71j0",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : BREAKING NEWS : CLAUDE VIENT JUSTE D'ÊTRE BANNI DES USA...."
-    },
-    {
         "id": "b2UF-1l3I_Q",
         "videoId": "b2UF-1l3I_Q",
         "title": "J'ai connecté l'IA à mes outils et elle automatise tout à ma place",
@@ -2406,27 +2450,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=--zIrAuE90c",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Apprendre en 2026 : Ma méthode pour assimiler 2x plus d’infos..."
-    },
-    {
-        "id": "4f9JPpdwmWg",
-        "videoId": "4f9JPpdwmWg",
-        "title": "Installer Claude Code sur VS Code en 30 secondes 🎯 (tuto débutant)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-02-23",
-        "url": "https://www.youtube.com/watch?v=4f9JPpdwmWg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Installer Claude Code sur VS Code en 30 secondes 🎯 (tuto débutant)..."
-    },
-    {
-        "id": "2QY2v_MAg8U",
-        "videoId": "2QY2v_MAg8U",
-        "title": "Gemini 3.1 Pro + Antigravity détruisent tous les designers de sites",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-02-23",
-        "url": "https://www.youtube.com/watch?v=2QY2v_MAg8U",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Gemini 3.1 Pro + Antigravity détruisent tous les designers de sites..."
     }
 ];
