@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-24T07:57:37.449Z
+// Fichier généré automatiquement le 2026-04-25T07:09:41.224Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:57:37 AM 4/24/2026";
+export const lastUpdate = "7:09:41 AM 4/25/2026";
 
 export const sources = [
     {
@@ -171,6 +171,72 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "DxcWipXoUV8",
+        "videoId": "DxcWipXoUV8",
+        "title": "Claude vient d'enterrer les logiciels de montage",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-24",
+        "url": "https://www.youtube.com/watch?v=DxcWipXoUV8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude vient d'enterrer les logiciels de montage..."
+    },
+    {
+        "id": "unLaJShTgJc",
+        "videoId": "unLaJShTgJc",
+        "title": "GPT-5.5 lance la superapp IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-24",
+        "url": "https://www.youtube.com/watch?v=unLaJShTgJc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-5.5 lance la superapp IA..."
+    },
+    {
+        "id": "fC9najo7Mfs",
+        "videoId": "fC9najo7Mfs",
+        "title": "L'actualité tech du 24/04/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-24",
+        "url": "https://www.youtube.com/watch?v=fC9najo7Mfs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 24/04/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "WhpRtPsdeGU",
+        "videoId": "WhpRtPsdeGU",
+        "title": "OpenAI et ChatGPT 5.5 : L'Incroyable Remontada !?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-24",
+        "url": "https://www.youtube.com/watch?v=WhpRtPsdeGU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI et ChatGPT 5.5 : L'Incroyable Remontada !?..."
+    },
+    {
+        "id": "IvLpJGbG3h4",
+        "videoId": "IvLpJGbG3h4",
+        "title": "Un robot bat le semi-marathon ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-24",
+        "url": "https://www.youtube.com/watch?v=IvLpJGbG3h4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Un robot bat le semi-marathon ?..."
+    },
+    {
+        "id": "bWvUQNEGqDE",
+        "videoId": "bWvUQNEGqDE",
+        "title": "DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨🇳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-04-24",
+        "url": "https://www.youtube.com/watch?v=bWvUQNEGqDE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨🇳..."
+    },
     {
         "id": "RIlyLguqR8o",
         "videoId": "RIlyLguqR8o",
@@ -553,28 +619,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Les humains remplacés partout. On fait quoi ?..."
     },
     {
-        "id": "qHU4zewqJcg",
-        "videoId": "qHU4zewqJcg",
-        "title": "L'actualité tech du 20/04/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=qHU4zewqJcg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 20/04/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "rJ1Vsynu-QU",
-        "videoId": "rJ1Vsynu-QU",
-        "title": "Google Chrome bascule en mode IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=rJ1Vsynu-QU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google Chrome bascule en mode IA..."
-    },
-    {
         "id": "L9ZE0wi3-3Y",
         "videoId": "L9ZE0wi3-3Y",
         "title": "L'IA refait votre site web en orange : design fluide et rapide #shorts",
@@ -641,17 +685,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5MIDO2fApqU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Classement des meilleures IA !..."
-    },
-    {
-        "id": "oH0mRHCAJOk",
-        "videoId": "oH0mRHCAJOk",
-        "title": "Kiro v3, la plateforme multi-IA gratuite ET kiffante",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=oH0mRHCAJOk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Kiro v3, la plateforme multi-IA gratuite ET kiffante..."
     },
     {
         "id": "H9BNiEn_pJ8",
@@ -731,17 +764,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=TN-YIggmDmQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : CLAUDE CODE crée tes AGENTS IA (sans coder)..."
-    },
-    {
-        "id": "p4zfb5MiWAE",
-        "videoId": "p4zfb5MiWAE",
-        "title": "OpenAI crée un coéquipier IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-18",
-        "url": "https://www.youtube.com/watch?v=p4zfb5MiWAE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI crée un coéquipier IA..."
     },
     {
         "id": "XphRDltcYSA",
@@ -1086,17 +1108,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uIjp0Bx9mWg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Où vont vraiment vos données quand vous parlez à l'IA..."
-    },
-    {
-        "id": "ylQjPERdnPM",
-        "videoId": "ylQjPERdnPM",
-        "title": "3 façons d’utiliser Claude qui sont surpuissante !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-10",
-        "url": "https://www.youtube.com/watch?v=ylQjPERdnPM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 3 façons d’utiliser Claude qui sont surpuissante !..."
     },
     {
         "id": "k5c0MC0BAX8",
@@ -1724,17 +1735,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-LXUVXwv2FI",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Claude Dispatch, la nouvelle folie d'Anthropic !..."
-    },
-    {
-        "id": "6E7_p3gxRdc",
-        "videoId": "6E7_p3gxRdc",
-        "title": "Mimo V2 Pro est INCROYABLE : Niveau Opus 4.6… Mais 8x Moins Cher ? 🤯",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=6E7_p3gxRdc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Mimo V2 Pro est INCROYABLE : Niveau Opus 4.6… Mais 8x Moins Cher ? 🤯..."
     },
     {
         "id": "e0hwvA2cjGY",
