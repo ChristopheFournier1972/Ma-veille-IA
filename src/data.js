@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-25T07:09:41.224Z
+// Fichier généré automatiquement le 2026-04-26T07:23:58.719Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:09:41 AM 4/25/2026";
+export const lastUpdate = "7:23:58 AM 4/26/2026";
 
 export const sources = [
     {
@@ -171,6 +171,61 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "gOZzPFNR0Kw",
+        "videoId": "gOZzPFNR0Kw",
+        "title": "Tu savais que tu peux créer tous tes carrousels Instagram avec Claude ?",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-25",
+        "url": "https://www.youtube.com/watch?v=gOZzPFNR0Kw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu savais que tu peux créer tous tes carrousels Instagram avec Claude ?..."
+    },
+    {
+        "id": "QH3cvmREVPs",
+        "videoId": "QH3cvmREVPs",
+        "title": "IA bat les médecins ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-25",
+        "url": "https://www.youtube.com/watch?v=QH3cvmREVPs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA bat les médecins ?..."
+    },
+    {
+        "id": "j7cKjTMjNLE",
+        "videoId": "j7cKjTMjNLE",
+        "title": "Hermes Agent, comment profiter de l'OpenClaw killer",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-25",
+        "url": "https://www.youtube.com/watch?v=j7cKjTMjNLE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Hermes Agent, comment profiter de l'OpenClaw killer..."
+    },
+    {
+        "id": "rtsGd1kiuS4",
+        "videoId": "rtsGd1kiuS4",
+        "title": "ChatGPT devient votre collègue IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-25",
+        "url": "https://www.youtube.com/watch?v=rtsGd1kiuS4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT devient votre collègue IA..."
+    },
+    {
+        "id": "eDhOomO4FpE",
+        "videoId": "eDhOomO4FpE",
+        "title": "Le paradoxe de l'IA : plus tu progresses, plus tu te perds",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-04-25",
+        "url": "https://www.youtube.com/watch?v=eDhOomO4FpE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le paradoxe de l'IA : plus tu progresses, plus tu te perds..."
+    },
     {
         "id": "DxcWipXoUV8",
         "videoId": "DxcWipXoUV8",
@@ -518,17 +573,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Gemini 1.6 : le robot qui raisonne..."
     },
     {
-        "id": "QGkPlLWCIOc",
-        "videoId": "QGkPlLWCIOc",
-        "title": "La voix IA devient actrice",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-21",
-        "url": "https://www.youtube.com/watch?v=QGkPlLWCIOc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : La voix IA devient actrice..."
-    },
-    {
         "id": "PvkMwQkqw2Q",
         "videoId": "PvkMwQkqw2Q",
         "title": "Ce design IA colle PARFAITEMENT à Claude - Incroyable ! #shorts",
@@ -595,28 +639,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yAmJcjT9RcY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Comment installer Claude Code de manière 100% gratuite..."
-    },
-    {
-        "id": "ww6JDuH3dYI",
-        "videoId": "ww6JDuH3dYI",
-        "title": "Claude Design : le design par IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=ww6JDuH3dYI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude Design : le design par IA..."
-    },
-    {
-        "id": "wX4HLhjuT2E",
-        "videoId": "wX4HLhjuT2E",
-        "title": "Les humains remplacés partout. On fait quoi ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=wX4HLhjuT2E",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Les humains remplacés partout. On fait quoi ?..."
     },
     {
         "id": "L9ZE0wi3-3Y",
@@ -1031,17 +1053,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=wriLF7fReMQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : CLAUDE dans EXCEL : l'IA qui change tout..."
-    },
-    {
-        "id": "BP8dRHl3ij4",
-        "videoId": "BP8dRHl3ij4",
-        "title": "MAUVAIS vs BON vs EXCELLENT 🤖",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=BP8dRHl3ij4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : MAUVAIS vs BON vs EXCELLENT 🤖..."
     },
     {
         "id": "LbPvgHNthJs",
@@ -2384,38 +2395,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YaK_n0yhPXE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Claude connecte Google à n8n sans erreur | Tutoriel complet..."
-    },
-    {
-        "id": "t8nxFyZtgbw",
-        "videoId": "t8nxFyZtgbw",
-        "title": "Claude vient d'arriver dans Powerpoint... c'est terrifiant !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-02-26",
-        "url": "https://www.youtube.com/watch?v=t8nxFyZtgbw",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Claude vient d'arriver dans Powerpoint... c'est terrifiant !..."
-    },
-    {
-        "id": "by_rpps-zdM",
-        "videoId": "by_rpps-zdM",
-        "title": "Les Agents IA sont TROP Utilisés. Voici ce qu’il faut faire à la place",
-        "author": "Louis Graffeuil",
-        "source": "@LouisGraffeuil",
-        "date": "2026-02-26",
-        "url": "https://www.youtube.com/watch?v=by_rpps-zdM",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Louis Graffeuil : Les Agents IA sont TROP Utilisés. Voici ce qu’il faut faire à la place..."
-    },
-    {
-        "id": "aIx8UECB3HA",
-        "videoId": "aIx8UECB3HA",
-        "title": "ENFIN.... !",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-02-26",
-        "url": "https://www.youtube.com/watch?v=aIx8UECB3HA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : ENFIN.... !..."
     }
 ];
