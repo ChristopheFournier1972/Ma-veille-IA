@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-27T08:16:05.926Z
+// Fichier généré automatiquement le 2026-04-28T08:20:23.006Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:16:05 AM 4/27/2026";
+export const lastUpdate = "8:20:23 AM 4/28/2026";
 
 export const sources = [
     {
@@ -171,6 +171,72 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "YU4bmtJF_J4",
+        "videoId": "YU4bmtJF_J4",
+        "title": "5 outils IA indispensables pour les petites entreprises en 2026",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-27",
+        "url": "https://www.youtube.com/watch?v=YU4bmtJF_J4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 outils IA indispensables pour les petites entreprises en 2026..."
+    },
+    {
+        "id": "mPLy2JG7S4s",
+        "videoId": "mPLy2JG7S4s",
+        "title": "DeepSeek V4 écrase GPT-5.5 ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-27",
+        "url": "https://www.youtube.com/watch?v=mPLy2JG7S4s",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : DeepSeek V4 écrase GPT-5.5 ?..."
+    },
+    {
+        "id": "G-bEGmYWUok",
+        "videoId": "G-bEGmYWUok",
+        "title": "L'actualité tech du 27/04/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-27",
+        "url": "https://www.youtube.com/watch?v=G-bEGmYWUok",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 27/04/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "lakm2aWEZo4",
+        "videoId": "lakm2aWEZo4",
+        "title": "L'IA consolide des super-puissances mondiales, méfiance !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-27",
+        "url": "https://www.youtube.com/watch?v=lakm2aWEZo4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA consolide des super-puissances mondiales, méfiance !..."
+    },
+    {
+        "id": "6yupkurBBUU",
+        "videoId": "6yupkurBBUU",
+        "title": "Kimi K2.6 bat GPT-5.4 et Opus",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-27",
+        "url": "https://www.youtube.com/watch?v=6yupkurBBUU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Kimi K2.6 bat GPT-5.4 et Opus..."
+    },
+    {
+        "id": "lMsM3SmfTuY",
+        "videoId": "lMsM3SmfTuY",
+        "title": "Créer un court métrage gratuit avec l'IA (TUTO COMPLET)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-04-27",
+        "url": "https://www.youtube.com/watch?v=lMsM3SmfTuY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Créer un court métrage gratuit avec l'IA (TUTO COMPLET)..."
+    },
     {
         "id": "iZnp0kQ_NnY",
         "videoId": "iZnp0kQ_NnY",
@@ -483,39 +549,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : ChatGPT Images pense avant créer..."
     },
     {
-        "id": "TMUMzyn6_zE",
-        "videoId": "TMUMzyn6_zE",
-        "title": "L'actualité tech du 22/04/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=TMUMzyn6_zE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 22/04/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "w6_C4EoI8p8",
-        "videoId": "w6_C4EoI8p8",
-        "title": "ChatGPT Image 2.0, piratage, espionnage : ne croyez plus à rien !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=w6_C4EoI8p8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ChatGPT Image 2.0, piratage, espionnage : ne croyez plus à rien !..."
-    },
-    {
-        "id": "39IDSSYxj-U",
-        "videoId": "39IDSSYxj-U",
-        "title": "Musk promet un revenu avec l’IA ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=39IDSSYxj-U",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Musk promet un revenu avec l’IA ?..."
-    },
-    {
         "id": "CkUtbdamfCk",
         "videoId": "CkUtbdamfCk",
         "title": "Je regrette d'avoir créé des interfaces avec l'IA (pas à cause du code)",
@@ -593,17 +626,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RQhj_I_erVg",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : 5 secrets sur Claude que personne ne connait !..."
-    },
-    {
-        "id": "LlRvnMktZn0",
-        "videoId": "LlRvnMktZn0",
-        "title": "Gemini 1.6 : le robot qui raisonne",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-21",
-        "url": "https://www.youtube.com/watch?v=LlRvnMktZn0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Gemini 1.6 : le robot qui raisonne..."
     },
     {
         "id": "PvkMwQkqw2Q",
@@ -1064,17 +1086,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Dv6suL5-fAE",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : 7 leviers (que personne n’utilise) pour boire la concurrence dans l’IA...."
-    },
-    {
-        "id": "avCn3cdcT_g",
-        "videoId": "avCn3cdcT_g",
-        "title": "5 commandes secrètes pour ChatGPT # short",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=avCn3cdcT_g",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 commandes secrètes pour ChatGPT # short..."
     },
     {
         "id": "LbPvgHNthJs",
@@ -2373,16 +2384,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=xfO9fMx6PlA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : J'ai branché l'IA sur mon second cerveau (avant/après)..."
-    },
-    {
-        "id": "b2UF-1l3I_Q",
-        "videoId": "b2UF-1l3I_Q",
-        "title": "J'ai connecté l'IA à mes outils et elle automatise tout à ma place",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-02-28",
-        "url": "https://www.youtube.com/watch?v=b2UF-1l3I_Q",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : J'ai connecté l'IA à mes outils et elle automatise tout à ma place..."
     }
 ];
