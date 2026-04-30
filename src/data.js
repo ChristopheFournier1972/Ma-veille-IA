@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-29T08:10:18.688Z
+// Fichier généré automatiquement le 2026-04-30T08:14:31.383Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:10:18 AM 4/29/2026";
+export const lastUpdate = "8:14:31 AM 4/30/2026";
 
 export const sources = [
     {
@@ -171,6 +171,116 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "ioJMtQ8OOWw",
+        "videoId": "ioJMtQ8OOWw",
+        "title": "Les 5 skills à AVOIR dans ton Claude Code",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=ioJMtQ8OOWw",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Les 5 skills à AVOIR dans ton Claude Code..."
+    },
+    {
+        "id": "vvBQET43U64",
+        "videoId": "vvBQET43U64",
+        "title": "Claude vient de lancer Claude Design",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=vvBQET43U64",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude vient de lancer Claude Design..."
+    },
+    {
+        "id": "jSTEoB1gGQQ",
+        "videoId": "jSTEoB1gGQQ",
+        "title": "Claude IA m'a trouvé l'idée, cette IA l'a lancée en 1h (débutant)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=jSTEoB1gGQQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude IA m'a trouvé l'idée, cette IA l'a lancée en 1h (débutant)..."
+    },
+    {
+        "id": "6XTqO4shhRg",
+        "videoId": "6XTqO4shhRg",
+        "title": "La Chine annule le deal Meta IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=6XTqO4shhRg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : La Chine annule le deal Meta IA..."
+    },
+    {
+        "id": "-BhE3IyrvGQ",
+        "videoId": "-BhE3IyrvGQ",
+        "title": "IA : l'Empire contre-attaque mais un nouvel espoir arrive",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=-BhE3IyrvGQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : l'Empire contre-attaque mais un nouvel espoir arrive..."
+    },
+    {
+        "id": "QgfTIwMV5Qc",
+        "videoId": "QgfTIwMV5Qc",
+        "title": "L'actualité tech du 29/04/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=QgfTIwMV5Qc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 29/04/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "cXcAll-5dj4",
+        "videoId": "cXcAll-5dj4",
+        "title": "IA souveraine: fusion à 20 Md$",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=cXcAll-5dj4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA souveraine: fusion à 20 Md$..."
+    },
+    {
+        "id": "7cTenhHWfsk",
+        "videoId": "7cTenhHWfsk",
+        "title": "La vérité sur les agents IA que personne n'ose vous dire",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=7cTenhHWfsk",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : La vérité sur les agents IA que personne n'ose vous dire..."
+    },
+    {
+        "id": "gWCvnSri2Rg",
+        "videoId": "gWCvnSri2Rg",
+        "title": "Créer des clips automatiquement avec n8n, RCLONE et Google Drive - Arrêtez de perdre votre argent !",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=gWCvnSri2Rg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Créer des clips automatiquement avec n8n, RCLONE et Google Drive - Arrêtez de perdre votre argent !..."
+    },
+    {
+        "id": "PjaygN19Udc",
+        "videoId": "PjaygN19Udc",
+        "title": "Comment écrire avec l'IA ? – Formation Complète",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-04-29",
+        "url": "https://www.youtube.com/watch?v=PjaygN19Udc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Comment écrire avec l'IA ? – Formation Complète..."
+    },
     {
         "id": "ZRvSBz1I1Hk",
         "videoId": "ZRvSBz1I1Hk",
@@ -403,28 +513,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 24/04/2026 en Live sur Renaud Dékode..."
     },
     {
-        "id": "WhpRtPsdeGU",
-        "videoId": "WhpRtPsdeGU",
-        "title": "OpenAI et ChatGPT 5.5 : L'Incroyable Remontada !?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-24",
-        "url": "https://www.youtube.com/watch?v=WhpRtPsdeGU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI et ChatGPT 5.5 : L'Incroyable Remontada !?..."
-    },
-    {
-        "id": "IvLpJGbG3h4",
-        "videoId": "IvLpJGbG3h4",
-        "title": "Un robot bat le semi-marathon ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-24",
-        "url": "https://www.youtube.com/watch?v=IvLpJGbG3h4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Un robot bat le semi-marathon ?..."
-    },
-    {
         "id": "bWvUQNEGqDE",
         "videoId": "bWvUQNEGqDE",
         "title": "DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨🇳",
@@ -445,28 +533,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RIlyLguqR8o",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Claude vient d'anéantir les web designers...."
-    },
-    {
-        "id": "78AxZYhQmoo",
-        "videoId": "78AxZYhQmoo",
-        "title": "GPT-Rosalind accélère la pharma",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-23",
-        "url": "https://www.youtube.com/watch?v=78AxZYhQmoo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-Rosalind accélère la pharma..."
-    },
-    {
-        "id": "gWkoxzC3fbY",
-        "videoId": "gWkoxzC3fbY",
-        "title": "On teste ChatGPT Images 2.0 (spoiler : il écrase tout)",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-23",
-        "url": "https://www.youtube.com/watch?v=gWkoxzC3fbY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : On teste ChatGPT Images 2.0 (spoiler : il écrase tout)..."
     },
     {
         "id": "aWadvdrEP6I",
@@ -529,13 +595,13 @@ export const allVideos = [
     {
         "id": "Ac6etyFXc54",
         "videoId": "Ac6etyFXc54",
-        "title": "Utilise Claude Design pour le Montage Vidéo (Crois moi)",
+        "title": "Claude Remplace les Monteurs Vidéos (Tuto Complet)",
         "author": "Baptiste Simard - IA",
         "source": "@BaptIA",
         "date": "2026-04-23",
         "url": "https://www.youtube.com/watch?v=Ac6etyFXc54",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Utilise Claude Design pour le Montage Vidéo (Crois moi)..."
+        "summary": "Nouveauté de Baptiste Simard - IA : Claude Remplace les Monteurs Vidéos (Tuto Complet)..."
     },
     {
         "id": "lXnCuvAbXrA",
@@ -900,17 +966,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "DHBtvl6k_1E",
-        "videoId": "DHBtvl6k_1E",
-        "title": "J’ai nettoyé ma boîte mail grâce à Claude Cowork",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=DHBtvl6k_1E",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : J’ai nettoyé ma boîte mail grâce à Claude Cowork..."
-    },
-    {
         "id": "WLn98Sdvb3c",
         "videoId": "WLn98Sdvb3c",
         "title": "Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨",
@@ -965,17 +1020,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=sb0PTDh2zLs",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Canva vient de lancer quelque chose d'INSANE 🤯..."
-    },
-    {
-        "id": "er63Jet24pM",
-        "videoId": "er63Jet24pM",
-        "title": "L’extension Chrome de Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-16",
-        "url": "https://www.youtube.com/watch?v=er63Jet24pM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : L’extension Chrome de Claude !..."
     },
     {
         "id": "R7O2TaM709Y",
@@ -1737,26 +1781,15 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Ajout d'outils spécifiques au scénario..."
     },
     {
-        "id": "XgNLkXEXAlc",
-        "videoId": "XgNLkXEXAlc",
-        "title": "Récapitulatif de la vidéo précédente",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-26",
-        "url": "https://www.youtube.com/watch?v=XgNLkXEXAlc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Récapitulatif de la vidéo précédente..."
-    },
-    {
         "id": "4GgbcgfKibw",
         "videoId": "4GgbcgfKibw",
-        "title": "Créer une chanson avec l'IA Gemini (Tuto Lyria 3 Pro)",
+        "title": "Créer une chanson avec l'IA Gemini (Tuto Complet)",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-03-26",
         "url": "https://www.youtube.com/watch?v=4GgbcgfKibw",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Créer une chanson avec l'IA Gemini (Tuto Lyria 3 Pro)..."
+        "summary": "Nouveauté de Ludo Salenne : Créer une chanson avec l'IA Gemini (Tuto Complet)..."
     },
     {
         "id": "Z50mk04Xlis",
@@ -2351,27 +2384,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=J_vj9287Jo0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : OpenClaw : L'Agent IA qui Travaille Pour Toi 24h/24 (Installation Complète)..."
-    },
-    {
-        "id": "9wQIJOmUpEM",
-        "videoId": "9wQIJOmUpEM",
-        "title": "Claude code vient de détrôner OpenClaw (Nouveauté INCROYABLE d'Anthropic)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-03-02",
-        "url": "https://www.youtube.com/watch?v=9wQIJOmUpEM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Claude code vient de détrôner OpenClaw (Nouveauté INCROYABLE d'Anthropic)..."
-    },
-    {
-        "id": "9PYIce0J6Xg",
-        "videoId": "9PYIce0J6Xg",
-        "title": "De simple chatbot à tuteur d'apprentissage : Le vrai pouvoir de ChatGPT",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-03-02",
-        "url": "https://www.youtube.com/watch?v=9PYIce0J6Xg",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : De simple chatbot à tuteur d'apprentissage : Le vrai pouvoir de ChatGPT..."
     }
 ];
