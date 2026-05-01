@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-04-30T08:14:31.383Z
+// Fichier généré automatiquement le 2026-05-01T08:07:51.150Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:14:31 AM 4/30/2026";
+export const lastUpdate = "8:07:51 AM 5/1/2026";
 
 export const sources = [
     {
@@ -171,6 +171,61 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "er2vIjpeOOQ",
+        "videoId": "er2vIjpeOOQ",
+        "title": "Si tu utilises Claude Code, tu dois connaître ces 5 outils gratuits.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-04-30",
+        "url": "https://www.youtube.com/watch?v=er2vIjpeOOQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Si tu utilises Claude Code, tu dois connaître ces 5 outils gratuits...."
+    },
+    {
+        "id": "vJNI-NyacCg",
+        "videoId": "vJNI-NyacCg",
+        "title": "Claude Design : TOUT comprendre en 21 min ! (je vous montre)",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-04-30",
+        "url": "https://www.youtube.com/watch?v=vJNI-NyacCg",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Claude Design : TOUT comprendre en 21 min ! (je vous montre)..."
+    },
+    {
+        "id": "0W4lDm8G-K0",
+        "videoId": "0W4lDm8G-K0",
+        "title": "OpenAI sur AWS: fin du monopole",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-04-30",
+        "url": "https://www.youtube.com/watch?v=0W4lDm8G-K0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI sur AWS: fin du monopole..."
+    },
+    {
+        "id": "3eMkVtKNtEU",
+        "videoId": "3eMkVtKNtEU",
+        "title": "OpenClaw trade à ma place pendant 7 jours  (+1200$) 🤯",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-04-30",
+        "url": "https://www.youtube.com/watch?v=3eMkVtKNtEU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : OpenClaw trade à ma place pendant 7 jours  (+1200$) 🤯..."
+    },
+    {
+        "id": "cpdmPffUy5s",
+        "videoId": "cpdmPffUy5s",
+        "title": "Créez des clips pour vos réseaux sociaux avec n8n et FFMPEG",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-04-30",
+        "url": "https://www.youtube.com/watch?v=cpdmPffUy5s",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Créez des clips pour vos réseaux sociaux avec n8n et FFMPEG..."
+    },
     {
         "id": "ioJMtQ8OOWw",
         "videoId": "ioJMtQ8OOWw",
@@ -500,17 +555,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=unLaJShTgJc",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : GPT-5.5 lance la superapp IA..."
-    },
-    {
-        "id": "fC9najo7Mfs",
-        "videoId": "fC9najo7Mfs",
-        "title": "L'actualité tech du 24/04/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-24",
-        "url": "https://www.youtube.com/watch?v=fC9najo7Mfs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 24/04/2026 en Live sur Renaud Dékode..."
     },
     {
         "id": "bWvUQNEGqDE",
@@ -918,17 +962,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Pz9R-Y8eISU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Créer des vidéos IA gratuitement avec LTX Studio..."
-    },
-    {
-        "id": "TN-YIggmDmQ",
-        "videoId": "TN-YIggmDmQ",
-        "title": "CLAUDE CODE crée tes AGENTS IA (sans coder)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-18",
-        "url": "https://www.youtube.com/watch?v=TN-YIggmDmQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE CODE crée tes AGENTS IA (sans coder)..."
     },
     {
         "id": "XphRDltcYSA",
@@ -1770,17 +1803,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : ARC-AGI-3 : Le NOUVEAU Benchmark Qui Casse le Mythe de l’AGI 😱🚨..."
     },
     {
-        "id": "R9xVAS3ieGY",
-        "videoId": "R9xVAS3ieGY",
-        "title": "Ajout d'outils spécifiques au scénario",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-26",
-        "url": "https://www.youtube.com/watch?v=R9xVAS3ieGY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Ajout d'outils spécifiques au scénario..."
-    },
-    {
         "id": "4GgbcgfKibw",
         "videoId": "4GgbcgfKibw",
         "title": "Créer une chanson avec l'IA Gemini (Tuto Complet)",
@@ -2384,5 +2406,27 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=J_vj9287Jo0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : OpenClaw : L'Agent IA qui Travaille Pour Toi 24h/24 (Installation Complète)..."
+    },
+    {
+        "id": "9wQIJOmUpEM",
+        "videoId": "9wQIJOmUpEM",
+        "title": "Claude code vient de détrôner OpenClaw (Nouveauté INCROYABLE d'Anthropic)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-03-02",
+        "url": "https://www.youtube.com/watch?v=9wQIJOmUpEM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Claude code vient de détrôner OpenClaw (Nouveauté INCROYABLE d'Anthropic)..."
+    },
+    {
+        "id": "9PYIce0J6Xg",
+        "videoId": "9PYIce0J6Xg",
+        "title": "De simple chatbot à tuteur d'apprentissage : Le vrai pouvoir de ChatGPT",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-03-02",
+        "url": "https://www.youtube.com/watch?v=9PYIce0J6Xg",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : De simple chatbot à tuteur d'apprentissage : Le vrai pouvoir de ChatGPT..."
     }
 ];
