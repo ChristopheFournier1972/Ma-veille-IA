@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-01T08:07:51.150Z
+// Fichier généré automatiquement le 2026-05-02T07:27:34.364Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:07:51 AM 5/1/2026";
+export const lastUpdate = "7:27:34 AM 5/2/2026";
 
 export const sources = [
     {
@@ -171,6 +171,40 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "Pj-8HkJyEAA",
+        "videoId": "Pj-8HkJyEAA",
+        "title": "Quelqu'un vient de construire l'outil Claude le plus puissant de la planète.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-01",
+        "url": "https://www.youtube.com/watch?v=Pj-8HkJyEAA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de construire l'outil Claude le plus puissant de la planète...."
+    },
+    {
+        "id": "vIxoa9Db2Ng",
+        "videoId": "vIxoa9Db2Ng",
+        "title": "Nouvelles IA : lesquelles choisir pour faire quoi ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-01",
+        "url": "https://www.youtube.com/watch?v=vIxoa9Db2Ng",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Nouvelles IA : lesquelles choisir pour faire quoi ?..."
+    },
+    {
+        "id": "JyMiXlVBoew",
+        "videoId": "JyMiXlVBoew",
+        "title": "Claude Code: La Magie de la Conversion Audio #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-01",
+        "url": "https://www.youtube.com/watch?v=JyMiXlVBoew",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: La Magie de la Conversion Audio #shorts...",
+        "isShort": true
+    },
     {
         "id": "er2vIjpeOOQ",
         "videoId": "er2vIjpeOOQ",
@@ -471,13 +505,13 @@ export const allVideos = [
     {
         "id": "kpG1v9uZd4E",
         "videoId": "kpG1v9uZd4E",
-        "title": "Claude Design est INCROYABLE",
+        "title": "Claude Design est INCROYABLE (Guide Complet Débutant)",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-04-26",
         "url": "https://www.youtube.com/watch?v=kpG1v9uZd4E",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Claude Design est INCROYABLE..."
+        "summary": "Nouveauté de Yassine Sdiri : Claude Design est INCROYABLE (Guide Complet Débutant)..."
     },
     {
         "id": "gOZzPFNR0Kw",
@@ -544,17 +578,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DxcWipXoUV8",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Claude vient d'enterrer les logiciels de montage..."
-    },
-    {
-        "id": "unLaJShTgJc",
-        "videoId": "unLaJShTgJc",
-        "title": "GPT-5.5 lance la superapp IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-24",
-        "url": "https://www.youtube.com/watch?v=unLaJShTgJc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-5.5 lance la superapp IA..."
     },
     {
         "id": "bWvUQNEGqDE",
@@ -953,17 +976,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludovic Nédélec : La surprise Canva Create que personne n'a vu venir..."
     },
     {
-        "id": "Pz9R-Y8eISU",
-        "videoId": "Pz9R-Y8eISU",
-        "title": "Créer des vidéos IA gratuitement avec LTX Studio",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-18",
-        "url": "https://www.youtube.com/watch?v=Pz9R-Y8eISU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Créer des vidéos IA gratuitement avec LTX Studio..."
-    },
-    {
         "id": "XphRDltcYSA",
         "videoId": "XphRDltcYSA",
         "title": "Le Second Cerveau IA le plus complet que j'ai vu (démo d'Ulysse Lubin)",
@@ -1086,17 +1098,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kMdJrR3Ku5I",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Gemma 4 + Ollama = Claude Code local 🎯(GRATUIT)..."
-    },
-    {
-        "id": "S09neI6S7lQ",
-        "videoId": "S09neI6S7lQ",
-        "title": "GOOGLE vient de tuer les DESIGNERS ?? (je teste STITCH 2.0)",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-16",
-        "url": "https://www.youtube.com/watch?v=S09neI6S7lQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : GOOGLE vient de tuer les DESIGNERS ?? (je teste STITCH 2.0)..."
     },
     {
         "id": "FkWkC9UEQ-A",
@@ -2406,27 +2407,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=J_vj9287Jo0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : OpenClaw : L'Agent IA qui Travaille Pour Toi 24h/24 (Installation Complète)..."
-    },
-    {
-        "id": "9wQIJOmUpEM",
-        "videoId": "9wQIJOmUpEM",
-        "title": "Claude code vient de détrôner OpenClaw (Nouveauté INCROYABLE d'Anthropic)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-03-02",
-        "url": "https://www.youtube.com/watch?v=9wQIJOmUpEM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Claude code vient de détrôner OpenClaw (Nouveauté INCROYABLE d'Anthropic)..."
-    },
-    {
-        "id": "9PYIce0J6Xg",
-        "videoId": "9PYIce0J6Xg",
-        "title": "De simple chatbot à tuteur d'apprentissage : Le vrai pouvoir de ChatGPT",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-03-02",
-        "url": "https://www.youtube.com/watch?v=9PYIce0J6Xg",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : De simple chatbot à tuteur d'apprentissage : Le vrai pouvoir de ChatGPT..."
     }
 ];
