@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-02T07:27:34.364Z
+// Fichier généré automatiquement le 2026-05-03T07:57:06.507Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:27:34 AM 5/2/2026";
+export const lastUpdate = "7:57:06 AM 5/3/2026";
 
 export const sources = [
     {
@@ -172,6 +172,83 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "XVZ3gjv8mfs",
+        "videoId": "XVZ3gjv8mfs",
+        "title": "Tu brûles des crédits Claude sans le savoir.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-02",
+        "url": "https://www.youtube.com/watch?v=XVZ3gjv8mfs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu brûles des crédits Claude sans le savoir...."
+    },
+    {
+        "id": "5B18cYNvdSo",
+        "videoId": "5B18cYNvdSo",
+        "title": "OpenAI : smartphone sans apps ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-02",
+        "url": "https://www.youtube.com/watch?v=5B18cYNvdSo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI : smartphone sans apps ?..."
+    },
+    {
+        "id": "IubQUC9TL2w",
+        "videoId": "IubQUC9TL2w",
+        "title": "L'IA devient simple avec un Second Cerveau IA (cours complet)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-02",
+        "url": "https://www.youtube.com/watch?v=IubQUC9TL2w",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L'IA devient simple avec un Second Cerveau IA (cours complet)..."
+    },
+    {
+        "id": "_QR6ShC4Yvw",
+        "videoId": "_QR6ShC4Yvw",
+        "title": "La Chine bloque Meta : 2 milliards $ perdus et l'IA mondiale en danger",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-02",
+        "url": "https://www.youtube.com/watch?v=_QR6ShC4Yvw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : La Chine bloque Meta : 2 milliards $ perdus et l'IA mondiale en danger..."
+    },
+    {
+        "id": "uO5p0AtXQOk",
+        "videoId": "uO5p0AtXQOk",
+        "title": "Cette IA code pour vous pendant que vous dormez 😴",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-02",
+        "url": "https://www.youtube.com/watch?v=uO5p0AtXQOk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Cette IA code pour vous pendant que vous dormez 😴..."
+    },
+    {
+        "id": "0xSwGIWLm1w",
+        "videoId": "0xSwGIWLm1w",
+        "title": "Pourquoi le MCP est plus intelligent qu'une API?",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-02",
+        "url": "https://www.youtube.com/watch?v=0xSwGIWLm1w",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Pourquoi le MCP est plus intelligent qu'une API?..."
+    },
+    {
+        "id": "cpdmPffUy5s",
+        "videoId": "cpdmPffUy5s",
+        "title": "Créez des clips pour vos réseaux sociaux avec n8n et FFMPEG",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-02",
+        "url": "https://www.youtube.com/watch?v=cpdmPffUy5s",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Créez des clips pour vos réseaux sociaux avec n8n et FFMPEG..."
+    },
+    {
         "id": "Pj-8HkJyEAA",
         "videoId": "Pj-8HkJyEAA",
         "title": "Quelqu'un vient de construire l'outil Claude le plus puissant de la planète.",
@@ -204,6 +281,17 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Claude Code: La Magie de la Conversion Audio #shorts...",
         "isShort": true
+    },
+    {
+        "id": "a_uZxA8A4lg",
+        "videoId": "a_uZxA8A4lg",
+        "title": "Tuto Rclone: Maîtrisez la synchronisation Cloud (Guide Complet) - Gérez Google Drive, AWS et Azure",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-01",
+        "url": "https://www.youtube.com/watch?v=a_uZxA8A4lg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Tuto Rclone: Maîtrisez la synchronisation Cloud (Guide Complet) - Gérez Google Drive, AWS et Azure..."
     },
     {
         "id": "er2vIjpeOOQ",
@@ -250,17 +338,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : OpenClaw trade à ma place pendant 7 jours  (+1200$) 🤯..."
     },
     {
-        "id": "cpdmPffUy5s",
-        "videoId": "cpdmPffUy5s",
-        "title": "Créez des clips pour vos réseaux sociaux avec n8n et FFMPEG",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=cpdmPffUy5s",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Créez des clips pour vos réseaux sociaux avec n8n et FFMPEG..."
-    },
-    {
         "id": "ioJMtQ8OOWw",
         "videoId": "ioJMtQ8OOWw",
         "title": "Les 5 skills à AVOIR dans ton Claude Code",
@@ -285,13 +362,13 @@ export const allVideos = [
     {
         "id": "jSTEoB1gGQQ",
         "videoId": "jSTEoB1gGQQ",
-        "title": "Claude IA m'a trouvé l'idée, cette IA l'a lancée en 1h (débutant)",
+        "title": "Claude m'a trouvé l'idée, cette IA l'a lancée (débutant)",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-04-29",
         "url": "https://www.youtube.com/watch?v=jSTEoB1gGQQ",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude IA m'a trouvé l'idée, cette IA l'a lancée en 1h (débutant)..."
+        "summary": "Nouveauté de Henri · ExplorIA : Claude m'a trouvé l'idée, cette IA l'a lancée (débutant)..."
     },
     {
         "id": "6XTqO4shhRg",
@@ -545,17 +622,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=j7cKjTMjNLE",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Hermes Agent, comment profiter de l'OpenClaw killer..."
-    },
-    {
-        "id": "rtsGd1kiuS4",
-        "videoId": "rtsGd1kiuS4",
-        "title": "ChatGPT devient votre collègue IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-25",
-        "url": "https://www.youtube.com/watch?v=rtsGd1kiuS4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ChatGPT devient votre collègue IA..."
     },
     {
         "id": "eDhOomO4FpE",
@@ -908,17 +974,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Google a lancé discrètement 6 outils d’IA 100 % gratuits..."
     },
     {
-        "id": "5MIDO2fApqU",
-        "videoId": "5MIDO2fApqU",
-        "title": "Classement des meilleures IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=5MIDO2fApqU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Classement des meilleures IA !..."
-    },
-    {
         "id": "H9BNiEn_pJ8",
         "videoId": "H9BNiEn_pJ8",
         "title": "7 Outils IA Indispensables Pour Votre Business",
@@ -999,18 +1054,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "4TamT8db7GQ",
-        "videoId": "4TamT8db7GQ",
-        "title": "Stitch de Google: La fin des designers web est là! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-18",
-        "url": "https://www.youtube.com/watch?v=4TamT8db7GQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Stitch de Google: La fin des designers web est là! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "WLn98Sdvb3c",
         "videoId": "WLn98Sdvb3c",
         "title": "Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨",
@@ -1031,18 +1074,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=wRaGk8WVBEI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Opus 4.7 dans Claude Code : ça CHANGE tout 🔥..."
-    },
-    {
-        "id": "LAgKHltJRW0",
-        "videoId": "LAgKHltJRW0",
-        "title": "Ce site web est une COPIE PARFAITE de ma maquette ! 🤯 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=LAgKHltJRW0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ce site web est une COPIE PARFAITE de ma maquette ! 🤯 #shorts...",
-        "isShort": true
     },
     {
         "id": "7sgi0zIf8r0",
@@ -1771,28 +1802,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : L’AGI n’est pas prête d’arriver, voici la preuve..."
     },
     {
-        "id": "JKvPT45wsF0",
-        "videoId": "JKvPT45wsF0",
-        "title": "Test de la fonction d'envoi d'e-mails",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=JKvPT45wsF0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Test de la fonction d'envoi d'e-mails..."
-    },
-    {
-        "id": "eMwE20u3VhU",
-        "videoId": "eMwE20u3VhU",
-        "title": "Configuration de l'outil d'envoi d'e-mails",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-27",
-        "url": "https://www.youtube.com/watch?v=eMwE20u3VhU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Configuration de l'outil d'envoi d'e-mails..."
-    },
-    {
         "id": "P-CRHw0vqtE",
         "videoId": "P-CRHw0vqtE",
         "title": "ARC-AGI-3 : Le NOUVEAU Benchmark Qui Casse le Mythe de l’AGI 😱🚨",
@@ -2374,38 +2383,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ziMfHt9hnlw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Les meilleurs outils IA à utiliser en 2026..."
-    },
-    {
-        "id": "5YPzT47Txl8",
-        "videoId": "5YPzT47Txl8",
-        "title": "J'ai piraté mon cerveau avec NotebookLM : L'apprentissage TURBOCHARGÉ",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-03-03",
-        "url": "https://www.youtube.com/watch?v=5YPzT47Txl8",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : J'ai piraté mon cerveau avec NotebookLM : L'apprentissage TURBOCHARGÉ..."
-    },
-    {
-        "id": "YW-q8jj9cXY",
-        "videoId": "YW-q8jj9cXY",
-        "title": "Nouveautés NotebookLM 2026 : 5 use cases + 1 bonus 🤯",
-        "author": "Cédric Girard",
-        "source": "@cedric_effi10",
-        "date": "2026-03-03",
-        "url": "https://www.youtube.com/watch?v=YW-q8jj9cXY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Cédric Girard : Nouveautés NotebookLM 2026 : 5 use cases + 1 bonus 🤯..."
-    },
-    {
-        "id": "J_vj9287Jo0",
-        "videoId": "J_vj9287Jo0",
-        "title": "OpenClaw : L'Agent IA qui Travaille Pour Toi 24h/24 (Installation Complète)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-03",
-        "url": "https://www.youtube.com/watch?v=J_vj9287Jo0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : OpenClaw : L'Agent IA qui Travaille Pour Toi 24h/24 (Installation Complète)..."
     }
 ];
