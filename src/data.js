@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-04T08:24:52.229Z
+// Fichier généré automatiquement le 2026-05-05T08:04:11.571Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:24:52 AM 5/4/2026";
+export const lastUpdate = "8:04:11 AM 5/5/2026";
 
 export const sources = [
     {
@@ -172,6 +172,95 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "9qRbx0VhtSU",
+        "videoId": "9qRbx0VhtSU",
+        "title": "Claude devient ton coach sportif avec 1 seule skill.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=9qRbx0VhtSU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude devient ton coach sportif avec 1 seule skill...."
+    },
+    {
+        "id": "53xYgNz3ajY",
+        "videoId": "53xYgNz3ajY",
+        "title": "J'ai créé un site à 10 000€ avec CLAUDE (copie-moi)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=53xYgNz3ajY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : J'ai créé un site à 10 000€ avec CLAUDE (copie-moi)..."
+    },
+    {
+        "id": "ebNilfkGw2M",
+        "videoId": "ebNilfkGw2M",
+        "title": "ChatGPT pubs et données : le vrai",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=ebNilfkGw2M",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT pubs et données : le vrai..."
+    },
+    {
+        "id": "tF751J797Lc",
+        "videoId": "tF751J797Lc",
+        "title": "L'actualité tech du 04/05/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=tF751J797Lc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 04/05/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "0X_WoJ0N3zE",
+        "videoId": "0X_WoJ0N3zE",
+        "title": "IA : La Menace Fantôme ou le Réveil de la Force ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=0X_WoJ0N3zE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : La Menace Fantôme ou le Réveil de la Force ?..."
+    },
+    {
+        "id": "mg2LfGLQMgQ",
+        "videoId": "mg2LfGLQMgQ",
+        "title": "Recherche IA devient conversation",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=mg2LfGLQMgQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Recherche IA devient conversation..."
+    },
+    {
+        "id": "6UQEipBOXcQ",
+        "videoId": "6UQEipBOXcQ",
+        "title": "IA Vendeuse: Votre Business Vendre 24/7 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=6UQEipBOXcQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Vendeuse: Votre Business Vendre 24/7 #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "KPc5qTqTn1o",
+        "videoId": "KPc5qTqTn1o",
+        "title": "Une IA par tâche : la méthode qui m'a fait arrêter ChatGPT",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-05-04",
+        "url": "https://www.youtube.com/watch?v=KPc5qTqTn1o",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Une IA par tâche : la méthode qui m'a fait arrêter ChatGPT..."
+    },
+    {
         "id": "z47n9g-QJOc",
         "videoId": "z47n9g-QJOc",
         "title": "Ta dernière chance de devenir riche avant 2027.",
@@ -196,13 +285,13 @@ export const allVideos = [
     {
         "id": "f31RvRfWSXc",
         "videoId": "f31RvRfWSXc",
-        "title": "Comment Devenir Dangereusement Intelligent (avec l’IA)",
+        "title": "Comment l’IA Peut Vous Rendre Dangereusement Intelligent",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-05-03",
         "url": "https://www.youtube.com/watch?v=f31RvRfWSXc",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment Devenir Dangereusement Intelligent (avec l’IA)..."
+        "summary": "Nouveauté de Yassine Sdiri : Comment l’IA Peut Vous Rendre Dangereusement Intelligent..."
     },
     {
         "id": "mn7RcxKSddc",
@@ -591,28 +680,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 27/04/2026 en Live sur Renaud Dékode..."
     },
     {
-        "id": "lakm2aWEZo4",
-        "videoId": "lakm2aWEZo4",
-        "title": "L'IA consolide des super-puissances mondiales, méfiance !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-27",
-        "url": "https://www.youtube.com/watch?v=lakm2aWEZo4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA consolide des super-puissances mondiales, méfiance !..."
-    },
-    {
-        "id": "6yupkurBBUU",
-        "videoId": "6yupkurBBUU",
-        "title": "Kimi K2.6 bat GPT-5.4 et Opus",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-27",
-        "url": "https://www.youtube.com/watch?v=6yupkurBBUU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Kimi K2.6 bat GPT-5.4 et Opus..."
-    },
-    {
         "id": "lMsM3SmfTuY",
         "videoId": "lMsM3SmfTuY",
         "title": "Créer un court métrage gratuit avec l'IA (TUTO COMPLET)",
@@ -648,13 +715,13 @@ export const allVideos = [
     {
         "id": "kpG1v9uZd4E",
         "videoId": "kpG1v9uZd4E",
-        "title": "Claude Design est INCROYABLE (Guide Complet Débutant)",
+        "title": "Guide Complet Claude Design l Maîtrisez 95% en 20 Minutes",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-04-26",
         "url": "https://www.youtube.com/watch?v=kpG1v9uZd4E",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Claude Design est INCROYABLE (Guide Complet Débutant)..."
+        "summary": "Nouveauté de Yassine Sdiri : Guide Complet Claude Design l Maîtrisez 95% en 20 Minutes..."
     },
     {
         "id": "gOZzPFNR0Kw",
@@ -666,28 +733,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gOZzPFNR0Kw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Tu savais que tu peux créer tous tes carrousels Instagram avec Claude ?..."
-    },
-    {
-        "id": "QH3cvmREVPs",
-        "videoId": "QH3cvmREVPs",
-        "title": "IA bat les médecins ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-25",
-        "url": "https://www.youtube.com/watch?v=QH3cvmREVPs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA bat les médecins ?..."
-    },
-    {
-        "id": "j7cKjTMjNLE",
-        "videoId": "j7cKjTMjNLE",
-        "title": "Hermes Agent, comment profiter de l'OpenClaw killer",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-25",
-        "url": "https://www.youtube.com/watch?v=j7cKjTMjNLE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Hermes Agent, comment profiter de l'OpenClaw killer..."
     },
     {
         "id": "eDhOomO4FpE",
@@ -950,28 +995,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Formation OpenClaw : Créez vos agents IA pour tout automatiser..."
     },
     {
-        "id": "WuifYc86nQk",
-        "videoId": "WuifYc86nQk",
-        "title": "7 utilisations INCROYABLES de Claude DESIGN (Anthropic frappe FORT)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=WuifYc86nQk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 7 utilisations INCROYABLES de Claude DESIGN (Anthropic frappe FORT)..."
-    },
-    {
-        "id": "yAmJcjT9RcY",
-        "videoId": "yAmJcjT9RcY",
-        "title": "Comment installer Claude Code de manière 100% gratuite",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=yAmJcjT9RcY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Comment installer Claude Code de manière 100% gratuite..."
-    },
-    {
         "id": "L9ZE0wi3-3Y",
         "videoId": "L9ZE0wi3-3Y",
         "title": "L'IA refait votre site web en orange : design fluide et rapide #shorts",
@@ -1073,18 +1096,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XphRDltcYSA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le Second Cerveau IA le plus complet que j'ai vu (démo d'Ulysse Lubin)..."
-    },
-    {
-        "id": "dgVmGBLTMQA",
-        "videoId": "dgVmGBLTMQA",
-        "title": "Créez des Sites Web Parfaits: Intégrez Facilement Vos Designs Stitch avec Claude Code! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-18",
-        "url": "https://www.youtube.com/watch?v=dgVmGBLTMQA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez des Sites Web Parfaits: Intégrez Facilement Vos Designs Stitch avec Claude Code! #shorts...",
-        "isShort": true
     },
     {
         "id": "WLn98Sdvb3c",
@@ -2317,27 +2328,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=wmEVJ3TXinM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des applications de Google..."
-    },
-    {
-        "id": "R0hHH4lzfYE",
-        "videoId": "R0hHH4lzfYE",
-        "title": "ChatGPT perd ses utilisateurs... et voici pourquoi !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-03-05",
-        "url": "https://www.youtube.com/watch?v=R0hHH4lzfYE",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : ChatGPT perd ses utilisateurs... et voici pourquoi !..."
-    },
-    {
-        "id": "yhonnrrw2KU",
-        "videoId": "yhonnrrw2KU",
-        "title": "Je vous présente mon système IA (+ réponses à vos questions)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-03-05",
-        "url": "https://www.youtube.com/watch?v=yhonnrrw2KU",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Je vous présente mon système IA (+ réponses à vos questions)..."
     }
 ];
