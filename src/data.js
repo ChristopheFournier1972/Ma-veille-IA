@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-05T08:04:11.571Z
+// Fichier généré automatiquement le 2026-05-07T08:28:38.874Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:04:11 AM 5/5/2026";
+export const lastUpdate = "8:28:38 AM 5/7/2026";
 
 export const sources = [
     {
@@ -172,6 +172,127 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "o2e8yZtmxIA",
+        "videoId": "o2e8yZtmxIA",
+        "title": "Claude Design : c'est ILLÉGAL d'être aussi puissant",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=o2e8yZtmxIA",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Claude Design : c'est ILLÉGAL d'être aussi puissant..."
+    },
+    {
+        "id": "L3YfsM5RTJs",
+        "videoId": "L3YfsM5RTJs",
+        "title": "Ces 5 outils + Claude Code = 9.800€/mois en 2026 (spécial débutant)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=L3YfsM5RTJs",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Ces 5 outils + Claude Code = 9.800€/mois en 2026 (spécial débutant)..."
+    },
+    {
+        "id": "8F2oktq_x6U",
+        "videoId": "8F2oktq_x6U",
+        "title": "Claude vient de détruire des centaines d'entreprises avec cette mise à jour massive.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=8F2oktq_x6U",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude vient de détruire des centaines d'entreprises avec cette mise à jour massive...."
+    },
+    {
+        "id": "iEeaHdbNPcw",
+        "videoId": "iEeaHdbNPcw",
+        "title": "5 faits secrets sur ChatGPT que personne ne connaît !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=iEeaHdbNPcw",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : 5 faits secrets sur ChatGPT que personne ne connaît !..."
+    },
+    {
+        "id": "L4LCSXvA7LU",
+        "videoId": "L4LCSXvA7LU",
+        "title": "Les géants US vont toujours plus loin (trop ?) et la Chine montre la voie",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=L4LCSXvA7LU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Les géants US vont toujours plus loin (trop ?) et la Chine montre la voie..."
+    },
+    {
+        "id": "xbzzG8vdf7A",
+        "videoId": "xbzzG8vdf7A",
+        "title": "L'actualité tech du 06/05/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=xbzzG8vdf7A",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 06/05/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "nW56rUnW0Jg",
+        "videoId": "nW56rUnW0Jg",
+        "title": "Mistral 3.5 : l’IA qui code seule",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=nW56rUnW0Jg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral 3.5 : l’IA qui code seule..."
+    },
+    {
+        "id": "g2PdHA-1Lho",
+        "videoId": "g2PdHA-1Lho",
+        "title": "Le plan machiavélique d'Anthropic (et comment s'en protéger)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-06",
+        "url": "https://www.youtube.com/watch?v=g2PdHA-1Lho",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le plan machiavélique d'Anthropic (et comment s'en protéger)..."
+    },
+    {
+        "id": "ZDj8kDdAc9c",
+        "videoId": "ZDj8kDdAc9c",
+        "title": "300 skills gratuits viennent de sortir",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-05",
+        "url": "https://www.youtube.com/watch?v=ZDj8kDdAc9c",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 300 skills gratuits viennent de sortir..."
+    },
+    {
+        "id": "22Tp2_zgDFQ",
+        "videoId": "22Tp2_zgDFQ",
+        "title": "Google : IA classée militaire",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-05",
+        "url": "https://www.youtube.com/watch?v=22Tp2_zgDFQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google : IA classée militaire..."
+    },
+    {
+        "id": "S2ZNVRhNlAk",
+        "videoId": "S2ZNVRhNlAk",
+        "title": "Procès Musk-OpenAI: aveu choc",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-05",
+        "url": "https://www.youtube.com/watch?v=S2ZNVRhNlAk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Procès Musk-OpenAI: aveu choc..."
+    },
+    {
         "id": "9qRbx0VhtSU",
         "videoId": "9qRbx0VhtSU",
         "title": "Claude devient ton coach sportif avec 1 seule skill.",
@@ -185,13 +306,13 @@ export const allVideos = [
     {
         "id": "53xYgNz3ajY",
         "videoId": "53xYgNz3ajY",
-        "title": "J'ai créé un site à 10 000€ avec CLAUDE (copie-moi)",
+        "title": "J'ai créé un site à 10 000€ avec CLAUDE (sans coder)",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-05-04",
         "url": "https://www.youtube.com/watch?v=53xYgNz3ajY",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : J'ai créé un site à 10 000€ avec CLAUDE (copie-moi)..."
+        "summary": "Nouveauté de Henri · ExplorIA : J'ai créé un site à 10 000€ avec CLAUDE (sans coder)..."
     },
     {
         "id": "ebNilfkGw2M",
@@ -559,17 +680,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 29/04/2026 en Live sur Renaud Dékode..."
     },
     {
-        "id": "cXcAll-5dj4",
-        "videoId": "cXcAll-5dj4",
-        "title": "IA souveraine: fusion à 20 Md$",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-29",
-        "url": "https://www.youtube.com/watch?v=cXcAll-5dj4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA souveraine: fusion à 20 Md$..."
-    },
-    {
         "id": "7cTenhHWfsk",
         "videoId": "7cTenhHWfsk",
         "title": "La vérité sur les agents IA que personne n'ose vous dire",
@@ -625,28 +735,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : 5 Hacks pour économiser tes Tokens dans Claude !..."
     },
     {
-        "id": "973m-9uIDhk",
-        "videoId": "973m-9uIDhk",
-        "title": "Musk lâche 60Md sur l’IA du code",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-28",
-        "url": "https://www.youtube.com/watch?v=973m-9uIDhk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Musk lâche 60Md sur l’IA du code..."
-    },
-    {
-        "id": "5tSBEJnc1ak",
-        "videoId": "5tSBEJnc1ak",
-        "title": "Claude agit dans 50 apps",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-28",
-        "url": "https://www.youtube.com/watch?v=5tSBEJnc1ak",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude agit dans 50 apps..."
-    },
-    {
         "id": "YU4bmtJF_J4",
         "videoId": "YU4bmtJF_J4",
         "title": "5 outils IA indispensables pour les petites entreprises en 2026",
@@ -656,28 +744,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YU4bmtJF_J4",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 5 outils IA indispensables pour les petites entreprises en 2026..."
-    },
-    {
-        "id": "mPLy2JG7S4s",
-        "videoId": "mPLy2JG7S4s",
-        "title": "DeepSeek V4 écrase GPT-5.5 ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-27",
-        "url": "https://www.youtube.com/watch?v=mPLy2JG7S4s",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : DeepSeek V4 écrase GPT-5.5 ?..."
-    },
-    {
-        "id": "G-bEGmYWUok",
-        "videoId": "G-bEGmYWUok",
-        "title": "L'actualité tech du 27/04/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-27",
-        "url": "https://www.youtube.com/watch?v=G-bEGmYWUok",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 27/04/2026 en Live sur Renaud Dékode..."
     },
     {
         "id": "lMsM3SmfTuY",
@@ -766,17 +832,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=bWvUQNEGqDE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨🇳..."
-    },
-    {
-        "id": "RIlyLguqR8o",
-        "videoId": "RIlyLguqR8o",
-        "title": "Claude vient d'anéantir les web designers.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-23",
-        "url": "https://www.youtube.com/watch?v=RIlyLguqR8o",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude vient d'anéantir les web designers...."
     },
     {
         "id": "aWadvdrEP6I",
@@ -936,17 +991,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : L'IA Réinvente le Web Design : Couleurs et Modification Facile ! #shorts...",
         "isShort": true
-    },
-    {
-        "id": "JLrI5I3114M",
-        "videoId": "JLrI5I3114M",
-        "title": "5 choses que Claude Cowork peut faire à ta place pendant que tu dors !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-21",
-        "url": "https://www.youtube.com/watch?v=JLrI5I3114M",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 choses que Claude Cowork peut faire à ta place pendant que tu dors !..."
     },
     {
         "id": "RQhj_I_erVg",
@@ -2253,17 +2297,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludovic Nédélec : NotebookLM vient de franchir un cap (10 nouvelles fonctionnalités)..."
     },
     {
-        "id": "0qNflUjEORM",
-        "videoId": "0qNflUjEORM",
-        "title": "Un nouveau modèle de SaaS IA va fabriquer des millionnaires en 2026 (voici comment)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-03-08",
-        "url": "https://www.youtube.com/watch?v=0qNflUjEORM",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Un nouveau modèle de SaaS IA va fabriquer des millionnaires en 2026 (voici comment)..."
-    },
-    {
         "id": "04P0GIKNNa4",
         "videoId": "04P0GIKNNa4",
         "title": "Créer Son Premier Agent IA Vocal en 48 minutes",
@@ -2284,49 +2317,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=FF1JIA_TCug",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Claude code Remote control vient de détrôner openclaw..."
-    },
-    {
-        "id": "8fpKyNkN3X4",
-        "videoId": "8fpKyNkN3X4",
-        "title": "19 Agents IA OpenClaw 24H/24H pour seulement 6 € / mois",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-03-07",
-        "url": "https://www.youtube.com/watch?v=8fpKyNkN3X4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : 19 Agents IA OpenClaw 24H/24H pour seulement 6 € / mois..."
-    },
-    {
-        "id": "3b9FcPJZdtE",
-        "videoId": "3b9FcPJZdtE",
-        "title": "GEMINI 3.1 : Pourquoi c'est mieux que ChatGPT ?",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-03-06",
-        "url": "https://www.youtube.com/watch?v=3b9FcPJZdtE",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : GEMINI 3.1 : Pourquoi c'est mieux que ChatGPT ?..."
-    },
-    {
-        "id": "ZwsKbTq8hak",
-        "videoId": "ZwsKbTq8hak",
-        "title": "Obsidian + Claude Code : ce que ce débutant a fait en 10 jours est bluffant",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-03-06",
-        "url": "https://www.youtube.com/watch?v=ZwsKbTq8hak",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Obsidian + Claude Code : ce que ce débutant a fait en 10 jours est bluffant..."
-    },
-    {
-        "id": "wmEVJ3TXinM",
-        "videoId": "wmEVJ3TXinM",
-        "title": "Tierlist des applications de Google",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-03-06",
-        "url": "https://www.youtube.com/watch?v=wmEVJ3TXinM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Tierlist des applications de Google..."
     }
 ];
