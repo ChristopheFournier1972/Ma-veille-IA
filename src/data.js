@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-08T07:24:40.300Z
+// Fichier généré automatiquement le 2026-05-09T07:51:56.149Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:24:40 AM 5/8/2026";
+export const lastUpdate = "7:51:56 AM 5/9/2026";
 
 export const sources = [
     {
@@ -171,6 +171,61 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "JcoDaqlrdlU",
+        "videoId": "JcoDaqlrdlU",
+        "title": "VPN: Mythe ou Réalité? Ce qu'on ne vous dit pas",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-09",
+        "url": "https://www.youtube.com/watch?v=JcoDaqlrdlU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : VPN: Mythe ou Réalité? Ce qu'on ne vous dit pas..."
+    },
+    {
+        "id": "MtlUzTkfcj4",
+        "videoId": "MtlUzTkfcj4",
+        "title": "La Vérité sur le VPN: Protection ou Illusion?",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-09",
+        "url": "https://www.youtube.com/watch?v=MtlUzTkfcj4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : La Vérité sur le VPN: Protection ou Illusion?..."
+    },
+    {
+        "id": "iCvtJrw28MA",
+        "videoId": "iCvtJrw28MA",
+        "title": "Claude peut maintenant devenir ton agent WhatsApp.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-08",
+        "url": "https://www.youtube.com/watch?v=iCvtJrw28MA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut maintenant devenir ton agent WhatsApp...."
+    },
+    {
+        "id": "-whEgxyrT7g",
+        "videoId": "-whEgxyrT7g",
+        "title": "OpenAI et Anthropic changent tout",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-08",
+        "url": "https://www.youtube.com/watch?v=-whEgxyrT7g",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI et Anthropic changent tout..."
+    },
+    {
+        "id": "SgxSUle-TcE",
+        "videoId": "SgxSUle-TcE",
+        "title": "Agents IA, souveraineté, lock-in : je réponds sans filtre",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-08",
+        "url": "https://www.youtube.com/watch?v=SgxSUle-TcE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Agents IA, souveraineté, lock-in : je réponds sans filtre..."
+    },
     {
         "id": "T5t3PNtCSKo",
         "videoId": "T5t3PNtCSKo",
@@ -724,17 +779,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : La Chine annule le deal Meta IA..."
     },
     {
-        "id": "-BhE3IyrvGQ",
-        "videoId": "-BhE3IyrvGQ",
-        "title": "IA : l'Empire contre-attaque mais un nouvel espoir arrive",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-04-29",
-        "url": "https://www.youtube.com/watch?v=-BhE3IyrvGQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : l'Empire contre-attaque mais un nouvel espoir arrive..."
-    },
-    {
         "id": "7cTenhHWfsk",
         "videoId": "7cTenhHWfsk",
         "title": "La vérité sur les agents IA que personne n'ose vous dire",
@@ -843,17 +887,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kpG1v9uZd4E",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Guide Complet Claude Design l Maîtrisez 95% en 20 Minutes..."
-    },
-    {
-        "id": "gOZzPFNR0Kw",
-        "videoId": "gOZzPFNR0Kw",
-        "title": "Tu savais que tu peux créer tous tes carrousels Instagram avec Claude ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-25",
-        "url": "https://www.youtube.com/watch?v=gOZzPFNR0Kw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu savais que tu peux créer tous tes carrousels Instagram avec Claude ?..."
     },
     {
         "id": "eDhOomO4FpE",
@@ -1879,28 +1912,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce..."
     },
     {
-        "id": "JQiMPJP7VfY",
-        "videoId": "JQiMPJP7VfY",
-        "title": "Test de l'assistant IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-28",
-        "url": "https://www.youtube.com/watch?v=JQiMPJP7VfY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Test de l'assistant IA..."
-    },
-    {
-        "id": "DnPYSCBFzcE",
-        "videoId": "DnPYSCBFzcE",
-        "title": "Vérification de la livraison de l'e-mail",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-28",
-        "url": "https://www.youtube.com/watch?v=DnPYSCBFzcE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Vérification de la livraison de l'e-mail..."
-    },
-    {
         "id": "4aUzQlpRQbk",
         "videoId": "4aUzQlpRQbk",
         "title": "Copilot dans Powerpoint est devenu dingue !",
@@ -2306,16 +2317,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5T0irFpaa1U",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : J’ai créé le Prompt parfait pour TOUTES les IA (ChatGPT, Gemini, Claude…)..."
-    },
-    {
-        "id": "oCRDxYWh4ZI",
-        "videoId": "oCRDxYWh4ZI",
-        "title": "NotebookLM vient de franchir un cap (10 nouvelles fonctionnalités)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-03-09",
-        "url": "https://www.youtube.com/watch?v=oCRDxYWh4ZI",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : NotebookLM vient de franchir un cap (10 nouvelles fonctionnalités)..."
     }
 ];
