@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-12T08:34:19.381Z
+// Fichier généré automatiquement le 2026-05-13T08:39:57.121Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:34:19 AM 5/12/2026";
+export const lastUpdate = "8:39:57 AM 5/13/2026";
 
 export const sources = [
     {
@@ -172,6 +172,94 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "hr5J7g2R0H8",
+        "videoId": "hr5J7g2R0H8",
+        "title": "Je vous présente mon système IA (+ réponse à vos questions)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=hr5J7g2R0H8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Je vous présente mon système IA (+ réponse à vos questions)..."
+    },
+    {
+        "id": "FQNRsqdB9ac",
+        "videoId": "FQNRsqdB9ac",
+        "title": "Claude devient ton gestionnaire d'annonces Meta",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-12",
+        "url": "https://www.youtube.com/watch?v=FQNRsqdB9ac",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude devient ton gestionnaire d'annonces Meta..."
+    },
+    {
+        "id": "7ZPVxgecclc",
+        "videoId": "7ZPVxgecclc",
+        "title": "Musk loue 220 000 GPU à Anthropic",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-12",
+        "url": "https://www.youtube.com/watch?v=7ZPVxgecclc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Musk loue 220 000 GPU à Anthropic..."
+    },
+    {
+        "id": "w-j_s-wbVzI",
+        "videoId": "w-j_s-wbVzI",
+        "title": "Kiro 3.1 EST SORTI !!!",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-12",
+        "url": "https://www.youtube.com/watch?v=w-j_s-wbVzI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Kiro 3.1 EST SORTI !!!..."
+    },
+    {
+        "id": "IY2IdA8A8bs",
+        "videoId": "IY2IdA8A8bs",
+        "title": "ChatGPT alerte vos proches",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-12",
+        "url": "https://www.youtube.com/watch?v=IY2IdA8A8bs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT alerte vos proches..."
+    },
+    {
+        "id": "dyZjwf1GeYk",
+        "videoId": "dyZjwf1GeYk",
+        "title": "Anthropic vient de simplifier ENORMEMENT la gestion d’agents!",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-05-12",
+        "url": "https://www.youtube.com/watch?v=dyZjwf1GeYk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Anthropic vient de simplifier ENORMEMENT la gestion d’agents!..."
+    },
+    {
+        "id": "mJuo0bFNXj4",
+        "videoId": "mJuo0bFNXj4",
+        "title": "Comment les machines communiquent? Les protocoles réseau expliqués",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-12",
+        "url": "https://www.youtube.com/watch?v=mJuo0bFNXj4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Comment les machines communiquent? Les protocoles réseau expliqués..."
+    },
+    {
+        "id": "q3ckooaMKRs",
+        "videoId": "q3ckooaMKRs",
+        "title": "Comprendre les Protocoles de Communication: Guide Débutant",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-12",
+        "url": "https://www.youtube.com/watch?v=q3ckooaMKRs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Comprendre les Protocoles de Communication: Guide Débutant..."
+    },
+    {
         "id": "GWY3ANofbgw",
         "videoId": "GWY3ANofbgw",
         "title": "Le créateur de Claude Code vient de sortir ce skill qui va changer comment tu utilises Claude",
@@ -247,17 +335,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Z9-B4hSu-3o",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 Détruit Les IA à Plusieurs Milliards…Gratuitement ? 🤔..."
-    },
-    {
-        "id": "q3ckooaMKRs",
-        "videoId": "q3ckooaMKRs",
-        "title": "Comprendre les Protocoles de Communication: Guide Débutant",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=q3ckooaMKRs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Comprendre les Protocoles de Communication: Guide Débutant..."
     },
     {
         "id": "mfkp0t85nKQ",
@@ -634,39 +711,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : CLAUDE Code + Design : un site à 10 000€ sans coder (copie-moi)..."
     },
     {
-        "id": "ebNilfkGw2M",
-        "videoId": "ebNilfkGw2M",
-        "title": "ChatGPT pubs et données : le vrai",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-04",
-        "url": "https://www.youtube.com/watch?v=ebNilfkGw2M",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ChatGPT pubs et données : le vrai..."
-    },
-    {
-        "id": "tF751J797Lc",
-        "videoId": "tF751J797Lc",
-        "title": "L'actualité tech du 04/05/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-04",
-        "url": "https://www.youtube.com/watch?v=tF751J797Lc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 04/05/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "0X_WoJ0N3zE",
-        "videoId": "0X_WoJ0N3zE",
-        "title": "IA : La Menace Fantôme ou le Réveil de la Force ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-04",
-        "url": "https://www.youtube.com/watch?v=0X_WoJ0N3zE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : La Menace Fantôme ou le Réveil de la Force ?..."
-    },
-    {
         "id": "6UQEipBOXcQ",
         "videoId": "6UQEipBOXcQ",
         "title": "IA Vendeuse: Votre Business Vendre 24/7 #shorts",
@@ -898,17 +942,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ioJMtQ8OOWw",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : Les 5 skills à AVOIR dans ton Claude Code..."
-    },
-    {
-        "id": "vvBQET43U64",
-        "videoId": "vvBQET43U64",
-        "title": "Claude vient de lancer Claude Design",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-29",
-        "url": "https://www.youtube.com/watch?v=vvBQET43U64",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude vient de lancer Claude Design..."
     },
     {
         "id": "7cTenhHWfsk",
@@ -1956,17 +1989,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : GLM 5.1: La Vraie Menace Pour Claude Opus ? (5x moins cher) 😱🇨🇳..."
     },
     {
-        "id": "DoTUBOI3Uz4",
-        "videoId": "DoTUBOI3Uz4",
-        "title": "Composants d'un système d'IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=DoTUBOI3Uz4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Composants d'un système d'IA..."
-    },
-    {
         "id": "9gpanAr9M_s",
         "videoId": "9gpanAr9M_s",
         "title": "Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)",
@@ -2068,13 +2090,13 @@ export const allVideos = [
     {
         "id": "VxAjVp09vDw",
         "videoId": "VxAjVp09vDw",
-        "title": "Comment r��diger un bon prompt en 2026 ? (Texte, Image, Vidéo)",
+        "title": "Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)",
         "author": "Ludovic Nédélec",
         "source": "@LudovicNedelec",
         "date": "2026-03-23",
         "url": "https://www.youtube.com/watch?v=VxAjVp09vDw",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Comment r��diger un bon prompt en 2026 ? (Texte, Image, Vidéo)..."
+        "summary": "Nouveauté de Ludovic Nédélec : Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)..."
     },
     {
         "id": "-50BGEYgMr4",
@@ -2209,17 +2231,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : MISTRAL AI a fait une GROSSE annonce (MISTRAL FORGE)..."
     },
     {
-        "id": "BKAfkvBaevs",
-        "videoId": "BKAfkvBaevs",
-        "title": "5 plugins qui vont rendre ton Claude Code surpuissant",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=BKAfkvBaevs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : 5 plugins qui vont rendre ton Claude Code surpuissant..."
-    },
-    {
         "id": "vP0qh6ch99o",
         "videoId": "vP0qh6ch99o",
         "title": "La Fonctionnalité Claude la plus sous-estimée 2026 (Tuto Complet)",
@@ -2328,16 +2339,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uqV3ujeaeKs",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)..."
-    },
-    {
-        "id": "YebMrY_Cr5s",
-        "videoId": "YebMrY_Cr5s",
-        "title": "Comment utiliser EXCEL avec un AGENT IA ?",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-03-13",
-        "url": "https://www.youtube.com/watch?v=YebMrY_Cr5s",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : Comment utiliser EXCEL avec un AGENT IA ?..."
     }
 ];
