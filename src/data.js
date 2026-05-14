@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-13T08:39:57.121Z
+// Fichier généré automatiquement le 2026-05-14T08:33:34.447Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:39:57 AM 5/13/2026";
+export const lastUpdate = "8:33:34 AM 5/14/2026";
 
 export const sources = [
     {
@@ -172,15 +172,114 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "uH7s2-jHyJc",
+        "videoId": "uH7s2-jHyJc",
+        "title": "L'actualité tech du 13/05/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-14",
+        "url": "https://www.youtube.com/watch?v=uH7s2-jHyJc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 13/05/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "FWkZEuTJsYo",
+        "videoId": "FWkZEuTJsYo",
+        "title": "Comment Internet fonctionne? Les 7 Couches du Modèle OSI",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-14",
+        "url": "https://www.youtube.com/watch?v=FWkZEuTJsYo",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Comment Internet fonctionne? Les 7 Couches du Modèle OSI..."
+    },
+    {
+        "id": "JOPrKZheAc4",
+        "videoId": "JOPrKZheAc4",
+        "title": "J'ai arrêté d'utiliser OpenClaw (je t'explique pourquoi)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=JOPrKZheAc4",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : J'ai arrêté d'utiliser OpenClaw (je t'explique pourquoi)..."
+    },
+    {
+        "id": "yBqaOHHDnU8",
+        "videoId": "yBqaOHHDnU8",
+        "title": "Claude gère mes courses chaque dimanche.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=yBqaOHHDnU8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude gère mes courses chaque dimanche...."
+    },
+    {
+        "id": "PxthwNWLV_E",
+        "videoId": "PxthwNWLV_E",
+        "title": "Mon classement des fonctionnalités dans Claude !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=PxthwNWLV_E",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Mon classement des fonctionnalités dans Claude !..."
+    },
+    {
+        "id": "P5oXYsM8CZg",
+        "videoId": "P5oXYsM8CZg",
+        "title": "Gemini : votre téléphone agit seul",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=P5oXYsM8CZg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Gemini : votre téléphone agit seul..."
+    },
+    {
+        "id": "jvTNJ77vcjI",
+        "videoId": "jvTNJ77vcjI",
+        "title": "Votre IA : dans un smartphone, un robot ou en orbite ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=jvTNJ77vcjI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Votre IA : dans un smartphone, un robot ou en orbite ?..."
+    },
+    {
+        "id": "_hinUrYwMuE",
+        "videoId": "_hinUrYwMuE",
+        "title": "Pourquoi DeepMind choisit EVE",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=_hinUrYwMuE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Pourquoi DeepMind choisit EVE..."
+    },
+    {
         "id": "hr5J7g2R0H8",
         "videoId": "hr5J7g2R0H8",
-        "title": "Je vous présente mon système IA (+ réponse à vos questions)",
+        "title": "Je vous présente mon second cerveau IA (+ réponse à vos questions)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-05-13",
         "url": "https://www.youtube.com/watch?v=hr5J7g2R0H8",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Je vous présente mon système IA (+ réponse à vos questions)..."
+        "summary": "Nouveauté de Eliott Meunier : Je vous présente mon second cerveau IA (+ réponse à vos questions)..."
+    },
+    {
+        "id": "Z678vGFryxE",
+        "videoId": "Z678vGFryxE",
+        "title": "Hermes Agent Desktop : Le Premier Agent IA 24/7Qui Évolue Tout Seul ? 😱🔥",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-13",
+        "url": "https://www.youtube.com/watch?v=Z678vGFryxE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Hermes Agent Desktop : Le Premier Agent IA 24/7Qui Évolue Tout Seul ? 😱🔥..."
     },
     {
         "id": "FQNRsqdB9ac",
@@ -623,28 +722,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Les géants US vont toujours plus loin (trop ?) et la Chine montre la voie..."
     },
     {
-        "id": "xbzzG8vdf7A",
-        "videoId": "xbzzG8vdf7A",
-        "title": "L'actualité tech du 06/05/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=xbzzG8vdf7A",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 06/05/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "nW56rUnW0Jg",
-        "videoId": "nW56rUnW0Jg",
-        "title": "Mistral 3.5 : l’IA qui code seule",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-06",
-        "url": "https://www.youtube.com/watch?v=nW56rUnW0Jg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral 3.5 : l’IA qui code seule..."
-    },
-    {
         "id": "g2PdHA-1Lho",
         "videoId": "g2PdHA-1Lho",
         "title": "Le plan machiavélique d'Anthropic (et comment s'en protéger)",
@@ -665,28 +742,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZDj8kDdAc9c",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 300 skills gratuits viennent de sortir..."
-    },
-    {
-        "id": "22Tp2_zgDFQ",
-        "videoId": "22Tp2_zgDFQ",
-        "title": "Google : IA classée militaire",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-05",
-        "url": "https://www.youtube.com/watch?v=22Tp2_zgDFQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google : IA classée militaire..."
-    },
-    {
-        "id": "S2ZNVRhNlAk",
-        "videoId": "S2ZNVRhNlAk",
-        "title": "Procès Musk-OpenAI: aveu choc",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-05",
-        "url": "https://www.youtube.com/watch?v=S2ZNVRhNlAk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Procès Musk-OpenAI: aveu choc..."
     },
     {
         "id": "9qRbx0VhtSU",
@@ -900,17 +955,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "er2vIjpeOOQ",
-        "videoId": "er2vIjpeOOQ",
-        "title": "Si tu utilises Claude Code, tu dois connaître ces 5 outils gratuits.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=er2vIjpeOOQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Si tu utilises Claude Code, tu dois connaître ces 5 outils gratuits...."
-    },
-    {
         "id": "vJNI-NyacCg",
         "videoId": "vJNI-NyacCg",
         "title": "Maîtriser 95% de Claude Design en 21 min !",
@@ -1034,13 +1078,13 @@ export const allVideos = [
     {
         "id": "bWvUQNEGqDE",
         "videoId": "bWvUQNEGqDE",
-        "title": "DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨���",
+        "title": "DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨🇳",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-04-24",
         "url": "https://www.youtube.com/watch?v=bWvUQNEGqDE",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨���..."
+        "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨🇳..."
     },
     {
         "id": "aWadvdrEP6I",
@@ -1934,17 +1978,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Configuration de l'agent AI..."
     },
     {
-        "id": "Q_Zm-DbJamw",
-        "videoId": "Q_Zm-DbJamw",
-        "title": "Créer un agent IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=Q_Zm-DbJamw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Créer un agent IA..."
-    },
-    {
         "id": "2lWwlaOMMcQ",
         "videoId": "2lWwlaOMMcQ",
         "title": "Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT",
@@ -1976,17 +2009,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=sJeAFbIJwFA",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Apprenez ça au lieu de l'automatisation IA en 2026..."
-    },
-    {
-        "id": "Wue_5RVLpRk",
-        "videoId": "Wue_5RVLpRk",
-        "title": "GLM 5.1: La Vraie Menace Pour Claude Opus ? (5x moins cher) 😱🇨🇳",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-03-29",
-        "url": "https://www.youtube.com/watch?v=Wue_5RVLpRk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GLM 5.1: La Vraie Menace Pour Claude Opus ? (5x moins cher) 😱🇨🇳..."
     },
     {
         "id": "9gpanAr9M_s",
@@ -2187,17 +2209,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : CES OUTILS sont SURPUISSANTS..."
     },
     {
-        "id": "X43XHtAUMCA",
-        "videoId": "X43XHtAUMCA",
-        "title": "Microsoft lance Copilot Cowork et... c'est une claque !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=X43XHtAUMCA",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Microsoft lance Copilot Cowork et... c'est une claque !..."
-    },
-    {
         "id": "THc6XfAUFpU",
         "videoId": "THc6XfAUFpU",
         "title": "Transforme ta création de projet en donnant des superpouvoirs à ton Claude Code 🦸🏼‍♂️",
@@ -2328,16 +2339,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Q7RcgXzBtDQ",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Personne ne réalise ce que cet ado vient de créer avec l'IA..."
-    },
-    {
-        "id": "uqV3ujeaeKs",
-        "videoId": "uqV3ujeaeKs",
-        "title": "L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-03-14",
-        "url": "https://www.youtube.com/watch?v=uqV3ujeaeKs",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L'IA prépare tous mes RDV en 30 secondes (je vous montre comment)..."
     }
 ];
