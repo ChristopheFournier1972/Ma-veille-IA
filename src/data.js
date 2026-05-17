@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-16T07:58:50.899Z
+// Fichier généré automatiquement le 2026-05-17T08:16:03.206Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:58:50 AM 5/16/2026";
+export const lastUpdate = "8:16:03 AM 5/17/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "wQTmtEdUUg4",
+        "videoId": "wQTmtEdUUg4",
+        "title": "Quelqu'un vient de créer l'outil Claude le plus puissant pour les développeurs",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-16",
+        "url": "https://www.youtube.com/watch?v=wQTmtEdUUg4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer l'outil Claude le plus puissant pour les développeurs..."
+    },
+    {
+        "id": "bVN_PZNOPsE",
+        "videoId": "bVN_PZNOPsE",
+        "title": "IA : première cyberattaque zero-day",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-16",
+        "url": "https://www.youtube.com/watch?v=bVN_PZNOPsE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : première cyberattaque zero-day..."
+    },
+    {
+        "id": "q5IfMPw6mFg",
+        "videoId": "q5IfMPw6mFg",
+        "title": "&quot;L'IA ne sera jamais créative&quot; - co-fondateur d'Argil.ai (YC)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-16",
+        "url": "https://www.youtube.com/watch?v=q5IfMPw6mFg",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : &quot;L'IA ne sera jamais créative&quot; - co-fondateur d'Argil.ai (YC)..."
+    },
+    {
+        "id": "nSlSyJK3OUk",
+        "videoId": "nSlSyJK3OUk",
+        "title": "Encapsulation vs Désencapsulation: Comprendre le Modèle TCP/IP",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-16",
+        "url": "https://www.youtube.com/watch?v=nSlSyJK3OUk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Encapsulation vs Désencapsulation: Comprendre le Modèle TCP/IP..."
+    },
+    {
         "id": "xP59L4fnJSw",
         "videoId": "xP59L4fnJSw",
         "title": "FindSkills te donne le skill Claude qu'il te faut !",
@@ -317,13 +361,13 @@ export const allVideos = [
     {
         "id": "cY9h0zre4dI",
         "videoId": "cY9h0zre4dI",
-        "title": "Le Guide Claude Code OS ULTIME en 2026 (l'AIOS expliqué)",
+        "title": "L’AIOS va me remplacer. Guide Claude Code AGENTIC OS",
         "author": "Baptiste Simard - IA",
         "source": "@BaptIA",
         "date": "2026-05-14",
         "url": "https://www.youtube.com/watch?v=cY9h0zre4dI",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Le Guide Claude Code OS ULTIME en 2026 (l'AIOS expliqué)..."
+        "summary": "Nouveauté de Baptiste Simard - IA : L’AIOS va me remplacer. Guide Claude Code AGENTIC OS..."
     },
     {
         "id": "JOPrKZheAc4",
@@ -711,17 +755,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Claude peut maintenant devenir ton agent WhatsApp...."
     },
     {
-        "id": "-whEgxyrT7g",
-        "videoId": "-whEgxyrT7g",
-        "title": "OpenAI et Anthropic changent tout",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-08",
-        "url": "https://www.youtube.com/watch?v=-whEgxyrT7g",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI et Anthropic changent tout..."
-    },
-    {
         "id": "SgxSUle-TcE",
         "videoId": "SgxSUle-TcE",
         "title": "Créer son système IA : ça vaut encore le coup ?",
@@ -863,17 +896,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9qRbx0VhtSU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Claude devient ton coach sportif avec 1 seule skill...."
-    },
-    {
-        "id": "53xYgNz3ajY",
-        "videoId": "53xYgNz3ajY",
-        "title": "CLAUDE Code + Design : un site à 10 000€ sans coder (copie-moi)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-04",
-        "url": "https://www.youtube.com/watch?v=53xYgNz3ajY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE Code + Design : un site à 10 000€ sans coder (copie-moi)..."
     },
     {
         "id": "6UQEipBOXcQ",
@@ -1988,17 +2010,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Tester l'agent IA..."
     },
     {
-        "id": "YxK6e106zg8",
-        "videoId": "YxK6e106zg8",
-        "title": "Intégration avec Telegram",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=YxK6e106zg8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Intégration avec Telegram..."
-    },
-    {
         "id": "Ksaqjr4QFdk",
         "videoId": "Ksaqjr4QFdk",
         "title": "Claude Cowork Dispatch : c'est quoi et comment ça marche ?",
@@ -2283,49 +2294,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vP0qh6ch99o",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : La Fonctionnalité Claude la plus sous-estimée 2026 (Tuto Complet)..."
-    },
-    {
-        "id": "RtHqiIYu-FU",
-        "videoId": "RtHqiIYu-FU",
-        "title": "SEO IA : Méthode puissante pour se positionner sur Google",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=RtHqiIYu-FU",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : SEO IA : Méthode puissante pour se positionner sur Google..."
-    },
-    {
-        "id": "vJNF25rhYj4",
-        "videoId": "vJNF25rhYj4",
-        "title": "RAG + Gemini en 2026 (TUTO)🔥",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=vJNF25rhYj4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : RAG + Gemini en 2026 (TUTO)🔥..."
-    },
-    {
-        "id": "yUaIYBlIFdw",
-        "videoId": "yUaIYBlIFdw",
-        "title": "Créer une app avec Google Antigravity (sans savoir coder)",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=yUaIYBlIFdw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Créer une app avec Google Antigravity (sans savoir coder)..."
-    },
-    {
-        "id": "kYTgB1uNn5E",
-        "videoId": "kYTgB1uNn5E",
-        "title": "Guide Complet | Claude Code : Ton Assistant IA 24/7 en 40 Minutes (No Code) !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-03-17",
-        "url": "https://www.youtube.com/watch?v=kYTgB1uNn5E",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : Guide Complet | Claude Code : Ton Assistant IA 24/7 en 40 Minutes (No Code) !..."
     }
 ];
