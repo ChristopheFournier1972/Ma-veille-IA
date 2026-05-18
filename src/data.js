@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-17T08:16:03.206Z
+// Fichier généré automatiquement le 2026-05-18T09:54:32.250Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:16:03 AM 5/17/2026";
+export const lastUpdate = "9:54:32 AM 5/18/2026";
 
 export const sources = [
     {
@@ -172,6 +172,96 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "VJQvNFJgUjQ",
+        "videoId": "VJQvNFJgUjQ",
+        "title": "Google+SpaceX : données en orbite",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=VJQvNFJgUjQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google+SpaceX : données en orbite..."
+    },
+    {
+        "id": "b5HDUbwcgzo",
+        "videoId": "b5HDUbwcgzo",
+        "title": "Cet outil peut remplacer 100€ d’abonnements IA pour 8$ ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=b5HDUbwcgzo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Cet outil peut remplacer 100€ d’abonnements IA pour 8$ ?..."
+    },
+    {
+        "id": "T7vTh4StDZM",
+        "videoId": "T7vTh4StDZM",
+        "title": "Comment devenir quelqu'un d'autre pour créer sa chance",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-05-17",
+        "url": "https://www.youtube.com/watch?v=T7vTh4StDZM",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Comment devenir quelqu'un d'autre pour créer sa chance..."
+    },
+    {
+        "id": "7qQEtp48T4g",
+        "videoId": "7qQEtp48T4g",
+        "title": "GitHub vient de tuer le vibe coding avec SpecKit",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-17",
+        "url": "https://www.youtube.com/watch?v=7qQEtp48T4g",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : GitHub vient de tuer le vibe coding avec SpecKit..."
+    },
+    {
+        "id": "oS1RvuLPGbA",
+        "videoId": "oS1RvuLPGbA",
+        "title": "Formation Claude Code: De Zéro à Pro Sans Coder (2026) | Guide Complet Débutant",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-05-17",
+        "url": "https://www.youtube.com/watch?v=oS1RvuLPGbA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Formation Claude Code: De Zéro à Pro Sans Coder (2026) | Guide Complet Débutant..."
+    },
+    {
+        "id": "JntQOBm7-44",
+        "videoId": "JntQOBm7-44",
+        "title": "Trouve le MEILLEUR modèle IA pour ton PC avec Ollama ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-17",
+        "url": "https://www.youtube.com/watch?v=JntQOBm7-44",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Trouve le MEILLEUR modèle IA pour ton PC avec Ollama ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "qjYCG4Hx5Ys",
+        "videoId": "qjYCG4Hx5Ys",
+        "title": "IA en avion : Code Cloud local, sans WiFi ni argent ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-17",
+        "url": "https://www.youtube.com/watch?v=qjYCG4Hx5Ys",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA en avion : Code Cloud local, sans WiFi ni argent ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "A5LozqMdv5I",
+        "videoId": "A5LozqMdv5I",
+        "title": "Comprendre le Modèle OSI: Les 7 Couches Expliquées Simplement",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-17",
+        "url": "https://www.youtube.com/watch?v=A5LozqMdv5I",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Comprendre le Modèle OSI: Les 7 Couches Expliquées Simplement..."
+    },
+    {
         "id": "wQTmtEdUUg4",
         "videoId": "wQTmtEdUUg4",
         "title": "Quelqu'un vient de créer l'outil Claude le plus puissant pour les développeurs",
@@ -196,13 +286,13 @@ export const allVideos = [
     {
         "id": "q5IfMPw6mFg",
         "videoId": "q5IfMPw6mFg",
-        "title": "&quot;L'IA ne sera jamais créative&quot; - co-fondateur d'Argil.ai (YC)",
+        "title": "Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-05-16",
         "url": "https://www.youtube.com/watch?v=q5IfMPw6mFg",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : &quot;L'IA ne sera jamais créative&quot; - co-fondateur d'Argil.ai (YC)..."
+        "summary": "Nouveauté de Eliott Meunier : Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)..."
     },
     {
         "id": "nSlSyJK3OUk",
@@ -317,13 +407,13 @@ export const allVideos = [
     {
         "id": "uH7s2-jHyJc",
         "videoId": "uH7s2-jHyJc",
-        "title": "L'actualité tech du 13/05/2026 en Live sur Renaud Dékode",
+        "title": "L'actualit�� tech du 13/05/2026 en Live sur Renaud Dékode",
         "author": "Renaud Dékode",
         "source": "@RenaudDekode",
         "date": "2026-05-14",
         "url": "https://www.youtube.com/watch?v=uH7s2-jHyJc",
         "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 13/05/2026 en Live sur Renaud Dékode..."
+        "summary": "Nouveauté de Renaud Dékode : L'actualit�� tech du 13/05/2026 en Live sur Renaud Dékode..."
     },
     {
         "id": "aQ3DckyO4eE",
@@ -658,13 +748,13 @@ export const allVideos = [
     {
         "id": "w2JE7HUNJFU",
         "videoId": "w2JE7HUNJFU",
-        "title": "5 Astuces Secrètes sur Claude IA à Absolument Connaître en 2026",
+        "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-05-10",
         "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : 5 Astuces Secrètes sur Claude IA à Absolument Connaître en 2026..."
+        "summary": "Nouveauté de Yassine Sdiri : 5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population..."
     },
     {
         "id": "kFdDZYKXvmw",
@@ -676,17 +766,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kFdDZYKXvmw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Claude peut maintenant t'aider à devenir fluide dans n'importe quelle langue avec 1 unique skill...."
-    },
-    {
-        "id": "UvpaE_maBqs",
-        "videoId": "UvpaE_maBqs",
-        "title": "Meta scanne vos photos pour l’âge",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-09",
-        "url": "https://www.youtube.com/watch?v=UvpaE_maBqs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Meta scanne vos photos pour l’âge..."
     },
     {
         "id": "y0taBHJRJXY",
@@ -885,17 +964,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZDj8kDdAc9c",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 300 skills gratuits viennent de sortir..."
-    },
-    {
-        "id": "9qRbx0VhtSU",
-        "videoId": "9qRbx0VhtSU",
-        "title": "Claude devient ton coach sportif avec 1 seule skill.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-04",
-        "url": "https://www.youtube.com/watch?v=9qRbx0VhtSU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude devient ton coach sportif avec 1 seule skill...."
     },
     {
         "id": "6UQEipBOXcQ",
@@ -1403,18 +1471,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "MWFlTdpwi74",
-        "videoId": "MWFlTdpwi74",
-        "title": "Créez des landing pages IA stylées en quelques secondes ! 🚀 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=MWFlTdpwi74",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez des landing pages IA stylées en quelques secondes ! 🚀 #shorts...",
-        "isShort": true
-    },
-    {
         "id": "MduQOd_cDzs",
         "videoId": "MduQOd_cDzs",
         "title": "La plus grosse annonce de l’histoire de Canva (Je ne m’attendais pas à ça !)",
@@ -1446,18 +1502,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=H9BNiEn_pJ8",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : 7 Outils IA Indispensables Pour Votre Business..."
-    },
-    {
-        "id": "42YwmEATn9E",
-        "videoId": "42YwmEATn9E",
-        "title": "Créez des designs INCROYABLES avec l'IA ! Inspiration Claude &amp; Inspiré par Claude #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=42YwmEATn9E",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez des designs INCROYABLES avec l'IA ! Inspiration Claude &amp; Inspiré par Claude #shorts...",
-        "isShort": true
     },
     {
         "id": "kWrWE8q-e9s",
@@ -1922,17 +1966,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Automatisez votre quotidien avec Claude grâce à cette vidéo !..."
     },
     {
-        "id": "PFa2Lao4OP8",
-        "videoId": "PFa2Lao4OP8",
-        "title": "Readdy.ai : L’IA qui build un business COMPLET toute seule (test réel)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-04-02",
-        "url": "https://www.youtube.com/watch?v=PFa2Lao4OP8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Readdy.ai : L’IA qui build un business COMPLET toute seule (test réel)..."
-    },
-    {
         "id": "RKKK4uJ1ygU",
         "videoId": "RKKK4uJ1ygU",
         "title": "Maitriser TOUT NotebookLM en 26 minutes (Tuto Complet)",
@@ -1997,17 +2030,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=UdTHKV7Taok",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le nouveau modèle d’Anthropic a fuité et il va être monstrueux !..."
-    },
-    {
-        "id": "mmf4IM9QnSM",
-        "videoId": "mmf4IM9QnSM",
-        "title": "Tester l'agent IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=mmf4IM9QnSM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Tester l'agent IA..."
     },
     {
         "id": "Ksaqjr4QFdk",
@@ -2272,27 +2294,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=X3wKzD2fauc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Cet outil IA améliore n'importe quelle vidéo en quelques clics 👀..."
-    },
-    {
-        "id": "_5J0kKE13xM",
-        "videoId": "_5J0kKE13xM",
-        "title": "MISTRAL AI a fait une GROSSE annonce (MISTRAL FORGE)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=_5J0kKE13xM",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : MISTRAL AI a fait une GROSSE annonce (MISTRAL FORGE)..."
-    },
-    {
-        "id": "vP0qh6ch99o",
-        "videoId": "vP0qh6ch99o",
-        "title": "La Fonctionnalité Claude la plus sous-estimée 2026 (Tuto Complet)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-03-18",
-        "url": "https://www.youtube.com/watch?v=vP0qh6ch99o",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : La Fonctionnalité Claude la plus sous-estimée 2026 (Tuto Complet)..."
     }
 ];
