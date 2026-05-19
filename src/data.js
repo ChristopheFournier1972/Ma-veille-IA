@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-18T09:54:32.250Z
+// Fichier généré automatiquement le 2026-05-19T09:36:22.372Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:54:32 AM 5/18/2026";
+export const lastUpdate = "9:36:22 AM 5/19/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "iXD2xJmDe3I",
+        "videoId": "iXD2xJmDe3I",
+        "title": "La plupart des gens utilisent Claude comme un chatbot basique : et c'est pour ça qu'ils sont déçus.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=iXD2xJmDe3I",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : La plupart des gens utilisent Claude comme un chatbot basique : et c'est pour ça qu'ils sont déçus...."
+    },
+    {
+        "id": "oaZWHNWNNFw",
+        "videoId": "oaZWHNWNNFw",
+        "title": "IA et comptes : faire confiance ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=oaZWHNWNNFw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA et comptes : faire confiance ?..."
+    },
+    {
+        "id": "sVsHlLjvxOY",
+        "videoId": "sVsHlLjvxOY",
+        "title": "L'actualité tech du 18/05/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=sVsHlLjvxOY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 18/05/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "eGiy5jbHWxk",
+        "videoId": "eGiy5jbHWxk",
+        "title": "L'IA se glisse toujours plus près de vous, et vous ne la voyez pas venir",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=eGiy5jbHWxk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA se glisse toujours plus près de vous, et vous ne la voyez pas venir..."
+    },
+    {
         "id": "VJQvNFJgUjQ",
         "videoId": "VJQvNFJgUjQ",
         "title": "Google+SpaceX : données en orbite",
@@ -192,6 +236,63 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=b5HDUbwcgzo",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Cet outil peut remplacer 100€ d’abonnements IA pour 8$ ?..."
+    },
+    {
+        "id": "-tPJLy0hqxQ",
+        "videoId": "-tPJLy0hqxQ",
+        "title": "L'IA Révolutionne Vos Réseaux Sociaux avec Claude Code &amp; Vibe Socials #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=-tPJLy0hqxQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : L'IA Révolutionne Vos Réseaux Sociaux avec Claude Code &amp; Vibe Socials #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "8kLeL9OERPU",
+        "videoId": "8kLeL9OERPU",
+        "title": "Installez Ollama Facilement sur Votre PC: Le Futur est Là ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=8kLeL9OERPU",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Installez Ollama Facilement sur Votre PC: Le Futur est Là ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "GFZXeKKyac8",
+        "videoId": "GFZXeKKyac8",
+        "title": "Comprendre le Modèle TCP/IP: Comment fonctionne Internet?",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=GFZXeKKyac8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Comprendre le Modèle TCP/IP: Comment fonctionne Internet?..."
+    },
+    {
+        "id": "ZfOCoTnpymA",
+        "videoId": "ZfOCoTnpymA",
+        "title": "Divise ta facture Claude Code par 10 avec ce nouvel outil (Tuto Complet)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=ZfOCoTnpymA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Divise ta facture Claude Code par 10 avec ce nouvel outil (Tuto Complet)..."
+    },
+    {
+        "id": "tWneZs6ttSA",
+        "videoId": "tWneZs6ttSA",
+        "title": "Canva : tous les raccourcis et réglages pour gagner 1h chaque semaine",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-05-18",
+        "url": "https://www.youtube.com/watch?v=tWneZs6ttSA",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Canva : tous les raccourcis et réglages pour gagner 1h chaque semaine..."
     },
     {
         "id": "T7vTh4StDZM",
@@ -218,13 +319,13 @@ export const allVideos = [
     {
         "id": "oS1RvuLPGbA",
         "videoId": "oS1RvuLPGbA",
-        "title": "Formation Claude Code: De Zéro à Pro Sans Coder (2026) | Guide Complet Débutant",
+        "title": "Comment Créer Sans Limite avec l’IA: Formation Claude Code (2026) | Guide Complet Débutant",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-05-17",
         "url": "https://www.youtube.com/watch?v=oS1RvuLPGbA",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Formation Claude Code: De Zéro à Pro Sans Coder (2026) | Guide Complet Débutant..."
+        "summary": "Nouveauté de Yassine Sdiri : Comment Créer Sans Limite avec l’IA: Formation Claude Code (2026) | Guide Complet Débutant..."
     },
     {
         "id": "JntQOBm7-44",
@@ -407,13 +508,13 @@ export const allVideos = [
     {
         "id": "uH7s2-jHyJc",
         "videoId": "uH7s2-jHyJc",
-        "title": "L'actualit�� tech du 13/05/2026 en Live sur Renaud Dékode",
+        "title": "L'actualité tech du 13/05/2026 en Live sur Renaud Dékode",
         "author": "Renaud Dékode",
         "source": "@RenaudDekode",
         "date": "2026-05-14",
         "url": "https://www.youtube.com/watch?v=uH7s2-jHyJc",
         "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualit�� tech du 13/05/2026 en Live sur Renaud Dékode..."
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 13/05/2026 en Live sur Renaud Dékode..."
     },
     {
         "id": "aQ3DckyO4eE",
@@ -645,39 +746,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=FXHZHsCmEVQ",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : GPT-5 dans la voix : le choc réel..."
-    },
-    {
-        "id": "2PO1l359XQI",
-        "videoId": "2PO1l359XQI",
-        "title": "GPT Realtime 2 vient de tout changer !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=2PO1l359XQI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT Realtime 2 vient de tout changer !..."
-    },
-    {
-        "id": "ZW4s6M54frI",
-        "videoId": "ZW4s6M54frI",
-        "title": "L'actualité tech du 11/05/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=ZW4s6M54frI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 11/05/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "_6_uwsK08iM",
-        "videoId": "_6_uwsK08iM",
-        "title": "Chine : licencier pour IA interdit ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=_6_uwsK08iM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Chine : licencier pour IA interdit ?..."
     },
     {
         "id": "YCttZsEIuqI",
@@ -953,17 +1021,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=g2PdHA-1Lho",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le plan machiavélique d'Anthropic (et comment s'en protéger)..."
-    },
-    {
-        "id": "ZDj8kDdAc9c",
-        "videoId": "ZDj8kDdAc9c",
-        "title": "300 skills gratuits viennent de sortir",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-05",
-        "url": "https://www.youtube.com/watch?v=ZDj8kDdAc9c",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 300 skills gratuits viennent de sortir..."
     },
     {
         "id": "6UQEipBOXcQ",
@@ -1436,18 +1493,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "NKvWOv1H9n8",
-        "videoId": "NKvWOv1H9n8",
-        "title": "Stitch : Votre SAS devient un VRAI site web interactif ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-21",
-        "url": "https://www.youtube.com/watch?v=NKvWOv1H9n8",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Stitch : Votre SAS devient un VRAI site web interactif ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "rL9kCbLaNFI",
         "videoId": "rL9kCbLaNFI",
         "title": "Formation OpenClaw : Créez vos agents IA pour tout automatiser",
@@ -1457,18 +1502,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=rL9kCbLaNFI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Formation OpenClaw : Créez vos agents IA pour tout automatiser..."
-    },
-    {
-        "id": "L9ZE0wi3-3Y",
-        "videoId": "L9ZE0wi3-3Y",
-        "title": "L'IA refait votre site web en orange : design fluide et rapide #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=L9ZE0wi3-3Y",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : L'IA refait votre site web en orange : design fluide et rapide #shorts...",
-        "isShort": true
     },
     {
         "id": "MduQOd_cDzs",
@@ -1999,17 +2032,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Codex arrive dans Claude Code (TEST)..."
     },
     {
-        "id": "WPrEuTqyloc",
-        "videoId": "WPrEuTqyloc",
-        "title": "Conclusion et prochaines étapes",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-04-01",
-        "url": "https://www.youtube.com/watch?v=WPrEuTqyloc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Conclusion et prochaines étapes..."
-    },
-    {
         "id": "PiMNs7xHp2M",
         "videoId": "PiMNs7xHp2M",
         "title": "CLAUDE CODE Automatise 100% de Ton PC : Il Fait TOUT à Ta Place ! (même débutant)",
@@ -2261,38 +2283,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DL9imqmWs_8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Améliore la qualité de ton code avec ce plugin Claude Code 🧑‍💻..."
-    },
-    {
-        "id": "a8tM3ZD1NRg",
-        "videoId": "a8tM3ZD1NRg",
-        "title": "CES OUTILS sont SURPUISSANTS",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=a8tM3ZD1NRg",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : CES OUTILS sont SURPUISSANTS..."
-    },
-    {
-        "id": "THc6XfAUFpU",
-        "videoId": "THc6XfAUFpU",
-        "title": "Transforme ta création de projet en donnant des superpouvoirs à ton Claude Code 🦸🏼‍♂️",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=THc6XfAUFpU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Transforme ta création de projet en donnant des superpouvoirs à ton Claude Code 🦸🏼‍♂️..."
-    },
-    {
-        "id": "X3wKzD2fauc",
-        "videoId": "X3wKzD2fauc",
-        "title": "Cet outil IA améliore n'importe quelle vidéo en quelques clics 👀",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-19",
-        "url": "https://www.youtube.com/watch?v=X3wKzD2fauc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Cet outil IA améliore n'importe quelle vidéo en quelques clics 👀..."
     }
 ];
