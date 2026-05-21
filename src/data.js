@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-20T09:24:14.010Z
+// Fichier généré automatiquement le 2026-05-21T09:34:03.427Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:24:14 AM 5/20/2026";
+export const lastUpdate = "9:34:03 AM 5/21/2026";
 
 export const sources = [
     {
@@ -172,6 +172,116 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "aHH-s5IB3XE",
+        "videoId": "aHH-s5IB3XE",
+        "title": "Musk perd 134 Md face à OpenAI",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-21",
+        "url": "https://www.youtube.com/watch?v=aHH-s5IB3XE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Musk perd 134 Md face à OpenAI..."
+    },
+    {
+        "id": "LrG377qQlVw",
+        "videoId": "LrG377qQlVw",
+        "title": "Modèle OSI vs TCP/IP: Tout comprendre en 3 minutes",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-21",
+        "url": "https://www.youtube.com/watch?v=LrG377qQlVw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Modèle OSI vs TCP/IP: Tout comprendre en 3 minutes..."
+    },
+    {
+        "id": "NU3G3RHuIX8",
+        "videoId": "NU3G3RHuIX8",
+        "title": "N'importe qui peut coder ? Ce gérant de salle d’escalade en est la PREUVE !",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=NU3G3RHuIX8",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : N'importe qui peut coder ? Ce gérant de salle d’escalade en est la PREUVE !..."
+    },
+    {
+        "id": "XCWlHH8iMqU",
+        "videoId": "XCWlHH8iMqU",
+        "title": "Anthropic vient de lancer un pack complet pour les petites entreprises",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=XCWlHH8iMqU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Anthropic vient de lancer un pack complet pour les petites entreprises..."
+    },
+    {
+        "id": "6sgCPGojZTA",
+        "videoId": "6sgCPGojZTA",
+        "title": "Le prompt à toujours utiliser dans Claude !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=6sgCPGojZTA",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Le prompt à toujours utiliser dans Claude !..."
+    },
+    {
+        "id": "FnoxQWRGk0Y",
+        "videoId": "FnoxQWRGk0Y",
+        "title": "Google passe à l’IA qui agit",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=FnoxQWRGk0Y",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google passe à l’IA qui agit..."
+    },
+    {
+        "id": "iEeykMBUoqY",
+        "videoId": "iEeykMBUoqY",
+        "title": "Toutes les annonces de Google, qui changent TOUT du web et de l'IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=iEeykMBUoqY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Toutes les annonces de Google, qui changent TOUT du web et de l'IA..."
+    },
+    {
+        "id": "PgJe8OqjarY",
+        "videoId": "PgJe8OqjarY",
+        "title": "L'actualité tech du 20/05/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=PgJe8OqjarY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 20/05/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "mp3VzYu5BRo",
+        "videoId": "mp3VzYu5BRo",
+        "title": "IA pirate et se réplique seule",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=mp3VzYu5BRo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA pirate et se réplique seule..."
+    },
+    {
+        "id": "B9zUxH3umHQ",
+        "videoId": "B9zUxH3umHQ",
+        "title": "Gemini 3.5 Flash : Le modèle le plus rapide de l’histoire ? (290 tokens/s)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=B9zUxH3umHQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Gemini 3.5 Flash : Le modèle le plus rapide de l’histoire ? (290 tokens/s)..."
+    },
+    {
         "id": "9BnO43ijZwE",
         "videoId": "9BnO43ijZwE",
         "title": "Qwen 3.7 est la !",
@@ -181,6 +291,30 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9BnO43ijZwE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 est la !..."
+    },
+    {
+        "id": "AdFp_9DktUg",
+        "videoId": "AdFp_9DktUg",
+        "title": "Téléchargez des modèles IA facilement avec Ollama ! 🚀 #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=AdFp_9DktUg",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Téléchargez des modèles IA facilement avec Ollama ! 🚀 #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "LXImtt7MgNE",
+        "videoId": "LXImtt7MgNE",
+        "title": "Ollama : Le lancement qui fait des siennes #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-20",
+        "url": "https://www.youtube.com/watch?v=LXImtt7MgNE",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Ollama : Le lancement qui fait des siennes #shorts...",
+        "isShort": true
     },
     {
         "id": "xFs7A_fEFa4",
@@ -629,17 +763,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Un App Store pour robots arrive..."
     },
     {
-        "id": "uH7s2-jHyJc",
-        "videoId": "uH7s2-jHyJc",
-        "title": "L'actualité tech du 13/05/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-14",
-        "url": "https://www.youtube.com/watch?v=uH7s2-jHyJc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 13/05/2026 en Live sur Renaud Dékode..."
-    },
-    {
         "id": "aQ3DckyO4eE",
         "videoId": "aQ3DckyO4eE",
         "title": "TicNote Cloud : Le Meilleur Outil IA pour Tes Réunions ? (Test Complet) 😱🔥",
@@ -717,39 +840,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Mon classement des fonctionnalités dans Claude !..."
     },
     {
-        "id": "P5oXYsM8CZg",
-        "videoId": "P5oXYsM8CZg",
-        "title": "Gemini : votre téléphone agit seul",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-13",
-        "url": "https://www.youtube.com/watch?v=P5oXYsM8CZg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Gemini : votre téléphone agit seul..."
-    },
-    {
-        "id": "jvTNJ77vcjI",
-        "videoId": "jvTNJ77vcjI",
-        "title": "Votre IA : dans un smartphone, un robot ou en orbite ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-13",
-        "url": "https://www.youtube.com/watch?v=jvTNJ77vcjI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Votre IA : dans un smartphone, un robot ou en orbite ?..."
-    },
-    {
-        "id": "_hinUrYwMuE",
-        "videoId": "_hinUrYwMuE",
-        "title": "Pourquoi DeepMind choisit EVE",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-13",
-        "url": "https://www.youtube.com/watch?v=_hinUrYwMuE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Pourquoi DeepMind choisit EVE..."
-    },
-    {
         "id": "hr5J7g2R0H8",
         "videoId": "hr5J7g2R0H8",
         "title": "Je vous présente mon second cerveau IA (+ réponse à vos questions)",
@@ -781,17 +871,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=FQNRsqdB9ac",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Claude devient ton gestionnaire d'annonces Meta..."
-    },
-    {
-        "id": "7ZPVxgecclc",
-        "videoId": "7ZPVxgecclc",
-        "title": "Musk loue 220 000 GPU à Anthropic",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-12",
-        "url": "https://www.youtube.com/watch?v=7ZPVxgecclc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Musk loue 220 000 GPU à Anthropic..."
     },
     {
         "id": "dyZjwf1GeYk",
@@ -979,17 +1058,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=3UVbXmUIBSk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Comment TOUT Automatiser en 1 Prompt | de A à Z (Claude Code + n8n) !..."
-    },
-    {
-        "id": "iCvtJrw28MA",
-        "videoId": "iCvtJrw28MA",
-        "title": "Claude peut maintenant devenir ton agent WhatsApp.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-08",
-        "url": "https://www.youtube.com/watch?v=iCvtJrw28MA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude peut maintenant devenir ton agent WhatsApp...."
     },
     {
         "id": "SgxSUle-TcE",
@@ -1425,18 +1493,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "uozXZRzevKQ",
-        "videoId": "uozXZRzevKQ",
-        "title": "Sélectionner et commenter des éléments visuels en direct #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-23",
-        "url": "https://www.youtube.com/watch?v=uozXZRzevKQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Sélectionner et commenter des éléments visuels en direct #shorts...",
-        "isShort": true
-    },
-    {
         "id": "Ac6etyFXc54",
         "videoId": "Ac6etyFXc54",
         "title": "Claude Remplace les Monteurs Vidéos (Tuto Complet)",
@@ -1514,18 +1570,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : GPT Image 2 vs Nano Banana 2 : lequel est vraiment le meilleur 🏆..."
     },
     {
-        "id": "MPVAXuCpQOI",
-        "videoId": "MPVAXuCpQOI",
-        "title": "Stitch IA : L'art de créer un site web unique et cohérent #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-04-22",
-        "url": "https://www.youtube.com/watch?v=MPVAXuCpQOI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Stitch IA : L'art de créer un site web unique et cohérent #shorts...",
-        "isShort": true
-    },
-    {
         "id": "RQhj_I_erVg",
         "videoId": "RQhj_I_erVg",
         "title": "5 secrets sur Claude que personne ne connait !",
@@ -1535,17 +1579,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RQhj_I_erVg",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : 5 secrets sur Claude que personne ne connait !..."
-    },
-    {
-        "id": "rL9kCbLaNFI",
-        "videoId": "rL9kCbLaNFI",
-        "title": "Formation OpenClaw : Créez vos agents IA pour tout automatiser",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-04-21",
-        "url": "https://www.youtube.com/watch?v=rL9kCbLaNFI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Formation OpenClaw : Créez vos agents IA pour tout automatiser..."
     },
     {
         "id": "MduQOd_cDzs",
@@ -1900,17 +1933,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Utilise ce mode pour maîtriser Claude Code 🧑‍💻..."
     },
     {
-        "id": "p0nmZg0q6o4",
-        "videoId": "p0nmZg0q6o4",
-        "title": "Qwen 3.6 Plus : Enfin un Modèle Open Source au Niveau d’Opus ? 😱🔥",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-04-08",
-        "url": "https://www.youtube.com/watch?v=p0nmZg0q6o4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qwen 3.6 Plus : Enfin un Modèle Open Source au Niveau d’Opus ? 😱🔥..."
-    },
-    {
         "id": "svRtxQemC9I",
         "videoId": "svRtxQemC9I",
         "title": "J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)",
@@ -2175,17 +2197,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀..."
     },
     {
-        "id": "-LXUVXwv2FI",
-        "videoId": "-LXUVXwv2FI",
-        "title": "Claude Dispatch, la nouvelle folie d'Anthropic !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=-LXUVXwv2FI",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Claude Dispatch, la nouvelle folie d'Anthropic !..."
-    },
-    {
         "id": "e0hwvA2cjGY",
         "videoId": "e0hwvA2cjGY",
         "title": "Openclaw 3.23 est INCROYABLE - Voici ce que ça change",
@@ -2261,27 +2272,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PAT7dZxCimM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Ton Claude Code oublie TOUT ? Tout savoir sur sa mémoire ! (Guide complet)..."
-    },
-    {
-        "id": "rFmH4FxW5Qg",
-        "videoId": "rFmH4FxW5Qg",
-        "title": "Le vrai problème d'OpenClaw (que personne ne mentionne)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=rFmH4FxW5Qg",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le vrai problème d'OpenClaw (que personne ne mentionne)..."
-    },
-    {
-        "id": "aELai2cF_kk",
-        "videoId": "aELai2cF_kk",
-        "title": "Ce plugin Claude Code va donner accès à toutes les APIs à jour !",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-03-21",
-        "url": "https://www.youtube.com/watch?v=aELai2cF_kk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Ce plugin Claude Code va donner accès à toutes les APIs à jour !..."
     }
 ];
