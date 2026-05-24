@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-22T08:55:52.966Z
+// Fichier généré automatiquement le 2026-05-24T08:24:28.571Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:55:52 AM 5/22/2026";
+export const lastUpdate = "8:24:28 AM 5/24/2026";
 
 export const sources = [
     {
@@ -172,6 +172,127 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "i0iU1iFXAfA",
+        "videoId": "i0iU1iFXAfA",
+        "title": "J'ai économisé 80% de tokens sur Claude Code sans toucher une seule ligne de code.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-23",
+        "url": "https://www.youtube.com/watch?v=i0iU1iFXAfA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : J'ai économisé 80% de tokens sur Claude Code sans toucher une seule ligne de code...."
+    },
+    {
+        "id": "W5LoVnf1Fow",
+        "videoId": "W5LoVnf1Fow",
+        "title": "Kast : créez vos persos et parlez-leur !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-23",
+        "url": "https://www.youtube.com/watch?v=W5LoVnf1Fow",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Kast : créez vos persos et parlez-leur !..."
+    },
+    {
+        "id": "JjLohdbe-Cc",
+        "videoId": "JjLohdbe-Cc",
+        "title": "Google remplace le web par IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-23",
+        "url": "https://www.youtube.com/watch?v=JjLohdbe-Cc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google remplace le web par IA..."
+    },
+    {
+        "id": "m7bYnWcx8s0",
+        "videoId": "m7bYnWcx8s0",
+        "title": "200 entrepreneurs, 21 hectares, 4 jours",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-23",
+        "url": "https://www.youtube.com/watch?v=m7bYnWcx8s0",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : 200 entrepreneurs, 21 hectares, 4 jours..."
+    },
+    {
+        "id": "f6EmBdBa1hI",
+        "videoId": "f6EmBdBa1hI",
+        "title": "Comment fonctionne le WiFi? Tout comprendre - Tout savoir sur le WiFi: Points d'accès Box et Réseaux",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-23",
+        "url": "https://www.youtube.com/watch?v=f6EmBdBa1hI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Comment fonctionne le WiFi? Tout comprendre - Tout savoir sur le WiFi: Points d'accès Box et Réseaux..."
+    },
+    {
+        "id": "H6ImtTHK9wA",
+        "videoId": "H6ImtTHK9wA",
+        "title": "WiFi vs Internet: La différence que tu dois connaître - 2.4 GHz vs 5 GHz: Quelle fréquence choisir?",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-23",
+        "url": "https://www.youtube.com/watch?v=H6ImtTHK9wA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : WiFi vs Internet: La différence que tu dois connaître - 2.4 GHz vs 5 GHz: Quelle fréquence choisir?..."
+    },
+    {
+        "id": "6vq00uTyYu8",
+        "videoId": "6vq00uTyYu8",
+        "title": "La seule certification IA qui vaut vraiment quelque chose en 2026.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-22",
+        "url": "https://www.youtube.com/watch?v=6vq00uTyYu8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : La seule certification IA qui vaut vraiment quelque chose en 2026...."
+    },
+    {
+        "id": "1KNrL3h0QsA",
+        "videoId": "1KNrL3h0QsA",
+        "title": "L'IA vient de tuer le web tel qu'on le connait depuis 27 ans",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-22",
+        "url": "https://www.youtube.com/watch?v=1KNrL3h0QsA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA vient de tuer le web tel qu'on le connait depuis 27 ans..."
+    },
+    {
+        "id": "ysCwSj36hFo",
+        "videoId": "ysCwSj36hFo",
+        "title": "L'actualité tech du 22/05/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-22",
+        "url": "https://www.youtube.com/watch?v=ysCwSj36hFo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 22/05/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "8zOqrrIsGYw",
+        "videoId": "8zOqrrIsGYw",
+        "title": "Mistral passe à l’IA industrielle",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-22",
+        "url": "https://www.youtube.com/watch?v=8zOqrrIsGYw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral passe à l’IA industrielle..."
+    },
+    {
+        "id": "ReO0rVllZIk",
+        "videoId": "ReO0rVllZIk",
+        "title": "Ethernet vs Wi-Fi vs Internet: Quelles Différences? - Comprendre le Réseau Ethernet: La Base du LAN",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-22",
+        "url": "https://www.youtube.com/watch?v=ReO0rVllZIk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Ethernet vs Wi-Fi vs Internet: Quelles Différences? - Comprendre le Réseau Ethernet: La Base du LAN..."
+    },
+    {
         "id": "q7ShYQYNVI8",
         "videoId": "q7ShYQYNVI8",
         "title": "Comment fonctionne Internet? Le voyage de vos données - Comprendre le réseau: IP, MAC et Ports",
@@ -181,6 +302,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=q7ShYQYNVI8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Comment fonctionne Internet? Le voyage de vos données - Comprendre le réseau: IP, MAC et Ports..."
+    },
+    {
+        "id": "VMUDRIYRoQs",
+        "videoId": "VMUDRIYRoQs",
+        "title": "Actus IA : Google dégaine... ChatGPT et Claude ripostent !",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-05-22",
+        "url": "https://www.youtube.com/watch?v=VMUDRIYRoQs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : Google dégaine... ChatGPT et Claude ripostent !..."
     },
     {
         "id": "KxkxqmRNndU",
@@ -574,50 +706,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : La plupart des gens utilisent Claude comme un chatbot basique : et c'est pour ça qu'ils sont déçus...."
     },
     {
-        "id": "oaZWHNWNNFw",
-        "videoId": "oaZWHNWNNFw",
-        "title": "IA et comptes : faire confiance ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-18",
-        "url": "https://www.youtube.com/watch?v=oaZWHNWNNFw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA et comptes : faire confiance ?..."
-    },
-    {
-        "id": "sVsHlLjvxOY",
-        "videoId": "sVsHlLjvxOY",
-        "title": "L'actualité tech du 18/05/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-18",
-        "url": "https://www.youtube.com/watch?v=sVsHlLjvxOY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 18/05/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "eGiy5jbHWxk",
-        "videoId": "eGiy5jbHWxk",
-        "title": "L'IA se glisse toujours plus près de vous, et vous ne la voyez pas venir",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-18",
-        "url": "https://www.youtube.com/watch?v=eGiy5jbHWxk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA se glisse toujours plus près de vous, et vous ne la voyez pas venir..."
-    },
-    {
-        "id": "VJQvNFJgUjQ",
-        "videoId": "VJQvNFJgUjQ",
-        "title": "Google+SpaceX : données en orbite",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-18",
-        "url": "https://www.youtube.com/watch?v=VJQvNFJgUjQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google+SpaceX : données en orbite..."
-    },
-    {
         "id": "b5HDUbwcgzo",
         "videoId": "b5HDUbwcgzo",
         "title": "Cet outil peut remplacer 100€ d’abonnements IA pour 8$ ?",
@@ -765,17 +853,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer l'outil Claude le plus puissant pour les développeurs..."
     },
     {
-        "id": "bVN_PZNOPsE",
-        "videoId": "bVN_PZNOPsE",
-        "title": "IA : première cyberattaque zero-day",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-16",
-        "url": "https://www.youtube.com/watch?v=bVN_PZNOPsE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : première cyberattaque zero-day..."
-    },
-    {
         "id": "q5IfMPw6mFg",
         "videoId": "q5IfMPw6mFg",
         "title": "Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)",
@@ -855,13 +932,13 @@ export const allVideos = [
     {
         "id": "9nXqUad7x9o",
         "videoId": "9nXqUad7x9o",
-        "title": "ChatGPT, Gemini, Claude, Mistral... du nouveau PARTOUT !",
+        "title": "Actus IA : ChatGPT, Gemini, Claude... du nouveau PARTOUT !",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-05-15",
         "url": "https://www.youtube.com/watch?v=9nXqUad7x9o",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : ChatGPT, Gemini, Claude, Mistral... du nouveau PARTOUT !..."
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : ChatGPT, Gemini, Claude... du nouveau PARTOUT !..."
     },
     {
         "id": "_cvcso_h0H4",
@@ -1018,17 +1095,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Comprendre les Protocoles de Communication: Guide Débutant..."
     },
     {
-        "id": "GWY3ANofbgw",
-        "videoId": "GWY3ANofbgw",
-        "title": "Le créateur de Claude Code vient de sortir ce skill qui va changer comment tu utilises Claude",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=GWY3ANofbgw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le créateur de Claude Code vient de sortir ce skill qui va changer comment tu utilises Claude..."
-    },
-    {
         "id": "YCttZsEIuqI",
         "videoId": "YCttZsEIuqI",
         "title": "Il a connecté son ADN et sa montre à l'IA (le résultat est génial)",
@@ -1073,17 +1139,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Les Services IA à 3k€ minimum que les PME achètent vraiment (comment les trouver)..."
     },
     {
-        "id": "Z6AQ5cNvQCQ",
-        "videoId": "Z6AQ5cNvQCQ",
-        "title": "Qu'est-ce qui se passe quand tu demandes à Claude tous les points faibles de ton projet ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-10",
-        "url": "https://www.youtube.com/watch?v=Z6AQ5cNvQCQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Qu'est-ce qui se passe quand tu demandes à Claude tous les points faibles de ton projet ?..."
-    },
-    {
         "id": "w2JE7HUNJFU",
         "videoId": "w2JE7HUNJFU",
         "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
@@ -1126,17 +1181,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=MtlUzTkfcj4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : La Vérité sur le VPN: Protection ou Illusion?..."
-    },
-    {
-        "id": "JcoDaqlrdlU",
-        "videoId": "JcoDaqlrdlU",
-        "title": "VPN: Mythe ou Réalité? Ce qu'on ne vous dit pas",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-09",
-        "url": "https://www.youtube.com/watch?v=JcoDaqlrdlU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : VPN: Mythe ou Réalité? Ce qu'on ne vous dit pas..."
     },
     {
         "id": "3UVbXmUIBSk",
@@ -1327,17 +1371,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Le NOUVEL outil SECRET de Google (100% Gratuit) 🤯 #astuce..."
     },
     {
-        "id": "a_uZxA8A4lg",
-        "videoId": "a_uZxA8A4lg",
-        "title": "Tuto Rclone: Maîtrisez la synchronisation Cloud (Guide Complet) - Gérez Google Drive, AWS et Azure",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-03",
-        "url": "https://www.youtube.com/watch?v=a_uZxA8A4lg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Tuto Rclone: Maîtrisez la synchronisation Cloud (Guide Complet) - Gérez Google Drive, AWS et Azure..."
-    },
-    {
         "id": "IubQUC9TL2w",
         "videoId": "IubQUC9TL2w",
         "title": "L'IA devient simple avec un Second Cerveau IA (cours complet)",
@@ -1369,17 +1402,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uO5p0AtXQOk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Cette IA code pour vous pendant que vous dormez 😴..."
-    },
-    {
-        "id": "0xSwGIWLm1w",
-        "videoId": "0xSwGIWLm1w",
-        "title": "Pourquoi le MCP est plus intelligent qu'une API?",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-02",
-        "url": "https://www.youtube.com/watch?v=0xSwGIWLm1w",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Pourquoi le MCP est plus intelligent qu'une API?..."
     },
     {
         "id": "vJNI-NyacCg",
@@ -1791,13 +1813,13 @@ export const allVideos = [
     {
         "id": "9_T-RzbA_EQ",
         "videoId": "9_T-RzbA_EQ",
-        "title": "Votre futur employeur est une IA (ça a déjà commencé)",
+        "title": "Actus IA : une IA a embauché des Humains (ça fait peur)",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-04-14",
         "url": "https://www.youtube.com/watch?v=9_T-RzbA_EQ",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Votre futur employeur est une IA (ça a déjà commencé)..."
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : une IA a embauché des Humains (ça fait peur)..."
     },
     {
         "id": "Dv6suL5-fAE",
@@ -2205,38 +2227,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=adMlsFoc3z4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude Dispatch : l’IA qui agit à ta place (test réel) 🚀..."
-    },
-    {
-        "id": "e0hwvA2cjGY",
-        "videoId": "e0hwvA2cjGY",
-        "title": "Openclaw 3.23 est INCROYABLE - Voici ce que ça change",
-        "author": "Hugo Buisson",
-        "source": "@Hugo_Buisson",
-        "date": "2026-03-24",
-        "url": "https://www.youtube.com/watch?v=e0hwvA2cjGY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : Openclaw 3.23 est INCROYABLE - Voici ce que ça change..."
-    },
-    {
-        "id": "wWC4wgSF984",
-        "videoId": "wWC4wgSF984",
-        "title": "Cette IA améliore n'importe quelle photo instantanément 🤯  #astuce",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=wWC4wgSF984",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Cette IA améliore n'importe quelle photo instantanément 🤯  #astuce..."
-    },
-    {
-        "id": "VxAjVp09vDw",
-        "videoId": "VxAjVp09vDw",
-        "title": "Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-03-23",
-        "url": "https://www.youtube.com/watch?v=VxAjVp09vDw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Comment rédiger un bon prompt en 2026 ? (Texte, Image, Vidéo)..."
     }
 ];
