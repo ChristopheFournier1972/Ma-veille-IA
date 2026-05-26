@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-25T09:58:21.798Z
+// Fichier généré automatiquement le 2026-05-26T09:44:30.713Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:58:21 AM 5/25/2026";
+export const lastUpdate = "9:44:30 AM 5/26/2026";
 
 export const sources = [
     {
@@ -171,6 +171,39 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "tCuJ4gjV3e4",
+        "videoId": "tCuJ4gjV3e4",
+        "title": "IPO SpaceX et OpenAI : choc",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-25",
+        "url": "https://www.youtube.com/watch?v=tCuJ4gjV3e4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IPO SpaceX et OpenAI : choc..."
+    },
+    {
+        "id": "Y1oeYrm2C6w",
+        "videoId": "Y1oeYrm2C6w",
+        "title": "Comprendre l'Adresse IP: IPv4, IPv6 et Adresse MAC expliqués - Ne faites plus jamais la confusion!",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-25",
+        "url": "https://www.youtube.com/watch?v=Y1oeYrm2C6w",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Comprendre l'Adresse IP: IPv4, IPv6 et Adresse MAC expliqués - Ne faites plus jamais la confusion!..."
+    },
+    {
+        "id": "yS7zBSvI0Y8",
+        "videoId": "yS7zBSvI0Y8",
+        "title": "Google I/O 2026 : les 5 outils que vous allez utiliser tous les jours",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-05-25",
+        "url": "https://www.youtube.com/watch?v=yS7zBSvI0Y8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Google I/O 2026 : les 5 outils que vous allez utiliser tous les jours..."
+    },
     {
         "id": "jNYq99U5gR4",
         "videoId": "jNYq99U5gR4",
@@ -649,17 +682,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Claude pilote votre PME..."
     },
     {
-        "id": "X9W7Fu8MQfo",
-        "videoId": "X9W7Fu8MQfo",
-        "title": "Netflix prépare des films IA ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=X9W7Fu8MQfo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Netflix prépare des films IA ?..."
-    },
-    {
         "id": "UD-p0mPV38A",
         "videoId": "UD-p0mPV38A",
         "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter",
@@ -1051,17 +1073,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Mon classement des fonctionnalités dans Claude !..."
     },
     {
-        "id": "hr5J7g2R0H8",
-        "videoId": "hr5J7g2R0H8",
-        "title": "Je vous présente mon second cerveau IA (+ réponse à vos questions)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-13",
-        "url": "https://www.youtube.com/watch?v=hr5J7g2R0H8",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Je vous présente mon second cerveau IA (+ réponse à vos questions)..."
-    },
-    {
         "id": "Z678vGFryxE",
         "videoId": "Z678vGFryxE",
         "title": "Hermes Agent Desktop : Le Premier Agent IA 24/7Qui Évolue Tout Seul ? 😱🔥",
@@ -1181,17 +1192,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=diCd1Y-QUtk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : i10X : Peut-il remplacer 100€ d’abonnements IA pour 8€ ? 😱..."
-    },
-    {
-        "id": "MtlUzTkfcj4",
-        "videoId": "MtlUzTkfcj4",
-        "title": "La Vérité sur le VPN: Protection ou Illusion?",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-09",
-        "url": "https://www.youtube.com/watch?v=MtlUzTkfcj4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : La Vérité sur le VPN: Protection ou Illusion?..."
     },
     {
         "id": "3UVbXmUIBSk",
@@ -2205,16 +2205,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=xXWznwbcFe8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce..."
-    },
-    {
-        "id": "4GgbcgfKibw",
-        "videoId": "4GgbcgfKibw",
-        "title": "Créer une chanson avec l'IA Gemini (Tuto Complet)",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-03-26",
-        "url": "https://www.youtube.com/watch?v=4GgbcgfKibw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Créer une chanson avec l'IA Gemini (Tuto Complet)..."
     }
 ];
