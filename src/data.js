@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-27T09:38:29.604Z
+// Fichier généré automatiquement le 2026-05-28T09:55:24.944Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:38:29 AM 5/27/2026";
+export const lastUpdate = "9:55:24 AM 5/28/2026";
 
 export const sources = [
     {
@@ -172,15 +172,125 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "30ioBoxdDbM",
+        "videoId": "30ioBoxdDbM",
+        "title": "Cannes : un film IA en 2 semaines",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-28",
+        "url": "https://www.youtube.com/watch?v=30ioBoxdDbM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Cannes : un film IA en 2 semaines..."
+    },
+    {
+        "id": "67KzWdV6EzE",
+        "videoId": "67KzWdV6EzE",
+        "title": "C'est quoi une adresse IP? - Comprendre l'adresse IP: Le guide complet pour débutants",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-28",
+        "url": "https://www.youtube.com/watch?v=67KzWdV6EzE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : C'est quoi une adresse IP? - Comprendre l'adresse IP: Le guide complet pour débutants..."
+    },
+    {
+        "id": "gXm3Go03l_s",
+        "videoId": "gXm3Go03l_s",
+        "title": "J'ai codé une IA qui fait mes miniatures (c'est dingue)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=gXm3Go03l_s",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : J'ai codé une IA qui fait mes miniatures (c'est dingue)..."
+    },
+    {
+        "id": "Qgq9-8VVgpc",
+        "videoId": "Qgq9-8VVgpc",
+        "title": "Le plan SECRET de la Chine pour dominer l'IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=Qgq9-8VVgpc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le plan SECRET de la Chine pour dominer l'IA..."
+    },
+    {
+        "id": "j-2LJqScwFo",
+        "videoId": "j-2LJqScwFo",
+        "title": "IA : la France lance sa Gigafactory",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=j-2LJqScwFo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : la France lance sa Gigafactory..."
+    },
+    {
+        "id": "hw5b4M0IoBY",
+        "videoId": "hw5b4M0IoBY",
+        "title": "IA : La France se rebelle et l'Europe flippe",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=hw5b4M0IoBY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : La France se rebelle et l'Europe flippe..."
+    },
+    {
+        "id": "R228lKS3n3I",
+        "videoId": "R228lKS3n3I",
+        "title": "L'actualité tech du 27/05/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=R228lKS3n3I",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 27/05/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "rfMEwbtOp_c",
+        "videoId": "rfMEwbtOp_c",
+        "title": "Google rend Street View jouable",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=rfMEwbtOp_c",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google rend Street View jouable..."
+    },
+    {
         "id": "MjCJIJ4PuSw",
         "videoId": "MjCJIJ4PuSw",
-        "title": "57 minutes pour comprendre les LLM en profondeur (sans être mathématicien)",
+        "title": "J'ai étudié les LLM pendant 6 mois (et j'ai enfin compris comment ChatGPT fonctionne)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-05-27",
         "url": "https://www.youtube.com/watch?v=MjCJIJ4PuSw",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : 57 minutes pour comprendre les LLM en profondeur (sans être mathématicien)..."
+        "summary": "Nouveauté de Eliott Meunier : J'ai étudié les LLM pendant 6 mois (et j'ai enfin compris comment ChatGPT fonctionne)..."
+    },
+    {
+        "id": "luQNxwS1yc8",
+        "videoId": "luQNxwS1yc8",
+        "title": "Pourquoi DeepSeek Va Changer L’avenir Des Agents IA à Jamais 🐳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=luQNxwS1yc8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Pourquoi DeepSeek Va Changer L’avenir Des Agents IA à Jamais 🐳..."
+    },
+    {
+        "id": "9ySW-tzoDpU",
+        "videoId": "9ySW-tzoDpU",
+        "title": "Réponses IA : comment passer de ça... à ÇA !",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-05-27",
+        "url": "https://www.youtube.com/watch?v=9ySW-tzoDpU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Réponses IA : comment passer de ça... à ÇA !..."
     },
     {
         "id": "BZA2kdEeODI",
@@ -218,13 +328,13 @@ export const allVideos = [
     {
         "id": "9KvncVTC6zU",
         "videoId": "9KvncVTC6zU",
-        "title": "Claude Opus 4.8 a leak : Anthropic prépare un MONSTRE 😱",
+        "title": "Claude Opus 4.8 : Pourquoi Claude Code Ne Sera Plus Le Même (LEAK)",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-05-26",
         "url": "https://www.youtube.com/watch?v=9KvncVTC6zU",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.8 a leak : Anthropic prépare un MONSTRE 😱..."
+        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.8 : Pourquoi Claude Code Ne Sera Plus Le Même (LEAK)..."
     },
     {
         "id": "njFew6knQUY",
@@ -614,50 +724,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Le prompt à toujours utiliser dans Claude !..."
     },
     {
-        "id": "FnoxQWRGk0Y",
-        "videoId": "FnoxQWRGk0Y",
-        "title": "Google passe à l’IA qui agit",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=FnoxQWRGk0Y",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google passe à l’IA qui agit..."
-    },
-    {
-        "id": "iEeykMBUoqY",
-        "videoId": "iEeykMBUoqY",
-        "title": "Toutes les annonces de Google, qui changent TOUT du web et de l'IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=iEeykMBUoqY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Toutes les annonces de Google, qui changent TOUT du web et de l'IA..."
-    },
-    {
-        "id": "PgJe8OqjarY",
-        "videoId": "PgJe8OqjarY",
-        "title": "L'actualité tech du 20/05/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=PgJe8OqjarY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 20/05/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "mp3VzYu5BRo",
-        "videoId": "mp3VzYu5BRo",
-        "title": "IA pirate et se réplique seule",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=mp3VzYu5BRo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA pirate et se réplique seule..."
-    },
-    {
         "id": "B9zUxH3umHQ",
         "videoId": "B9zUxH3umHQ",
         "title": "Gemini 3.5 Flash : Le modèle le plus rapide de l’histoire ? (290 tokens/s)",
@@ -724,17 +790,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=flZ8Etn_N8E",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Arrête de payer pour ElevenLabs..."
-    },
-    {
-        "id": "ftlPDA2TJJs",
-        "videoId": "ftlPDA2TJJs",
-        "title": "Google I/O, on découvre ensemble !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=ftlPDA2TJJs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google I/O, on découvre ensemble !..."
     },
     {
         "id": "UD-p0mPV38A",
@@ -985,26 +1040,15 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : FindSkills te donne le skill Claude qu'il te faut !..."
     },
     {
-        "id": "enABNvv1FXE",
-        "videoId": "enABNvv1FXE",
-        "title": "60+ entreprises m'ont demandé ces 5 systèmes IA (copie-les)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-15",
-        "url": "https://www.youtube.com/watch?v=enABNvv1FXE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 60+ entreprises m'ont demandé ces 5 systèmes IA (copie-les)..."
-    },
-    {
         "id": "m0tqhlkr2pw",
         "videoId": "m0tqhlkr2pw",
-        "title": "GPT-5.5 Instant : Extrêmement Impressionnant… Mais Inquiétant 🤔",
+        "title": "GPT 5.5 Instant : OpenAI admet un vrai problème",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-05-15",
         "url": "https://www.youtube.com/watch?v=m0tqhlkr2pw",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GPT-5.5 Instant : Extrêmement Impressionnant… Mais Inquiétant 🤔..."
+        "summary": "Nouveauté de Nerdy Kings : GPT 5.5 Instant : OpenAI admet un vrai problème..."
     },
     {
         "id": "PIwy3Sg_Us8",
@@ -1126,17 +1170,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=dyZjwf1GeYk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Anthropic vient de simplifier ENORMEMENT la gestion d’agents!..."
-    },
-    {
-        "id": "mJuo0bFNXj4",
-        "videoId": "mJuo0bFNXj4",
-        "title": "Comment les machines communiquent? Les protocoles réseau expliqués",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-12",
-        "url": "https://www.youtube.com/watch?v=mJuo0bFNXj4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Comment les machines communiquent? Les protocoles réseau expliqués..."
     },
     {
         "id": "YCttZsEIuqI",
@@ -1723,17 +1756,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Le Second Cerveau IA le plus complet que j'ai vu (démo d'Ulysse Lubin)..."
     },
     {
-        "id": "WLn98Sdvb3c",
-        "videoId": "WLn98Sdvb3c",
-        "title": "Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=WLn98Sdvb3c",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.7 : Le Meilleur Modèle Jamais Créé ? (Test Complet) 😱🚨..."
-    },
-    {
         "id": "wRaGk8WVBEI",
         "videoId": "wRaGk8WVBEI",
         "title": "Opus 4.7 dans Claude Code : ça CHANGE tout 🔥",
@@ -2205,16 +2227,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9gpanAr9M_s",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Les 3 nouvelles fonctionnalités Claude sous estimées (Ou pas…)..."
-    },
-    {
-        "id": "xXWznwbcFe8",
-        "videoId": "xXWznwbcFe8",
-        "title": "J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-03-28",
-        "url": "https://www.youtube.com/watch?v=xXWznwbcFe8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : J'ai testé UPDF — l'IA sur tes PDFs change tout  #astuce..."
     }
 ];
