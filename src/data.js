@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-29T09:46:12.945Z
+// Fichier généré automatiquement le 2026-05-30T08:23:48.507Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:46:12 AM 5/29/2026";
+export const lastUpdate = "8:23:48 AM 5/30/2026";
 
 export const sources = [
     {
@@ -172,6 +172,94 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "OhT8HBfsRo0",
+        "videoId": "OhT8HBfsRo0",
+        "title": "Quelqu'un vient de sortir une API gratuite avec 11 modèles d'IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=OhT8HBfsRo0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de sortir une API gratuite avec 11 modèles d'IA..."
+    },
+    {
+        "id": "oNfx1PdTXfU",
+        "videoId": "oNfx1PdTXfU",
+        "title": "OPUS 4.8 est arrivé: tout connaître en 12 min (sans HYPE)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=oNfx1PdTXfU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : OPUS 4.8 est arrivé: tout connaître en 12 min (sans HYPE)..."
+    },
+    {
+        "id": "QL5zztwOOHE",
+        "videoId": "QL5zztwOOHE",
+        "title": "Tout comprendre sur les ports réseaux: TCP, UDP et Sockets -Maîtrise les ports réseaux: De 0 à 65535",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=QL5zztwOOHE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Tout comprendre sur les ports réseaux: TCP, UDP et Sockets -Maîtrise les ports réseaux: De 0 à 65535..."
+    },
+    {
+        "id": "woNAzDic5XQ",
+        "videoId": "woNAzDic5XQ",
+        "title": "Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. 👀",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-29",
+        "url": "https://www.youtube.com/watch?v=woNAzDic5XQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. 👀..."
+    },
+    {
+        "id": "jqbNiDJFYYw",
+        "videoId": "jqbNiDJFYYw",
+        "title": "C’est quoi le fichier Claude.MD ?",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-29",
+        "url": "https://www.youtube.com/watch?v=jqbNiDJFYYw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : C’est quoi le fichier Claude.MD ?..."
+    },
+    {
+        "id": "Jjt23sjUelY",
+        "videoId": "Jjt23sjUelY",
+        "title": "Claude 4.8 orchestre 100 agents",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-29",
+        "url": "https://www.youtube.com/watch?v=Jjt23sjUelY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude 4.8 orchestre 100 agents..."
+    },
+    {
+        "id": "3QjPeY7KoV4",
+        "videoId": "3QjPeY7KoV4",
+        "title": "L'actualité tech du 29/05/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-29",
+        "url": "https://www.youtube.com/watch?v=3QjPeY7KoV4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 29/05/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "zAYPmtbj3hk",
+        "videoId": "zAYPmtbj3hk",
+        "title": "Mistral envoie du lourd, Claude Opus 4.8 consolide",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-29",
+        "url": "https://www.youtube.com/watch?v=zAYPmtbj3hk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral envoie du lourd, Claude Opus 4.8 consolide..."
+    },
+    {
         "id": "PsYDHoTBwoQ",
         "videoId": "PsYDHoTBwoQ",
         "title": "La Chine trace tous ses robots",
@@ -183,6 +271,52 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : La Chine trace tous ses robots..."
     },
     {
+        "id": "vfeWJBbiai8",
+        "videoId": "vfeWJBbiai8",
+        "title": "Claude Opus 4.8 Est-il Le Nouveau Roi de l’IA ? (Test Complet)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-05-29",
+        "url": "https://www.youtube.com/watch?v=vfeWJBbiai8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.8 Est-il Le Nouveau Roi de l’IA ? (Test Complet)..."
+    },
+    {
+        "id": "sClcb1Z1i8E",
+        "videoId": "sClcb1Z1i8E",
+        "title": "Claude Code : Zéro Installation, Organisation Maximale avec Obsidian ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-29",
+        "url": "https://www.youtube.com/watch?v=sClcb1Z1i8E",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : Zéro Installation, Organisation Maximale avec Obsidian ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Mi-eYRSfHuI",
+        "videoId": "Mi-eYRSfHuI",
+        "title": "Le Cerveau IA de Karpathy Révolutionne Tes Connaissances ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-29",
+        "url": "https://www.youtube.com/watch?v=Mi-eYRSfHuI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Le Cerveau IA de Karpathy Révolutionne Tes Connaissances ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "97ZjRo_uCho",
+        "videoId": "97ZjRo_uCho",
+        "title": "Comprendre les Ports Réseau - IP, Ports et Sockets: Le secret de la communication réseau",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-05-29",
+        "url": "https://www.youtube.com/watch?v=97ZjRo_uCho",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Comprendre les Ports Réseau - IP, Ports et Sockets: Le secret de la communication réseau..."
+    },
+    {
         "id": "hD-Sj_Lbx9A",
         "videoId": "hD-Sj_Lbx9A",
         "title": "L'Adresse MAC: Le Mensonge de l'Anonymat en Réseau - Arrêtez de confondre IP et MAC: La Vérité enfin",
@@ -192,6 +326,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=hD-Sj_Lbx9A",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : L'Adresse MAC: Le Mensonge de l'Anonymat en Réseau - Arrêtez de confondre IP et MAC: La Vérité enfin..."
+    },
+    {
+        "id": "z5mGCGeMaDY",
+        "videoId": "z5mGCGeMaDY",
+        "title": "Actus IA : on vient de franchir un cap (un GROS !)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-05-29",
+        "url": "https://www.youtube.com/watch?v=z5mGCGeMaDY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : on vient de franchir un cap (un GROS !)..."
     },
     {
         "id": "dcH39RAdQ5Y",
@@ -207,13 +352,13 @@ export const allVideos = [
     {
         "id": "fmv0UlVZ19E",
         "videoId": "fmv0UlVZ19E",
-        "title": "J'ai testé ChatGPT dans Excel... et c'est juste magique !",
+        "title": "Le NOUVEAU ChatGPT dans Excel vient de tout changer !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-05-28",
         "url": "https://www.youtube.com/watch?v=fmv0UlVZ19E",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J'ai testé ChatGPT dans Excel... et c'est juste magique !..."
+        "summary": "Nouveauté de Elliott Pierret : Le NOUVEAU ChatGPT dans Excel vient de tout changer !..."
     },
     {
         "id": "GIyyRAwVMuk",
@@ -284,13 +429,13 @@ export const allVideos = [
     {
         "id": "G-Tjz_hC1L4",
         "videoId": "G-Tjz_hC1L4",
-        "title": "GROK Voice Fast + CLAUDE CODE = Agent IA qui se vend 400€/mois !!",
+        "title": "Construire des Agents IA Vocaux n'a jamais été aussi facile (GROK + CLAUDE CODE )",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-05-28",
         "url": "https://www.youtube.com/watch?v=G-Tjz_hC1L4",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : GROK Voice Fast + CLAUDE CODE = Agent IA qui se vend 400€/mois !!..."
+        "summary": "Nouveauté de Thomas Berton : Construire des Agents IA Vocaux n'a jamais été aussi facile (GROK + CLAUDE CODE )..."
     },
     {
         "id": "67KzWdV6EzE",
@@ -588,39 +733,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=6vq00uTyYu8",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : La seule certification IA qui vaut vraiment quelque chose en 2026...."
-    },
-    {
-        "id": "1KNrL3h0QsA",
-        "videoId": "1KNrL3h0QsA",
-        "title": "L'IA vient de tuer le web tel qu'on le connait depuis 27 ans",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-22",
-        "url": "https://www.youtube.com/watch?v=1KNrL3h0QsA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA vient de tuer le web tel qu'on le connait depuis 27 ans..."
-    },
-    {
-        "id": "ysCwSj36hFo",
-        "videoId": "ysCwSj36hFo",
-        "title": "L'actualité tech du 22/05/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-22",
-        "url": "https://www.youtube.com/watch?v=ysCwSj36hFo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 22/05/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "8zOqrrIsGYw",
-        "videoId": "8zOqrrIsGYw",
-        "title": "Mistral passe à l’IA industrielle",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-22",
-        "url": "https://www.youtube.com/watch?v=8zOqrrIsGYw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral passe à l’IA industrielle..."
     },
     {
         "id": "ReO0rVllZIk",
@@ -926,17 +1038,6 @@ export const allVideos = [
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé 35 pubs vidéo en 1 minute avec Claude (Tuto MCP)..."
     },
     {
-        "id": "iXD2xJmDe3I",
-        "videoId": "iXD2xJmDe3I",
-        "title": "La plupart des gens utilisent Claude comme un chatbot basique : et c'est pour ça qu'ils sont déçus.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-18",
-        "url": "https://www.youtube.com/watch?v=iXD2xJmDe3I",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La plupart des gens utilisent Claude comme un chatbot basique : et c'est pour ça qu'ils sont déçus...."
-    },
-    {
         "id": "b5HDUbwcgzo",
         "videoId": "b5HDUbwcgzo",
         "title": "Cet outil peut remplacer 100€ d’abonnements IA pour 8$ ?",
@@ -1016,17 +1117,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Comment devenir quelqu'un d'autre pour créer sa chance..."
     },
     {
-        "id": "7qQEtp48T4g",
-        "videoId": "7qQEtp48T4g",
-        "title": "GitHub vient de tuer le vibe coding avec SpecKit",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-17",
-        "url": "https://www.youtube.com/watch?v=7qQEtp48T4g",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : GitHub vient de tuer le vibe coding avec SpecKit..."
-    },
-    {
         "id": "oS1RvuLPGbA",
         "videoId": "oS1RvuLPGbA",
         "title": "Comment Créer Sans Limite avec l’IA: Formation Claude Code (2026) | Guide Complet Débutant",
@@ -1073,37 +1163,15 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Comprendre le Modèle OSI: Les 7 Couches Expliquées Simplement..."
     },
     {
-        "id": "wQTmtEdUUg4",
-        "videoId": "wQTmtEdUUg4",
-        "title": "Quelqu'un vient de créer l'outil Claude le plus puissant pour les développeurs",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-16",
-        "url": "https://www.youtube.com/watch?v=wQTmtEdUUg4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer l'outil Claude le plus puissant pour les développeurs..."
-    },
-    {
         "id": "q5IfMPw6mFg",
         "videoId": "q5IfMPw6mFg",
-        "title": "Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)",
+        "title": "Ce dev gère 4 agents IA comme une équipe d'ing��nieurs - co-fondateur d'Argil.AI (YC)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-05-16",
         "url": "https://www.youtube.com/watch?v=q5IfMPw6mFg",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)..."
-    },
-    {
-        "id": "nSlSyJK3OUk",
-        "videoId": "nSlSyJK3OUk",
-        "title": "Encapsulation vs Désencapsulation: Comprendre le Modèle TCP/IP",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-16",
-        "url": "https://www.youtube.com/watch?v=nSlSyJK3OUk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Encapsulation vs Désencapsulation: Comprendre le Modèle TCP/IP..."
+        "summary": "Nouveauté de Eliott Meunier : Ce dev gère 4 agents IA comme une équipe d'ing��nieurs - co-fondateur d'Argil.AI (YC)..."
     },
     {
         "id": "m0tqhlkr2pw",
@@ -1126,17 +1194,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PIwy3Sg_Us8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : J'ai lancé un LLM open source dans un avion : résultats choquants..."
-    },
-    {
-        "id": "9ujgxSChOFQ",
-        "videoId": "9ujgxSChOFQ",
-        "title": "Comment fonctionne Internet? Le modèle TCP/IP en 4 étapes",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-15",
-        "url": "https://www.youtube.com/watch?v=9ujgxSChOFQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Comment fonctionne Internet? Le modèle TCP/IP en 4 étapes..."
     },
     {
         "id": "9nXqUad7x9o",
@@ -1414,18 +1471,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Le plan machiavélique d'Anthropic (et comment s'en protéger)..."
     },
     {
-        "id": "6UQEipBOXcQ",
-        "videoId": "6UQEipBOXcQ",
-        "title": "IA Vendeuse: Votre Business Vendre 24/7 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-04",
-        "url": "https://www.youtube.com/watch?v=6UQEipBOXcQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Vendeuse: Votre Business Vendre 24/7 #shorts...",
-        "isShort": true
-    },
-    {
         "id": "KPc5qTqTn1o",
         "videoId": "KPc5qTqTn1o",
         "title": "Une IA par tâche : la méthode qui m'a fait arrêter ChatGPT",
@@ -1501,17 +1546,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IubQUC9TL2w",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : L'IA devient simple avec un Second Cerveau IA (cours complet)..."
-    },
-    {
-        "id": "_QR6ShC4Yvw",
-        "videoId": "_QR6ShC4Yvw",
-        "title": "La Chine bloque Meta : 2 milliards $ perdus et l'IA mondiale en danger",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-02",
-        "url": "https://www.youtube.com/watch?v=_QR6ShC4Yvw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : La Chine bloque Meta : 2 milliards $ perdus et l'IA mondiale en danger..."
     },
     {
         "id": "vJNI-NyacCg",
@@ -1622,17 +1656,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=eDhOomO4FpE",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le paradoxe de l'IA : plus tu progresses, plus tu te perds..."
-    },
-    {
-        "id": "bWvUQNEGqDE",
-        "videoId": "bWvUQNEGqDE",
-        "title": "DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨🇳",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-04-24",
-        "url": "https://www.youtube.com/watch?v=bWvUQNEGqDE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 Pro : La Vraie Menace Pour Opus 4.6 ? (7x moins cher) 😱🇨🇳..."
     },
     {
         "id": "aWadvdrEP6I",
@@ -2205,16 +2228,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Ksaqjr4QFdk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Claude Cowork Dispatch : c'est quoi et comment ça marche ?..."
-    },
-    {
-        "id": "2lWwlaOMMcQ",
-        "videoId": "2lWwlaOMMcQ",
-        "title": "Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-03-30",
-        "url": "https://www.youtube.com/watch?v=2lWwlaOMMcQ",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Gemini comme un pro (Tutoriel complet 2026) Rien à voir avec ChatGPT..."
     }
 ];
