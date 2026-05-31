@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-05-30T08:23:48.507Z
+// Fichier généré automatiquement le 2026-05-31T08:40:31.978Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:23:48 AM 5/30/2026";
+export const lastUpdate = "8:40:31 AM 5/31/2026";
 
 export const sources = [
     {
@@ -183,6 +183,50 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de sortir une API gratuite avec 11 modèles d'IA..."
     },
     {
+        "id": "gLy0lgWFW7Q",
+        "videoId": "gLy0lgWFW7Q",
+        "title": "ElevenLabs : opéra à metal en IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=gLy0lgWFW7Q",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ElevenLabs : opéra à metal en IA..."
+    },
+    {
+        "id": "kmuTmB-12nc",
+        "videoId": "kmuTmB-12nc",
+        "title": "Mistral lance son offensive IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=kmuTmB-12nc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral lance son offensive IA..."
+    },
+    {
+        "id": "pjRKfnlsTfk",
+        "videoId": "pjRKfnlsTfk",
+        "title": "Le vrai problème de l'IA en entreprise (que les consultants cachent)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=pjRKfnlsTfk",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le vrai problème de l'IA en entreprise (que les consultants cachent)..."
+    },
+    {
+        "id": "MXs3pnS9ie4",
+        "videoId": "MXs3pnS9ie4",
+        "title": "OPUS 4 8 est sorti: qu'est-ce qu'il vaut? 🧠",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=MXs3pnS9ie4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : OPUS 4 8 est sorti: qu'est-ce qu'il vaut? 🧠..."
+    },
+    {
         "id": "oNfx1PdTXfU",
         "videoId": "oNfx1PdTXfU",
         "title": "OPUS 4.8 est arrivé: tout connaître en 12 min (sans HYPE)",
@@ -192,6 +236,41 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=oNfx1PdTXfU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : OPUS 4.8 est arrivé: tout connaître en 12 min (sans HYPE)..."
+    },
+    {
+        "id": "tmXpiLrw3zA",
+        "videoId": "tmXpiLrw3zA",
+        "title": "J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=tmXpiLrw3zA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt..."
+    },
+    {
+        "id": "wb3Y1iFmEn4",
+        "videoId": "wb3Y1iFmEn4",
+        "title": "Carpathia: Organisez vos vidéos YouTube avec Obsidian facilement ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=wb3Y1iFmEn4",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Carpathia: Organisez vos vidéos YouTube avec Obsidian facilement ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "L89fHYO-NOc",
+        "videoId": "L89fHYO-NOc",
+        "title": "Wiki LLM: Opportunités Infinies pour Votre Business et Créativité ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-05-30",
+        "url": "https://www.youtube.com/watch?v=L89fHYO-NOc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Wiki LLM: Opportunités Infinies pour Votre Business et Créativité ! #shorts...",
+        "isShort": true
     },
     {
         "id": "QL5zztwOOHE",
@@ -207,13 +286,13 @@ export const allVideos = [
     {
         "id": "woNAzDic5XQ",
         "videoId": "woNAzDic5XQ",
-        "title": "Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. 👀",
+        "title": "Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. ��",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-05-29",
         "url": "https://www.youtube.com/watch?v=woNAzDic5XQ",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. 👀..."
+        "summary": "Nouveauté de Henri · ExplorIA : Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. ��..."
     },
     {
         "id": "jqbNiDJFYYw",
@@ -669,28 +748,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : J'ai économisé 80% de tokens sur Claude Code sans toucher une seule ligne de code...."
     },
     {
-        "id": "W5LoVnf1Fow",
-        "videoId": "W5LoVnf1Fow",
-        "title": "Kast : créez vos persos et parlez-leur !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-23",
-        "url": "https://www.youtube.com/watch?v=W5LoVnf1Fow",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Kast : créez vos persos et parlez-leur !..."
-    },
-    {
-        "id": "JjLohdbe-Cc",
-        "videoId": "JjLohdbe-Cc",
-        "title": "Google remplace le web par IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-23",
-        "url": "https://www.youtube.com/watch?v=JjLohdbe-Cc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google remplace le web par IA..."
-    },
-    {
         "id": "m7bYnWcx8s0",
         "videoId": "m7bYnWcx8s0",
         "title": "200 entrepreneurs, 21 hectares, 4 jours",
@@ -1140,18 +1197,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "qjYCG4Hx5Ys",
-        "videoId": "qjYCG4Hx5Ys",
-        "title": "IA en avion : Code Cloud local, sans WiFi ni argent ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-17",
-        "url": "https://www.youtube.com/watch?v=qjYCG4Hx5Ys",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA en avion : Code Cloud local, sans WiFi ni argent ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "A5LozqMdv5I",
         "videoId": "A5LozqMdv5I",
         "title": "Comprendre le Modèle OSI: Les 7 Couches Expliquées Simplement",
@@ -1165,13 +1210,13 @@ export const allVideos = [
     {
         "id": "q5IfMPw6mFg",
         "videoId": "q5IfMPw6mFg",
-        "title": "Ce dev gère 4 agents IA comme une équipe d'ing��nieurs - co-fondateur d'Argil.AI (YC)",
+        "title": "Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-05-16",
         "url": "https://www.youtube.com/watch?v=q5IfMPw6mFg",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Ce dev gère 4 agents IA comme une équipe d'ing��nieurs - co-fondateur d'Argil.AI (YC)..."
+        "summary": "Nouveauté de Eliott Meunier : Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)..."
     },
     {
         "id": "m0tqhlkr2pw",
@@ -1183,17 +1228,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=m0tqhlkr2pw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : GPT 5.5 Instant : OpenAI admet un vrai problème..."
-    },
-    {
-        "id": "PIwy3Sg_Us8",
-        "videoId": "PIwy3Sg_Us8",
-        "title": "J'ai lancé un LLM open source dans un avion : résultats choquants",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-15",
-        "url": "https://www.youtube.com/watch?v=PIwy3Sg_Us8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : J'ai lancé un LLM open source dans un avion : résultats choquants..."
     },
     {
         "id": "9nXqUad7x9o",
@@ -1583,13 +1617,13 @@ export const allVideos = [
     {
         "id": "7cTenhHWfsk",
         "videoId": "7cTenhHWfsk",
-        "title": "La vérité sur les agents IA que personne n'ose vous dire",
+        "title": "La vérit�� sur les agents IA que personne n'ose vous dire",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-04-29",
         "url": "https://www.youtube.com/watch?v=7cTenhHWfsk",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : La vérité sur les agents IA que personne n'ose vous dire..."
+        "summary": "Nouveauté de Eliott Meunier : La vérit�� sur les agents IA que personne n'ose vous dire..."
     },
     {
         "id": "PjaygN19Udc",
@@ -2217,16 +2251,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PiMNs7xHp2M",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : CLAUDE CODE Automatise 100% de Ton PC : Il Fait TOUT à Ta Place ! (même débutant)..."
-    },
-    {
-        "id": "Ksaqjr4QFdk",
-        "videoId": "Ksaqjr4QFdk",
-        "title": "Claude Cowork Dispatch : c'est quoi et comment ça marche ?",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-03-31",
-        "url": "https://www.youtube.com/watch?v=Ksaqjr4QFdk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Claude Cowork Dispatch : c'est quoi et comment ça marche ?..."
     }
 ];
