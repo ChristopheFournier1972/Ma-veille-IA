@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-01T11:24:38.237Z
+// Fichier généré automatiquement le 2026-06-02T10:15:36.964Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:24:38 AM 6/1/2026";
+export const lastUpdate = "10:15:36 AM 6/2/2026";
 
 export const sources = [
     {
@@ -172,15 +172,126 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "kcCxHJXhMEE",
+        "videoId": "kcCxHJXhMEE",
+        "title": "Tout le monde installe des skills Claude sans vérifier ce qu'il y a dedans. C'est une erreur.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=kcCxHJXhMEE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tout le monde installe des skills Claude sans vérifier ce qu'il y a dedans. C'est une erreur...."
+    },
+    {
+        "id": "diP3NGc3TxI",
+        "videoId": "diP3NGc3TxI",
+        "title": "IA et emploi : panique inutile ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=diP3NGc3TxI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA et emploi : panique inutile ?..."
+    },
+    {
+        "id": "y-cxnWhY7Ek",
+        "videoId": "y-cxnWhY7Ek",
+        "title": "Comment mon associé et moi créons des entreprises IA #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=y-cxnWhY7Ek",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Comment mon associé et moi créons des entreprises IA #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Wjz9JxQCsSg",
+        "videoId": "Wjz9JxQCsSg",
+        "title": "Sam Altman relance les robots OpenAI: Ce qui change en 2026 - Bientôt un robot personnel chez vous?",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=Wjz9JxQCsSg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Sam Altman relance les robots OpenAI: Ce qui change en 2026 - Bientôt un robot personnel chez vous?..."
+    },
+    {
+        "id": "pxaXhfyQPKE",
+        "videoId": "pxaXhfyQPKE",
+        "title": "La méthode en 5 étapes pour découvrir les vraies capacités de Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=pxaXhfyQPKE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : La méthode en 5 étapes pour découvrir les vraies capacités de Claude !..."
+    },
+    {
+        "id": "c3ndfrHeUcA",
+        "videoId": "c3ndfrHeUcA",
+        "title": "Claude peut réécrire ton CV pour le rendre pratiquement impossible à rejeter.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=c3ndfrHeUcA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut réécrire ton CV pour le rendre pratiquement impossible à rejeter...."
+    },
+    {
+        "id": "wYoC4ICd8fg",
+        "videoId": "wYoC4ICd8fg",
+        "title": "G7: la France fait plier les USA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=wYoC4ICd8fg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : G7: la France fait plier les USA..."
+    },
+    {
+        "id": "lJRmWLDX__s",
+        "videoId": "lJRmWLDX__s",
+        "title": "Le patron de Deezer, en live, sur Renaud Dékode, le 3 juin.",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=lJRmWLDX__s",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Le patron de Deezer, en live, sur Renaud Dékode, le 3 juin...."
+    },
+    {
+        "id": "983ELhaLN-Q",
+        "videoId": "983ELhaLN-Q",
+        "title": "Renaud Dékode, Actus IA + Interview du CEO de DEEZER, en live",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=983ELhaLN-Q",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Renaud Dékode, Actus IA + Interview du CEO de DEEZER, en live..."
+    },
+    {
+        "id": "Sgvt60fbnlI",
+        "videoId": "Sgvt60fbnlI",
+        "title": "ENFIN une vraie régulation mondiale du numérique (avec les USA !)",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=Sgvt60fbnlI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ENFIN une vraie régulation mondiale du numérique (avec les USA !)..."
+    },
+    {
         "id": "7m02gxIq4Zk",
         "videoId": "7m02gxIq4Zk",
-        "title": "Actus, débats, tutos, IA, web, tech : on décode et on forge !",
+        "title": "L'actualité tech du 01/06/2026 en Live sur Renaud Dékode",
         "author": "Renaud Dékode",
         "source": "@RenaudDekode",
         "date": "2026-06-01",
         "url": "https://www.youtube.com/watch?v=7m02gxIq4Zk",
         "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Actus, débats, tutos, IA, web, tech : on décode et on forge !..."
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 01/06/2026 en Live sur Renaud Dékode..."
     },
     {
         "id": "QcEPltDmOac",
@@ -192,6 +303,29 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QcEPltDmOac",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : YouTube impose un label IA auto..."
+    },
+    {
+        "id": "1eOQtGqgeyU",
+        "videoId": "1eOQtGqgeyU",
+        "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Comment J’apprendrais l’IA en 2026 (si je devais recommencer)..."
+    },
+    {
+        "id": "KhovqSzDkfs",
+        "videoId": "KhovqSzDkfs",
+        "title": "IA Claude : La vérité sur OpenClaw enfin révélée ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=KhovqSzDkfs",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Claude : La vérité sur OpenClaw enfin révélée ! #shorts...",
+        "isShort": true
     },
     {
         "id": "0uhgtGBLNNE",
@@ -217,6 +351,28 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : PC IA: La révolution Microsoft et Nvidia est là! - Nvidia débarque sur Windows: Le futur des PC IA..."
     },
     {
+        "id": "zQHOgFqCsUE",
+        "videoId": "zQHOgFqCsUE",
+        "title": "J'ai Cloné mon Visage, mon Corps, ma Voix avec CLAUDE, je ne filme plus !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=zQHOgFqCsUE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : J'ai Cloné mon Visage, mon Corps, ma Voix avec CLAUDE, je ne filme plus !..."
+    },
+    {
+        "id": "AvwQEp6h1nU",
+        "videoId": "AvwQEp6h1nU",
+        "title": "J'ai découvert 5 façons d'utiliser NotebookLM que personne ne vous montre",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=AvwQEp6h1nU",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : J'ai découvert 5 façons d'utiliser NotebookLM que personne ne vous montre..."
+    },
+    {
         "id": "O3WljjqqkfI",
         "videoId": "O3WljjqqkfI",
         "title": "L'IA a-t-elle tué tous les business en ligne en 2026 ?",
@@ -237,6 +393,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=WTZ_B4yL1uQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un OS agentique complet dans Claude Code...."
+    },
+    {
+        "id": "VfpcGq415EI",
+        "videoId": "VfpcGq415EI",
+        "title": "Quelqu'un vient de créer un OS agentique complet dans Claude Code",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-05-31",
+        "url": "https://www.youtube.com/watch?v=VfpcGq415EI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un OS agentique complet dans Claude Code..."
     },
     {
         "id": "logRxGmCaLo",
@@ -533,13 +700,13 @@ export const allVideos = [
     {
         "id": "fmv0UlVZ19E",
         "videoId": "fmv0UlVZ19E",
-        "title": "Le NOUVEAU ChatGPT dans Excel vient de tout changer !",
+        "title": "ChatGPT vient de rendre Excel simple ! (C'est magique)",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-05-28",
         "url": "https://www.youtube.com/watch?v=fmv0UlVZ19E",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Le NOUVEAU ChatGPT dans Excel vient de tout changer !..."
+        "summary": "Nouveauté de Elliott Pierret : ChatGPT vient de rendre Excel simple ! (C'est magique)..."
     },
     {
         "id": "GIyyRAwVMuk",
@@ -562,17 +729,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=uox9mb3uxhs",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Comment l'IA révolutionne l'accessibilité numérique, avec Julien Sauvageot..."
-    },
-    {
-        "id": "30ioBoxdDbM",
-        "videoId": "30ioBoxdDbM",
-        "title": "Cannes : un film IA en 2 semaines",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=30ioBoxdDbM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Cannes : un film IA en 2 semaines..."
     },
     {
         "id": "mv5Sb75QLgc",
@@ -650,50 +806,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Qgq9-8VVgpc",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : La Chine est plus en avance sur l’IA que vous le pensez…..."
-    },
-    {
-        "id": "j-2LJqScwFo",
-        "videoId": "j-2LJqScwFo",
-        "title": "IA : la France lance sa Gigafactory",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-27",
-        "url": "https://www.youtube.com/watch?v=j-2LJqScwFo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : la France lance sa Gigafactory..."
-    },
-    {
-        "id": "hw5b4M0IoBY",
-        "videoId": "hw5b4M0IoBY",
-        "title": "IA : La France se rebelle et l'Europe flippe",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-27",
-        "url": "https://www.youtube.com/watch?v=hw5b4M0IoBY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : La France se rebelle et l'Europe flippe..."
-    },
-    {
-        "id": "R228lKS3n3I",
-        "videoId": "R228lKS3n3I",
-        "title": "L'actualité tech du 27/05/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-27",
-        "url": "https://www.youtube.com/watch?v=R228lKS3n3I",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 27/05/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "rfMEwbtOp_c",
-        "videoId": "rfMEwbtOp_c",
-        "title": "Google rend Street View jouable",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-27",
-        "url": "https://www.youtube.com/watch?v=rfMEwbtOp_c",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google rend Street View jouable..."
     },
     {
         "id": "MjCJIJ4PuSw",
@@ -905,28 +1017,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Actus IA : Google dégaine... ChatGPT et Claude ripostent !..."
     },
     {
-        "id": "KxkxqmRNndU",
-        "videoId": "KxkxqmRNndU",
-        "title": "Connecte Claude directement à ton compte Instagram !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=KxkxqmRNndU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Connecte Claude directement à ton compte Instagram !..."
-    },
-    {
-        "id": "9j6ecsEpZks",
-        "videoId": "9j6ecsEpZks",
-        "title": "Le directeur de Gemini vient de publier un repo GitHub qui devient viral.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=9j6ecsEpZks",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le directeur de Gemini vient de publier un repo GitHub qui devient viral...."
-    },
-    {
         "id": "o3-6jJvOpjI",
         "videoId": "o3-6jJvOpjI",
         "title": "Codex est devenu INCROYABLE... 7 Exemples concrets !",
@@ -1028,17 +1118,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : N'importe qui peut coder ? Ce gérant de salle d’escalade en est la PREUVE !..."
     },
     {
-        "id": "XCWlHH8iMqU",
-        "videoId": "XCWlHH8iMqU",
-        "title": "Anthropic vient de lancer un pack complet pour les petites entreprises",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=XCWlHH8iMqU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Anthropic vient de lancer un pack complet pour les petites entreprises..."
-    },
-    {
         "id": "6sgCPGojZTA",
         "videoId": "6sgCPGojZTA",
         "title": "Le prompt à toujours utiliser dans Claude !",
@@ -1096,17 +1175,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "xFs7A_fEFa4",
-        "videoId": "xFs7A_fEFa4",
-        "title": "Ce site te donne accès à des centaines d’outils IA gratuitement",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=xFs7A_fEFa4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ce site te donne accès à des centaines d’outils IA gratuitement..."
-    },
-    {
         "id": "UD-p0mPV38A",
         "videoId": "UD-p0mPV38A",
         "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter",
@@ -1116,30 +1184,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=UD-p0mPV38A",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter..."
-    },
-    {
-        "id": "6FPbsQnDYCM",
-        "videoId": "6FPbsQnDYCM",
-        "title": "Ollama: Les Modèles IA qui Tournent sur VOTRE PC ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=6FPbsQnDYCM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ollama: Les Modèles IA qui Tournent sur VOTRE PC ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "Xle7whxjTcc",
-        "videoId": "Xle7whxjTcc",
-        "title": "Télécharge tes modèles IA avec Ollama : Productivité Offline Assurée ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=Xle7whxjTcc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Télécharge tes modèles IA avec Ollama : Productivité Offline Assurée ! #shorts...",
-        "isShort": true
     },
     {
         "id": "jY7Bp-m7X1U",
@@ -1173,17 +1217,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=b5HDUbwcgzo",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Cet outil peut remplacer 100€ d’abonnements IA pour 8$ ?..."
-    },
-    {
-        "id": "GFZXeKKyac8",
-        "videoId": "GFZXeKKyac8",
-        "title": "Comprendre le Modèle TCP/IP: Comment fonctionne Internet?",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-18",
-        "url": "https://www.youtube.com/watch?v=GFZXeKKyac8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Comprendre le Modèle TCP/IP: Comment fonctionne Internet?..."
     },
     {
         "id": "ZfOCoTnpymA",
@@ -2218,27 +2251,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ecL5Kt4v-kI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce..."
-    },
-    {
-        "id": "95YMCtc9SZk",
-        "videoId": "95YMCtc9SZk",
-        "title": "Automatisez votre quotidien avec Claude grâce à cette vidéo !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-02",
-        "url": "https://www.youtube.com/watch?v=95YMCtc9SZk",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Automatisez votre quotidien avec Claude grâce à cette vidéo !..."
-    },
-    {
-        "id": "RKKK4uJ1ygU",
-        "videoId": "RKKK4uJ1ygU",
-        "title": "Maitriser TOUT NotebookLM en 26 minutes (Tuto Complet)",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-04-02",
-        "url": "https://www.youtube.com/watch?v=RKKK4uJ1ygU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Maitriser TOUT NotebookLM en 26 minutes (Tuto Complet)..."
     }
 ];
