@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-02T10:15:36.964Z
+// Fichier généré automatiquement le 2026-06-03T10:51:30.581Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:15:36 AM 6/2/2026";
+export const lastUpdate = "10:51:30 AM 6/3/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "z3oXZtuJNok",
+        "videoId": "z3oXZtuJNok",
+        "title": "Tu utilises Claude à 10% de ses capacités (voilà ce que tu loupes)",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=z3oXZtuJNok",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Tu utilises Claude à 10% de ses capacités (voilà ce que tu loupes)..."
+    },
+    {
+        "id": "-IFfrRfTGCo",
+        "videoId": "-IFfrRfTGCo",
+        "title": "Anthropic à 1000 Md$ : bulle IA ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=-IFfrRfTGCo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Anthropic à 1000 Md$ : bulle IA ?..."
+    },
+    {
+        "id": "G4EKG-wf_KU",
+        "videoId": "G4EKG-wf_KU",
+        "title": "Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=G4EKG-wf_KU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout..."
+    },
+    {
+        "id": "_CX5Ls02oE8",
+        "videoId": "_CX5Ls02oE8",
+        "title": "Cette mise à jour de Claude est dingue !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=_CX5Ls02oE8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Cette mise à jour de Claude est dingue !..."
+    },
+    {
         "id": "kcCxHJXhMEE",
         "videoId": "kcCxHJXhMEE",
         "title": "Tout le monde installe des skills Claude sans vérifier ce qu'il y a dedans. C'est une erreur.",
@@ -183,6 +227,17 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Tout le monde installe des skills Claude sans vérifier ce qu'il y a dedans. C'est une erreur...."
     },
     {
+        "id": "QPHqq61_7Yw",
+        "videoId": "QPHqq61_7Yw",
+        "title": "DeepSeek casse tout : prix -75%",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=QPHqq61_7Yw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : DeepSeek casse tout : prix -75%..."
+    },
+    {
         "id": "diP3NGc3TxI",
         "videoId": "diP3NGc3TxI",
         "title": "IA et emploi : panique inutile ?",
@@ -192,6 +247,29 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=diP3NGc3TxI",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : IA et emploi : panique inutile ?..."
+    },
+    {
+        "id": "GYZMfDdcTVw",
+        "videoId": "GYZMfDdcTVw",
+        "title": "Générer +1000 leads par mois gratuitement (Google Maps + n8n)",
+        "author": "Ousmane Automatise",
+        "source": "@ousmanedf",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=GYZMfDdcTVw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ousmane Automatise : Générer +1000 leads par mois gratuitement (Google Maps + n8n)..."
+    },
+    {
+        "id": "liuhzHlHQjI",
+        "videoId": "liuhzHlHQjI",
+        "title": "Claude Code: Accès Terminal Facile et Tutoriels Vidéo Complet #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=liuhzHlHQjI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: Accès Terminal Facile et Tutoriels Vidéo Complet #shorts...",
+        "isShort": true
     },
     {
         "id": "y-cxnWhY7Ek",
@@ -206,6 +284,17 @@ export const allVideos = [
         "isShort": true
     },
     {
+        "id": "rLt6H0tHnB4",
+        "videoId": "rLt6H0tHnB4",
+        "title": "Nvidia Nemotron-3 Ultra: Le nouveau roi de l'IA Open Source? - il est 6x plus rapide que ses rivaux!",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=rLt6H0tHnB4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Nvidia Nemotron-3 Ultra: Le nouveau roi de l'IA Open Source? - il est 6x plus rapide que ses rivaux!..."
+    },
+    {
         "id": "Wjz9JxQCsSg",
         "videoId": "Wjz9JxQCsSg",
         "title": "Sam Altman relance les robots OpenAI: Ce qui change en 2026 - Bientôt un robot personnel chez vous?",
@@ -215,6 +304,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Wjz9JxQCsSg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Sam Altman relance les robots OpenAI: Ce qui change en 2026 - Bientôt un robot personnel chez vous?..."
+    },
+    {
+        "id": "lrDOv-cEllQ",
+        "videoId": "lrDOv-cEllQ",
+        "title": "Vous ne devriez pas utiliser l'IA sans avoir vu cette vidéo.",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-06-02",
+        "url": "https://www.youtube.com/watch?v=lrDOv-cEllQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Vous ne devriez pas utiliser l'IA sans avoir vu cette vidéo...."
     },
     {
         "id": "pxaXhfyQPKE",
@@ -239,6 +339,17 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Claude peut réécrire ton CV pour le rendre pratiquement impossible à rejeter...."
     },
     {
+        "id": "983ELhaLN-Q",
+        "videoId": "983ELhaLN-Q",
+        "title": "Renaud Dékode, Actus IA + Interview du CEO de DEEZER, en live",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-01",
+        "url": "https://www.youtube.com/watch?v=983ELhaLN-Q",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Renaud Dékode, Actus IA + Interview du CEO de DEEZER, en live..."
+    },
+    {
         "id": "wYoC4ICd8fg",
         "videoId": "wYoC4ICd8fg",
         "title": "G7: la France fait plier les USA",
@@ -259,17 +370,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lJRmWLDX__s",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Le patron de Deezer, en live, sur Renaud Dékode, le 3 juin...."
-    },
-    {
-        "id": "983ELhaLN-Q",
-        "videoId": "983ELhaLN-Q",
-        "title": "Renaud Dékode, Actus IA + Interview du CEO de DEEZER, en live",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=983ELhaLN-Q",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Renaud Dékode, Actus IA + Interview du CEO de DEEZER, en live..."
     },
     {
         "id": "Sgvt60fbnlI",
@@ -709,28 +809,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : ChatGPT vient de rendre Excel simple ! (C'est magique)..."
     },
     {
-        "id": "GIyyRAwVMuk",
-        "videoId": "GIyyRAwVMuk",
-        "title": "IA Mythos affole la BCE",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=GIyyRAwVMuk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA Mythos affole la BCE..."
-    },
-    {
-        "id": "uox9mb3uxhs",
-        "videoId": "uox9mb3uxhs",
-        "title": "Comment l'IA révolutionne l'accessibilité numérique, avec Julien Sauvageot",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=uox9mb3uxhs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Comment l'IA révolutionne l'accessibilité numérique, avec Julien Sauvageot..."
-    },
-    {
         "id": "mv5Sb75QLgc",
         "videoId": "mv5Sb75QLgc",
         "title": "Comment Claude Génère mes Propales à +10k€ en 10 minutes (Guide Complet)",
@@ -973,17 +1051,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : WiFi vs Internet: La différence que tu dois connaître - 2.4 GHz vs 5 GHz: Quelle fréquence choisir?..."
     },
     {
-        "id": "6vq00uTyYu8",
-        "videoId": "6vq00uTyYu8",
-        "title": "La seule certification IA qui vaut vraiment quelque chose en 2026.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-22",
-        "url": "https://www.youtube.com/watch?v=6vq00uTyYu8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La seule certification IA qui vaut vraiment quelque chose en 2026...."
-    },
-    {
         "id": "ReO0rVllZIk",
         "videoId": "ReO0rVllZIk",
         "title": "Ethernet vs Wi-Fi vs Internet: Quelles Différences? - Comprendre le Réseau Ethernet: La Base du LAN",
@@ -1163,18 +1230,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "LXImtt7MgNE",
-        "videoId": "LXImtt7MgNE",
-        "title": "Ollama : Le lancement qui fait des siennes #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=LXImtt7MgNE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ollama : Le lancement qui fait des siennes #shorts...",
-        "isShort": true
-    },
-    {
         "id": "UD-p0mPV38A",
         "videoId": "UD-p0mPV38A",
         "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter",
@@ -1184,17 +1239,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=UD-p0mPV38A",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter..."
-    },
-    {
-        "id": "jY7Bp-m7X1U",
-        "videoId": "jY7Bp-m7X1U",
-        "title": "Modèle OSI vs TCP/IP: Les différences enfin expliquées",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=jY7Bp-m7X1U",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Modèle OSI vs TCP/IP: Les différences enfin expliquées..."
     },
     {
         "id": "wjFdqDyTz3s",
@@ -1481,17 +1525,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=NCvARWY-_aQ",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Ne plus JAMAIS atteindre la limite de Tokens dans Claude !..."
-    },
-    {
-        "id": "sXGDheIjn6w",
-        "videoId": "sXGDheIjn6w",
-        "title": "Xiaomi MiMo V2.5 PRO : Le Monstre Open Source (10x moins cher que Claude)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-07",
-        "url": "https://www.youtube.com/watch?v=sXGDheIjn6w",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Xiaomi MiMo V2.5 PRO : Le Monstre Open Source (10x moins cher que Claude)..."
     },
     {
         "id": "pb8pza8dmCg",
