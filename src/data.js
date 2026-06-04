@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-03T10:51:30.581Z
+// Fichier généré automatiquement le 2026-06-04T09:51:10.341Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:51:30 AM 6/3/2026";
+export const lastUpdate = "9:51:10 AM 6/4/2026";
 
 export const sources = [
     {
@@ -172,15 +172,70 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "QS1fDU-W59s",
+        "videoId": "QS1fDU-W59s",
+        "title": "Tu utilises Claude tous les jours mais tu passes à côté de 90% de ce qu'il peut faire.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=QS1fDU-W59s",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu utilises Claude tous les jours mais tu passes à côté de 90% de ce qu'il peut faire...."
+    },
+    {
+        "id": "mwjU2uR20-I",
+        "videoId": "mwjU2uR20-I",
+        "title": "Microsoft lâche OpenAI avec 7 IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=mwjU2uR20-I",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Microsoft lâche OpenAI avec 7 IA..."
+    },
+    {
         "id": "z3oXZtuJNok",
         "videoId": "z3oXZtuJNok",
-        "title": "Tu utilises Claude à 10% de ses capacités (voilà ce que tu loupes)",
+        "title": "Arrête d'utiliser Claude comme un simple Chat (fais ça à la place)",
         "author": "Etienne Tillier",
         "source": "@EtienneTillierStudio",
         "date": "2026-06-03",
         "url": "https://www.youtube.com/watch?v=z3oXZtuJNok",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : Tu utilises Claude à 10% de ses capacités (voilà ce que tu loupes)..."
+        "summary": "Nouveauté de Etienne Tillier : Arrête d'utiliser Claude comme un simple Chat (fais ça à la place)..."
+    },
+    {
+        "id": "U6GRU3JeloA",
+        "videoId": "U6GRU3JeloA",
+        "title": "Scout de Microsoft bosse pour vous",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=U6GRU3JeloA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Scout de Microsoft bosse pour vous..."
+    },
+    {
+        "id": "ipxCHsd0P5Y",
+        "videoId": "ipxCHsd0P5Y",
+        "title": "Les annonces IA de Microsoft : enfin du lourd !!",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=ipxCHsd0P5Y",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Les annonces IA de Microsoft : enfin du lourd !!..."
+    },
+    {
+        "id": "983ELhaLN-Q",
+        "videoId": "983ELhaLN-Q",
+        "title": "L'actualité tech du 03/06/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=983ELhaLN-Q",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 03/06/2026 en Live sur Renaud Dékode..."
     },
     {
         "id": "-IFfrRfTGCo",
@@ -203,6 +258,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=G4EKG-wf_KU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout..."
+    },
+    {
+        "id": "lj1gBlPZnjc",
+        "videoId": "lj1gBlPZnjc",
+        "title": "IA: Créez des agents en 10 min, vendez-les MAINTENANT ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-03",
+        "url": "https://www.youtube.com/watch?v=lj1gBlPZnjc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA: Créez des agents en 10 min, vendez-les MAINTENANT ! #shorts...",
+        "isShort": true
     },
     {
         "id": "_CX5Ls02oE8",
@@ -337,17 +404,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=c3ndfrHeUcA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Claude peut réécrire ton CV pour le rendre pratiquement impossible à rejeter...."
-    },
-    {
-        "id": "983ELhaLN-Q",
-        "videoId": "983ELhaLN-Q",
-        "title": "Renaud Dékode, Actus IA + Interview du CEO de DEEZER, en live",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=983ELhaLN-Q",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Renaud Dékode, Actus IA + Interview du CEO de DEEZER, en live..."
     },
     {
         "id": "wYoC4ICd8fg",
@@ -686,39 +742,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Claude 4.8 orchestre 100 agents..."
     },
     {
-        "id": "3QjPeY7KoV4",
-        "videoId": "3QjPeY7KoV4",
-        "title": "L'actualité tech du 29/05/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=3QjPeY7KoV4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 29/05/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "zAYPmtbj3hk",
-        "videoId": "zAYPmtbj3hk",
-        "title": "Mistral envoie du lourd, Claude Opus 4.8 consolide",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=zAYPmtbj3hk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral envoie du lourd, Claude Opus 4.8 consolide..."
-    },
-    {
-        "id": "PsYDHoTBwoQ",
-        "videoId": "PsYDHoTBwoQ",
-        "title": "La Chine trace tous ses robots",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=PsYDHoTBwoQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : La Chine trace tous ses robots..."
-    },
-    {
         "id": "vfeWJBbiai8",
         "videoId": "vfeWJBbiai8",
         "title": "Claude Opus 4.8 Est-il Le Nouveau Roi de l’IA ? (Test Complet)",
@@ -1007,17 +1030,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : Claude Skills : Tout le monde peut ENFIN automatiser !..."
     },
     {
-        "id": "i0iU1iFXAfA",
-        "videoId": "i0iU1iFXAfA",
-        "title": "J'ai économisé 80% de tokens sur Claude Code sans toucher une seule ligne de code.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-23",
-        "url": "https://www.youtube.com/watch?v=i0iU1iFXAfA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : J'ai économisé 80% de tokens sur Claude Code sans toucher une seule ligne de code...."
-    },
-    {
         "id": "m7bYnWcx8s0",
         "videoId": "m7bYnWcx8s0",
         "title": "200 entrepreneurs, 21 hectares, 4 jours",
@@ -1216,18 +1228,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9BnO43ijZwE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 est la !..."
-    },
-    {
-        "id": "AdFp_9DktUg",
-        "videoId": "AdFp_9DktUg",
-        "title": "Téléchargez des modèles IA facilement avec Ollama ! 🚀 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=AdFp_9DktUg",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Téléchargez des modèles IA facilement avec Ollama ! 🚀 #shorts...",
-        "isShort": true
     },
     {
         "id": "UD-p0mPV38A",
