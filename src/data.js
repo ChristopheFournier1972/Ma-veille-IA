@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-04T09:51:10.341Z
+// Fichier généré automatiquement le 2026-06-05T09:39:13.334Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:51:10 AM 6/4/2026";
+export const lastUpdate = "9:39:13 AM 6/5/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "SsgMr69vJks",
+        "videoId": "SsgMr69vJks",
+        "title": "Microsoft : ordi quantique en 2029",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=SsgMr69vJks",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Microsoft : ordi quantique en 2029..."
+    },
+    {
+        "id": "PmRYCgL4eNg",
+        "videoId": "PmRYCgL4eNg",
+        "title": "Le protocole IP: Le GPS de l'Internet - IPv4 vs IPv6: Quelles différences et pourquoi changer?",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=PmRYCgL4eNg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Le protocole IP: Le GPS de l'Internet - IPv4 vs IPv6: Quelles différences et pourquoi changer?..."
+    },
+    {
+        "id": "FyqV1frE-uk",
+        "videoId": "FyqV1frE-uk",
+        "title": "Le nouveau Claude est là ! (OPUS 4.8)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=FyqV1frE-uk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le nouveau Claude est là ! (OPUS 4.8)..."
+    },
+    {
+        "id": "Q0aStCgpm0I",
+        "videoId": "Q0aStCgpm0I",
+        "title": "Ne fais jamais de copier-coller des réponses que te donne Claude",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=Q0aStCgpm0I",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ne fais jamais de copier-coller des réponses que te donne Claude..."
+    },
+    {
         "id": "QS1fDU-W59s",
         "videoId": "QS1fDU-W59s",
         "title": "Tu utilises Claude tous les jours mais tu passes à côté de 90% de ce qu'il peut faire.",
@@ -183,6 +227,17 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Tu utilises Claude tous les jours mais tu passes à côté de 90% de ce qu'il peut faire...."
     },
     {
+        "id": "Hu4nS0AEJxA",
+        "videoId": "Hu4nS0AEJxA",
+        "title": "RTX Spark : le PC devient IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=Hu4nS0AEJxA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : RTX Spark : le PC devient IA..."
+    },
+    {
         "id": "mwjU2uR20-I",
         "videoId": "mwjU2uR20-I",
         "title": "Microsoft lâche OpenAI avec 7 IA",
@@ -192,6 +247,74 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mwjU2uR20-I",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Microsoft lâche OpenAI avec 7 IA..."
+    },
+    {
+        "id": "2u3A5-3FuEg",
+        "videoId": "2u3A5-3FuEg",
+        "title": "Claude Cowork: de débutant à ton premier agent 🤖",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=2u3A5-3FuEg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Claude Cowork: de débutant à ton premier agent 🤖..."
+    },
+    {
+        "id": "PValXQP9nEQ",
+        "videoId": "PValXQP9nEQ",
+        "title": "Claude Cowork: de débutant à tes premiers agents (en 20 min)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=PValXQP9nEQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Claude Cowork: de débutant à tes premiers agents (en 20 min)..."
+    },
+    {
+        "id": "1ccrMaPQYhs",
+        "videoId": "1ccrMaPQYhs",
+        "title": "Hermes APP est la : le TUTO pour l'utiliser 100% GRATUITEMENT 🤯",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=1ccrMaPQYhs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Hermes APP est la : le TUTO pour l'utiliser 100% GRATUITEMENT 🤯..."
+    },
+    {
+        "id": "R87u5AyyhFA",
+        "videoId": "R87u5AyyhFA",
+        "title": "Créez Votre Agent Vocal IA FACILEMENT (Coulisses Claude Code) #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=R87u5AyyhFA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez Votre Agent Vocal IA FACILEMENT (Coulisses Claude Code) #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "OjqBYg7UqHw",
+        "videoId": "OjqBYg7UqHw",
+        "title": "Grok Voice : L'IA qui Révolutionne les Appels Starlink en 5 Minutes ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=OjqBYg7UqHw",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Grok Voice : L'IA qui Révolutionne les Appels Starlink en 5 Minutes ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "3MJGFMBnc2Q",
+        "videoId": "3MJGFMBnc2Q",
+        "title": "Tout Comprendre sur le Protocole IP - Protocole IP vs Adresse IP: Quelle est la différence?",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-04",
+        "url": "https://www.youtube.com/watch?v=3MJGFMBnc2Q",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Tout Comprendre sur le Protocole IP - Protocole IP vs Adresse IP: Quelle est la différence?..."
     },
     {
         "id": "z3oXZtuJNok",
@@ -619,17 +742,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : ElevenLabs : opéra à metal en IA..."
     },
     {
-        "id": "kmuTmB-12nc",
-        "videoId": "kmuTmB-12nc",
-        "title": "Mistral lance son offensive IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=kmuTmB-12nc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral lance son offensive IA..."
-    },
-    {
         "id": "pjRKfnlsTfk",
         "videoId": "pjRKfnlsTfk",
         "title": "Le vrai problème de l'IA en entreprise (que les consultants cachent)",
@@ -729,17 +841,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=jqbNiDJFYYw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : C’est quoi le fichier Claude.MD ?..."
-    },
-    {
-        "id": "Jjt23sjUelY",
-        "videoId": "Jjt23sjUelY",
-        "title": "Claude 4.8 orchestre 100 agents",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=Jjt23sjUelY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude 4.8 orchestre 100 agents..."
     },
     {
         "id": "vfeWJBbiai8",
@@ -953,17 +1054,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Qu’est-ce que le MCP ?..."
     },
     {
-        "id": "OZo57C9nohk",
-        "videoId": "OZo57C9nohk",
-        "title": "Le créateur de Claude Code réserve tous ses vols et hôtels avec Cowork",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-26",
-        "url": "https://www.youtube.com/watch?v=OZo57C9nohk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le créateur de Claude Code réserve tous ses vols et hôtels avec Cowork..."
-    },
-    {
         "id": "9KvncVTC6zU",
         "videoId": "9KvncVTC6zU",
         "title": "Claude Opus 4.8 : Pourquoi Claude Code Ne Sera Plus Le Même (LEAK)",
@@ -1006,17 +1096,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yS7zBSvI0Y8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Google I/O 2026 : les 5 outils que vous allez utiliser tous les jours..."
-    },
-    {
-        "id": "jNYq99U5gR4",
-        "videoId": "jNYq99U5gR4",
-        "title": "Tu savais que Claude Code avait une barre de statut cachée ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-24",
-        "url": "https://www.youtube.com/watch?v=jNYq99U5gR4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu savais que Claude Code avait une barre de statut cachée ?..."
     },
     {
         "id": "y4AAFTlA6ak",
@@ -1139,51 +1218,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : IA: Code Sudoku HTML Hors Ligne en Secondes! #shorts...",
         "isShort": true
-    },
-    {
-        "id": "-6PHej38buw",
-        "videoId": "-6PHej38buw",
-        "title": "Le co-fondateur d'OpenAI vient de changer Claude Code pour toujours (LLM Wiki)",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=-6PHej38buw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Le co-fondateur d'OpenAI vient de changer Claude Code pour toujours (LLM Wiki)..."
-    },
-    {
-        "id": "BZgiYCH65ho",
-        "videoId": "BZgiYCH65ho",
-        "title": "Ollama + Claude Code : Une machine de guerre est nécessaire ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=BZgiYCH65ho",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ollama + Claude Code : Une machine de guerre est nécessaire ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "OasQ954W4D8",
-        "videoId": "OasQ954W4D8",
-        "title": "IP vs MAC: L'erreur fatale que tout le monde commet - Comprendre le Voyage Invisible de nos Données",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=OasQ954W4D8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : IP vs MAC: L'erreur fatale que tout le monde commet - Comprendre le Voyage Invisible de nos Données..."
-    },
-    {
-        "id": "LrG377qQlVw",
-        "videoId": "LrG377qQlVw",
-        "title": "Modèle OSI vs TCP/IP: Tout comprendre en 3 minutes",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=LrG377qQlVw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Modèle OSI vs TCP/IP: Tout comprendre en 3 minutes..."
     },
     {
         "id": "NU3G3RHuIX8",
@@ -2251,38 +2285,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BWwGSK-pKpY",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)..."
-    },
-    {
-        "id": "-xOk8SVdC6U",
-        "videoId": "-xOk8SVdC6U",
-        "title": "1,8 Milliards de dollars TOUT SEUL grâce à l'IA (Comment il a fait ?)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-04-05",
-        "url": "https://www.youtube.com/watch?v=-xOk8SVdC6U",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : 1,8 Milliards de dollars TOUT SEUL grâce à l'IA (Comment il a fait ?)..."
-    },
-    {
-        "id": "m2QptFP0sLM",
-        "videoId": "m2QptFP0sLM",
-        "title": "Comment Créer des Sites Web INCROYABLE avec Claude IA",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-04-05",
-        "url": "https://www.youtube.com/watch?v=m2QptFP0sLM",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment Créer des Sites Web INCROYABLE avec Claude IA..."
-    },
-    {
-        "id": "ecL5Kt4v-kI",
-        "videoId": "ecL5Kt4v-kI",
-        "title": "La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-04-05",
-        "url": "https://www.youtube.com/watch?v=ecL5Kt4v-kI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : La fonctionnalité cachée de Claude en 3 clics 🤫  #astuce..."
     }
 ];
