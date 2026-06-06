@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-05T09:39:13.334Z
+// Fichier généré automatiquement le 2026-06-06T08:29:21.901Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:39:13 AM 6/5/2026";
+export const lastUpdate = "8:29:21 AM 6/6/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "BnihJqMPS-I",
+        "videoId": "BnihJqMPS-I",
+        "title": "L'actualité tech du 05/06/2026 en Live sur Renaud Dékode",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=BnihJqMPS-I",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 05/06/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "DOAIeeCzs94",
+        "videoId": "DOAIeeCzs94",
+        "title": "Tu peux construire un agent IA de stratégie d'investissement avec Claude en moins d'une minute",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=DOAIeeCzs94",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux construire un agent IA de stratégie d'investissement avec Claude en moins d'une minute..."
+    },
+    {
+        "id": "9JNJiKArSVM",
+        "videoId": "9JNJiKArSVM",
+        "title": "Gemma 4 : l’IA multimodale locale",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=9JNJiKArSVM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Gemma 4 : l’IA multimodale locale..."
+    },
+    {
+        "id": "VY2TCXTIuZ8",
+        "videoId": "VY2TCXTIuZ8",
+        "title": "La lutte pour notre indépendance face à l'IA s'organise",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=VY2TCXTIuZ8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : La lutte pour notre indépendance face à l'IA s'organise..."
+    },
+    {
         "id": "SsgMr69vJks",
         "videoId": "SsgMr69vJks",
         "title": "Microsoft : ordi quantique en 2029",
@@ -183,6 +227,41 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Microsoft : ordi quantique en 2029..."
     },
     {
+        "id": "pTWKv6bQ5UM",
+        "videoId": "pTWKv6bQ5UM",
+        "title": "Hébergez votre code sur GitHub et lancez votre projet facilement ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=pTWKv6bQ5UM",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Hébergez votre code sur GitHub et lancez votre projet facilement ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "NBBGvsqX8SI",
+        "videoId": "NBBGvsqX8SI",
+        "title": "IA pour votre resto : Adaptez votre agent vocal en 1 clic ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=NBBGvsqX8SI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA pour votre resto : Adaptez votre agent vocal en 1 clic ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "3Gm1nNSHnCo",
+        "videoId": "3Gm1nNSHnCo",
+        "title": "Protocole ARP: Le chaînon manquant du réseau - Adresse IP vs MAC: Quel est le rôle du protocole ARP?",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=3Gm1nNSHnCo",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Protocole ARP: Le chaînon manquant du réseau - Adresse IP vs MAC: Quel est le rôle du protocole ARP?..."
+    },
+    {
         "id": "PmRYCgL4eNg",
         "videoId": "PmRYCgL4eNg",
         "title": "Le protocole IP: Le GPS de l'Internet - IPv4 vs IPv6: Quelles différences et pourquoi changer?",
@@ -192,6 +271,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PmRYCgL4eNg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Le protocole IP: Le GPS de l'Internet - IPv4 vs IPv6: Quelles différences et pourquoi changer?..."
+    },
+    {
+        "id": "s_ShtMRFYOs",
+        "videoId": "s_ShtMRFYOs",
+        "title": "Actus IA : les Agents IA débarquent de PARTOUT !",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-06-05",
+        "url": "https://www.youtube.com/watch?v=s_ShtMRFYOs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : les Agents IA débarquent de PARTOUT !..."
     },
     {
         "id": "FyqV1frE-uk",
@@ -562,28 +652,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : ENFIN une vraie régulation mondiale du numérique (avec les USA !)..."
     },
     {
-        "id": "7m02gxIq4Zk",
-        "videoId": "7m02gxIq4Zk",
-        "title": "L'actualité tech du 01/06/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=7m02gxIq4Zk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 01/06/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "QcEPltDmOac",
-        "videoId": "QcEPltDmOac",
-        "title": "YouTube impose un label IA auto",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=QcEPltDmOac",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : YouTube impose un label IA auto..."
-    },
-    {
         "id": "1eOQtGqgeyU",
         "videoId": "1eOQtGqgeyU",
         "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
@@ -711,13 +779,13 @@ export const allVideos = [
     {
         "id": "fOQCeQx22HI",
         "videoId": "fOQCeQx22HI",
-        "title": "J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde.",
+        "title": "J'ai forcé 3 IA à pr��dire les 104 matchs de la Coupe du Monde.",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-05-31",
         "url": "https://www.youtube.com/watch?v=fOQCeQx22HI",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde...."
+        "summary": "Nouveauté de Ludo Salenne : J'ai forcé 3 IA à pr��dire les 104 matchs de la Coupe du Monde...."
     },
     {
         "id": "OhT8HBfsRo0",
@@ -729,17 +797,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=OhT8HBfsRo0",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de sortir une API gratuite avec 11 modèles d'IA..."
-    },
-    {
-        "id": "gLy0lgWFW7Q",
-        "videoId": "gLy0lgWFW7Q",
-        "title": "ElevenLabs : opéra à metal en IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=gLy0lgWFW7Q",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ElevenLabs : opéra à metal en IA..."
     },
     {
         "id": "pjRKfnlsTfk",
@@ -966,17 +1023,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Hermes Agent : 3 use cases que PERSONNE n'a testés 🤖..."
     },
     {
-        "id": "G-Tjz_hC1L4",
-        "videoId": "G-Tjz_hC1L4",
-        "title": "Construire des Agents IA Vocaux n'a jamais été aussi facile (GROK + CLAUDE CODE )",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=G-Tjz_hC1L4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Construire des Agents IA Vocaux n'a jamais été aussi facile (GROK + CLAUDE CODE )..."
-    },
-    {
         "id": "67KzWdV6EzE",
         "videoId": "67KzWdV6EzE",
         "title": "C'est quoi une adresse IP? - Comprendre l'adresse IP: Le guide complet pour débutants",
@@ -1041,17 +1087,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9ySW-tzoDpU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Réponses IA : comment passer de ça... à ÇA !..."
-    },
-    {
-        "id": "BZA2kdEeODI",
-        "videoId": "BZA2kdEeODI",
-        "title": "Qu’est-ce que le MCP ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-26",
-        "url": "https://www.youtube.com/watch?v=BZA2kdEeODI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Qu’est-ce que le MCP ?..."
     },
     {
         "id": "9KvncVTC6zU",
@@ -1153,17 +1188,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Ethernet vs Wi-Fi vs Internet: Quelles Différences? - Comprendre le Réseau Ethernet: La Base du LAN..."
     },
     {
-        "id": "q7ShYQYNVI8",
-        "videoId": "q7ShYQYNVI8",
-        "title": "Comment fonctionne Internet? Le voyage de vos données - Comprendre le réseau: IP, MAC et Ports",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-22",
-        "url": "https://www.youtube.com/watch?v=q7ShYQYNVI8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Comment fonctionne Internet? Le voyage de vos données - Comprendre le réseau: IP, MAC et Ports..."
-    },
-    {
         "id": "VMUDRIYRoQs",
         "videoId": "VMUDRIYRoQs",
         "title": "Actus IA : Google dégaine... ChatGPT et Claude ripostent !",
@@ -1206,18 +1230,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ULlBUO1dAQ4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude Design vs Figma : j'ai recréé Apple.com pour comparer..."
-    },
-    {
-        "id": "F74GXOsWEiE",
-        "videoId": "F74GXOsWEiE",
-        "title": "IA: Code Sudoku HTML Hors Ligne en Secondes! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=F74GXOsWEiE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA: Code Sudoku HTML Hors Ligne en Secondes! #shorts...",
-        "isShort": true
     },
     {
         "id": "NU3G3RHuIX8",
@@ -2274,16 +2286,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=6d9HeBlu7Iw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais...."
-    },
-    {
-        "id": "BWwGSK-pKpY",
-        "videoId": "BWwGSK-pKpY",
-        "title": "Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-04-06",
-        "url": "https://www.youtube.com/watch?v=BWwGSK-pKpY",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Comment apprendre n'importe quelle langue avec l'IA ? (En partant de ZERO)..."
     }
 ];
