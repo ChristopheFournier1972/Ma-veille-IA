@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-06T08:29:21.901Z
+// Fichier généré automatiquement le 2026-06-07T08:51:00.674Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:29:21 AM 6/6/2026";
+export const lastUpdate = "8:51:00 AM 6/7/2026";
 
 export const sources = [
     {
@@ -172,6 +172,72 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "svJTEkSnBe8",
+        "videoId": "svJTEkSnBe8",
+        "title": "Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=svJTEkSnBe8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain..."
+    },
+    {
+        "id": "PAw5aeiEs5Q",
+        "videoId": "PAw5aeiEs5Q",
+        "title": "Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=PAw5aeiEs5Q",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !..."
+    },
+    {
+        "id": "iGM7xRbGXIk",
+        "videoId": "iGM7xRbGXIk",
+        "title": "Pourquoi l'ICMP est le &quot;gendarme&quot; de votre réseau? -Tout savoir sur PING, TRACEROUTE, TTL et Latence",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=iGM7xRbGXIk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Pourquoi l'ICMP est le &quot;gendarme&quot; de votre réseau? -Tout savoir sur PING, TRACEROUTE, TTL ..."
+    },
+    {
+        "id": "udf-JB-FLzQ",
+        "videoId": "udf-JB-FLzQ",
+        "title": "Quelqu'un vient d'open sourcer un CRM complet (alternative directe à Salesforce qui devient virale)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=udf-JB-FLzQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient d'open sourcer un CRM complet (alternative directe à Salesforce qui devient virale)..."
+    },
+    {
+        "id": "7L1gfG6pb_w",
+        "videoId": "7L1gfG6pb_w",
+        "title": "ChatGPT rêve et vous connaît mieux",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=7L1gfG6pb_w",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT rêve et vous connaît mieux..."
+    },
+    {
+        "id": "VZrmHHw19Vg",
+        "videoId": "VZrmHHw19Vg",
+        "title": "IA proactive : elle agit avant vous",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=VZrmHHw19Vg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA proactive : elle agit avant vous..."
+    },
+    {
         "id": "BnihJqMPS-I",
         "videoId": "BnihJqMPS-I",
         "title": "L'actualité tech du 05/06/2026 en Live sur Renaud Dékode",
@@ -181,6 +247,63 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BnihJqMPS-I",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 05/06/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "97-oN2YrXVc",
+        "videoId": "97-oN2YrXVc",
+        "title": "DeepSeek V4 : le modele qui humilie les IA américaines",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=97-oN2YrXVc",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : DeepSeek V4 : le modele qui humilie les IA américaines..."
+    },
+    {
+        "id": "vKQ7LKgAQps",
+        "videoId": "vKQ7LKgAQps",
+        "title": "La Pause IA d’Anthropic : Panique ou Manipulation ? 🤔",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=vKQ7LKgAQps",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : La Pause IA d’Anthropic : Panique ou Manipulation ? 🤔..."
+    },
+    {
+        "id": "AIoPnpfZfSs",
+        "videoId": "AIoPnpfZfSs",
+        "title": "Claude Code: L'IA qui Révolutionne l'Adaptation pour Vos Clients #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=AIoPnpfZfSs",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: L'IA qui Révolutionne l'Adaptation pour Vos Clients #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "9frB4KcKHR0",
+        "videoId": "9frB4KcKHR0",
+        "title": "IA Révolutionne Votre Business : L'App Grok Voice Change Tout ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=9frB4KcKHR0",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Révolutionne Votre Business : L'App Grok Voice Change Tout ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "SbJm4xYI7aw",
+        "videoId": "SbJm4xYI7aw",
+        "title": "L'IA n'est pas rentable? La vérité sur les coûts - Pourquoi 40% des entreprises échouent avec l'IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-06",
+        "url": "https://www.youtube.com/watch?v=SbJm4xYI7aw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : L'IA n'est pas rentable? La vérité sur les coûts - Pourquoi 40% des entreprises échouent avec l'IA..."
     },
     {
         "id": "DOAIeeCzs94",
@@ -630,28 +753,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : G7: la France fait plier les USA..."
     },
     {
-        "id": "lJRmWLDX__s",
-        "videoId": "lJRmWLDX__s",
-        "title": "Le patron de Deezer, en live, sur Renaud Dékode, le 3 juin.",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=lJRmWLDX__s",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le patron de Deezer, en live, sur Renaud Dékode, le 3 juin...."
-    },
-    {
-        "id": "Sgvt60fbnlI",
-        "videoId": "Sgvt60fbnlI",
-        "title": "ENFIN une vraie régulation mondiale du numérique (avec les USA !)",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=Sgvt60fbnlI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ENFIN une vraie régulation mondiale du numérique (avec les USA !)..."
-    },
-    {
         "id": "1eOQtGqgeyU",
         "videoId": "1eOQtGqgeyU",
         "title": "Comment J’apprendrais l’IA en 2026 (si je devais recommencer)",
@@ -779,13 +880,13 @@ export const allVideos = [
     {
         "id": "fOQCeQx22HI",
         "videoId": "fOQCeQx22HI",
-        "title": "J'ai forcé 3 IA à pr��dire les 104 matchs de la Coupe du Monde.",
+        "title": "J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde.",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-05-31",
         "url": "https://www.youtube.com/watch?v=fOQCeQx22HI",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : J'ai forcé 3 IA à pr��dire les 104 matchs de la Coupe du Monde...."
+        "summary": "Nouveauté de Ludo Salenne : J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde...."
     },
     {
         "id": "OhT8HBfsRo0",
@@ -911,30 +1012,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.8 Est-il Le Nouveau Roi de l’IA ? (Test Complet)..."
     },
     {
-        "id": "sClcb1Z1i8E",
-        "videoId": "sClcb1Z1i8E",
-        "title": "Claude Code : Zéro Installation, Organisation Maximale avec Obsidian ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=sClcb1Z1i8E",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Zéro Installation, Organisation Maximale avec Obsidian ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "Mi-eYRSfHuI",
-        "videoId": "Mi-eYRSfHuI",
-        "title": "Le Cerveau IA de Karpathy Révolutionne Tes Connaissances ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=Mi-eYRSfHuI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Le Cerveau IA de Karpathy Révolutionne Tes Connaissances ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "97ZjRo_uCho",
         "videoId": "97ZjRo_uCho",
         "title": "Comprendre les Ports Réseau - IP, Ports et Sockets: Le secret de la communication réseau",
@@ -966,17 +1043,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=z5mGCGeMaDY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Actus IA : on vient de franchir un cap (un GROS !)..."
-    },
-    {
-        "id": "dcH39RAdQ5Y",
-        "videoId": "dcH39RAdQ5Y",
-        "title": "3 repos GitHub pour économiser jusqu'à 98% de tokens avec Claude.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=dcH39RAdQ5Y",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 3 repos GitHub pour économiser jusqu'à 98% de tokens avec Claude...."
     },
     {
         "id": "fmv0UlVZ19E",
@@ -1043,17 +1109,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gXm3Go03l_s",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : J'ai codé une IA qui fait mes miniatures (c'est dingue)..."
-    },
-    {
-        "id": "Qgq9-8VVgpc",
-        "videoId": "Qgq9-8VVgpc",
-        "title": "La Chine est plus en avance sur l’IA que vous le pensez…",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-27",
-        "url": "https://www.youtube.com/watch?v=Qgq9-8VVgpc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La Chine est plus en avance sur l’IA que vous le pensez…..."
     },
     {
         "id": "MjCJIJ4PuSw",
@@ -1166,28 +1221,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Comment fonctionne le WiFi? Tout comprendre - Tout savoir sur le WiFi: Points d'accès Box et Réseaux..."
     },
     {
-        "id": "H6ImtTHK9wA",
-        "videoId": "H6ImtTHK9wA",
-        "title": "WiFi vs Internet: La différence que tu dois connaître - 2.4 GHz vs 5 GHz: Quelle fréquence choisir?",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-23",
-        "url": "https://www.youtube.com/watch?v=H6ImtTHK9wA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : WiFi vs Internet: La différence que tu dois connaître - 2.4 GHz vs 5 GHz: Quelle fréquence choisir?..."
-    },
-    {
-        "id": "ReO0rVllZIk",
-        "videoId": "ReO0rVllZIk",
-        "title": "Ethernet vs Wi-Fi vs Internet: Quelles Différences? - Comprendre le Réseau Ethernet: La Base du LAN",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-22",
-        "url": "https://www.youtube.com/watch?v=ReO0rVllZIk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Ethernet vs Wi-Fi vs Internet: Quelles Différences? - Comprendre le Réseau Ethernet: La Base du LAN..."
-    },
-    {
         "id": "VMUDRIYRoQs",
         "videoId": "VMUDRIYRoQs",
         "title": "Actus IA : Google dégaine... ChatGPT et Claude ripostent !",
@@ -1278,13 +1311,13 @@ export const allVideos = [
     {
         "id": "UD-p0mPV38A",
         "videoId": "UD-p0mPV38A",
-        "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter",
+        "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inqui��ter",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-05-19",
         "url": "https://www.youtube.com/watch?v=UD-p0mPV38A",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter..."
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inqui��ter..."
     },
     {
         "id": "wjFdqDyTz3s",
@@ -1529,17 +1562,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Ce plombier a un meilleur système IA que la plupart des devs..."
     },
     {
-        "id": "diCd1Y-QUtk",
-        "videoId": "diCd1Y-QUtk",
-        "title": "i10X : Peut-il remplacer 100€ d’abonnements IA pour 8€ ? 😱",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-09",
-        "url": "https://www.youtube.com/watch?v=diCd1Y-QUtk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : i10X : Peut-il remplacer 100€ d’abonnements IA pour 8€ ? 😱..."
-    },
-    {
         "id": "3UVbXmUIBSk",
         "videoId": "3UVbXmUIBSk",
         "title": "Comment TOUT Automatiser en 1 Prompt | de A à Z (Claude Code + n8n) !",
@@ -1751,13 +1773,13 @@ export const allVideos = [
     {
         "id": "7cTenhHWfsk",
         "videoId": "7cTenhHWfsk",
-        "title": "La vérit�� sur les agents IA que personne n'ose vous dire",
+        "title": "La vérité sur les agents IA que personne n'ose vous dire",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-04-29",
         "url": "https://www.youtube.com/watch?v=7cTenhHWfsk",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : La vérit�� sur les agents IA que personne n'ose vous dire..."
+        "summary": "Nouveauté de Eliott Meunier : La vérité sur les agents IA que personne n'ose vous dire..."
     },
     {
         "id": "PjaygN19Udc",
@@ -2156,17 +2178,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ousmane Automatise : Ne payez plus pour n8n : La technique pour tout avoir en illimité (Tuto VPS)..."
     },
     {
-        "id": "uIjp0Bx9mWg",
-        "videoId": "uIjp0Bx9mWg",
-        "title": "Où vont vraiment vos données quand vous parlez à l'IA",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-04-11",
-        "url": "https://www.youtube.com/watch?v=uIjp0Bx9mWg",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Où vont vraiment vos données quand vous parlez à l'IA..."
-    },
-    {
         "id": "I5FbWuX7AZQ",
         "videoId": "I5FbWuX7AZQ",
         "title": "Openclaw 4.9 va te CHANGER la VIE - Voici pourquoi",
@@ -2253,38 +2264,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=svRtxQemC9I",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)..."
-    },
-    {
-        "id": "dFM7dnRRdM8",
-        "videoId": "dFM7dnRRdM8",
-        "title": "Le nouveau GPT Image 2 dans ChatGPT est époustouflant !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=dFM7dnRRdM8",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Le nouveau GPT Image 2 dans ChatGPT est époustouflant !..."
-    },
-    {
-        "id": "qn-mTwCVO88",
-        "videoId": "qn-mTwCVO88",
-        "title": "Si tu débutes sur Claude Code apprends ça 👀",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=qn-mTwCVO88",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Si tu débutes sur Claude Code apprends ça 👀..."
-    },
-    {
-        "id": "6d9HeBlu7Iw",
-        "videoId": "6d9HeBlu7Iw",
-        "title": "Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais.",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-04-07",
-        "url": "https://www.youtube.com/watch?v=6d9HeBlu7Iw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Si je débutais Claude Code aujourd'hui, voici ce que j'apprendrais...."
     }
 ];
