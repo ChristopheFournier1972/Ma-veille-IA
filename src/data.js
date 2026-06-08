@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-07T08:51:00.674Z
+// Fichier généré automatiquement le 2026-06-08T10:29:34.102Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:51:00 AM 6/7/2026";
+export const lastUpdate = "10:29:34 AM 6/8/2026";
 
 export const sources = [
     {
@@ -172,6 +172,73 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "5blRW710z-M",
+        "videoId": "5blRW710z-M",
+        "title": "Actus, débats, tutos, IA, web, tech : on décode et on forge !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=5blRW710z-M",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Actus, débats, tutos, IA, web, tech : on décode et on forge !..."
+    },
+    {
+        "id": "gyJvW9qhx44",
+        "videoId": "gyJvW9qhx44",
+        "title": "Google forcé de céder aux éditeurs",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=gyJvW9qhx44",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google forcé de céder aux éditeurs..."
+    },
+    {
+        "id": "lJaqds5LVZc",
+        "videoId": "lJaqds5LVZc",
+        "title": "Monétisez 15 Agents IA sur un VPS : 300€/mois facile ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=lJaqds5LVZc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Monétisez 15 Agents IA sur un VPS : 300€/mois facile ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "pE2kcfEpP_Y",
+        "videoId": "pE2kcfEpP_Y",
+        "title": "C'est quoi l'ARP? Le pont invisible du réseau local - ARP vs DNS: Ne confondez plus ces protocoles!",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=pE2kcfEpP_Y",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : C'est quoi l'ARP? Le pont invisible du réseau local - ARP vs DNS: Ne confondez plus ces protocoles!..."
+    },
+    {
+        "id": "YMbeWIkr1NA",
+        "videoId": "YMbeWIkr1NA",
+        "title": "J'ai demandé à Claude de me faire Gagner un MAX d'Argent",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=YMbeWIkr1NA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : J'ai demandé à Claude de me faire Gagner un MAX d'Argent..."
+    },
+    {
+        "id": "0OSHC4B8o_Q",
+        "videoId": "0OSHC4B8o_Q",
+        "title": "Fais passer de 65% à 94% ta précision avec Claude Code",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=0OSHC4B8o_Q",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Fais passer de 65% à 94% ta précision avec Claude Code..."
+    },
+    {
         "id": "svJTEkSnBe8",
         "videoId": "svJTEkSnBe8",
         "title": "Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain",
@@ -183,6 +250,39 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain..."
     },
     {
+        "id": "pZpH-IknJB8",
+        "videoId": "pZpH-IknJB8",
+        "title": "5 choses secrètes sur Claude qui sont dingues !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=pZpH-IknJB8",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : 5 choses secrètes sur Claude qui sont dingues !..."
+    },
+    {
+        "id": "-RY04WLarMI",
+        "videoId": "-RY04WLarMI",
+        "title": "Hermes Desktop et Gemma 4 12b, système IA local et gratuit !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=-RY04WLarMI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Hermes Desktop et Gemma 4 12b, système IA local et gratuit !..."
+    },
+    {
+        "id": "Ccb_A56ONWA",
+        "videoId": "Ccb_A56ONWA",
+        "title": "Configurez Claude mieux que 99% des gens (fichier secret à installer)",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=Ccb_A56ONWA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Configurez Claude mieux que 99% des gens (fichier secret à installer)..."
+    },
+    {
         "id": "PAw5aeiEs5Q",
         "videoId": "PAw5aeiEs5Q",
         "title": "Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !",
@@ -192,6 +292,63 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PAw5aeiEs5Q",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !..."
+    },
+    {
+        "id": "UxsGe4N8G_g",
+        "videoId": "UxsGe4N8G_g",
+        "title": "Anthropic panique ! Ils veulent une pause ✋🛑",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=UxsGe4N8G_g",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Anthropic panique ! Ils veulent une pause ✋🛑..."
+    },
+    {
+        "id": "MMsk2jsavmo",
+        "videoId": "MMsk2jsavmo",
+        "title": "IA Test: L'IA Répond sur le Restaurant &quot;Le Poisson Rouge&quot;! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=MMsk2jsavmo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Test: L'IA Répond sur le Restaurant &quot;Le Poisson Rouge&quot;! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "MHR_i4doDMQ",
+        "videoId": "MHR_i4doDMQ",
+        "title": "29 ASTUCES pour passer PRO avec Claude Code !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=MHR_i4doDMQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : 29 ASTUCES pour passer PRO avec Claude Code !..."
+    },
+    {
+        "id": "_YL9qDIloHY",
+        "videoId": "_YL9qDIloHY",
+        "title": "IA Téléphonique : Déploiement Rapide et Flexible avec les Nouveaux Modèles ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=_YL9qDIloHY",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Téléphonique : Déploiement Rapide et Flexible avec les Nouveaux Modèles ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "xZIQofiI0fc",
+        "videoId": "xZIQofiI0fc",
+        "title": "Diagnostic Réseau: Maîtrisez l'ICMP, le Ping et la Latence - Pourquoi votre Ping échoue?",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-07",
+        "url": "https://www.youtube.com/watch?v=xZIQofiI0fc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Diagnostic Réseau: Maîtrisez l'ICMP, le Ping et la Latence - Pourquoi votre Ping échoue?..."
     },
     {
         "id": "iGM7xRbGXIk",
@@ -630,28 +787,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Tout le monde installe des skills Claude sans vérifier ce qu'il y a dedans. C'est une erreur...."
     },
     {
-        "id": "QPHqq61_7Yw",
-        "videoId": "QPHqq61_7Yw",
-        "title": "DeepSeek casse tout : prix -75%",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=QPHqq61_7Yw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : DeepSeek casse tout : prix -75%..."
-    },
-    {
-        "id": "diP3NGc3TxI",
-        "videoId": "diP3NGc3TxI",
-        "title": "IA et emploi : panique inutile ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=diP3NGc3TxI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA et emploi : panique inutile ?..."
-    },
-    {
         "id": "GYZMfDdcTVw",
         "videoId": "GYZMfDdcTVw",
         "title": "Générer +1000 leads par mois gratuitement (Google Maps + n8n)",
@@ -740,17 +875,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=c3ndfrHeUcA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Claude peut réécrire ton CV pour le rendre pratiquement impossible à rejeter...."
-    },
-    {
-        "id": "wYoC4ICd8fg",
-        "videoId": "wYoC4ICd8fg",
-        "title": "G7: la France fait plier les USA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=wYoC4ICd8fg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : G7: la France fait plier les USA..."
     },
     {
         "id": "1eOQtGqgeyU",
@@ -854,30 +978,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un OS agentique complet dans Claude Code..."
     },
     {
-        "id": "logRxGmCaLo",
-        "videoId": "logRxGmCaLo",
-        "title": "Ce LLM Wiki Révolutionne Votre Organisation : Claude Code Explorez le Futur ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-31",
-        "url": "https://www.youtube.com/watch?v=logRxGmCaLo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ce LLM Wiki Révolutionne Votre Organisation : Claude Code Explorez le Futur ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "52DQ1_sg5HI",
-        "videoId": "52DQ1_sg5HI",
-        "title": "Créez votre cerveau digital avec LLM Wiki ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-31",
-        "url": "https://www.youtube.com/watch?v=52DQ1_sg5HI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez votre cerveau digital avec LLM Wiki ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "fOQCeQx22HI",
         "videoId": "fOQCeQx22HI",
         "title": "J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde.",
@@ -944,30 +1044,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt..."
     },
     {
-        "id": "wb3Y1iFmEn4",
-        "videoId": "wb3Y1iFmEn4",
-        "title": "Carpathia: Organisez vos vidéos YouTube avec Obsidian facilement ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=wb3Y1iFmEn4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Carpathia: Organisez vos vidéos YouTube avec Obsidian facilement ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "L89fHYO-NOc",
-        "videoId": "L89fHYO-NOc",
-        "title": "Wiki LLM: Opportunités Infinies pour Votre Business et Créativité ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=L89fHYO-NOc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Wiki LLM: Opportunités Infinies pour Votre Business et Créativité ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "QL5zztwOOHE",
         "videoId": "QL5zztwOOHE",
         "title": "Tout comprendre sur les ports réseaux: TCP, UDP et Sockets -Maîtrise les ports réseaux: De 0 à 65535",
@@ -988,17 +1064,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=woNAzDic5XQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. 👀..."
-    },
-    {
-        "id": "jqbNiDJFYYw",
-        "videoId": "jqbNiDJFYYw",
-        "title": "C’est quoi le fichier Claude.MD ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=jqbNiDJFYYw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : C’est quoi le fichier Claude.MD ?..."
     },
     {
         "id": "vfeWJBbiai8",
@@ -1166,17 +1231,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Comment fonctionne l'adresse MAC? (WiFi, Ethernet, Bluetooth) - Adresse MAC vs Adresse IP..."
     },
     {
-        "id": "Y1oeYrm2C6w",
-        "videoId": "Y1oeYrm2C6w",
-        "title": "Comprendre l'Adresse IP: IPv4, IPv6 et Adresse MAC expliqués - Ne faites plus jamais la confusion!",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-25",
-        "url": "https://www.youtube.com/watch?v=Y1oeYrm2C6w",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Comprendre l'Adresse IP: IPv4, IPv6 et Adresse MAC expliqués - Ne faites plus jamais la confusion!..."
-    },
-    {
         "id": "yS7zBSvI0Y8",
         "videoId": "yS7zBSvI0Y8",
         "title": "Google I/O 2026 : les 5 outils que vous allez utiliser tous les jours",
@@ -1208,17 +1262,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=m7bYnWcx8s0",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : 200 entrepreneurs, 21 hectares, 4 jours..."
-    },
-    {
-        "id": "f6EmBdBa1hI",
-        "videoId": "f6EmBdBa1hI",
-        "title": "Comment fonctionne le WiFi? Tout comprendre - Tout savoir sur le WiFi: Points d'accès Box et Réseaux",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-23",
-        "url": "https://www.youtube.com/watch?v=f6EmBdBa1hI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Comment fonctionne le WiFi? Tout comprendre - Tout savoir sur le WiFi: Points d'accès Box et Réseaux..."
     },
     {
         "id": "VMUDRIYRoQs",
@@ -1311,13 +1354,13 @@ export const allVideos = [
     {
         "id": "UD-p0mPV38A",
         "videoId": "UD-p0mPV38A",
-        "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inqui��ter",
+        "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-05-19",
         "url": "https://www.youtube.com/watch?v=UD-p0mPV38A",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inqui��ter..."
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter..."
     },
     {
         "id": "wjFdqDyTz3s",
@@ -1505,17 +1548,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YCttZsEIuqI",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Il a connecté son ADN et sa montre à l'IA (le résultat est génial)..."
-    },
-    {
-        "id": "Z9-B4hSu-3o",
-        "videoId": "Z9-B4hSu-3o",
-        "title": "DeepSeek V4 Détruit Les IA à Plusieurs Milliards…Gratuitement ? 🤔",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=Z9-B4hSu-3o",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek V4 Détruit Les IA à Plusieurs Milliards…Gratuitement ? 🤔..."
     },
     {
         "id": "mfkp0t85nKQ",
@@ -2220,49 +2252,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=e97xFyORj_k",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Google vient de tout changer (Agent Vocal GEMINI 3.1 FLASH LIVE) !..."
-    },
-    {
-        "id": "ha6JkWePF94",
-        "videoId": "ha6JkWePF94",
-        "title": "J'AI LAISSÉ UNE IA CHOISIR MON APPARTEMENT ! (Résultat CHOQUANT)",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-04-08",
-        "url": "https://www.youtube.com/watch?v=ha6JkWePF94",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : J'AI LAISSÉ UNE IA CHOISIR MON APPARTEMENT ! (Résultat CHOQUANT)..."
-    },
-    {
-        "id": "iLpyTd5biIA",
-        "videoId": "iLpyTd5biIA",
-        "title": "La nouvelle IA de Claude vient de changer Internet pour toujours",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-04-08",
-        "url": "https://www.youtube.com/watch?v=iLpyTd5biIA",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : La nouvelle IA de Claude vient de changer Internet pour toujours..."
-    },
-    {
-        "id": "ep5BYfZtINM",
-        "videoId": "ep5BYfZtINM",
-        "title": "Utilise ce mode pour maîtriser Claude Code 🧑‍💻",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-04-08",
-        "url": "https://www.youtube.com/watch?v=ep5BYfZtINM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Utilise ce mode pour maîtriser Claude Code 🧑‍💻..."
-    },
-    {
-        "id": "svRtxQemC9I",
-        "videoId": "svRtxQemC9I",
-        "title": "J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-04-08",
-        "url": "https://www.youtube.com/watch?v=svRtxQemC9I",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : J'ai Testé Ultra Plan vs Plan Normal sur Claude Code (Résultat Dingue)..."
     }
 ];
