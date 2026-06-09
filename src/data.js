@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-08T10:29:34.102Z
+// Fichier généré automatiquement le 2026-06-09T09:35:14.579Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:29:34 AM 6/8/2026";
+export const lastUpdate = "9:35:14 AM 6/9/2026";
 
 export const sources = [
     {
@@ -172,15 +172,59 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "MgRN7L2bkS8",
+        "videoId": "MgRN7L2bkS8",
+        "title": "La WWDC 2026 d'Apple décodée en direct.",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=MgRN7L2bkS8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : La WWDC 2026 d'Apple décodée en direct...."
+    },
+    {
+        "id": "aauE7jDGZ7o",
+        "videoId": "aauE7jDGZ7o",
+        "title": "J'ai automatisé toute ma routine matinale avec Claude",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=aauE7jDGZ7o",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : J'ai automatisé toute ma routine matinale avec Claude..."
+    },
+    {
+        "id": "2iFROZLQc2s",
+        "videoId": "2iFROZLQc2s",
+        "title": "OpenAI : l’État veut vos dividendes ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=2iFROZLQc2s",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI : l’État veut vos dividendes ?..."
+    },
+    {
         "id": "5blRW710z-M",
         "videoId": "5blRW710z-M",
-        "title": "Actus, débats, tutos, IA, web, tech : on décode et on forge !",
+        "title": "L'actualité tech du 08/06/2026 en Live sur Renaud Dékode",
         "author": "Renaud Dékode",
         "source": "@RenaudDekode",
         "date": "2026-06-08",
         "url": "https://www.youtube.com/watch?v=5blRW710z-M",
         "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Actus, débats, tutos, IA, web, tech : on décode et on forge !..."
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 08/06/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "-I4pGObGPKY",
+        "videoId": "-I4pGObGPKY",
+        "title": "Trump fait-il n'importe quoi avec l'IA ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=-I4pGObGPKY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Trump fait-il n'importe quoi avec l'IA ?..."
     },
     {
         "id": "gyJvW9qhx44",
@@ -192,6 +236,18 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gyJvW9qhx44",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Google forcé de céder aux éditeurs..."
+    },
+    {
+        "id": "fWxjnGwP3WM",
+        "videoId": "fWxjnGwP3WM",
+        "title": "Connectez vos outils à l'IA FACILEMENT avec Composio ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=fWxjnGwP3WM",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Connectez vos outils à l'IA FACILEMENT avec Composio ! #shorts...",
+        "isShort": true
     },
     {
         "id": "lJaqds5LVZc",
@@ -206,6 +262,17 @@ export const allVideos = [
         "isShort": true
     },
     {
+        "id": "4jCiLvcvvok",
+        "videoId": "4jCiLvcvvok",
+        "title": "Automatiser vos publications YouTube, TikTok et Instagram facilement - Workflow complet",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=4jCiLvcvvok",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Automatiser vos publications YouTube, TikTok et Instagram facilement - Workflow complet..."
+    },
+    {
         "id": "pE2kcfEpP_Y",
         "videoId": "pE2kcfEpP_Y",
         "title": "C'est quoi l'ARP? Le pont invisible du réseau local - ARP vs DNS: Ne confondez plus ces protocoles!",
@@ -215,6 +282,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pE2kcfEpP_Y",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : C'est quoi l'ARP? Le pont invisible du réseau local - ARP vs DNS: Ne confondez plus ces protocoles!..."
+    },
+    {
+        "id": "1aDis6yHcSE",
+        "videoId": "1aDis6yHcSE",
+        "title": "Le Guide HERMES AGENT Ultime de 2026 (méthode complète)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=1aDis6yHcSE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Le Guide HERMES AGENT Ultime de 2026 (méthode complète)..."
+    },
+    {
+        "id": "p72OAhiNC9I",
+        "videoId": "p72OAhiNC9I",
+        "title": "J'ai vécu un voyage incroyable à Chypre grâce à ChatGPT et 3 GPTs cachés !",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-06-08",
+        "url": "https://www.youtube.com/watch?v=p72OAhiNC9I",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : J'ai vécu un voyage incroyable à Chypre grâce à ChatGPT et 3 GPTs cachés !..."
     },
     {
         "id": "YMbeWIkr1NA",
@@ -709,39 +798,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Scout de Microsoft bosse pour vous..."
     },
     {
-        "id": "ipxCHsd0P5Y",
-        "videoId": "ipxCHsd0P5Y",
-        "title": "Les annonces IA de Microsoft : enfin du lourd !!",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-03",
-        "url": "https://www.youtube.com/watch?v=ipxCHsd0P5Y",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Les annonces IA de Microsoft : enfin du lourd !!..."
-    },
-    {
-        "id": "983ELhaLN-Q",
-        "videoId": "983ELhaLN-Q",
-        "title": "L'actualité tech du 03/06/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-03",
-        "url": "https://www.youtube.com/watch?v=983ELhaLN-Q",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 03/06/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "-IFfrRfTGCo",
-        "videoId": "-IFfrRfTGCo",
-        "title": "Anthropic à 1000 Md$ : bulle IA ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-03",
-        "url": "https://www.youtube.com/watch?v=-IFfrRfTGCo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Anthropic à 1000 Md$ : bulle IA ?..."
-    },
-    {
         "id": "G4EKG-wf_KU",
         "videoId": "G4EKG-wf_KU",
         "title": "Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout",
@@ -900,18 +956,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "0uhgtGBLNNE",
-        "videoId": "0uhgtGBLNNE",
-        "title": "Découvrez la Doc Secrète de Karpathy sur GitHub ! 🤯 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=0uhgtGBLNNE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Découvrez la Doc Secrète de Karpathy sur GitHub ! 🤯 #shorts...",
-        "isShort": true
-    },
-    {
         "id": "a9KCnXfIfME",
         "videoId": "a9KCnXfIfME",
         "title": "PC IA: La révolution Microsoft et Nvidia est là! - Nvidia débarque sur Windows: Le futur des PC IA",
@@ -1053,17 +1097,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QL5zztwOOHE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Tout comprendre sur les ports réseaux: TCP, UDP et Sockets -Maîtrise les ports réseaux: De 0 à 65535..."
-    },
-    {
-        "id": "woNAzDic5XQ",
-        "videoId": "woNAzDic5XQ",
-        "title": "Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. 👀",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=woNAzDic5XQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Il existe 5 types d'utilisateurs IA. Et la plupart sont bloqués au niveau 2 sans le savoir. 👀..."
     },
     {
         "id": "vfeWJBbiai8",
@@ -1218,17 +1251,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9KvncVTC6zU",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.8 : Pourquoi Claude Code Ne Sera Plus Le Même (LEAK)..."
-    },
-    {
-        "id": "njFew6knQUY",
-        "videoId": "njFew6knQUY",
-        "title": "Comment fonctionne l'adresse MAC? (WiFi, Ethernet, Bluetooth) - Adresse MAC vs Adresse IP",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-26",
-        "url": "https://www.youtube.com/watch?v=njFew6knQUY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Comment fonctionne l'adresse MAC? (WiFi, Ethernet, Bluetooth) - Adresse MAC vs Adresse IP..."
     },
     {
         "id": "yS7zBSvI0Y8",
@@ -2219,38 +2241,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=I5FbWuX7AZQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Openclaw 4.9 va te CHANGER la VIE - Voici pourquoi..."
-    },
-    {
-        "id": "_vUbdaThfag",
-        "videoId": "_vUbdaThfag",
-        "title": "Microsoft Copilot a totalement changé ! (7 exemples INCROYABLES)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=_vUbdaThfag",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot a totalement changé ! (7 exemples INCROYABLES)..."
-    },
-    {
-        "id": "fGnr9h5JUGc",
-        "videoId": "fGnr9h5JUGc",
-        "title": "Paperclip + OpenClaw : mon équipe IA tourne 24h/24",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=fGnr9h5JUGc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Paperclip + OpenClaw : mon équipe IA tourne 24h/24..."
-    },
-    {
-        "id": "e97xFyORj_k",
-        "videoId": "e97xFyORj_k",
-        "title": "Google vient de tout changer (Agent Vocal GEMINI 3.1 FLASH LIVE) !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-04-09",
-        "url": "https://www.youtube.com/watch?v=e97xFyORj_k",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : Google vient de tout changer (Agent Vocal GEMINI 3.1 FLASH LIVE) !..."
     }
 ];
