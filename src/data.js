@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-09T09:35:14.579Z
+// Fichier généré automatiquement le 2026-06-10T09:51:39.550Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:35:14 AM 6/9/2026";
+export const lastUpdate = "9:51:39 AM 6/10/2026";
 
 export const sources = [
     {
@@ -172,6 +172,83 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "-0tsnwvnosw",
+        "videoId": "-0tsnwvnosw",
+        "title": "Les 5 réglages qui rendent Claude Code 10x meilleur",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=-0tsnwvnosw",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Les 5 réglages qui rendent Claude Code 10x meilleur..."
+    },
+    {
+        "id": "qblmBzn9Jg8",
+        "videoId": "qblmBzn9Jg8",
+        "title": "Pump.fun paie pour tout et pire",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=qblmBzn9Jg8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Pump.fun paie pour tout et pire..."
+    },
+    {
+        "id": "mdTD-E3wU4o",
+        "videoId": "mdTD-E3wU4o",
+        "title": "Intel vs TSMC: Le grand retour du géant des puces IA? - Google et Nvidia choisissent enfin Intel?",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-10",
+        "url": "https://www.youtube.com/watch?v=mdTD-E3wU4o",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Intel vs TSMC: Le grand retour du géant des puces IA? - Google et Nvidia choisissent enfin Intel?..."
+    },
+    {
+        "id": "IZL28cs_q_k",
+        "videoId": "IZL28cs_q_k",
+        "title": "5 commandes secrètes qui rendent Claude 10x plus puissant.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=IZL28cs_q_k",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 commandes secrètes qui rendent Claude 10x plus puissant...."
+    },
+    {
+        "id": "wfsNw15fMjI",
+        "videoId": "wfsNw15fMjI",
+        "title": "IA auto-améliorante vs GPU ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=wfsNw15fMjI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA auto-améliorante vs GPU ?..."
+    },
+    {
+        "id": "hhyx1aiJ6Ug",
+        "videoId": "hhyx1aiJ6Ug",
+        "title": "Utiliser l’IA pour les épreuves du BAC",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=hhyx1aiJ6Ug",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Utiliser l’IA pour les épreuves du BAC..."
+    },
+    {
+        "id": "2250_axopug",
+        "videoId": "2250_axopug",
+        "title": "Anthropic arme la NSA en secret ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=2250_axopug",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Anthropic arme la NSA en secret ?..."
+    },
+    {
         "id": "MgRN7L2bkS8",
         "videoId": "MgRN7L2bkS8",
         "title": "La WWDC 2026 d'Apple décodée en direct.",
@@ -181,6 +258,52 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=MgRN7L2bkS8",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : La WWDC 2026 d'Apple décodée en direct...."
+    },
+    {
+        "id": "tleqoViHG9Y",
+        "videoId": "tleqoViHG9Y",
+        "title": "PewDiePie lance son IA : je teste TOUT (Formation COMPLETE) 🤯",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=tleqoViHG9Y",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : PewDiePie lance son IA : je teste TOUT (Formation COMPLETE) 🤯..."
+    },
+    {
+        "id": "olmxu3q_kkk",
+        "videoId": "olmxu3q_kkk",
+        "title": "Claude Code : Le secret pour récupérer tous les menus de restaurant #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=olmxu3q_kkk",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : Le secret pour récupérer tous les menus de restaurant #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "K9fi47wevDQ",
+        "videoId": "K9fi47wevDQ",
+        "title": "IA Agent Vocal : Prêt en 60 Secondes ! Incroyable #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=K9fi47wevDQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : IA Agent Vocal : Prêt en 60 Secondes ! Incroyable #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "6-UKAv0DYEs",
+        "videoId": "6-UKAv0DYEs",
+        "title": "L'IA en entreprise: Un gouffre financier ou une révolution? - Agents IA : Le mensonge qui coûte cher",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-09",
+        "url": "https://www.youtube.com/watch?v=6-UKAv0DYEs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : L'IA en entreprise: Un gouffre financier ou une révolution? - Agents IA : Le mensonge qui coûte cher..."
     },
     {
         "id": "aauE7jDGZ7o",
@@ -585,17 +708,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : La lutte pour notre indépendance face à l'IA s'organise..."
     },
     {
-        "id": "SsgMr69vJks",
-        "videoId": "SsgMr69vJks",
-        "title": "Microsoft : ordi quantique en 2029",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-05",
-        "url": "https://www.youtube.com/watch?v=SsgMr69vJks",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Microsoft : ordi quantique en 2029..."
-    },
-    {
         "id": "pTWKv6bQ5UM",
         "videoId": "pTWKv6bQ5UM",
         "title": "Hébergez votre code sur GitHub et lancez votre projet facilement ! #shorts",
@@ -686,28 +798,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Tu utilises Claude tous les jours mais tu passes à côté de 90% de ce qu'il peut faire...."
     },
     {
-        "id": "Hu4nS0AEJxA",
-        "videoId": "Hu4nS0AEJxA",
-        "title": "RTX Spark : le PC devient IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-04",
-        "url": "https://www.youtube.com/watch?v=Hu4nS0AEJxA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : RTX Spark : le PC devient IA..."
-    },
-    {
-        "id": "mwjU2uR20-I",
-        "videoId": "mwjU2uR20-I",
-        "title": "Microsoft lâche OpenAI avec 7 IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-04",
-        "url": "https://www.youtube.com/watch?v=mwjU2uR20-I",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Microsoft lâche OpenAI avec 7 IA..."
-    },
-    {
         "id": "2u3A5-3FuEg",
         "videoId": "2u3A5-3FuEg",
         "title": "Claude Cowork: de débutant à ton premier agent 🤖",
@@ -787,17 +877,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : Arrête d'utiliser Claude comme un simple Chat (fais ça à la place)..."
     },
     {
-        "id": "U6GRU3JeloA",
-        "videoId": "U6GRU3JeloA",
-        "title": "Scout de Microsoft bosse pour vous",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-03",
-        "url": "https://www.youtube.com/watch?v=U6GRU3JeloA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Scout de Microsoft bosse pour vous..."
-    },
-    {
         "id": "G4EKG-wf_KU",
         "videoId": "G4EKG-wf_KU",
         "title": "Pourquoi tout le monde parle de DeepSWE ? Le benchmark qui change tout",
@@ -866,18 +945,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "y-cxnWhY7Ek",
-        "videoId": "y-cxnWhY7Ek",
-        "title": "Comment mon associé et moi créons des entreprises IA #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=y-cxnWhY7Ek",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Comment mon associé et moi créons des entreprises IA #shorts...",
-        "isShort": true
-    },
-    {
         "id": "rLt6H0tHnB4",
         "videoId": "rLt6H0tHnB4",
         "title": "Nvidia Nemotron-3 Ultra: Le nouveau roi de l'IA Open Source? - il est 6x plus rapide que ses rivaux!",
@@ -942,18 +1009,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=1eOQtGqgeyU",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comment J’apprendrais l’IA en 2026 (si je devais recommencer)..."
-    },
-    {
-        "id": "KhovqSzDkfs",
-        "videoId": "KhovqSzDkfs",
-        "title": "IA Claude : La vérité sur OpenClaw enfin révélée ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-01",
-        "url": "https://www.youtube.com/watch?v=KhovqSzDkfs",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Claude : La vérité sur OpenClaw enfin révélée ! #shorts...",
-        "isShort": true
     },
     {
         "id": "a9KCnXfIfME",
@@ -1033,17 +1088,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde...."
     },
     {
-        "id": "OhT8HBfsRo0",
-        "videoId": "OhT8HBfsRo0",
-        "title": "Quelqu'un vient de sortir une API gratuite avec 11 modèles d'IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=OhT8HBfsRo0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de sortir une API gratuite avec 11 modèles d'IA..."
-    },
-    {
         "id": "pjRKfnlsTfk",
         "videoId": "pjRKfnlsTfk",
         "title": "Le vrai problème de l'IA en entreprise (que les consultants cachent)",
@@ -1121,17 +1165,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Comprendre les Ports Réseau - IP, Ports et Sockets: Le secret de la communication réseau..."
     },
     {
-        "id": "hD-Sj_Lbx9A",
-        "videoId": "hD-Sj_Lbx9A",
-        "title": "L'Adresse MAC: Le Mensonge de l'Anonymat en Réseau - Arrêtez de confondre IP et MAC: La Vérité enfin",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-29",
-        "url": "https://www.youtube.com/watch?v=hD-Sj_Lbx9A",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : L'Adresse MAC: Le Mensonge de l'Anonymat en Réseau - Arrêtez de confondre IP et MAC: La Vérité enfin..."
-    },
-    {
         "id": "z5mGCGeMaDY",
         "videoId": "z5mGCGeMaDY",
         "title": "Actus IA : on vient de franchir un cap (un GROS !)",
@@ -1185,17 +1218,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZSoi6C6jOEA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Hermes Agent : 3 use cases que PERSONNE n'a testés 🤖..."
-    },
-    {
-        "id": "67KzWdV6EzE",
-        "videoId": "67KzWdV6EzE",
-        "title": "C'est quoi une adresse IP? - Comprendre l'adresse IP: Le guide complet pour débutants",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=67KzWdV6EzE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : C'est quoi une adresse IP? - Comprendre l'adresse IP: Le guide complet pour débutants..."
     },
     {
         "id": "gXm3Go03l_s",
@@ -1684,13 +1706,13 @@ export const allVideos = [
     {
         "id": "L3YfsM5RTJs",
         "videoId": "L3YfsM5RTJs",
-        "title": "Ces 5 outils + Claude Code = 9.800€/mois en 2026 (spécial débutant)",
+        "title": "Ces 5 outils + Claude Code = 9.800��/mois en 2026 (spécial débutant)",
         "author": "Simon Music",
         "source": "@Simon_bcome",
         "date": "2026-05-06",
         "url": "https://www.youtube.com/watch?v=L3YfsM5RTJs",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Ces 5 outils + Claude Code = 9.800€/mois en 2026 (spécial débutant)..."
+        "summary": "Nouveauté de Simon Music : Ces 5 outils + Claude Code = 9.800��/mois en 2026 (spécial débutant)..."
     },
     {
         "id": "iEeaHdbNPcw",
@@ -2230,16 +2252,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=w7Hli9du028",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ousmane Automatise : Ne payez plus pour n8n : La technique pour tout avoir en illimité (Tuto VPS)..."
-    },
-    {
-        "id": "I5FbWuX7AZQ",
-        "videoId": "I5FbWuX7AZQ",
-        "title": "Openclaw 4.9 va te CHANGER la VIE - Voici pourquoi",
-        "author": "Hugo Buisson",
-        "source": "@Hugo_Buisson",
-        "date": "2026-04-10",
-        "url": "https://www.youtube.com/watch?v=I5FbWuX7AZQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : Openclaw 4.9 va te CHANGER la VIE - Voici pourquoi..."
     }
 ];
