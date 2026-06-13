@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-12T10:04:48.609Z
+// Fichier généré automatiquement le 2026-06-13T08:52:53.456Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:04:48 AM 6/12/2026";
+export const lastUpdate = "8:52:53 AM 6/13/2026";
 
 export const sources = [
     {
@@ -183,6 +183,39 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : PewDiePie vient de créer un workspace IA complet !..."
     },
     {
+        "id": "c28k9BBhIUA",
+        "videoId": "c28k9BBhIUA",
+        "title": "Google traduit avec votre voix",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-12",
+        "url": "https://www.youtube.com/watch?v=c28k9BBhIUA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google traduit avec votre voix..."
+    },
+    {
+        "id": "tR4xKsixGKI",
+        "videoId": "tR4xKsixGKI",
+        "title": "L'IA qui traduit, innove, censure et soigne (et nous on bug) + Odysseus",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-12",
+        "url": "https://www.youtube.com/watch?v=tR4xKsixGKI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA qui traduit, innove, censure et soigne (et nous on bug) + Odysseus..."
+    },
+    {
+        "id": "-BuchMwqVTg",
+        "videoId": "-BuchMwqVTg",
+        "title": "L'IA qui traduit, innove, censure et soigne (et nous on bug)",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-12",
+        "url": "https://www.youtube.com/watch?v=-BuchMwqVTg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA qui traduit, innove, censure et soigne (et nous on bug)..."
+    },
+    {
         "id": "0ne_v8qh5Qk",
         "videoId": "0ne_v8qh5Qk",
         "title": "OpenAI vs Anthropic : l’IPO choc",
@@ -192,6 +225,74 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=0ne_v8qh5Qk",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : OpenAI vs Anthropic : l’IPO choc..."
+    },
+    {
+        "id": "SBSiEeYuD4U",
+        "videoId": "SBSiEeYuD4U",
+        "title": "Hermes WebUI : l’agent IA qui enterre OpenClaw ? 😱",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-12",
+        "url": "https://www.youtube.com/watch?v=SBSiEeYuD4U",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Hermes WebUI : l’agent IA qui enterre OpenClaw ? 😱..."
+    },
+    {
+        "id": "yMk4Dj7qt-o",
+        "videoId": "yMk4Dj7qt-o",
+        "title": "lance toi..",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-12",
+        "url": "https://www.youtube.com/watch?v=yMk4Dj7qt-o",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : lance toi....."
+    },
+    {
+        "id": "jV4Z8VPfFEs",
+        "videoId": "jV4Z8VPfFEs",
+        "title": "Créez vos propres Skills pour l'IA : Guides, Prompts et Outils #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-12",
+        "url": "https://www.youtube.com/watch?v=jV4Z8VPfFEs",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Créez vos propres Skills pour l'IA : Guides, Prompts et Outils #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "h5WtbaYp2VA",
+        "videoId": "h5WtbaYp2VA",
+        "title": "Claude Code: Parlez-lui, ne tapez plus ! Ultra Rapide! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-12",
+        "url": "https://www.youtube.com/watch?v=h5WtbaYp2VA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: Parlez-lui, ne tapez plus ! Ultra Rapide! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "qfRosVmvKIk",
+        "videoId": "qfRosVmvKIk",
+        "title": "Pourquoi l'IP est Inutile sans TCP: La Vérité sur Internet - TCP: Le guide complet du protocole TCP",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-12",
+        "url": "https://www.youtube.com/watch?v=qfRosVmvKIk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Pourquoi l'IP est Inutile sans TCP: La Vérité sur Internet - TCP: Le guide complet du protocole TCP..."
+    },
+    {
+        "id": "Y1gXkFN8JRE",
+        "videoId": "Y1gXkFN8JRE",
+        "title": "Actus IA : Claude Fable 5, ChatGPT SuperApp, Siri AI… WOW !",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-06-12",
+        "url": "https://www.youtube.com/watch?v=Y1gXkFN8JRE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : Claude Fable 5, ChatGPT SuperApp, Siri AI… WOW !..."
     },
     {
         "id": "2yGmbHTz2ho",
@@ -225,17 +326,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=84Ov4bLBH7w",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : 7 Astuces Microsoft Copilot que vous devriez connaître !..."
-    },
-    {
-        "id": "tR4xKsixGKI",
-        "videoId": "tR4xKsixGKI",
-        "title": "L'IA qui traduit, innove, censure et soigne (et nous on bug) + Odysseus",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-11",
-        "url": "https://www.youtube.com/watch?v=tR4xKsixGKI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA qui traduit, innove, censure et soigne (et nous on bug) + Odysseus..."
     },
     {
         "id": "5tglrvyokoY",
@@ -596,28 +686,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : J'ai automatisé toute ma routine matinale avec Claude..."
     },
     {
-        "id": "2iFROZLQc2s",
-        "videoId": "2iFROZLQc2s",
-        "title": "OpenAI : l’État veut vos dividendes ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-08",
-        "url": "https://www.youtube.com/watch?v=2iFROZLQc2s",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI : l’État veut vos dividendes ?..."
-    },
-    {
-        "id": "5blRW710z-M",
-        "videoId": "5blRW710z-M",
-        "title": "L'actualité tech du 08/06/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-08",
-        "url": "https://www.youtube.com/watch?v=5blRW710z-M",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 08/06/2026 en Live sur Renaud Dékode..."
-    },
-    {
         "id": "fWxjnGwP3WM",
         "videoId": "fWxjnGwP3WM",
         "title": "Connectez vos outils à l'IA FACILEMENT avec Composio ! #shorts",
@@ -865,18 +933,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "9frB4KcKHR0",
-        "videoId": "9frB4KcKHR0",
-        "title": "IA Révolutionne Votre Business : L'App Grok Voice Change Tout ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=9frB4KcKHR0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Révolutionne Votre Business : L'App Grok Voice Change Tout ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "SbJm4xYI7aw",
         "videoId": "SbJm4xYI7aw",
         "title": "L'IA n'est pas rentable? La vérité sur les coûts - Pourquoi 40% des entreprises échouent avec l'IA",
@@ -897,30 +953,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DOAIeeCzs94",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Tu peux construire un agent IA de stratégie d'investissement avec Claude en moins d'une minute..."
-    },
-    {
-        "id": "pTWKv6bQ5UM",
-        "videoId": "pTWKv6bQ5UM",
-        "title": "Hébergez votre code sur GitHub et lancez votre projet facilement ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-05",
-        "url": "https://www.youtube.com/watch?v=pTWKv6bQ5UM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Hébergez votre code sur GitHub et lancez votre projet facilement ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "NBBGvsqX8SI",
-        "videoId": "NBBGvsqX8SI",
-        "title": "IA pour votre resto : Adaptez votre agent vocal en 1 clic ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-05",
-        "url": "https://www.youtube.com/watch?v=NBBGvsqX8SI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA pour votre resto : Adaptez votre agent vocal en 1 clic ! #shorts...",
-        "isShort": true
     },
     {
         "id": "3Gm1nNSHnCo",
@@ -1220,17 +1252,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt..."
     },
     {
-        "id": "QL5zztwOOHE",
-        "videoId": "QL5zztwOOHE",
-        "title": "Tout comprendre sur les ports réseaux: TCP, UDP et Sockets -Maîtrise les ports réseaux: De 0 à 65535",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=QL5zztwOOHE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Tout comprendre sur les ports réseaux: TCP, UDP et Sockets -Maîtrise les ports réseaux: De 0 à 65535..."
-    },
-    {
         "id": "vfeWJBbiai8",
         "videoId": "vfeWJBbiai8",
         "title": "Claude Opus 4.8 Est-il Le Nouveau Roi de l’IA ? (Test Complet)",
@@ -1475,13 +1496,13 @@ export const allVideos = [
     {
         "id": "UD-p0mPV38A",
         "videoId": "UD-p0mPV38A",
-        "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inqui��ter",
+        "title": "Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-05-19",
         "url": "https://www.youtube.com/watch?v=UD-p0mPV38A",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inqui��ter..."
+        "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 Max : Pourquoi Claude Devrait Commencer à S’inquiéter..."
     },
     {
         "id": "wjFdqDyTz3s",
@@ -1493,17 +1514,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=wjFdqDyTz3s",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé 35 pubs vidéo en 1 minute avec Claude (Tuto MCP)..."
-    },
-    {
-        "id": "b5HDUbwcgzo",
-        "videoId": "b5HDUbwcgzo",
-        "title": "Cet outil peut remplacer 100€ d’abonnements IA pour 8$ ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-18",
-        "url": "https://www.youtube.com/watch?v=b5HDUbwcgzo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Cet outil peut remplacer 100€ d’abonnements IA pour 8$ ?..."
     },
     {
         "id": "ZfOCoTnpymA",
@@ -2241,27 +2251,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9_T-RzbA_EQ",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Actus IA : une IA a embauché des Humains (ça fait peur)..."
-    },
-    {
-        "id": "Dv6suL5-fAE",
-        "videoId": "Dv6suL5-fAE",
-        "title": "7 leviers (que personne n’utilise) pour boire la concurrence dans l’IA.",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=Dv6suL5-fAE",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : 7 leviers (que personne n’utilise) pour boire la concurrence dans l’IA...."
-    },
-    {
-        "id": "LbPvgHNthJs",
-        "videoId": "LbPvgHNthJs",
-        "title": "J'ai appris l'espagnol en 2 semaines avec l'IA (Je teste ça à Séville)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-04-13",
-        "url": "https://www.youtube.com/watch?v=LbPvgHNthJs",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : J'ai appris l'espagnol en 2 semaines avec l'IA (Je teste ça à Séville)..."
     }
 ];
