@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-14T09:28:17.965Z
+// Fichier généré automatiquement le 2026-06-15T11:56:17.919Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:28:17 AM 6/14/2026";
+export const lastUpdate = "11:56:17 AM 6/15/2026";
 
 export const sources = [
     {
@@ -172,6 +172,95 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "umMOuu58b2o",
+        "videoId": "umMOuu58b2o",
+        "title": "La SuperApp de ChatGPT vient de fuiter !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=umMOuu58b2o",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : La SuperApp de ChatGPT vient de fuiter !..."
+    },
+    {
+        "id": "GBT4qMs6Bl0",
+        "videoId": "GBT4qMs6Bl0",
+        "title": "Pourquoi Trump a tué Fable 5 ? Le Red-Flag monstrueux dékodé.",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=GBT4qMs6Bl0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Pourquoi Trump a tué Fable 5 ? Le Red-Flag monstrueux dékodé...."
+    },
+    {
+        "id": "reYbN3go5Tg",
+        "videoId": "reYbN3go5Tg",
+        "title": "Claude Fable 5 bridé en secret ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=reYbN3go5Tg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude Fable 5 bridé en secret ?..."
+    },
+    {
+        "id": "cCloCy1iwyo",
+        "videoId": "cCloCy1iwyo",
+        "title": "Challengez Claude Code: Doublez Vos Résultats IA! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-15",
+        "url": "https://www.youtube.com/watch?v=cCloCy1iwyo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Challengez Claude Code: Doublez Vos Résultats IA! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "y8GDFdX4sws",
+        "videoId": "y8GDFdX4sws",
+        "title": "Pourquoi t'es devenu un Expert IA qui fait pas 1€ (et comment corriger ça)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-06-14",
+        "url": "https://www.youtube.com/watch?v=y8GDFdX4sws",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Pourquoi t'es devenu un Expert IA qui fait pas 1€ (et comment corriger ça)..."
+    },
+    {
+        "id": "_D6dNCdjIuo",
+        "videoId": "_D6dNCdjIuo",
+        "title": "Tu veux utiliser Higgsfield mais sans payer ?",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-14",
+        "url": "https://www.youtube.com/watch?v=_D6dNCdjIuo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu veux utiliser Higgsfield mais sans payer ?..."
+    },
+    {
+        "id": "8CcpkuPDPuk",
+        "videoId": "8CcpkuPDPuk",
+        "title": "Comment utiliser Odysseus, l'app IA de PewDiePie",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-14",
+        "url": "https://www.youtube.com/watch?v=8CcpkuPDPuk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Comment utiliser Odysseus, l'app IA de PewDiePie..."
+    },
+    {
+        "id": "ADJj3VMFWmM",
+        "videoId": "ADJj3VMFWmM",
+        "title": "Tout le monde peut ENFIN créer son Agent IA ! (Hermes Agent)",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-06-14",
+        "url": "https://www.youtube.com/watch?v=ADJj3VMFWmM",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Tout le monde peut ENFIN créer son Agent IA ! (Hermes Agent)..."
+    },
+    {
         "id": "aDmGw3zpcJw",
         "videoId": "aDmGw3zpcJw",
         "title": "Voilà pourquoi tu dois installer Hermes dès maintenant. (De 0 à ton premier agent)",
@@ -181,6 +270,41 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=aDmGw3zpcJw",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Voilà pourquoi tu dois installer Hermes dès maintenant. (De 0 à ton premier agent)..."
+    },
+    {
+        "id": "rbjyR_uJlwU",
+        "videoId": "rbjyR_uJlwU",
+        "title": "Capafy AI : La Marketplace Pour Vendre Vos Workflows IA 💰🤖",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-14",
+        "url": "https://www.youtube.com/watch?v=rbjyR_uJlwU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Capafy AI : La Marketplace Pour Vendre Vos Workflows IA 💰🤖..."
+    },
+    {
+        "id": "L2jiy-WCvGQ",
+        "videoId": "L2jiy-WCvGQ",
+        "title": "Ne surchargez plus Claude! Utilisez /compact pour gagner du temps #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-14",
+        "url": "https://www.youtube.com/watch?v=L2jiy-WCvGQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Ne surchargez plus Claude! Utilisez /compact pour gagner du temps #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "23uv9BQJ540",
+        "videoId": "23uv9BQJ540",
+        "title": "Plan Mode: La Révolution Claude Code pour TOUS Vos Projets! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-14",
+        "url": "https://www.youtube.com/watch?v=23uv9BQJ540",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Plan Mode: La Révolution Claude Code pour TOUS Vos Projets! #shorts...",
+        "isShort": true
     },
     {
         "id": "XRuG56ImTYk",
@@ -596,17 +720,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Anthropic lache Fable 5 et Mythos 5 !..."
     },
     {
-        "id": "qblmBzn9Jg8",
-        "videoId": "qblmBzn9Jg8",
-        "title": "Pump.fun paie pour tout et pire",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-10",
-        "url": "https://www.youtube.com/watch?v=qblmBzn9Jg8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Pump.fun paie pour tout et pire..."
-    },
-    {
         "id": "EHJk-x17AP0",
         "videoId": "EHJk-x17AP0",
         "title": "Fable 5 : La Vidéo à NE PAS RATER Pour Tout Comprendre 🔥 (+ Test)",
@@ -697,28 +810,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : 5 commandes secrètes qui rendent Claude 10x plus puissant...."
     },
     {
-        "id": "wfsNw15fMjI",
-        "videoId": "wfsNw15fMjI",
-        "title": "IA auto-améliorante vs GPU ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=wfsNw15fMjI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA auto-améliorante vs GPU ?..."
-    },
-    {
-        "id": "hhyx1aiJ6Ug",
-        "videoId": "hhyx1aiJ6Ug",
-        "title": "Utiliser l’IA pour les épreuves du BAC",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=hhyx1aiJ6Ug",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Utiliser l’IA pour les épreuves du BAC..."
-    },
-    {
         "id": "tleqoViHG9Y",
         "videoId": "tleqoViHG9Y",
         "title": "PewDiePie lance son IA : je teste TOUT (Formation COMPLETE) 🤯",
@@ -785,18 +876,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fWxjnGwP3WM",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Connectez vos outils à l'IA FACILEMENT avec Composio ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "lJaqds5LVZc",
-        "videoId": "lJaqds5LVZc",
-        "title": "Monétisez 15 Agents IA sur un VPS : 300€/mois facile ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-08",
-        "url": "https://www.youtube.com/watch?v=lJaqds5LVZc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Monétisez 15 Agents IA sur un VPS : 300€/mois facile ! #shorts...",
         "isShort": true
     },
     {
@@ -919,29 +998,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=UxsGe4N8G_g",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Anthropic panique ! Ils veulent une pause ✋🛑..."
-    },
-    {
-        "id": "MMsk2jsavmo",
-        "videoId": "MMsk2jsavmo",
-        "title": "IA Test: L'IA Répond sur le Restaurant &quot;Le Poisson Rouge&quot;! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=MMsk2jsavmo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : IA Test: L'IA Répond sur le Restaurant &quot;Le Poisson Rouge&quot;! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "MHR_i4doDMQ",
-        "videoId": "MHR_i4doDMQ",
-        "title": "29 ASTUCES pour passer PRO avec Claude Code !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=MHR_i4doDMQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : 29 ASTUCES pour passer PRO avec Claude Code !..."
     },
     {
         "id": "xZIQofiI0fc",
@@ -1074,17 +1130,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Q0aStCgpm0I",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Ne fais jamais de copier-coller des réponses que te donne Claude..."
-    },
-    {
-        "id": "QS1fDU-W59s",
-        "videoId": "QS1fDU-W59s",
-        "title": "Tu utilises Claude tous les jours mais tu passes à côté de 90% de ce qu'il peut faire.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-04",
-        "url": "https://www.youtube.com/watch?v=QS1fDU-W59s",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu utilises Claude tous les jours mais tu passes à côté de 90% de ce qu'il peut faire...."
     },
     {
         "id": "2u3A5-3FuEg",
@@ -1527,17 +1572,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Gemini 3.5 Flash : Le modèle le plus rapide de l’histoire ? (290 tokens/s)..."
     },
     {
-        "id": "9BnO43ijZwE",
-        "videoId": "9BnO43ijZwE",
-        "title": "Qwen 3.7 est la !",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=9BnO43ijZwE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qwen 3.7 est la !..."
-    },
-    {
         "id": "wjFdqDyTz3s",
         "videoId": "wjFdqDyTz3s",
         "title": "J'ai créé 35 pubs vidéo en 1 minute avec Claude (Tuto MCP)",
@@ -1793,13 +1827,13 @@ export const allVideos = [
     {
         "id": "L3YfsM5RTJs",
         "videoId": "L3YfsM5RTJs",
-        "title": "Ces 5 outils + Claude Code = 9.800��/mois en 2026 (spécial débutant)",
+        "title": "Ces 5 outils + Claude Code = 9.800€/mois en 2026 (spécial débutant)",
         "author": "Simon Music",
         "source": "@Simon_bcome",
         "date": "2026-05-06",
         "url": "https://www.youtube.com/watch?v=L3YfsM5RTJs",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Ces 5 outils + Claude Code = 9.800��/mois en 2026 (spécial débutant)..."
+        "summary": "Nouveauté de Simon Music : Ces 5 outils + Claude Code = 9.800€/mois en 2026 (spécial débutant)..."
     },
     {
         "id": "iEeaHdbNPcw",
@@ -2218,38 +2252,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kMdJrR3Ku5I",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Gemma 4 + Ollama = Claude Code local 🎯(GRATUIT)..."
-    },
-    {
-        "id": "FkWkC9UEQ-A",
-        "videoId": "FkWkC9UEQ-A",
-        "title": "J'ai arrêté de payer Claude Code (je te montre comment)",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-04-15",
-        "url": "https://www.youtube.com/watch?v=FkWkC9UEQ-A",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : J'ai arrêté de payer Claude Code (je te montre comment)..."
-    },
-    {
-        "id": "1_xVd348jV8",
-        "videoId": "1_xVd348jV8",
-        "title": "Claude Routines vient de sortir, et c'est DINGUE (Agents 24h/24 et 7j/7)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-04-15",
-        "url": "https://www.youtube.com/watch?v=1_xVd348jV8",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Claude Routines vient de sortir, et c'est DINGUE (Agents 24h/24 et 7j/7)..."
-    },
-    {
-        "id": "x35M5aKFN78",
-        "videoId": "x35M5aKFN78",
-        "title": "J'ai testé Claude Managed Agents pour que tu n'aies pas à le faire.",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-04-15",
-        "url": "https://www.youtube.com/watch?v=x35M5aKFN78",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : J'ai testé Claude Managed Agents pour que tu n'aies pas à le faire...."
     }
 ];
