@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-16T11:04:11.308Z
+// Fichier généré automatiquement le 2026-06-17T10:48:17.229Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:04:11 AM 6/16/2026";
+export const lastUpdate = "10:48:17 AM 6/17/2026";
 
 export const sources = [
     {
@@ -172,6 +172,73 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "TP9R8RkE7lE",
+        "videoId": "TP9R8RkE7lE",
+        "title": "Claude Code + n8n : c'est trop puissant",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-06-17",
+        "url": "https://www.youtube.com/watch?v=TP9R8RkE7lE",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : Claude Code + n8n : c'est trop puissant..."
+    },
+    {
+        "id": "GlXDKO5NrT8",
+        "videoId": "GlXDKO5NrT8",
+        "title": "Ne gaspille plus tes tokens Claude inutilement",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-17",
+        "url": "https://www.youtube.com/watch?v=GlXDKO5NrT8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ne gaspille plus tes tokens Claude inutilement..."
+    },
+    {
+        "id": "_EJil8Cc29o",
+        "videoId": "_EJil8Cc29o",
+        "title": "Mistral à 20Md€ : pari IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-17",
+        "url": "https://www.youtube.com/watch?v=_EJil8Cc29o",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral à 20Md€ : pari IA..."
+    },
+    {
+        "id": "Av6rcIs1KTU",
+        "videoId": "Av6rcIs1KTU",
+        "title": "Claude Code : la révolution de la traduction en 5 minutes avec des sous-agents ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-17",
+        "url": "https://www.youtube.com/watch?v=Av6rcIs1KTU",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : la révolution de la traduction en 5 minutes avec des sous-agents ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "m3zqWyW0XyI",
+        "videoId": "m3zqWyW0XyI",
+        "title": "L'Etat se met enfin à  l'IA, mais ne fait rien dans le bon sens + Vivatech vendredi",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-16",
+        "url": "https://www.youtube.com/watch?v=m3zqWyW0XyI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'Etat se met enfin à  l'IA, mais ne fait rien dans le bon sens + Vivatech vendredi..."
+    },
+    {
+        "id": "nnpTeN-o9W4",
+        "videoId": "nnpTeN-o9W4",
+        "title": "Bezos crée l’ingénieur IA ultime",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-16",
+        "url": "https://www.youtube.com/watch?v=nnpTeN-o9W4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Bezos crée l’ingénieur IA ultime..."
+    },
+    {
         "id": "RzUlGZGcVPA",
         "videoId": "RzUlGZGcVPA",
         "title": "Searcher vend vos données 10€",
@@ -181,6 +248,40 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RzUlGZGcVPA",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Searcher vend vos données 10€..."
+    },
+    {
+        "id": "Gl6ROiWRgGA",
+        "videoId": "Gl6ROiWRgGA",
+        "title": "Toujours une session par tâche, tu me remercieras ! 🙌🏻",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-16",
+        "url": "https://www.youtube.com/watch?v=Gl6ROiWRgGA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Toujours une session par tâche, tu me remercieras ! 🙌🏻..."
+    },
+    {
+        "id": "0MiN0Dh-zaU",
+        "videoId": "0MiN0Dh-zaU",
+        "title": "Claude + Higgsfield créent mes ads TikTok Shop pendant que je dors 🤯",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-06-16",
+        "url": "https://www.youtube.com/watch?v=0MiN0Dh-zaU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude + Higgsfield créent mes ads TikTok Shop pendant que je dors 🤯..."
+    },
+    {
+        "id": "EtbFihsgHBk",
+        "videoId": "EtbFihsgHBk",
+        "title": "Claude Code : La Révolution pour vos Projets ! Découvrez l'IA qui pense pour vous. #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-16",
+        "url": "https://www.youtube.com/watch?v=EtbFihsgHBk",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code : La Révolution pour vos Projets ! Découvrez l'IA qui pense pour vous. #shorts...",
+        "isShort": true
     },
     {
         "id": "PKdYOPOkNco",
@@ -193,6 +294,17 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Maîtrisez Claude Code: Ne Perdez Plus Jamais de Temps ! #shorts...",
         "isShort": true
+    },
+    {
+        "id": "KnlP3A8m2Ac",
+        "videoId": "KnlP3A8m2Ac",
+        "title": "TCP ou UDP? Fiabilité vs Rapidité (Le guide complet) - Pourquoi choisir l'UDP plutôt que le TCP?",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-16",
+        "url": "https://www.youtube.com/watch?v=KnlP3A8m2Ac",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : TCP ou UDP? Fiabilité vs Rapidité (Le guide complet) - Pourquoi choisir l'UDP plutôt que le TCP?..."
     },
     {
         "id": "t78Y88BX8l0",
@@ -654,39 +766,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : 7 Astuces Microsoft Copilot que vous devriez connaître !..."
     },
     {
-        "id": "5tglrvyokoY",
-        "videoId": "5tglrvyokoY",
-        "title": "SpaceX IPO : 1750 Md, piège ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-11",
-        "url": "https://www.youtube.com/watch?v=5tglrvyokoY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : SpaceX IPO : 1750 Md, piège ?..."
-    },
-    {
-        "id": "oRqQJzk7q50",
-        "videoId": "oRqQJzk7q50",
-        "title": "L'IA remplace-t-elle les musiciens  Le patron de Deezer nous dit tout.",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-11",
-        "url": "https://www.youtube.com/watch?v=oRqQJzk7q50",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA remplace-t-elle les musiciens  Le patron de Deezer nous dit tout...."
-    },
-    {
-        "id": "UZgeq3cAg_8",
-        "videoId": "UZgeq3cAg_8",
-        "title": "Siri AI bloquée en Europe ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-11",
-        "url": "https://www.youtube.com/watch?v=UZgeq3cAg_8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Siri AI bloquée en Europe ?..."
-    },
-    {
         "id": "ce-2Bk7TrM4",
         "videoId": "ce-2Bk7TrM4",
         "title": "Comment Faire un Site Web Cinématique à 5000€ avec Claude et Higgsfield (Guide Complet)",
@@ -811,18 +890,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "EktDldCFKI4",
-        "videoId": "EktDldCFKI4",
-        "title": "Configurez votre IA : Le guide complet pour le VPS Hostinger ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-10",
-        "url": "https://www.youtube.com/watch?v=EktDldCFKI4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Configurez votre IA : Le guide complet pour le VPS Hostinger ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "IWcIM62ELTA",
         "videoId": "IWcIM62ELTA",
         "title": "Gemini 3.5: La révolution de la traduction instantanée - Parlez 70 langues avec Gemini 3.5",
@@ -876,18 +943,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tleqoViHG9Y",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : PewDiePie lance son IA : je teste TOUT (Formation COMPLETE) 🤯..."
-    },
-    {
-        "id": "olmxu3q_kkk",
-        "videoId": "olmxu3q_kkk",
-        "title": "Claude Code : Le secret pour récupérer tous les menus de restaurant #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-09",
-        "url": "https://www.youtube.com/watch?v=olmxu3q_kkk",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Le secret pour récupérer tous les menus de restaurant #shorts...",
-        "isShort": true
     },
     {
         "id": "6-UKAv0DYEs",
@@ -1143,17 +1198,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Actus IA : les Agents IA débarquent de PARTOUT !..."
     },
     {
-        "id": "FyqV1frE-uk",
-        "videoId": "FyqV1frE-uk",
-        "title": "CLAUDE OPUS 4.8 : Tout ce qu'il faut savoir",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-04",
-        "url": "https://www.youtube.com/watch?v=FyqV1frE-uk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE OPUS 4.8 : Tout ce qu'il faut savoir..."
-    },
-    {
         "id": "2u3A5-3FuEg",
         "videoId": "2u3A5-3FuEg",
         "title": "Claude Cowork: de débutant à ton premier agent 🤖",
@@ -1240,17 +1284,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=rLt6H0tHnB4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Nvidia Nemotron-3 Ultra: Le nouveau roi de l'IA Open Source? - il est 6x plus rapide que ses rivaux!..."
-    },
-    {
-        "id": "Wjz9JxQCsSg",
-        "videoId": "Wjz9JxQCsSg",
-        "title": "Sam Altman relance les robots OpenAI: Ce qui change en 2026 - Bientôt un robot personnel chez vous?",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-06-02",
-        "url": "https://www.youtube.com/watch?v=Wjz9JxQCsSg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Sam Altman relance les robots OpenAI: Ce qui change en 2026 - Bientôt un robot personnel chez vous?..."
     },
     {
         "id": "lrDOv-cEllQ",
@@ -2219,27 +2252,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XphRDltcYSA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le Second Cerveau IA le plus complet que j'ai vu (démo d'Ulysse Lubin)..."
-    },
-    {
-        "id": "wRaGk8WVBEI",
-        "videoId": "wRaGk8WVBEI",
-        "title": "Opus 4.7 dans Claude Code : ça CHANGE tout 🔥",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=wRaGk8WVBEI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Opus 4.7 dans Claude Code : ça CHANGE tout 🔥..."
-    },
-    {
-        "id": "7sgi0zIf8r0",
-        "videoId": "7sgi0zIf8r0",
-        "title": "GUIDE COMPLET : Maîtrise Claude OPUS 4.7 en 38 min (débutant) !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-04-17",
-        "url": "https://www.youtube.com/watch?v=7sgi0zIf8r0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : GUIDE COMPLET : Maîtrise Claude OPUS 4.7 en 38 min (débutant) !..."
     }
 ];
