@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-18T10:15:09.452Z
+// Fichier généré automatiquement le 2026-06-19T10:20:10.855Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:15:09 AM 6/18/2026";
+export const lastUpdate = "10:20:10 AM 6/19/2026";
 
 export const sources = [
     {
@@ -172,6 +172,40 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "W1Xy8aj88dI",
+        "videoId": "W1Xy8aj88dI",
+        "title": "Live en direct de VIVATECH 2026 !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=W1Xy8aj88dI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Live en direct de VIVATECH 2026 !..."
+    },
+    {
+        "id": "_xhdBsv9cyg",
+        "videoId": "_xhdBsv9cyg",
+        "title": "DGSI lâche Palantir : choc IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=_xhdBsv9cyg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : DGSI lâche Palantir : choc IA..."
+    },
+    {
+        "id": "0JCL_VNNK3E",
+        "videoId": "0JCL_VNNK3E",
+        "title": "Stop Claude being Overwhelmed: Master Context Routing! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=0JCL_VNNK3E",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Stop Claude being Overwhelmed: Master Context Routing! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "0jkbt_xjlw8",
         "videoId": "0jkbt_xjlw8",
         "title": "La plupart des gens utilisent Claude sans jamais remarquer quand il commence à dérailler.",
@@ -181,6 +215,39 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=0jkbt_xjlw8",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : La plupart des gens utilisent Claude sans jamais remarquer quand il commence à dérailler...."
+    },
+    {
+        "id": "J2YQAs3IQ7c",
+        "videoId": "J2YQAs3IQ7c",
+        "title": "Mon classement des meilleures fonctionnalités dans Claude !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=J2YQAs3IQ7c",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Mon classement des meilleures fonctionnalités dans Claude !..."
+    },
+    {
+        "id": "7TFnDybdra8",
+        "videoId": "7TFnDybdra8",
+        "title": "Live en direct de VIVATECH 2026 !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=7TFnDybdra8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Live en direct de VIVATECH 2026 !..."
+    },
+    {
+        "id": "WkE-7xoO7aU",
+        "videoId": "WkE-7xoO7aU",
+        "title": "IA locales sur le mini-PC GEEKOM A9 MAX : le goût de la liberté !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=WkE-7xoO7aU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA locales sur le mini-PC GEEKOM A9 MAX : le goût de la liberté !..."
     },
     {
         "id": "oREYsaVtd-Y",
@@ -194,6 +261,29 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : SpaceX rachète Cursor : choc IA..."
     },
     {
+        "id": "AwheFul67nU",
+        "videoId": "AwheFul67nU",
+        "title": "n8n a publié ses skills officiels pour Claude Code!",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=AwheFul67nU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : n8n a publié ses skills officiels pour Claude Code!..."
+    },
+    {
+        "id": "oWWjcZGUzGU",
+        "videoId": "oWWjcZGUzGU",
+        "title": "Claude Code: Maîtrisez vos tokens avec /context ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=oWWjcZGUzGU",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code: Maîtrisez vos tokens avec /context ! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "frXN4Ye4j3c",
         "videoId": "frXN4Ye4j3c",
         "title": "Claude Code : Le Secret pour des Réponses Parfaites ! 🤫 #shorts",
@@ -204,6 +294,17 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Claude Code : Le Secret pour des Réponses Parfaites ! 🤫 #shorts...",
         "isShort": true
+    },
+    {
+        "id": "VMTweal-GZk",
+        "videoId": "VMTweal-GZk",
+        "title": "J'ai lancé une Agence de Créa Vidéo à 5 000€ (Claude Code + Higgsfield)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-06-18",
+        "url": "https://www.youtube.com/watch?v=VMTweal-GZk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : J'ai lancé une Agence de Créa Vidéo à 5 000€ (Claude Code + Higgsfield)..."
     },
     {
         "id": "TP9R8RkE7lE",
@@ -621,28 +722,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Anthropic vient de publier un repo GitHub officiel avec plus de 30 skills pour Claud..."
     },
     {
-        "id": "r5sBR1-jWwc",
-        "videoId": "r5sBR1-jWwc",
-        "title": "Tchap piraté sans hack",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-13",
-        "url": "https://www.youtube.com/watch?v=r5sBR1-jWwc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Tchap piraté sans hack..."
-    },
-    {
-        "id": "3gD0GXdBKvo",
-        "videoId": "3gD0GXdBKvo",
-        "title": "Google casse les règles de l’IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-13",
-        "url": "https://www.youtube.com/watch?v=3gD0GXdBKvo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google casse les règles de l’IA..."
-    },
-    {
         "id": "5WiuP81OVJo",
         "videoId": "5WiuP81OVJo",
         "title": "On compare nos seconds cerveau IA (voici ce qui marche vraiment)",
@@ -722,28 +801,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : PewDiePie vient de créer un workspace IA complet !..."
     },
     {
-        "id": "c28k9BBhIUA",
-        "videoId": "c28k9BBhIUA",
-        "title": "Google traduit avec votre voix",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-12",
-        "url": "https://www.youtube.com/watch?v=c28k9BBhIUA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google traduit avec votre voix..."
-    },
-    {
-        "id": "tR4xKsixGKI",
-        "videoId": "tR4xKsixGKI",
-        "title": "L'IA qui traduit, innove, censure et soigne (et nous on bug) + Odysseus",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-12",
-        "url": "https://www.youtube.com/watch?v=tR4xKsixGKI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA qui traduit, innove, censure et soigne (et nous on bug) + Odysseus..."
-    },
-    {
         "id": "SBSiEeYuD4U",
         "videoId": "SBSiEeYuD4U",
         "title": "Hermes WebUI : l’agent IA qui enterre OpenClaw ? 😱",
@@ -764,30 +821,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yMk4Dj7qt-o",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : lance toi....."
-    },
-    {
-        "id": "jV4Z8VPfFEs",
-        "videoId": "jV4Z8VPfFEs",
-        "title": "Créez vos propres Skills pour l'IA : Guides, Prompts et Outils #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-12",
-        "url": "https://www.youtube.com/watch?v=jV4Z8VPfFEs",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez vos propres Skills pour l'IA : Guides, Prompts et Outils #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "h5WtbaYp2VA",
-        "videoId": "h5WtbaYp2VA",
-        "title": "Claude Code: Parlez-lui, ne tapez plus ! Ultra Rapide! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-12",
-        "url": "https://www.youtube.com/watch?v=h5WtbaYp2VA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: Parlez-lui, ne tapez plus ! Ultra Rapide! #shorts...",
-        "isShort": true
     },
     {
         "id": "qfRosVmvKIk",
@@ -2218,38 +2251,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=MduQOd_cDzs",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : La plus grosse annonce de l’histoire de Canva (Je ne m’attendais pas à ça !)..."
-    },
-    {
-        "id": "drl9eIkOHYE",
-        "videoId": "drl9eIkOHYE",
-        "title": "Faire 10K€/mois dans l'IA sans compétences, c'est facile (c'est mathématique)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=drl9eIkOHYE",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Faire 10K€/mois dans l'IA sans compétences, c'est facile (c'est mathématique)..."
-    },
-    {
-        "id": "H9BNiEn_pJ8",
-        "videoId": "H9BNiEn_pJ8",
-        "title": "7 Outils IA Indispensables Pour Votre Business",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=H9BNiEn_pJ8",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : 7 Outils IA Indispensables Pour Votre Business..."
-    },
-    {
-        "id": "kWrWE8q-e9s",
-        "videoId": "kWrWE8q-e9s",
-        "title": "Claude Design a tué Lovable et Gamma (la preuve en 3 prompts)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-04-19",
-        "url": "https://www.youtube.com/watch?v=kWrWE8q-e9s",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Claude Design a tué Lovable et Gamma (la preuve en 3 prompts)..."
     }
 ];
