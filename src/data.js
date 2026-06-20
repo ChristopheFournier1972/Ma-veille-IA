@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-19T10:20:10.855Z
+// Fichier généré automatiquement le 2026-06-20T08:49:23.439Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:20:10 AM 6/19/2026";
+export const lastUpdate = "8:49:23 AM 6/20/2026";
 
 export const sources = [
     {
@@ -172,13 +172,46 @@ export const themes = [
 
 export const allVideos = [
     {
-        "id": "W1Xy8aj88dI",
-        "videoId": "W1Xy8aj88dI",
+        "id": "5DZ_vUi3Njc",
+        "videoId": "5DZ_vUi3Njc",
+        "title": "Live en direct de VIVATECH 2026 !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-20",
+        "url": "https://www.youtube.com/watch?v=5DZ_vUi3Njc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Live en direct de VIVATECH 2026 !..."
+    },
+    {
+        "id": "DAFrLYL2Omo",
+        "videoId": "DAFrLYL2Omo",
+        "title": "Comment l'IA prospecte à ma place pendant que je dors",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-06-20",
+        "url": "https://www.youtube.com/watch?v=DAFrLYL2Omo",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Comment l'IA prospecte à ma place pendant que je dors..."
+    },
+    {
+        "id": "VGyqk1nrqx8",
+        "videoId": "VGyqk1nrqx8",
+        "title": "En 60 minutes tu peux avoir un vrai assistant IA qui connaît ton nom, tes objectifs et tes apps.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=VGyqk1nrqx8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : En 60 minutes tu peux avoir un vrai assistant IA qui connaît ton nom, tes objectifs et tes apps...."
+    },
+    {
+        "id": "7TFnDybdra8",
+        "videoId": "7TFnDybdra8",
         "title": "Live en direct de VIVATECH 2026 !",
         "author": "Renaud Dékode",
         "source": "@RenaudDekode",
         "date": "2026-06-19",
-        "url": "https://www.youtube.com/watch?v=W1Xy8aj88dI",
+        "url": "https://www.youtube.com/watch?v=7TFnDybdra8",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Live en direct de VIVATECH 2026 !..."
     },
@@ -194,6 +227,18 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : DGSI lâche Palantir : choc IA..."
     },
     {
+        "id": "ffGqRdkGz2A",
+        "videoId": "ffGqRdkGz2A",
+        "title": "Claude Code VOIT TOUT: L'IA qui prend des captures d'écran pour vous! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=ffGqRdkGz2A",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code VOIT TOUT: L'IA qui prend des captures d'écran pour vous! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "0JCL_VNNK3E",
         "videoId": "0JCL_VNNK3E",
         "title": "Stop Claude being Overwhelmed: Master Context Routing! #shorts",
@@ -203,7 +248,19 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=0JCL_VNNK3E",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Stop Claude being Overwhelmed: Master Context Routing! #shorts...",
-        "isShort": true
+        "isShort": true,
+        "duration": 61
+    },
+    {
+        "id": "Msi5PaWHIe8",
+        "videoId": "Msi5PaWHIe8",
+        "title": "Actus IA : Anthropic et OpenAI SOUS PRESSION !",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-06-19",
+        "url": "https://www.youtube.com/watch?v=Msi5PaWHIe8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Actus IA : Anthropic et OpenAI SOUS PRESSION !..."
     },
     {
         "id": "0jkbt_xjlw8",
@@ -226,17 +283,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=J2YQAs3IQ7c",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Mon classement des meilleures fonctionnalités dans Claude !..."
-    },
-    {
-        "id": "7TFnDybdra8",
-        "videoId": "7TFnDybdra8",
-        "title": "Live en direct de VIVATECH 2026 !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=7TFnDybdra8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Live en direct de VIVATECH 2026 !..."
     },
     {
         "id": "WkE-7xoO7aU",
@@ -812,17 +858,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Hermes WebUI : l’agent IA qui enterre OpenClaw ? 😱..."
     },
     {
-        "id": "yMk4Dj7qt-o",
-        "videoId": "yMk4Dj7qt-o",
-        "title": "lance toi..",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-12",
-        "url": "https://www.youtube.com/watch?v=yMk4Dj7qt-o",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : lance toi....."
-    },
-    {
         "id": "qfRosVmvKIk",
         "videoId": "qfRosVmvKIk",
         "title": "Pourquoi l'IP est Inutile sans TCP: La Vérité sur Internet - TCP: Le guide complet du protocole TCP",
@@ -1107,17 +1142,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=0OSHC4B8o_Q",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Fais passer de 65% à 94% ta précision avec Claude Code..."
-    },
-    {
-        "id": "svJTEkSnBe8",
-        "videoId": "svJTEkSnBe8",
-        "title": "Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=svJTEkSnBe8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Stanford vient de prouver que Claude est d'accord avec toi 49% de plus qu'un humain..."
     },
     {
         "id": "pZpH-IknJB8",
@@ -2079,13 +2103,13 @@ export const allVideos = [
     {
         "id": "PjaygN19Udc",
         "videoId": "PjaygN19Udc",
-        "title": "Comment écrire avec l'IA ? �� Formation Complète",
+        "title": "Comment écrire avec l'IA ? – Formation Complète",
         "author": "Ludo Salenne",
         "source": "@LudovicSalenne",
         "date": "2026-04-29",
         "url": "https://www.youtube.com/watch?v=PjaygN19Udc",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Comment écrire avec l'IA ? �� Formation Complète..."
+        "summary": "Nouveauté de Ludo Salenne : Comment écrire avec l'IA ? – Formation Complète..."
     },
     {
         "id": "REiHTKMFDSI",
@@ -2240,16 +2264,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RQhj_I_erVg",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : 5 secrets sur Claude que personne ne connait !..."
-    },
-    {
-        "id": "MduQOd_cDzs",
-        "videoId": "MduQOd_cDzs",
-        "title": "La plus grosse annonce de l’histoire de Canva (Je ne m’attendais pas à ça !)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-04-20",
-        "url": "https://www.youtube.com/watch?v=MduQOd_cDzs",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : La plus grosse annonce de l’histoire de Canva (Je ne m’attendais pas à ça !)..."
     }
 ];
