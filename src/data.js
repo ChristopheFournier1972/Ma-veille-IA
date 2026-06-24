@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-23T09:32:01.833Z
+// Fichier généré automatiquement le 2026-06-24T09:21:27.196Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:32:01 AM 6/23/2026";
+export const lastUpdate = "9:21:27 AM 6/24/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "kOCRaZZy_mk",
+        "videoId": "kOCRaZZy_mk",
+        "title": "Quelqu'un vient enfin de créer un assistant personnel que tu peux entraîner toi-même",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=kOCRaZZy_mk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient enfin de créer un assistant personnel que tu peux entraîner toi-même..."
+    },
+    {
+        "id": "rKa3r-CEQow",
+        "videoId": "rKa3r-CEQow",
+        "title": "IA, offensive cyber, décrets Trump, IA au lycée : on décode tout !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=rKa3r-CEQow",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA, offensive cyber, décrets Trump, IA au lycée : on décode tout !..."
+    },
+    {
+        "id": "gWfKTfOxhvE",
+        "videoId": "gWfKTfOxhvE",
+        "title": "DeepSeek vient de résoudre le problème à 1 milliard de l’IA",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=gWfKTfOxhvE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : DeepSeek vient de résoudre le problème à 1 milliard de l’IA..."
+    },
+    {
+        "id": "i6fNZBNYJ70",
+        "videoId": "i6fNZBNYJ70",
+        "title": "Cette nouvelle IA va automatiser ton travail! - OpenAI Record &amp; Replay: Automatisez TOUT en 3 étapes",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=i6fNZBNYJ70",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Cette nouvelle IA va automatiser ton travail! - OpenAI Record &amp; Replay: Automatisez TOUT en 3 ét..."
+    },
+    {
         "id": "ytvTKQ1iPsA",
         "videoId": "ytvTKQ1iPsA",
         "title": "Le prompt le plus flippant à demander à ChatGPT ou Claude !",
@@ -181,6 +225,74 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ytvTKQ1iPsA",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le prompt le plus flippant à demander à ChatGPT ou Claude !..."
+    },
+    {
+        "id": "--0xBcYbxu4",
+        "videoId": "--0xBcYbxu4",
+        "title": "ASML accusé d'aider la Chine ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-23",
+        "url": "https://www.youtube.com/watch?v=--0xBcYbxu4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ASML accusé d'aider la Chine ?..."
+    },
+    {
+        "id": "AKV9FliOWdQ",
+        "videoId": "AKV9FliOWdQ",
+        "title": "VivaTech et Osez l'IA révèlent la vraie crise de l'IA française",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-23",
+        "url": "https://www.youtube.com/watch?v=AKV9FliOWdQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : VivaTech et Osez l'IA révèlent la vraie crise de l'IA française..."
+    },
+    {
+        "id": "IYpjN3rLva0",
+        "videoId": "IYpjN3rLva0",
+        "title": "GLM-5.2 : l’IA gratuite qui bat GPT?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-23",
+        "url": "https://www.youtube.com/watch?v=IYpjN3rLva0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GLM-5.2 : l’IA gratuite qui bat GPT?..."
+    },
+    {
+        "id": "ep_XtuAVf80",
+        "videoId": "ep_XtuAVf80",
+        "title": "DeepSeek vient de résoudre le problème à 1 milliard de l’IA",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-23",
+        "url": "https://www.youtube.com/watch?v=ep_XtuAVf80",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : DeepSeek vient de résoudre le problème à 1 milliard de l’IA..."
+    },
+    {
+        "id": "PmyVHaMG5oI",
+        "videoId": "PmyVHaMG5oI",
+        "title": "Multi-tâches sur un projet : la solution qui va tout changer ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-23",
+        "url": "https://www.youtube.com/watch?v=PmyVHaMG5oI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Multi-tâches sur un projet : la solution qui va tout changer ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "vsGtj-a7m9c",
+        "videoId": "vsGtj-a7m9c",
+        "title": "Productivité : Oubliez les Permissions Dangereuses pour Gagner du Temps ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-23",
+        "url": "https://www.youtube.com/watch?v=vsGtj-a7m9c",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Productivité : Oubliez les Permissions Dangereuses pour Gagner du Temps ! #shorts...",
+        "isShort": true
     },
     {
         "id": "4E0Gl9fryr0",
@@ -655,28 +767,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : L'Etat se met enfin à  l'IA, mais ne fait rien dans le bon sens..."
     },
     {
-        "id": "m3zqWyW0XyI",
-        "videoId": "m3zqWyW0XyI",
-        "title": "L'Etat se met enfin à  l'IA, mais ne fait rien dans le bon sens + Vivatech vendredi",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-17",
-        "url": "https://www.youtube.com/watch?v=m3zqWyW0XyI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'Etat se met enfin à  l'IA, mais ne fait rien dans le bon sens + Vivatech vendredi..."
-    },
-    {
-        "id": "_EJil8Cc29o",
-        "videoId": "_EJil8Cc29o",
-        "title": "Mistral à 20Md€ : pari IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-17",
-        "url": "https://www.youtube.com/watch?v=_EJil8Cc29o",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral à 20Md€ : pari IA..."
-    },
-    {
         "id": "f3G0LIrQUIk",
         "videoId": "f3G0LIrQUIk",
         "title": "Automatise tes tâches répétitivs avec la commande /loop! 🔄",
@@ -734,28 +824,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Starlink vs IA: SpaceX brûle-t-elle ses milliards?- Pourquoi l'IA Musk coûte des milliards à SpaceX..."
     },
     {
-        "id": "nnpTeN-o9W4",
-        "videoId": "nnpTeN-o9W4",
-        "title": "Bezos crée l’ingénieur IA ultime",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-16",
-        "url": "https://www.youtube.com/watch?v=nnpTeN-o9W4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Bezos crée l’ingénieur IA ultime..."
-    },
-    {
-        "id": "RzUlGZGcVPA",
-        "videoId": "RzUlGZGcVPA",
-        "title": "Searcher vend vos données 10€",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-16",
-        "url": "https://www.youtube.com/watch?v=RzUlGZGcVPA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Searcher vend vos données 10€..."
-    },
-    {
         "id": "Gl6ROiWRgGA",
         "videoId": "Gl6ROiWRgGA",
         "title": "Toujours une session par tâche, tu me remercieras ! 🙌🏻",
@@ -776,30 +844,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=0MiN0Dh-zaU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude + Higgsfield créent mes ads TikTok Shop pendant que je dors 🤯..."
-    },
-    {
-        "id": "EtbFihsgHBk",
-        "videoId": "EtbFihsgHBk",
-        "title": "Claude Code : La Révolution pour vos Projets ! Découvrez l'IA qui pense pour vous. #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-16",
-        "url": "https://www.youtube.com/watch?v=EtbFihsgHBk",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : La Révolution pour vos Projets ! Découvrez l'IA qui pense pour vous. #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "PKdYOPOkNco",
-        "videoId": "PKdYOPOkNco",
-        "title": "Maîtrisez Claude Code: Ne Perdez Plus Jamais de Temps ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-16",
-        "url": "https://www.youtube.com/watch?v=PKdYOPOkNco",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Maîtrisez Claude Code: Ne Perdez Plus Jamais de Temps ! #shorts...",
-        "isShort": true
     },
     {
         "id": "KnlP3A8m2Ac",
@@ -1088,17 +1132,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : Les 5 réglages qui rendent Claude Code 10x meilleur..."
     },
     {
-        "id": "tzrzFti85_k",
-        "videoId": "tzrzFti85_k",
-        "title": "Quelqu'un vient de sortir un skill complet de cybersécurité pour Claude",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-10",
-        "url": "https://www.youtube.com/watch?v=tzrzFti85_k",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de sortir un skill complet de cybersécurité pour Claude..."
-    },
-    {
         "id": "EHJk-x17AP0",
         "videoId": "EHJk-x17AP0",
         "title": "Fable 5 : La Vidéo à NE PAS RATER Pour Tout Comprendre 🔥 (+ Test)",
@@ -1317,17 +1350,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vKQ7LKgAQps",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : La Pause IA d’Anthropic : Panique ou Manipulation ? 🤔..."
-    },
-    {
-        "id": "SbJm4xYI7aw",
-        "videoId": "SbJm4xYI7aw",
-        "title": "L'IA n'est pas rentable? La vérité sur les coûts - Pourquoi 40% des entreprises échouent avec l'IA",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-06-06",
-        "url": "https://www.youtube.com/watch?v=SbJm4xYI7aw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : L'IA n'est pas rentable? La vérité sur les coûts - Pourquoi 40% des entreprises échouent avec l'IA..."
     },
     {
         "id": "s_ShtMRFYOs",
@@ -1693,17 +1715,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Codex est devenu INCROYABLE... 7 Exemples concrets !..."
     },
     {
-        "id": "0AEsQYXHAmY",
-        "videoId": "0AEsQYXHAmY",
-        "title": "Créer un vrai SaaS avec l’IA en 2026 : Tuto Complet Hostinger Horizons 😱🔥",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=0AEsQYXHAmY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Créer un vrai SaaS avec l’IA en 2026 : Tuto Complet Hostinger Horizons 😱🔥..."
-    },
-    {
         "id": "ULlBUO1dAQ4",
         "videoId": "ULlBUO1dAQ4",
         "title": "Claude Design vs Figma : j'ai recréé Apple.com pour comparer",
@@ -1735,17 +1746,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=6sgCPGojZTA",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le prompt à toujours utiliser dans Claude !..."
-    },
-    {
-        "id": "B9zUxH3umHQ",
-        "videoId": "B9zUxH3umHQ",
-        "title": "Gemini 3.5 Flash : Le modèle le plus rapide de l’histoire ? (290 tokens/s)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=B9zUxH3umHQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Gemini 3.5 Flash : Le modèle le plus rapide de l’histoire ? (290 tokens/s)..."
     },
     {
         "id": "wjFdqDyTz3s",
