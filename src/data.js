@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-24T09:21:27.196Z
+// Fichier généré automatiquement le 2026-06-25T08:54:49.566Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:21:27 AM 6/24/2026";
+export const lastUpdate = "8:54:49 AM 6/25/2026";
 
 export const sources = [
     {
@@ -172,6 +172,28 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "pIa4jZuSlwI",
+        "videoId": "pIa4jZuSlwI",
+        "title": "L'unique secret pour survivre à l'IA en 2026",
+        "author": "Etienne Tillier",
+        "source": "@EtienneTillierStudio",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=pIa4jZuSlwI",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Etienne Tillier : L'unique secret pour survivre à l'IA en 2026..."
+    },
+    {
+        "id": "ucdLIEhUXjY",
+        "videoId": "ucdLIEhUXjY",
+        "title": "Si je devais tout recommencer dans l'IA, voici exactement ce que je ferais",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=ucdLIEhUXjY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Si je devais tout recommencer dans l'IA, voici exactement ce que je ferais..."
+    },
+    {
         "id": "kOCRaZZy_mk",
         "videoId": "kOCRaZZy_mk",
         "title": "Quelqu'un vient enfin de créer un assistant personnel que tu peux entraîner toi-même",
@@ -181,6 +203,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kOCRaZZy_mk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient enfin de créer un assistant personnel que tu peux entraîner toi-même..."
+    },
+    {
+        "id": "ZWnMg3ZTBcg",
+        "videoId": "ZWnMg3ZTBcg",
+        "title": "OpenAI prend le contrôle cyber IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=ZWnMg3ZTBcg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI prend le contrôle cyber IA..."
     },
     {
         "id": "rKa3r-CEQow",
@@ -194,6 +227,28 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : IA, offensive cyber, décrets Trump, IA au lycée : on décode tout !..."
     },
     {
+        "id": "pQGcfuTO0_4",
+        "videoId": "pQGcfuTO0_4",
+        "title": "Offensive cyber, décrets Trump, IA au lycée : on décode tout",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=pQGcfuTO0_4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Offensive cyber, décrets Trump, IA au lycée : on décode tout..."
+    },
+    {
+        "id": "MlEX4LU_VFE",
+        "videoId": "MlEX4LU_VFE",
+        "title": "Renault fabrique un drone tueur",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=MlEX4LU_VFE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Renault fabrique un drone tueur..."
+    },
+    {
         "id": "gWfKTfOxhvE",
         "videoId": "gWfKTfOxhvE",
         "title": "DeepSeek vient de résoudre le problème à 1 milliard de l’IA",
@@ -205,6 +260,41 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : DeepSeek vient de résoudre le problème à 1 milliard de l’IA..."
     },
     {
+        "id": "0tFB_UN7kI8",
+        "videoId": "0tFB_UN7kI8",
+        "title": "Domptez l'IA: Astuces PRO pour des Réponses Incroyables! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=0tFB_UN7kI8",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Domptez l'IA: Astuces PRO pour des Réponses Incroyables! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Q4_UBUZbU5U",
+        "videoId": "Q4_UBUZbU5U",
+        "title": "La SEULE VRAI façon d'utiliser CLAUDE CODE pour ton Business",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=Q4_UBUZbU5U",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : La SEULE VRAI façon d'utiliser CLAUDE CODE pour ton Business..."
+    },
+    {
+        "id": "xlZLpOU4gsw",
+        "videoId": "xlZLpOU4gsw",
+        "title": "Claude AI : Annulez vos erreurs passées en un clic ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=xlZLpOU4gsw",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude AI : Annulez vos erreurs passées en un clic ! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "i6fNZBNYJ70",
         "videoId": "i6fNZBNYJ70",
         "title": "Cette nouvelle IA va automatiser ton travail! - OpenAI Record &amp; Replay: Automatisez TOUT en 3 étapes",
@@ -214,6 +304,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=i6fNZBNYJ70",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Cette nouvelle IA va automatiser ton travail! - OpenAI Record &amp; Replay: Automatisez TOUT en 3 ét..."
+    },
+    {
+        "id": "nHXND_R4Jy8",
+        "videoId": "nHXND_R4Jy8",
+        "title": "Claude IA : le tutoriel facile pour débutant",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=nHXND_R4Jy8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Claude IA : le tutoriel facile pour débutant..."
+    },
+    {
+        "id": "_9o9t7kJWUA",
+        "videoId": "_9o9t7kJWUA",
+        "title": "YouTube Short",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-06-24",
+        "url": "https://www.youtube.com/watch?v=_9o9t7kJWUA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : YouTube Short..."
     },
     {
         "id": "ytvTKQ1iPsA",
@@ -655,28 +767,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Mon classement des meilleures fonctionnalités dans Claude !..."
     },
     {
-        "id": "WkE-7xoO7aU",
-        "videoId": "WkE-7xoO7aU",
-        "title": "IA locales sur le mini-PC GEEKOM A9 MAX : le goût de la liberté !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=WkE-7xoO7aU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA locales sur le mini-PC GEEKOM A9 MAX : le goût de la liberté !..."
-    },
-    {
-        "id": "oREYsaVtd-Y",
-        "videoId": "oREYsaVtd-Y",
-        "title": "SpaceX rachète Cursor : choc IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=oREYsaVtd-Y",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : SpaceX rachète Cursor : choc IA..."
-    },
-    {
         "id": "AwheFul67nU",
         "videoId": "AwheFul67nU",
         "title": "n8n a publié ses skills officiels pour Claude Code!",
@@ -756,17 +846,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Ne gaspille plus tes tokens Claude inutilement..."
     },
     {
-        "id": "PaO1ZkA8RT8",
-        "videoId": "PaO1ZkA8RT8",
-        "title": "L'Etat se met enfin à  l'IA, mais ne fait rien dans le bon sens",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-17",
-        "url": "https://www.youtube.com/watch?v=PaO1ZkA8RT8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'Etat se met enfin à  l'IA, mais ne fait rien dans le bon sens..."
-    },
-    {
         "id": "f3G0LIrQUIk",
         "videoId": "f3G0LIrQUIk",
         "title": "Automatise tes tâches répétitivs avec la commande /loop! 🔄",
@@ -776,41 +855,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=f3G0LIrQUIk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Automatise tes tâches répétitivs avec la commande /loop! 🔄..."
-    },
-    {
-        "id": "Zw4-91Y0_FI",
-        "videoId": "Zw4-91Y0_FI",
-        "title": "Demandez à Claude Code d'utiliser des sous-agents moins chers ! 💰 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-17",
-        "url": "https://www.youtube.com/watch?v=Zw4-91Y0_FI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Demandez à Claude Code d'utiliser des sous-agents moins chers ! 💰 #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "bH2gIsK3YY4",
-        "videoId": "bH2gIsK3YY4",
-        "title": "Mon SYSTÈME AIOS secret dévoilé (construis le tien aujourd'hui)",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-17",
-        "url": "https://www.youtube.com/watch?v=bH2gIsK3YY4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Mon SYSTÈME AIOS secret dévoilé (construis le tien aujourd'hui)..."
-    },
-    {
-        "id": "Av6rcIs1KTU",
-        "videoId": "Av6rcIs1KTU",
-        "title": "Claude Code : la révolution de la traduction en 5 minutes avec des sous-agents ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-17",
-        "url": "https://www.youtube.com/watch?v=Av6rcIs1KTU",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : la révolution de la traduction en 5 minutes avec des sous-agents ! #shorts...",
-        "isShort": true
     },
     {
         "id": "ctuCaHEjMEc",
@@ -1064,17 +1108,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=2yGmbHTz2ho",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Anthropic a libéré son IA &quot;trop dangereuse&quot; (Claude Fable 5)..."
-    },
-    {
-        "id": "xG7nH6OXW5Y",
-        "videoId": "xG7nH6OXW5Y",
-        "title": "CapCut vient d'être open sourcé.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-11",
-        "url": "https://www.youtube.com/watch?v=xG7nH6OXW5Y",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CapCut vient d'être open sourcé...."
     },
     {
         "id": "84Ov4bLBH7w",
@@ -2208,16 +2241,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kpG1v9uZd4E",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Guide Complet Claude Design l Maîtrisez 95% en 20 Minutes..."
-    },
-    {
-        "id": "eDhOomO4FpE",
-        "videoId": "eDhOomO4FpE",
-        "title": "Le paradoxe de l'IA : plus tu progresses, plus tu te perds",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-04-25",
-        "url": "https://www.youtube.com/watch?v=eDhOomO4FpE",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le paradoxe de l'IA : plus tu progresses, plus tu te perds..."
     }
 ];
