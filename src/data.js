@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-25T08:54:49.566Z
+// Fichier généré automatiquement le 2026-06-26T08:57:27.283Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:54:49 AM 6/25/2026";
+export const lastUpdate = "8:57:27 AM 6/26/2026";
 
 export const sources = [
     {
@@ -171,6 +171,83 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "Q-Ez9NGRvK4",
+        "videoId": "Q-Ez9NGRvK4",
+        "title": "Tu peux apprendre une compétence en quelques heures grâce à Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=Q-Ez9NGRvK4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux apprendre une compétence en quelques heures grâce à Claude !..."
+    },
+    {
+        "id": "a1-ltrrlb8s",
+        "videoId": "a1-ltrrlb8s",
+        "title": "Tu ne devrais jamais corriger Claude Code plus de deux fois sur le même problème",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=a1-ltrrlb8s",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu ne devrais jamais corriger Claude Code plus de deux fois sur le même problème..."
+    },
+    {
+        "id": "R_Rvs73TRyA",
+        "videoId": "R_Rvs73TRyA",
+        "title": "Puces, OCR, captcha, espionnage, nouveautés : l'actu IA décodée + XXX",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=R_Rvs73TRyA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Puces, OCR, captcha, espionnage, nouveautés : l'actu IA décodée + XXX..."
+    },
+    {
+        "id": "xRnxMQYAV8M",
+        "videoId": "xRnxMQYAV8M",
+        "title": "Trump lance l'ère quantique",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=xRnxMQYAV8M",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Trump lance l'ère quantique..."
+    },
+    {
+        "id": "_k6hFPTYhMw",
+        "videoId": "_k6hFPTYhMw",
+        "title": "Fugu, l’IA chef d’orchestre",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=_k6hFPTYhMw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Fugu, l’IA chef d’orchestre..."
+    },
+    {
+        "id": "2ZGXYsul3Mw",
+        "videoId": "2ZGXYsul3Mw",
+        "title": "Claude + Emergent AI : J’ai Créé Une App Complète Sans Coder 🔥",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=2ZGXYsul3Mw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Claude + Emergent AI : J’ai Créé Une App Complète Sans Coder 🔥..."
+    },
+    {
+        "id": "x28dzEx1x6Q",
+        "videoId": "x28dzEx1x6Q",
+        "title": "J'ai cloné MON visage ET ma voix avec une IA 🤯 (résultat dingue)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-06-25",
+        "url": "https://www.youtube.com/watch?v=x28dzEx1x6Q",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : J'ai cloné MON visage ET ma voix avec une IA 🤯 (résultat dingue)..."
+    },
     {
         "id": "pIa4jZuSlwI",
         "videoId": "pIa4jZuSlwI",
@@ -598,17 +675,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Musk : l’IA autorisée à polluer ?..."
     },
     {
-        "id": "5DZ_vUi3Njc",
-        "videoId": "5DZ_vUi3Njc",
-        "title": "Live en direct de VIVATECH 2026 !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-20",
-        "url": "https://www.youtube.com/watch?v=5DZ_vUi3Njc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Live en direct de VIVATECH 2026 !..."
-    },
-    {
         "id": "DAFrLYL2Omo",
         "videoId": "DAFrLYL2Omo",
         "title": "Comment prospecter avec l'IA ? (Masterclass complète)",
@@ -686,28 +752,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=VGyqk1nrqx8",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : En 60 minutes tu peux avoir un vrai assistant IA qui connaît ton nom, tes objectifs et tes apps...."
-    },
-    {
-        "id": "7TFnDybdra8",
-        "videoId": "7TFnDybdra8",
-        "title": "Live en direct de VIVATECH 2026 !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-19",
-        "url": "https://www.youtube.com/watch?v=7TFnDybdra8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Live en direct de VIVATECH 2026 !..."
-    },
-    {
-        "id": "_xhdBsv9cyg",
-        "videoId": "_xhdBsv9cyg",
-        "title": "DGSI lâche Palantir : choc IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-19",
-        "url": "https://www.youtube.com/watch?v=_xhdBsv9cyg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : DGSI lâche Palantir : choc IA..."
     },
     {
         "id": "ffGqRdkGz2A",
@@ -1055,17 +1099,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : HISTORIQUE ! (l’affaire Claude Fable 5)..."
     },
     {
-        "id": "lyViWxK9ttI",
-        "videoId": "lyViWxK9ttI",
-        "title": "PewDiePie vient de créer un workspace IA complet !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-12",
-        "url": "https://www.youtube.com/watch?v=lyViWxK9ttI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : PewDiePie vient de créer un workspace IA complet !..."
-    },
-    {
         "id": "SBSiEeYuD4U",
         "videoId": "SBSiEeYuD4U",
         "title": "Hermes WebUI : l’agent IA qui enterre OpenClaw ? 😱",
@@ -1097,17 +1130,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Y1gXkFN8JRE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Actus IA : Claude Fable 5, ChatGPT SuperApp, Siri AI… WOW !..."
-    },
-    {
-        "id": "2yGmbHTz2ho",
-        "videoId": "2yGmbHTz2ho",
-        "title": "Anthropic a libéré son IA &quot;trop dangereuse&quot; (Claude Fable 5)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-11",
-        "url": "https://www.youtube.com/watch?v=2yGmbHTz2ho",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Anthropic a libéré son IA &quot;trop dangereuse&quot; (Claude Fable 5)..."
     },
     {
         "id": "84Ov4bLBH7w",
@@ -1682,17 +1704,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Réponses IA : comment passer de ça... à ÇA !..."
     },
     {
-        "id": "9KvncVTC6zU",
-        "videoId": "9KvncVTC6zU",
-        "title": "Claude Opus 4.8 : Pourquoi Claude Code Ne Sera Plus Le Même (LEAK)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-26",
-        "url": "https://www.youtube.com/watch?v=9KvncVTC6zU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude Opus 4.8 : Pourquoi Claude Code Ne Sera Plus Le Même (LEAK)..."
-    },
-    {
         "id": "yS7zBSvI0Y8",
         "videoId": "yS7zBSvI0Y8",
         "title": "Google I/O 2026 : les 5 outils que vous allez utiliser tous les jours",
@@ -1827,13 +1838,13 @@ export const allVideos = [
     {
         "id": "oS1RvuLPGbA",
         "videoId": "oS1RvuLPGbA",
-        "title": "Comment Créer Sans Limite avec l’IA: Formation Claude Code (2026) | Guide Complet Débutant",
+        "title": "Deviens un Expert IA avec Claude en 2026 (FORMATION 6 HEURES)",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-05-17",
         "url": "https://www.youtube.com/watch?v=oS1RvuLPGbA",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment Créer Sans Limite avec l’IA: Formation Claude Code (2026) | Guide Complet Débutant..."
+        "summary": "Nouveauté de Yassine Sdiri : Deviens un Expert IA avec Claude en 2026 (FORMATION 6 HEURES)..."
     },
     {
         "id": "q5IfMPw6mFg",
@@ -2219,27 +2230,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lMsM3SmfTuY",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Créer un court métrage gratuit avec l'IA (TUTO COMPLET)..."
-    },
-    {
-        "id": "iZnp0kQ_NnY",
-        "videoId": "iZnp0kQ_NnY",
-        "title": "Comment faire 12.000€/mois avec Claude Code",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-04-26",
-        "url": "https://www.youtube.com/watch?v=iZnp0kQ_NnY",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Comment faire 12.000€/mois avec Claude Code..."
-    },
-    {
-        "id": "kpG1v9uZd4E",
-        "videoId": "kpG1v9uZd4E",
-        "title": "Guide Complet Claude Design l Maîtrisez 95% en 20 Minutes",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-04-26",
-        "url": "https://www.youtube.com/watch?v=kpG1v9uZd4E",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Guide Complet Claude Design l Maîtrisez 95% en 20 Minutes..."
     }
 ];
