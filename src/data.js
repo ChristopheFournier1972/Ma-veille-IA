@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-27T08:31:35.656Z
+// Fichier généré automatiquement le 2026-06-28T08:46:24.872Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:31:35 AM 6/27/2026";
+export const lastUpdate = "8:46:24 AM 6/28/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "DgqKAlZuM_A",
+        "videoId": "DgqKAlZuM_A",
+        "title": "Fable 5 de RETOUR : Pourquoi l'IA était interdite aux USA?- Mythos, GPT 5.6: La fin des restrictions",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-28",
+        "url": "https://www.youtube.com/watch?v=DgqKAlZuM_A",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Fable 5 de RETOUR : Pourquoi l'IA était interdite aux USA?- Mythos, GPT 5.6: La fin des restrictions..."
+    },
+    {
+        "id": "FXIK6ExdwYY",
+        "videoId": "FXIK6ExdwYY",
+        "title": "Quelqu'un vient enfin d'open sourcer une machine de trading complète",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-27",
+        "url": "https://www.youtube.com/watch?v=FXIK6ExdwYY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient enfin d'open sourcer une machine de trading complète..."
+    },
+    {
+        "id": "C8B8vOfEeog",
+        "videoId": "C8B8vOfEeog",
+        "title": "Alibaba accusé de piller Claude",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-27",
+        "url": "https://www.youtube.com/watch?v=C8B8vOfEeog",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Alibaba accusé de piller Claude..."
+    },
+    {
+        "id": "4bo7s-DALVA",
+        "videoId": "4bo7s-DALVA",
+        "title": "Mistral OCR : vos PDF en data",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-27",
+        "url": "https://www.youtube.com/watch?v=4bo7s-DALVA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral OCR : vos PDF en data..."
+    },
+    {
         "id": "gFSQgS0te60",
         "videoId": "gFSQgS0te60",
         "title": "Hermès Agents   Révolution ou simple gadget ?",
@@ -181,6 +225,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gFSQgS0te60",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Hermès Agents   Révolution ou simple gadget ?..."
+    },
+    {
+        "id": "s3DthPRppsc",
+        "videoId": "s3DthPRppsc",
+        "title": "L'agentique IA, le nouveau dropshipping",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-06-27",
+        "url": "https://www.youtube.com/watch?v=s3DthPRppsc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : L'agentique IA, le nouveau dropshipping..."
     },
     {
         "id": "sdfc79CzWSw",
@@ -526,17 +581,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : VivaTech et Osez l'IA révèlent la vraie crise de l'IA française..."
     },
     {
-        "id": "IYpjN3rLva0",
-        "videoId": "IYpjN3rLva0",
-        "title": "GLM-5.2 : l’IA gratuite qui bat GPT?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-23",
-        "url": "https://www.youtube.com/watch?v=IYpjN3rLva0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GLM-5.2 : l’IA gratuite qui bat GPT?..."
-    },
-    {
         "id": "ep_XtuAVf80",
         "videoId": "ep_XtuAVf80",
         "title": "DeepSeek vient de résoudre le problème à 1 milliard de l’IA",
@@ -581,17 +625,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4E0Gl9fryr0",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Le responsable de Claude Code chez Anthropic ne rédige plus de prompts !..."
-    },
-    {
-        "id": "YcjuzlQMYSY",
-        "videoId": "YcjuzlQMYSY",
-        "title": "Midjourney lance scanner corps 60s",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-22",
-        "url": "https://www.youtube.com/watch?v=YcjuzlQMYSY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Midjourney lance scanner corps 60s..."
     },
     {
         "id": "LmCfCaf-5XI",
@@ -1044,17 +1077,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Pourquoi t'es devenu un Expert IA qui fait pas 1€ (et comment corriger ça)..."
     },
     {
-        "id": "_D6dNCdjIuo",
-        "videoId": "_D6dNCdjIuo",
-        "title": "Tu veux utiliser Higgsfield mais sans payer ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-14",
-        "url": "https://www.youtube.com/watch?v=_D6dNCdjIuo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu veux utiliser Higgsfield mais sans payer ?..."
-    },
-    {
         "id": "ADJj3VMFWmM",
         "videoId": "ADJj3VMFWmM",
         "title": "Tout le monde peut ENFIN créer son Agent IA ! (Hermes Agent)",
@@ -1407,17 +1429,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Diagnostic Réseau: Maîtrisez l'ICMP, le Ping et la Latence - Pourquoi votre Ping échoue?..."
     },
     {
-        "id": "iGM7xRbGXIk",
-        "videoId": "iGM7xRbGXIk",
-        "title": "Pourquoi l'ICMP est le &quot;gendarme&quot; de votre réseau? -Tout savoir sur PING, TRACEROUTE, TTL et Latence",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=iGM7xRbGXIk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Pourquoi l'ICMP est le &quot;gendarme&quot; de votre réseau? -Tout savoir sur PING, TRACEROUTE, TTL ..."
-    },
-    {
         "id": "97-oN2YrXVc",
         "videoId": "97-oN2YrXVc",
         "title": "DeepSeek V4 : le modele qui humilie les IA américaines",
@@ -1651,13 +1662,13 @@ export const allVideos = [
     {
         "id": "fmv0UlVZ19E",
         "videoId": "fmv0UlVZ19E",
-        "title": "ChatGPT vient de rendre Excel simple ! (C'est magique)",
+        "title": "J’ai testé ChatGPT dans Excel… plus magique que Claude ?",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-05-28",
         "url": "https://www.youtube.com/watch?v=fmv0UlVZ19E",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : ChatGPT vient de rendre Excel simple ! (C'est magique)..."
+        "summary": "Nouveauté de Elliott Pierret : J’ai testé ChatGPT dans Excel… plus magique que Claude ?..."
     },
     {
         "id": "mv5Sb75QLgc",
@@ -2219,16 +2230,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PjaygN19Udc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Comment écrire avec l'IA ? – Formation Complète..."
-    },
-    {
-        "id": "REiHTKMFDSI",
-        "videoId": "REiHTKMFDSI",
-        "title": "5 Hacks pour économiser tes Tokens dans Claude !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-28",
-        "url": "https://www.youtube.com/watch?v=REiHTKMFDSI",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : 5 Hacks pour économiser tes Tokens dans Claude !..."
     }
 ];
