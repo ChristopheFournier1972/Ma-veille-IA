@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-06-29T10:49:22.205Z
+// Fichier généré automatiquement le 2026-06-30T09:26:54.819Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:49:22 AM 6/29/2026";
+export const lastUpdate = "9:26:54 AM 6/30/2026";
 
 export const sources = [
     {
@@ -172,6 +172,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "TbpFNzcknPA",
+        "videoId": "TbpFNzcknPA",
+        "title": "L'IA peut-elle remplacer un CEO? Les résultats de l'étude - Seules 3 IA ont réussi ce test de CEO",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-06-30",
+        "url": "https://www.youtube.com/watch?v=TbpFNzcknPA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : L'IA peut-elle remplacer un CEO? Les résultats de l'étude - Seules 3 IA ont réussi ce test de CEO..."
+    },
+    {
+        "id": "iNI01qteRMk",
+        "videoId": "iNI01qteRMk",
+        "title": "Le system prompt complet de Fable 5 vient de fuiter",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=iNI01qteRMk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le system prompt complet de Fable 5 vient de fuiter..."
+    },
+    {
+        "id": "q1YOE-WlFyU",
+        "videoId": "q1YOE-WlFyU",
+        "title": "GPT-5.6 : la riposte d’OpenAI",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=q1YOE-WlFyU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-5.6 : la riposte d’OpenAI..."
+    },
+    {
+        "id": "d21sBZi6rds",
+        "videoId": "d21sBZi6rds",
+        "title": "Le plein d'innovations, pour le meilleur et pour le pire",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=d21sBZi6rds",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Le plein d'innovations, pour le meilleur et pour le pire..."
+    },
+    {
+        "id": "ObUueI3wl7U",
+        "videoId": "ObUueI3wl7U",
+        "title": "Le plein d'innovations, pour le meilleur et pour le pire + Comprendre LES IA (sans tout mélanger)",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=ObUueI3wl7U",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Le plein d'innovations, pour le meilleur et pour le pire + Comprendre LES IA (sans tout mélanger)..."
+    },
+    {
         "id": "AtC-DL2LMg8",
         "videoId": "AtC-DL2LMg8",
         "title": "PACT va tuer les CAPTCHA ?",
@@ -181,6 +236,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=AtC-DL2LMg8",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : PACT va tuer les CAPTCHA ?..."
+    },
+    {
+        "id": "A1JMuEj-KY4",
+        "videoId": "A1JMuEj-KY4",
+        "title": "Le NOUVEAU langage des IA",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=A1JMuEj-KY4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Le NOUVEAU langage des IA..."
+    },
+    {
+        "id": "ukf9DBoyas8",
+        "videoId": "ukf9DBoyas8",
+        "title": "L'étape que tout le monde saute avant de choisir son IA",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-06-29",
+        "url": "https://www.youtube.com/watch?v=ukf9DBoyas8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : L'étape que tout le monde saute avant de choisir son IA..."
     },
     {
         "id": "ZCdYOnKdPp8",
@@ -214,17 +291,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=JKD_mD70ml8",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Copilot Cowork, l'IA qui automatise 90% de vos tâches ! (Pour de vrai)..."
-    },
-    {
-        "id": "ObUueI3wl7U",
-        "videoId": "ObUueI3wl7U",
-        "title": "Le plein d'innovations, pour le meilleur et pour le pire + Comprendre LES IA (sans tout mélanger)",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-28",
-        "url": "https://www.youtube.com/watch?v=ObUueI3wl7U",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le plein d'innovations, pour le meilleur et pour le pire + Comprendre LES IA (sans tout mélanger)..."
     },
     {
         "id": "gl7sgL9pVSE",
@@ -511,28 +577,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=rKa3r-CEQow",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : IA, offensive cyber, décrets Trump, IA au lycée : on décode tout !..."
-    },
-    {
-        "id": "pQGcfuTO0_4",
-        "videoId": "pQGcfuTO0_4",
-        "title": "Offensive cyber, décrets Trump, IA au lycée : on décode tout",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-24",
-        "url": "https://www.youtube.com/watch?v=pQGcfuTO0_4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Offensive cyber, décrets Trump, IA au lycée : on décode tout..."
-    },
-    {
-        "id": "MlEX4LU_VFE",
-        "videoId": "MlEX4LU_VFE",
-        "title": "Renault fabrique un drone tueur",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-24",
-        "url": "https://www.youtube.com/watch?v=MlEX4LU_VFE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Renault fabrique un drone tueur..."
     },
     {
         "id": "gWfKTfOxhvE",
@@ -1000,17 +1044,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Les meilleurs skills Claude !..."
     },
     {
-        "id": "GlXDKO5NrT8",
-        "videoId": "GlXDKO5NrT8",
-        "title": "Ne gaspille plus tes tokens Claude inutilement",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-17",
-        "url": "https://www.youtube.com/watch?v=GlXDKO5NrT8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ne gaspille plus tes tokens Claude inutilement..."
-    },
-    {
         "id": "f3G0LIrQUIk",
         "videoId": "f3G0LIrQUIk",
         "title": "Automatise tes tâches répétitivs avec la commande /loop! 🔄",
@@ -1451,17 +1484,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Anthropic panique ! Ils veulent une pause ✋🛑..."
     },
     {
-        "id": "xZIQofiI0fc",
-        "videoId": "xZIQofiI0fc",
-        "title": "Diagnostic Réseau: Maîtrisez l'ICMP, le Ping et la Latence - Pourquoi votre Ping échoue?",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-06-07",
-        "url": "https://www.youtube.com/watch?v=xZIQofiI0fc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Diagnostic Réseau: Maîtrisez l'ICMP, le Ping et la Latence - Pourquoi votre Ping échoue?..."
-    },
-    {
         "id": "97-oN2YrXVc",
         "videoId": "97-oN2YrXVc",
         "title": "DeepSeek V4 : le modele qui humilie les IA américaines",
@@ -1713,17 +1735,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mv5Sb75QLgc",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Lucas Reverdy : Comment Claude Génère mes Propales à +10k€ en 10 minutes (Guide Complet)..."
-    },
-    {
-        "id": "vunt2M-BYmI",
-        "videoId": "vunt2M-BYmI",
-        "title": "Rocket 1.0 : L’IA Parfaite Pour Lancer un SaaS ? (Test réel 🔥)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-05-28",
-        "url": "https://www.youtube.com/watch?v=vunt2M-BYmI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Rocket 1.0 : L’IA Parfaite Pour Lancer un SaaS ? (Test réel 🔥)..."
     },
     {
         "id": "ZSoi6C6jOEA",
@@ -2208,27 +2219,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IubQUC9TL2w",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : L'IA devient simple avec un Second Cerveau IA (cours complet)..."
-    },
-    {
-        "id": "vJNI-NyacCg",
-        "videoId": "vJNI-NyacCg",
-        "title": "Maîtriser 95% de Claude Design en 21 min !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=vJNI-NyacCg",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Maîtriser 95% de Claude Design en 21 min !..."
-    },
-    {
-        "id": "3eMkVtKNtEU",
-        "videoId": "3eMkVtKNtEU",
-        "title": "OpenClaw trade à ma place pendant 7 jours  (+1200$) 🤯",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-04-30",
-        "url": "https://www.youtube.com/watch?v=3eMkVtKNtEU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : OpenClaw trade à ma place pendant 7 jours  (+1200$) 🤯..."
     }
 ];
