@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-02T08:50:30.601Z
+// Fichier généré automatiquement le 2026-07-03T08:56:32.366Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:50:30 AM 7/2/2026";
+export const lastUpdate = "8:56:32 AM 7/3/2026";
 
 export const sources = [
     {
@@ -171,6 +171,83 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "d1AIWQxy670",
+        "videoId": "d1AIWQxy670",
+        "title": "Folies IA : Fable 5 de retour, Washington contrôle, Pékin verrouille, Meta décide + HERMES AGENT",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=d1AIWQxy670",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Folies IA : Fable 5 de retour, Washington contrôle, Pékin verrouille, Meta décide + HERMES AGENT..."
+    },
+    {
+        "id": "IbSrpvhkCTQ",
+        "videoId": "IbSrpvhkCTQ",
+        "title": "Anthropic x Samsung: La fin de l'hégémonie Nvidia? - Puces IA personnalisées: La nouvelle stratégie",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=IbSrpvhkCTQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Anthropic x Samsung: La fin de l'hégémonie Nvidia? - Puces IA personnalisées: La nouvelle stratégie..."
+    },
+    {
+        "id": "8bCDHJ5t_H4",
+        "videoId": "8bCDHJ5t_H4",
+        "title": "Claude peut enfin regarder des vidéos",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-02",
+        "url": "https://www.youtube.com/watch?v=8bCDHJ5t_H4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut enfin regarder des vidéos..."
+    },
+    {
+        "id": "bbCBB4gq9wk",
+        "videoId": "bbCBB4gq9wk",
+        "title": "Google enchaîne image et vidéo IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-02",
+        "url": "https://www.youtube.com/watch?v=bbCBB4gq9wk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google enchaîne image et vidéo IA..."
+    },
+    {
+        "id": "0EIvqGjIH08",
+        "videoId": "0EIvqGjIH08",
+        "title": "Ecrans, IA : sommes nous addicts ? Avec le Pr Benyamina",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-02",
+        "url": "https://www.youtube.com/watch?v=0EIvqGjIH08",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Ecrans, IA : sommes nous addicts ? Avec le Pr Benyamina..."
+    },
+    {
+        "id": "dKAYwMDAk5Q",
+        "videoId": "dKAYwMDAk5Q",
+        "title": "Claude Science : labo IA unique",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-02",
+        "url": "https://www.youtube.com/watch?v=dKAYwMDAk5Q",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude Science : labo IA unique..."
+    },
+    {
+        "id": "0lDVL03DEa0",
+        "videoId": "0lDVL03DEa0",
+        "title": "Claude Fable 5 est ENFIN de retour (tout ce qu'il faut savoir)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-07-02",
+        "url": "https://www.youtube.com/watch?v=0lDVL03DEa0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Fable 5 est ENFIN de retour (tout ce qu'il faut savoir)..."
+    },
     {
         "id": "eNzSQbz0slo",
         "videoId": "eNzSQbz0slo",
@@ -491,28 +568,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient enfin d'open sourcer une machine de trading complète..."
     },
     {
-        "id": "C8B8vOfEeog",
-        "videoId": "C8B8vOfEeog",
-        "title": "Alibaba accusé de piller Claude",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-27",
-        "url": "https://www.youtube.com/watch?v=C8B8vOfEeog",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Alibaba accusé de piller Claude..."
-    },
-    {
-        "id": "4bo7s-DALVA",
-        "videoId": "4bo7s-DALVA",
-        "title": "Mistral OCR : vos PDF en data",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-27",
-        "url": "https://www.youtube.com/watch?v=4bo7s-DALVA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral OCR : vos PDF en data..."
-    },
-    {
         "id": "gFSQgS0te60",
         "videoId": "gFSQgS0te60",
         "title": "J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé",
@@ -544,28 +599,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=sdfc79CzWSw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Ce repo viral fait chuter ta consommation de tokens de 80 à 94%...."
-    },
-    {
-        "id": "ff_JHy-ZIJI",
-        "videoId": "ff_JHy-ZIJI",
-        "title": "OpenAI lance sa puce : bascule",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-26",
-        "url": "https://www.youtube.com/watch?v=ff_JHy-ZIJI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI lance sa puce : bascule..."
-    },
-    {
-        "id": "S8_NlO8Mb1I",
-        "videoId": "S8_NlO8Mb1I",
-        "title": "Puces, OCR, captcha, espionnage, nouveautés : l'actu IA décodée",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-26",
-        "url": "https://www.youtube.com/watch?v=S8_NlO8Mb1I",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Puces, OCR, captcha, espionnage, nouveautés : l'actu IA décodée..."
     },
     {
         "id": "VzNbgoRUxdk",
@@ -847,17 +880,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=b09gXtHcH1M",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Comment installer Claude Code moins de 60 secondes !..."
-    },
-    {
-        "id": "8uTzXlVUHgI",
-        "videoId": "8uTzXlVUHgI",
-        "title": "Top 5 des sites que tout vibe codeur devrait connaître",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-21",
-        "url": "https://www.youtube.com/watch?v=8uTzXlVUHgI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Top 5 des sites que tout vibe codeur devrait connaître..."
     },
     {
         "id": "bof3sJ9P5Ss",
@@ -1438,17 +1460,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4jCiLvcvvok",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Automatiser vos publications YouTube, TikTok et Instagram facilement - Workflow complet..."
-    },
-    {
-        "id": "pE2kcfEpP_Y",
-        "videoId": "pE2kcfEpP_Y",
-        "title": "C'est quoi l'ARP? Le pont invisible du réseau local - ARP vs DNS: Ne confondez plus ces protocoles!",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-06-08",
-        "url": "https://www.youtube.com/watch?v=pE2kcfEpP_Y",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : C'est quoi l'ARP? Le pont invisible du réseau local - ARP vs DNS: Ne confondez plus ces protocoles!..."
     },
     {
         "id": "1aDis6yHcSE",
@@ -2175,60 +2186,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=KPc5qTqTn1o",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Une IA par tâche : la méthode qui m'a fait arrêter ChatGPT..."
-    },
-    {
-        "id": "z47n9g-QJOc",
-        "videoId": "z47n9g-QJOc",
-        "title": "Ta dernière chance de devenir riche avant 2027.",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-05-03",
-        "url": "https://www.youtube.com/watch?v=z47n9g-QJOc",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Ta dernière chance de devenir riche avant 2027...."
-    },
-    {
-        "id": "f31RvRfWSXc",
-        "videoId": "f31RvRfWSXc",
-        "title": "Comment Devenir Dangereusement Intelligent (avec l’IA)",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-05-03",
-        "url": "https://www.youtube.com/watch?v=f31RvRfWSXc",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment Devenir Dangereusement Intelligent (avec l’IA)..."
-    },
-    {
-        "id": "mn7RcxKSddc",
-        "videoId": "mn7RcxKSddc",
-        "title": "Construire un second cerveau n'a jamais été aussi simple (Claude Code + Obsidian)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-05-03",
-        "url": "https://www.youtube.com/watch?v=mn7RcxKSddc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Construire un second cerveau n'a jamais été aussi simple (Claude Code + Obsidian)..."
-    },
-    {
-        "id": "2k7qP8oXFmw",
-        "videoId": "2k7qP8oXFmw",
-        "title": "Crée ta base de connaissance en 5 min! (Claude Code + Obsidian)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-05-03",
-        "url": "https://www.youtube.com/watch?v=2k7qP8oXFmw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Crée ta base de connaissance en 5 min! (Claude Code + Obsidian)..."
-    },
-    {
-        "id": "DjODUUu_QrE",
-        "videoId": "DjODUUu_QrE",
-        "title": "Le NOUVEL outil SECRET de Google (100% Gratuit) 🤯 #astuce",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-05-03",
-        "url": "https://www.youtube.com/watch?v=DjODUUu_QrE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Le NOUVEL outil SECRET de Google (100% Gratuit) 🤯 #astuce..."
     }
 ];
