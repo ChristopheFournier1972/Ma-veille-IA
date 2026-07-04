@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-03T08:56:32.366Z
+// Fichier généré automatiquement le 2026-07-04T08:31:15.702Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:56:32 AM 7/3/2026";
+export const lastUpdate = "8:31:15 AM 7/4/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "GLlRO3Wo69w",
+        "videoId": "GLlRO3Wo69w",
+        "title": "Tu peux connecter Claude à Instagram et faire croître ton compte !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=GLlRO3Wo69w",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux connecter Claude à Instagram et faire croître ton compte !..."
+    },
+    {
+        "id": "bDkqxrJsiCo",
+        "videoId": "bDkqxrJsiCo",
+        "title": "Comment j'ai fine-tuné une IA pour qu'elle pense mieux",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=bDkqxrJsiCo",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Comment j'ai fine-tuné une IA pour qu'elle pense mieux..."
+    },
+    {
+        "id": "hdqEwB_EcEg",
+        "videoId": "hdqEwB_EcEg",
+        "title": "Anthropic offre littéralement six mois gratuits du plan Claude Max.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=hdqEwB_EcEg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Anthropic offre littéralement six mois gratuits du plan Claude Max...."
+    },
+    {
+        "id": "p8eqrXsi6Cw",
+        "videoId": "p8eqrXsi6Cw",
+        "title": "Fable 5 : puissant mais muselé ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=p8eqrXsi6Cw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Fable 5 : puissant mais muselé ?..."
+    },
+    {
         "id": "d1AIWQxy670",
         "videoId": "d1AIWQxy670",
         "title": "Folies IA : Fable 5 de retour, Washington contrôle, Pékin verrouille, Meta décide + HERMES AGENT",
@@ -183,6 +227,52 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Folies IA : Fable 5 de retour, Washington contrôle, Pékin verrouille, Meta décide + HERMES AGENT..."
     },
     {
+        "id": "KmkmYtisP6M",
+        "videoId": "KmkmYtisP6M",
+        "title": "Folies IA : Fable 5 de retour, Washington contrôle, Pékin verrouille, Meta décide",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=KmkmYtisP6M",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Folies IA : Fable 5 de retour, Washington contrôle, Pékin verrouille, Meta décide..."
+    },
+    {
+        "id": "AtZrs0jxkik",
+        "videoId": "AtZrs0jxkik",
+        "title": "Google IA : vos clics vont chuter ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=AtZrs0jxkik",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google IA : vos clics vont chuter ?..."
+    },
+    {
+        "id": "Sk0VgipquZc",
+        "videoId": "Sk0VgipquZc",
+        "title": "AIOS Cloud vs Local: Levé l'inarrêtable employé IA! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=Sk0VgipquZc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : AIOS Cloud vs Local: Levé l'inarrêtable employé IA! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "B5M3FcZq1Y0",
+        "videoId": "B5M3FcZq1Y0",
+        "title": "AIOS Révolutionne le Cloud: Créez Sites &amp; CRM Facilement! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=B5M3FcZq1Y0",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : AIOS Révolutionne le Cloud: Créez Sites &amp; CRM Facilement! #shorts...",
+        "isShort": true
+    },
+    {
         "id": "IbSrpvhkCTQ",
         "videoId": "IbSrpvhkCTQ",
         "title": "Anthropic x Samsung: La fin de l'hégémonie Nvidia? - Puces IA personnalisées: La nouvelle stratégie",
@@ -192,6 +282,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IbSrpvhkCTQ",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Anthropic x Samsung: La fin de l'hégémonie Nvidia? - Puces IA personnalisées: La nouvelle stratégie..."
+    },
+    {
+        "id": "B3XeYkaZrjY",
+        "videoId": "B3XeYkaZrjY",
+        "title": "J'ai créé des pubs pro en 5 minutes - Claude Fable 5 + Higgsfield MCP !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-07-03",
+        "url": "https://www.youtube.com/watch?v=B3XeYkaZrjY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : J'ai créé des pubs pro en 5 minutes - Claude Fable 5 + Higgsfield MCP !..."
     },
     {
         "id": "8bCDHJ5t_H4",
@@ -445,39 +546,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=q1YOE-WlFyU",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : GPT-5.6 : la riposte d’OpenAI..."
-    },
-    {
-        "id": "d21sBZi6rds",
-        "videoId": "d21sBZi6rds",
-        "title": "Le plein d'innovations, pour le meilleur et pour le pire",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-29",
-        "url": "https://www.youtube.com/watch?v=d21sBZi6rds",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le plein d'innovations, pour le meilleur et pour le pire..."
-    },
-    {
-        "id": "ObUueI3wl7U",
-        "videoId": "ObUueI3wl7U",
-        "title": "Le plein d'innovations, pour le meilleur et pour le pire + Comprendre LES IA (sans tout mélanger)",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-29",
-        "url": "https://www.youtube.com/watch?v=ObUueI3wl7U",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le plein d'innovations, pour le meilleur et pour le pire + Comprendre LES IA (sans tout mélanger)..."
-    },
-    {
-        "id": "AtC-DL2LMg8",
-        "videoId": "AtC-DL2LMg8",
-        "title": "PACT va tuer les CAPTCHA ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-29",
-        "url": "https://www.youtube.com/watch?v=AtC-DL2LMg8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : PACT va tuer les CAPTCHA ?..."
     },
     {
         "id": "A1JMuEj-KY4",
@@ -825,17 +893,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "4E0Gl9fryr0",
-        "videoId": "4E0Gl9fryr0",
-        "title": "Le responsable de Claude Code chez Anthropic ne rédige plus de prompts !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-22",
-        "url": "https://www.youtube.com/watch?v=4E0Gl9fryr0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le responsable de Claude Code chez Anthropic ne rédige plus de prompts !..."
-    },
-    {
         "id": "LmCfCaf-5XI",
         "videoId": "LmCfCaf-5XI",
         "title": "Claude Code: Libérez votre productivité avec les sous-agents ! 🚀 #shorts",
@@ -869,17 +926,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=yIMEkzh3Spo",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Oubliez les prompts : ces 7 Skills IA créent votre contenu..."
-    },
-    {
-        "id": "b09gXtHcH1M",
-        "videoId": "b09gXtHcH1M",
-        "title": "Comment installer Claude Code moins de 60 secondes !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-21",
-        "url": "https://www.youtube.com/watch?v=b09gXtHcH1M",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Comment installer Claude Code moins de 60 secondes !..."
     },
     {
         "id": "bof3sJ9P5Ss",
@@ -1062,30 +1108,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=AwheFul67nU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : n8n a publié ses skills officiels pour Claude Code!..."
-    },
-    {
-        "id": "oWWjcZGUzGU",
-        "videoId": "oWWjcZGUzGU",
-        "title": "Claude Code: Maîtrisez vos tokens avec /context ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=oWWjcZGUzGU",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code: Maîtrisez vos tokens avec /context ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "frXN4Ye4j3c",
-        "videoId": "frXN4Ye4j3c",
-        "title": "Claude Code : Le Secret pour des Réponses Parfaites ! 🤫 #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-18",
-        "url": "https://www.youtube.com/watch?v=frXN4Ye4j3c",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Le Secret pour des Réponses Parfaites ! 🤫 #shorts...",
-        "isShort": true
     },
     {
         "id": "VMTweal-GZk",
@@ -2175,16 +2197,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=g2PdHA-1Lho",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le plan machiavélique d'Anthropic (et comment s'en protéger)..."
-    },
-    {
-        "id": "KPc5qTqTn1o",
-        "videoId": "KPc5qTqTn1o",
-        "title": "Une IA par tâche : la méthode qui m'a fait arrêter ChatGPT",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-05-04",
-        "url": "https://www.youtube.com/watch?v=KPc5qTqTn1o",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Une IA par tâche : la méthode qui m'a fait arrêter ChatGPT..."
     }
 ];
