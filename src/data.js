@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-04T08:31:15.702Z
+// Fichier généré automatiquement le 2026-07-05T08:47:17.012Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:31:15 AM 7/4/2026";
+export const lastUpdate = "8:47:17 AM 7/5/2026";
 
 export const sources = [
     {
@@ -172,6 +172,28 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "MEgLPh5FAqY",
+        "videoId": "MEgLPh5FAqY",
+        "title": "Les boucles d'agents IA : ce que personne te dit (et quand NE PAS en faire)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-07-05",
+        "url": "https://www.youtube.com/watch?v=MEgLPh5FAqY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Les boucles d'agents IA : ce que personne te dit (et quand NE PAS en faire)..."
+    },
+    {
+        "id": "d6qhmL7tNPE",
+        "videoId": "d6qhmL7tNPE",
+        "title": "Claude Fable est impressionnant mais il brûle les limites d'utilisation à une vitesse folle",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=d6qhmL7tNPE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude Fable est impressionnant mais il brûle les limites d'utilisation à une vitesse folle..."
+    },
+    {
         "id": "GLlRO3Wo69w",
         "videoId": "GLlRO3Wo69w",
         "title": "Tu peux connecter Claude à Instagram et faire croître ton compte !",
@@ -183,15 +205,72 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Tu peux connecter Claude à Instagram et faire croître ton compte !..."
     },
     {
+        "id": "aC5RYUBTaYg",
+        "videoId": "aC5RYUBTaYg",
+        "title": "Meta : l’IA décide de vos posts",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=aC5RYUBTaYg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta : l’IA décide de vos posts..."
+    },
+    {
+        "id": "CFmFaWLzq94",
+        "videoId": "CFmFaWLzq94",
+        "title": "Hermes Agent est encore plus DINGUE : tu DOIS le tester",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=CFmFaWLzq94",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Hermes Agent est encore plus DINGUE : tu DOIS le tester..."
+    },
+    {
+        "id": "Rw6RkIXP5d0",
+        "videoId": "Rw6RkIXP5d0",
+        "title": "OpenAI promet un dividende IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=Rw6RkIXP5d0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI promet un dividende IA..."
+    },
+    {
         "id": "bDkqxrJsiCo",
         "videoId": "bDkqxrJsiCo",
-        "title": "Comment j'ai fine-tuné une IA pour qu'elle pense mieux",
+        "title": "Ton IA n'est pas neutre. Voici pourquoi",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-07-04",
         "url": "https://www.youtube.com/watch?v=bDkqxrJsiCo",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Comment j'ai fine-tuné une IA pour qu'elle pense mieux..."
+        "summary": "Nouveauté de Eliott Meunier : Ton IA n'est pas neutre. Voici pourquoi..."
+    },
+    {
+        "id": "7eSEL11lL_M",
+        "videoId": "7eSEL11lL_M",
+        "title": "Claude AI: Votre Wiki Personnel Automatique Révolutionnaire! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=7eSEL11lL_M",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude AI: Votre Wiki Personnel Automatique Révolutionnaire! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "Dii44f2oigA",
+        "videoId": "Dii44f2oigA",
+        "title": "Nouvelle IA Karpathy: 10X Plus Simple, Ultra Efficace! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-04",
+        "url": "https://www.youtube.com/watch?v=Dii44f2oigA",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Nouvelle IA Karpathy: 10X Plus Simple, Ultra Efficace! #shorts...",
+        "isShort": true
     },
     {
         "id": "hdqEwB_EcEg",
@@ -482,28 +561,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Google injecte l’IA dans Hollywood..."
     },
     {
-        "id": "NQRBkLXZNxg",
-        "videoId": "NQRBkLXZNxg",
-        "title": "Comprendre LES IA comme un pro (et arréter de tout mélanger)",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-30",
-        "url": "https://www.youtube.com/watch?v=NQRBkLXZNxg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Comprendre LES IA comme un pro (et arréter de tout mélanger)..."
-    },
-    {
-        "id": "IjS5kft5XBs",
-        "videoId": "IjS5kft5XBs",
-        "title": "Cartes.gouv.fr défie Google Maps",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-30",
-        "url": "https://www.youtube.com/watch?v=IjS5kft5XBs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Cartes.gouv.fr défie Google Maps..."
-    },
-    {
         "id": "fkFQHMCjbJw",
         "videoId": "fkFQHMCjbJw",
         "title": "DSpark : DeepSeek vient encore d'accélérer (sans nouveau modèle)",
@@ -535,17 +592,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iNI01qteRMk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Le system prompt complet de Fable 5 vient de fuiter..."
-    },
-    {
-        "id": "q1YOE-WlFyU",
-        "videoId": "q1YOE-WlFyU",
-        "title": "GPT-5.6 : la riposte d’OpenAI",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-06-29",
-        "url": "https://www.youtube.com/watch?v=q1YOE-WlFyU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-5.6 : la riposte d’OpenAI..."
     },
     {
         "id": "A1JMuEj-KY4",
@@ -748,24 +794,13 @@ export const allVideos = [
     {
         "id": "ucdLIEhUXjY",
         "videoId": "ucdLIEhUXjY",
-        "title": "Si je devais TOUT recommencer dans l'IA, voici EXACTEMENT ce que je ferais",
+        "title": "Si je devais recommencer dans l'IA, voici EXACTEMENT ce que je ferais",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-06-24",
         "url": "https://www.youtube.com/watch?v=ucdLIEhUXjY",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Si je devais TOUT recommencer dans l'IA, voici EXACTEMENT ce que je ferais..."
-    },
-    {
-        "id": "kOCRaZZy_mk",
-        "videoId": "kOCRaZZy_mk",
-        "title": "Quelqu'un vient enfin de créer un assistant personnel que tu peux entraîner toi-même",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-24",
-        "url": "https://www.youtube.com/watch?v=kOCRaZZy_mk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient enfin de créer un assistant personnel que tu peux entraîner toi-même..."
+        "summary": "Nouveauté de Henri · ExplorIA : Si je devais recommencer dans l'IA, voici EXACTEMENT ce que je ferais..."
     },
     {
         "id": "gWfKTfOxhvE",
@@ -1051,30 +1086,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Gfp0VH8lGyE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Un Prix Nobel quitte Google: La fin de l'ère Gemini? - L'exode massif chez Google AI: Pourquoi ?..."
-    },
-    {
-        "id": "ffGqRdkGz2A",
-        "videoId": "ffGqRdkGz2A",
-        "title": "Claude Code VOIT TOUT: L'IA qui prend des captures d'écran pour vous! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-19",
-        "url": "https://www.youtube.com/watch?v=ffGqRdkGz2A",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code VOIT TOUT: L'IA qui prend des captures d'écran pour vous! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "0JCL_VNNK3E",
-        "videoId": "0JCL_VNNK3E",
-        "title": "Stop Claude being Overwhelmed: Master Context Routing! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-19",
-        "url": "https://www.youtube.com/watch?v=0JCL_VNNK3E",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Stop Claude being Overwhelmed: Master Context Routing! #shorts...",
-        "isShort": true
     },
     {
         "id": "Msi5PaWHIe8",
