@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-08T08:21:16.023Z
+// Fichier généré automatiquement le 2026-07-09T09:31:37.343Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:21:16 AM 7/8/2026";
+export const lastUpdate = "9:31:37 AM 7/9/2026";
 
 export const sources = [
     {
@@ -172,6 +172,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "Ir3dPeSFTR0",
+        "videoId": "Ir3dPeSFTR0",
+        "title": "Claude : ses pensées révélées",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=Ir3dPeSFTR0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude : ses pensées révélées..."
+    },
+    {
+        "id": "Epov5rLUepo",
+        "videoId": "Epov5rLUepo",
+        "title": "On découvre que l'IA pourrait avoir une conscience !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=Epov5rLUepo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : On découvre que l'IA pourrait avoir une conscience !..."
+    },
+    {
+        "id": "HJLRa9sg9x0",
+        "videoId": "HJLRa9sg9x0",
+        "title": "On découvre que l'IA pourrait avoir une conscience ! 2/2",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=HJLRa9sg9x0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : On découvre que l'IA pourrait avoir une conscience ! 2/2..."
+    },
+    {
+        "id": "_8rIJ_MxZrE",
+        "videoId": "_8rIJ_MxZrE",
+        "title": "On découvre que l'IA pourrait avoir une conscience ! 1/2",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=_8rIJ_MxZrE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : On découvre que l'IA pourrait avoir une conscience ! 1/2..."
+    },
+    {
+        "id": "AOD2n6XlGR4",
+        "videoId": "AOD2n6XlGR4",
+        "title": "Un androïde compagnon à 15 000€",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=AOD2n6XlGR4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Un androïde compagnon à 15 000€..."
+    },
+    {
         "id": "J8PZ1os5zxY",
         "videoId": "J8PZ1os5zxY",
         "title": "La fin des tokens ? Les Loop Transformers",
@@ -183,6 +238,41 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : La fin des tokens ? Les Loop Transformers..."
     },
     {
+        "id": "nWlSOx0KKyI",
+        "videoId": "nWlSOx0KKyI",
+        "title": "Claude Code avec Kimi K2.7 : tu n'as plus besoin de payer💸",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=nWlSOx0KKyI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Code avec Kimi K2.7 : tu n'as plus besoin de payer💸..."
+    },
+    {
+        "id": "UYuo2RnbUyo",
+        "videoId": "UYuo2RnbUyo",
+        "title": "Contrôlez Votre IA Où Que Vous Soyez, Même en Ville ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=UYuo2RnbUyo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Contrôlez Votre IA Où Que Vous Soyez, Même en Ville ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "RIa7mYjXhtQ",
+        "videoId": "RIa7mYjXhtQ",
+        "title": "Votre IA OS: Le Secret pour Gérer Votre Business Facilement #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-07-08",
+        "url": "https://www.youtube.com/watch?v=RIa7mYjXhtQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Votre IA OS: Le Secret pour Gérer Votre Business Facilement #shorts...",
+        "isShort": true
+    },
+    {
         "id": "txSugkDoIDg",
         "videoId": "txSugkDoIDg",
         "title": "Quelqu'un vient de construire un repo qui donne à tes agents un accès en lecture sur 13 plateformes",
@@ -192,17 +282,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=txSugkDoIDg",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de construire un repo qui donne à tes agents un accès en lecture sur 13 plateformes..."
-    },
-    {
-        "id": "_8rIJ_MxZrE",
-        "videoId": "_8rIJ_MxZrE",
-        "title": "On découvre que l'IA pourrait avoir une conscience !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-07",
-        "url": "https://www.youtube.com/watch?v=_8rIJ_MxZrE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : On découvre que l'IA pourrait avoir une conscience !..."
     },
     {
         "id": "0OELllPRYSU",
@@ -552,50 +631,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=hdqEwB_EcEg",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Anthropic offre littéralement six mois gratuits du plan Claude Max...."
-    },
-    {
-        "id": "p8eqrXsi6Cw",
-        "videoId": "p8eqrXsi6Cw",
-        "title": "Fable 5 : puissant mais muselé ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-03",
-        "url": "https://www.youtube.com/watch?v=p8eqrXsi6Cw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Fable 5 : puissant mais muselé ?..."
-    },
-    {
-        "id": "d1AIWQxy670",
-        "videoId": "d1AIWQxy670",
-        "title": "Folies IA : Fable 5 de retour, Washington contrôle, Pékin verrouille, Meta décide + HERMES AGENT",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-03",
-        "url": "https://www.youtube.com/watch?v=d1AIWQxy670",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Folies IA : Fable 5 de retour, Washington contrôle, Pékin verrouille, Meta décide + HERMES AGENT..."
-    },
-    {
-        "id": "KmkmYtisP6M",
-        "videoId": "KmkmYtisP6M",
-        "title": "Folies IA : Fable 5 de retour, Washington contrôle, Pékin verrouille, Meta décide",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-03",
-        "url": "https://www.youtube.com/watch?v=KmkmYtisP6M",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Folies IA : Fable 5 de retour, Washington contrôle, Pékin verrouille, Meta décide..."
-    },
-    {
-        "id": "AtZrs0jxkik",
-        "videoId": "AtZrs0jxkik",
-        "title": "Google IA : vos clics vont chuter ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-03",
-        "url": "https://www.youtube.com/watch?v=AtZrs0jxkik",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google IA : vos clics vont chuter ?..."
     },
     {
         "id": "Sk0VgipquZc",
@@ -1040,30 +1075,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ep_XtuAVf80",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : DeepSeek vient de résoudre le problème à 1 milliard de l’IA..."
-    },
-    {
-        "id": "PmyVHaMG5oI",
-        "videoId": "PmyVHaMG5oI",
-        "title": "Multi-tâches sur un projet : la solution qui va tout changer ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-23",
-        "url": "https://www.youtube.com/watch?v=PmyVHaMG5oI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Multi-tâches sur un projet : la solution qui va tout changer ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "vsGtj-a7m9c",
-        "videoId": "vsGtj-a7m9c",
-        "title": "Productivité : Oubliez les Permissions Dangereuses pour Gagner du Temps ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-23",
-        "url": "https://www.youtube.com/watch?v=vsGtj-a7m9c",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Productivité : Oubliez les Permissions Dangereuses pour Gagner du Temps ! #shorts...",
-        "isShort": true
     },
     {
         "id": "yIMEkzh3Spo",
@@ -2120,27 +2131,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : 5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population..."
-    },
-    {
-        "id": "y0taBHJRJXY",
-        "videoId": "y0taBHJRJXY",
-        "title": "Ce plombier a un meilleur système IA que la plupart des devs",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-09",
-        "url": "https://www.youtube.com/watch?v=y0taBHJRJXY",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Ce plombier a un meilleur système IA que la plupart des devs..."
-    },
-    {
-        "id": "3UVbXmUIBSk",
-        "videoId": "3UVbXmUIBSk",
-        "title": "Comment TOUT Automatiser en 1 Prompt | de A à Z (Claude Code + n8n) !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-05-09",
-        "url": "https://www.youtube.com/watch?v=3UVbXmUIBSk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : Comment TOUT Automatiser en 1 Prompt | de A à Z (Claude Code + n8n) !..."
     }
 ];
