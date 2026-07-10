@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-09T09:31:37.343Z
+// Fichier généré automatiquement le 2026-07-10T09:27:39.694Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:31:37 AM 7/9/2026";
+export const lastUpdate = "9:27:39 AM 7/10/2026";
 
 export const sources = [
     {
@@ -171,6 +171,72 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "a_YIVRCnEsQ",
+        "videoId": "a_YIVRCnEsQ",
+        "title": "GPT-5.6 est là, et une avalanche de modèle pour l'été + ChatGPT Work !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-10",
+        "url": "https://www.youtube.com/watch?v=a_YIVRCnEsQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-5.6 est là, et une avalanche de modèle pour l'été + ChatGPT Work !..."
+    },
+    {
+        "id": "k3SxB099nlo",
+        "videoId": "k3SxB099nlo",
+        "title": "Quasi personne ne donne du contexte à Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=k3SxB099nlo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quasi personne ne donne du contexte à Claude !..."
+    },
+    {
+        "id": "NnmorHxu-d0",
+        "videoId": "NnmorHxu-d0",
+        "title": "Ce scrapper est 1600x plus rapide que les autres scrappers !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=NnmorHxu-d0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ce scrapper est 1600x plus rapide que les autres scrappers !..."
+    },
+    {
+        "id": "qJw5WLm7R4k",
+        "videoId": "qJw5WLm7R4k",
+        "title": "ZCode : la Chine défie Claude Code",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=qJw5WLm7R4k",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ZCode : la Chine défie Claude Code..."
+    },
+    {
+        "id": "Wc1-0qWhqgY",
+        "videoId": "Wc1-0qWhqgY",
+        "title": "Chine ferme l’IA : l’Europe piégée",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=Wc1-0qWhqgY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Chine ferme l’IA : l’Europe piégée..."
+    },
+    {
+        "id": "5dF9rDlMGhE",
+        "videoId": "5dF9rDlMGhE",
+        "title": "Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire.",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=5dF9rDlMGhE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire...."
+    },
     {
         "id": "Ir3dPeSFTR0",
         "videoId": "Ir3dPeSFTR0",
@@ -554,39 +620,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Tu peux connecter Claude à Instagram et faire croître ton compte !..."
     },
     {
-        "id": "aC5RYUBTaYg",
-        "videoId": "aC5RYUBTaYg",
-        "title": "Meta : l’IA décide de vos posts",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-04",
-        "url": "https://www.youtube.com/watch?v=aC5RYUBTaYg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Meta : l’IA décide de vos posts..."
-    },
-    {
-        "id": "CFmFaWLzq94",
-        "videoId": "CFmFaWLzq94",
-        "title": "Hermes Agent est encore plus DINGUE : tu DOIS le tester",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-04",
-        "url": "https://www.youtube.com/watch?v=CFmFaWLzq94",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Hermes Agent est encore plus DINGUE : tu DOIS le tester..."
-    },
-    {
-        "id": "Rw6RkIXP5d0",
-        "videoId": "Rw6RkIXP5d0",
-        "title": "OpenAI promet un dividende IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-04",
-        "url": "https://www.youtube.com/watch?v=Rw6RkIXP5d0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI promet un dividende IA..."
-    },
-    {
         "id": "bDkqxrJsiCo",
         "videoId": "bDkqxrJsiCo",
         "title": "Ton IA n'est pas neutre. Voici pourquoi",
@@ -844,17 +877,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Vendre une infrastructure IA 3000€ sans être un vendeur (Matrice POVI)..."
     },
     {
-        "id": "t5S_VM9m6yY",
-        "videoId": "t5S_VM9m6yY",
-        "title": "Le CEO de Y Combinator vient d'open sourcer tout son setup Claude Code",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-28",
-        "url": "https://www.youtube.com/watch?v=t5S_VM9m6yY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le CEO de Y Combinator vient d'open sourcer tout son setup Claude Code..."
-    },
-    {
         "id": "JKD_mD70ml8",
         "videoId": "JKD_mD70ml8",
         "title": "Copilot Cowork, l'IA qui automatise 90% de vos tâches ! (Pour de vrai)",
@@ -886,17 +908,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DgqKAlZuM_A",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Fable 5 de RETOUR : Pourquoi l'IA était interdite aux USA?- Mythos, GPT 5.6: La fin des restrictions..."
-    },
-    {
-        "id": "FXIK6ExdwYY",
-        "videoId": "FXIK6ExdwYY",
-        "title": "Quelqu'un vient enfin d'open sourcer une machine de trading complète",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-27",
-        "url": "https://www.youtube.com/watch?v=FXIK6ExdwYY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient enfin d'open sourcer une machine de trading complète..."
     },
     {
         "id": "gFSQgS0te60",
@@ -2109,27 +2120,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mfkp0t85nKQ",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Arrêtez les mauvais diapos | Voici la méthode qui marche..."
-    },
-    {
-        "id": "J4hyyVkt_Bo",
-        "videoId": "J4hyyVkt_Bo",
-        "title": "Les Services IA à 3k€ minimum que les PME achètent vraiment (comment les trouver)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-05-10",
-        "url": "https://www.youtube.com/watch?v=J4hyyVkt_Bo",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Les Services IA à 3k€ minimum que les PME achètent vraiment (comment les trouver)..."
-    },
-    {
-        "id": "w2JE7HUNJFU",
-        "videoId": "w2JE7HUNJFU",
-        "title": "5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-05-10",
-        "url": "https://www.youtube.com/watch?v=w2JE7HUNJFU",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : 5 Hacks Pour Utiliser Claude IA mieux que 99% de la Population..."
     }
 ];
