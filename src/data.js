@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-10T09:27:39.694Z
+// Fichier généré automatiquement le 2026-07-11T07:48:39.063Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:27:39 AM 7/10/2026";
+export const lastUpdate = "7:48:39 AM 7/11/2026";
 
 export const sources = [
     {
@@ -172,15 +172,59 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "pNHnjGhCMW4",
+        "videoId": "pNHnjGhCMW4",
+        "title": "Le créateur de Claude Code vient de dire que les anciens métiers sont obsolètes",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-10",
+        "url": "https://www.youtube.com/watch?v=pNHnjGhCMW4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le créateur de Claude Code vient de dire que les anciens métiers sont obsolètes..."
+    },
+    {
+        "id": "2Xy4JdYyXvM",
+        "videoId": "2Xy4JdYyXvM",
+        "title": "GPT-5.6 bouleverse l’IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-10",
+        "url": "https://www.youtube.com/watch?v=2Xy4JdYyXvM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-5.6 bouleverse l’IA..."
+    },
+    {
+        "id": "kujH3Yc2pXA",
+        "videoId": "kujH3Yc2pXA",
+        "title": "GPT-5.6 est là, et une avalanche de modèle pour l'été",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-10",
+        "url": "https://www.youtube.com/watch?v=kujH3Yc2pXA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-5.6 est là, et une avalanche de modèle pour l'été..."
+    },
+    {
         "id": "a_YIVRCnEsQ",
         "videoId": "a_YIVRCnEsQ",
-        "title": "GPT-5.6 est là, et une avalanche de modèle pour l'été + ChatGPT Work !",
+        "title": "L'actualité tech du 10/07/2026 en Live sur Renaud Dékode",
         "author": "Renaud Dékode",
         "source": "@RenaudDekode",
         "date": "2026-07-10",
         "url": "https://www.youtube.com/watch?v=a_YIVRCnEsQ",
         "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-5.6 est là, et une avalanche de modèle pour l'été + ChatGPT Work !..."
+        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 10/07/2026 en Live sur Renaud Dékode..."
+    },
+    {
+        "id": "oeXIz_W6wTE",
+        "videoId": "oeXIz_W6wTE",
+        "title": "Réseaux sociaux : loi 15 ans bloquée",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-10",
+        "url": "https://www.youtube.com/watch?v=oeXIz_W6wTE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Réseaux sociaux : loi 15 ans bloquée..."
     },
     {
         "id": "k3SxB099nlo",
@@ -438,39 +482,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BqmzfzBlX9I",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : ONU : les patrons IA à la table..."
-    },
-    {
-        "id": "44hTNt8ucHQ",
-        "videoId": "44hTNt8ucHQ",
-        "title": "L'IA nous échappe : ces actus qui font froid dans le dos !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-06",
-        "url": "https://www.youtube.com/watch?v=44hTNt8ucHQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA nous échappe : ces actus qui font froid dans le dos !..."
-    },
-    {
-        "id": "wfiJ0CteZAU",
-        "videoId": "wfiJ0CteZAU",
-        "title": "L'IA nous échappe : ces actus qui font froid dans le dos",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-06",
-        "url": "https://www.youtube.com/watch?v=wfiJ0CteZAU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA nous échappe : ces actus qui font froid dans le dos..."
-    },
-    {
-        "id": "4h9e5m11Utc",
-        "videoId": "4h9e5m11Utc",
-        "title": "Chine : l’IA sans Nvidia explose",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-06",
-        "url": "https://www.youtube.com/watch?v=4h9e5m11Utc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Chine : l’IA sans Nvidia explose..."
     },
     {
         "id": "Oqa894jQEDc",
@@ -831,17 +842,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=TbpFNzcknPA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : L'IA peut-elle remplacer un CEO? Les résultats de l'étude - Seules 3 IA ont réussi ce test de CEO..."
-    },
-    {
-        "id": "iNI01qteRMk",
-        "videoId": "iNI01qteRMk",
-        "title": "Le system prompt complet de Fable 5 vient de fuiter",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-29",
-        "url": "https://www.youtube.com/watch?v=iNI01qteRMk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le system prompt complet de Fable 5 vient de fuiter..."
     },
     {
         "id": "A1JMuEj-KY4",
@@ -2098,27 +2098,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=dyZjwf1GeYk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Anthropic vient de simplifier ENORMEMENT la gestion d’agents!..."
-    },
-    {
-        "id": "YCttZsEIuqI",
-        "videoId": "YCttZsEIuqI",
-        "title": "Il a connecté son ADN et sa montre à l'IA (le résultat est génial)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=YCttZsEIuqI",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Il a connecté son ADN et sa montre à l'IA (le résultat est génial)..."
-    },
-    {
-        "id": "mfkp0t85nKQ",
-        "videoId": "mfkp0t85nKQ",
-        "title": "Arrêtez les mauvais diapos | Voici la méthode qui marche",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-05-11",
-        "url": "https://www.youtube.com/watch?v=mfkp0t85nKQ",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Arrêtez les mauvais diapos | Voici la méthode qui marche..."
     }
 ];
