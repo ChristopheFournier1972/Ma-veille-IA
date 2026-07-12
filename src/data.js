@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-11T07:48:39.063Z
+// Fichier généré automatiquement le 2026-07-12T08:10:21.498Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:48:39 AM 7/11/2026";
+export const lastUpdate = "8:10:21 AM 7/12/2026";
 
 export const sources = [
     {
@@ -171,6 +171,61 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "3IxXS5YY47A",
+        "videoId": "3IxXS5YY47A",
+        "title": "ChatGPT voix : fini le talkie-walkie",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-11",
+        "url": "https://www.youtube.com/watch?v=3IxXS5YY47A",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT voix : fini le talkie-walkie..."
+    },
+    {
+        "id": "zYL3i1Fy5r8",
+        "videoId": "zYL3i1Fy5r8",
+        "title": "ChatGPT Work : enfin, voila l'application utile !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-11",
+        "url": "https://www.youtube.com/watch?v=zYL3i1Fy5r8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT Work : enfin, voila l'application utile !..."
+    },
+    {
+        "id": "4eTHN51vRvc",
+        "videoId": "4eTHN51vRvc",
+        "title": "Grok 4.5 casse les prix du code IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-11",
+        "url": "https://www.youtube.com/watch?v=4eTHN51vRvc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Grok 4.5 casse les prix du code IA..."
+    },
+    {
+        "id": "mx5fCEIGW00",
+        "videoId": "mx5fCEIGW00",
+        "title": "GPT-5.6 Sol vient-il vraiment de détrôner Claude Fable 5 ? 🤔",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-11",
+        "url": "https://www.youtube.com/watch?v=mx5fCEIGW00",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : GPT-5.6 Sol vient-il vraiment de détrôner Claude Fable 5 ? 🤔..."
+    },
+    {
+        "id": "h40pzj2qn94",
+        "videoId": "h40pzj2qn94",
+        "title": "Claude Design 2.0 : Formation COMPLÈTE (GRATUIT) 🔥",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-07-11",
+        "url": "https://www.youtube.com/watch?v=h40pzj2qn94",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Design 2.0 : Formation COMPLÈTE (GRATUIT) 🔥..."
+    },
     {
         "id": "pNHnjGhCMW4",
         "videoId": "pNHnjGhCMW4",
@@ -405,28 +460,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Ransomware IA 100% autonome..."
     },
     {
-        "id": "JXH2yjh5lOw",
-        "videoId": "JXH2yjh5lOw",
-        "title": "IA à l'école : sur qui la France doit copier ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-07",
-        "url": "https://www.youtube.com/watch?v=JXH2yjh5lOw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA à l'école : sur qui la France doit copier ?..."
-    },
-    {
-        "id": "tMFpDSiqigI",
-        "videoId": "tMFpDSiqigI",
-        "title": "Pokémon GO alimente des drones ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-07",
-        "url": "https://www.youtube.com/watch?v=tMFpDSiqigI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Pokémon GO alimente des drones ?..."
-    },
-    {
         "id": "KAhbWFS0qPY",
         "videoId": "KAhbWFS0qPY",
         "title": "Loop Transformers : la fin du raisonnement en tokens ?",
@@ -471,17 +504,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=K5npjKYU2yM",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Quasi tout le monde utilise Claude Code sans jamais le configurer correctement..."
-    },
-    {
-        "id": "BqmzfzBlX9I",
-        "videoId": "BqmzfzBlX9I",
-        "title": "ONU : les patrons IA à la table",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-06",
-        "url": "https://www.youtube.com/watch?v=BqmzfzBlX9I",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ONU : les patrons IA à la table..."
     },
     {
         "id": "Oqa894jQEDc",
@@ -565,13 +587,13 @@ export const allVideos = [
     {
         "id": "ReWSbxmIITM",
         "videoId": "ReWSbxmIITM",
-        "title": "Tout Comprendre sur les LLM en 15 Minutes",
+        "title": "Vous ne verrez plus Jamais l'IA de la même façon !",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-07-05",
         "url": "https://www.youtube.com/watch?v=ReWSbxmIITM",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Tout Comprendre sur les LLM en 15 Minutes..."
+        "summary": "Nouveauté de Yassine Sdiri : Vous ne verrez plus Jamais l'IA de la même façon !..."
     },
     {
         "id": "MEgLPh5FAqY",
@@ -879,13 +901,13 @@ export const allVideos = [
     {
         "id": "JKD_mD70ml8",
         "videoId": "JKD_mD70ml8",
-        "title": "Copilot Cowork, l'IA qui automatise 90% de vos tâches ! (Pour de vrai)",
+        "title": "Comment utiliser Copilot Cowork, l'IA qui automatise vos tâches !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-06-28",
         "url": "https://www.youtube.com/watch?v=JKD_mD70ml8",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Copilot Cowork, l'IA qui automatise 90% de vos tâches ! (Pour de vrai)..."
+        "summary": "Nouveauté de Elliott Pierret : Comment utiliser Copilot Cowork, l'IA qui automatise vos tâches !..."
     },
     {
         "id": "gl7sgL9pVSE",
@@ -1462,17 +1484,6 @@ export const allVideos = [
         "summary": "Nouveauté de Lucas Reverdy : Comment Faire un Site Web Cinématique à 5000€ avec Claude et Higgsfield (Guide Complet)..."
     },
     {
-        "id": "Vs3PYSOlCRs",
-        "videoId": "Vs3PYSOlCRs",
-        "title": "MiniMax M3 : Meilleur que Claude et 20x moins cher ? (Open Source) 😱",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-11",
-        "url": "https://www.youtube.com/watch?v=Vs3PYSOlCRs",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : MiniMax M3 : Meilleur que Claude et 20x moins cher ? (Open Source) 😱..."
-    },
-    {
         "id": "-0tsnwvnosw",
         "videoId": "-0tsnwvnosw",
         "title": "Les 5 réglages qui rendent Claude Code 10x meilleur",
@@ -1827,13 +1838,13 @@ export const allVideos = [
     {
         "id": "fmv0UlVZ19E",
         "videoId": "fmv0UlVZ19E",
-        "title": "J’ai testé ChatGPT dans Excel… plus magique que Claude ?",
+        "title": "ChatGPT est officiellement disponible dans Excel, et c’est magique !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-05-28",
         "url": "https://www.youtube.com/watch?v=fmv0UlVZ19E",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J’ai testé ChatGPT dans Excel… plus magique que Claude ?..."
+        "summary": "Nouveauté de Elliott Pierret : ChatGPT est officiellement disponible dans Excel, et c’est magique !..."
     },
     {
         "id": "mv5Sb75QLgc",
@@ -2087,16 +2098,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PxthwNWLV_E",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Mon classement des fonctionnalités dans Claude !..."
-    },
-    {
-        "id": "dyZjwf1GeYk",
-        "videoId": "dyZjwf1GeYk",
-        "title": "Anthropic vient de simplifier ENORMEMENT la gestion d’agents!",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-05-12",
-        "url": "https://www.youtube.com/watch?v=dyZjwf1GeYk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Anthropic vient de simplifier ENORMEMENT la gestion d’agents!..."
     }
 ];
