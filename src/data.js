@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-12T08:10:21.498Z
+// Fichier généré automatiquement le 2026-07-13T09:17:49.163Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:10:21 AM 7/12/2026";
+export const lastUpdate = "9:17:49 AM 7/13/2026";
 
 export const sources = [
     {
@@ -171,6 +171,39 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "rx7F_9Vm35Y",
+        "videoId": "rx7F_9Vm35Y",
+        "title": "ChatGPT ne répond plus, il exécute ! (ChatGPT Work &amp; GPT-5.6)",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-07-12",
+        "url": "https://www.youtube.com/watch?v=rx7F_9Vm35Y",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : ChatGPT ne répond plus, il exécute ! (ChatGPT Work &amp; GPT-5.6)..."
+    },
+    {
+        "id": "cOdrWiUDnAk",
+        "videoId": "cOdrWiUDnAk",
+        "title": "OpenAI en guerre avec tout le Monde : l'été sera chaud ! + Kompa !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-12",
+        "url": "https://www.youtube.com/watch?v=cOdrWiUDnAk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI en guerre avec tout le Monde : l'été sera chaud ! + Kompa !..."
+    },
+    {
+        "id": "oU2slLP15VA",
+        "videoId": "oU2slLP15VA",
+        "title": "Les 3 techniques utilisées par le génie derrière Claude IA",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-07-12",
+        "url": "https://www.youtube.com/watch?v=oU2slLP15VA",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Les 3 techniques utilisées par le génie derrière Claude IA..."
+    },
     {
         "id": "3IxXS5YY47A",
         "videoId": "3IxXS5YY47A",
@@ -449,17 +482,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de construire un repo qui donne à tes agents un accès en lecture sur 13 plateformes..."
     },
     {
-        "id": "0OELllPRYSU",
-        "videoId": "0OELllPRYSU",
-        "title": "Ransomware IA 100% autonome",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-07",
-        "url": "https://www.youtube.com/watch?v=0OELllPRYSU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Ransomware IA 100% autonome..."
-    },
-    {
         "id": "KAhbWFS0qPY",
         "videoId": "KAhbWFS0qPY",
         "title": "Loop Transformers : la fin du raisonnement en tokens ?",
@@ -587,13 +609,13 @@ export const allVideos = [
     {
         "id": "ReWSbxmIITM",
         "videoId": "ReWSbxmIITM",
-        "title": "Vous ne verrez plus Jamais l'IA de la même façon !",
+        "title": "Comprendre le Fonctionnement des LLM : Guide Complet Débutant",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-07-05",
         "url": "https://www.youtube.com/watch?v=ReWSbxmIITM",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Vous ne verrez plus Jamais l'IA de la même façon !..."
+        "summary": "Nouveauté de Yassine Sdiri : Comprendre le Fonctionnement des LLM : Guide Complet Débutant..."
     },
     {
         "id": "MEgLPh5FAqY",
@@ -1838,13 +1860,13 @@ export const allVideos = [
     {
         "id": "fmv0UlVZ19E",
         "videoId": "fmv0UlVZ19E",
-        "title": "ChatGPT est officiellement disponible dans Excel, et c’est magique !",
+        "title": "Si tu utilises Excel, fait ça avec ChatGPT et TOUT va changer !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-05-28",
         "url": "https://www.youtube.com/watch?v=fmv0UlVZ19E",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : ChatGPT est officiellement disponible dans Excel, et c’est magique !..."
+        "summary": "Nouveauté de Elliott Pierret : Si tu utilises Excel, fait ça avec ChatGPT et TOUT va changer !..."
     },
     {
         "id": "mv5Sb75QLgc",
@@ -2076,27 +2098,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=cY9h0zre4dI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : L’AIOS va me remplacer. Guide Claude Code AGENTIC OS..."
-    },
-    {
-        "id": "JOPrKZheAc4",
-        "videoId": "JOPrKZheAc4",
-        "title": "J'ai arrêté d'utiliser OpenClaw (je t'explique pourquoi)",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-05-13",
-        "url": "https://www.youtube.com/watch?v=JOPrKZheAc4",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : J'ai arrêté d'utiliser OpenClaw (je t'explique pourquoi)..."
-    },
-    {
-        "id": "PxthwNWLV_E",
-        "videoId": "PxthwNWLV_E",
-        "title": "Mon classement des fonctionnalités dans Claude !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-05-13",
-        "url": "https://www.youtube.com/watch?v=PxthwNWLV_E",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Mon classement des fonctionnalités dans Claude !..."
     }
 ];
