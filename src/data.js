@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-13T09:17:49.163Z
+// Fichier généré automatiquement le 2026-07-14T07:55:47.481Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:17:49 AM 7/13/2026";
+export const lastUpdate = "7:55:47 AM 7/14/2026";
 
 export const sources = [
     {
@@ -172,6 +172,105 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "HNouDXt5jKQ",
+        "videoId": "HNouDXt5jKQ",
+        "title": "Claude IA fait des slides à ta place (Guide complet)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=HNouDXt5jKQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude IA fait des slides à ta place (Guide complet)..."
+    },
+    {
+        "id": "41RqzbMfXSo",
+        "videoId": "41RqzbMfXSo",
+        "title": "Quelqu'un vient de construire un repo qui fait ce que ElevenLabs et Whisprflow font",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=41RqzbMfXSo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de construire un repo qui fait ce que ElevenLabs et Whisprflow font..."
+    },
+    {
+        "id": "C9oGaD_L29M",
+        "videoId": "C9oGaD_L29M",
+        "title": "J'ai testé l’énorme mise à jour de ChatGPT ! (ChatGPT Work + GPT-5.6)",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=C9oGaD_L29M",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : J'ai testé l’énorme mise à jour de ChatGPT ! (ChatGPT Work + GPT-5.6)..."
+    },
+    {
+        "id": "LklZ-aadCYo",
+        "videoId": "LklZ-aadCYo",
+        "title": "ChatGPT Work : chaos mais futur",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=LklZ-aadCYo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT Work : chaos mais futur..."
+    },
+    {
+        "id": "Itej7Ax0XG8",
+        "videoId": "Itej7Ax0XG8",
+        "title": "OpenAI en guerre avec tout le Monde : l'été sera chaud !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=Itej7Ax0XG8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI en guerre avec tout le Monde : l'été sera chaud !..."
+    },
+    {
+        "id": "cOdrWiUDnAk",
+        "videoId": "cOdrWiUDnAk",
+        "title": "OpenAI en guerre avec tout le Monde : l'été sera chaud ! + Kompa !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=cOdrWiUDnAk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI en guerre avec tout le Monde : l'été sera chaud ! + Kompa !..."
+    },
+    {
+        "id": "Xtp6ws8_Qns",
+        "videoId": "Xtp6ws8_Qns",
+        "title": "Mistral pilote des robots à webcam",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=Xtp6ws8_Qns",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral pilote des robots à webcam..."
+    },
+    {
+        "id": "2bawcyV1PFg",
+        "videoId": "2bawcyV1PFg",
+        "title": "GPT 5.6 détrône vraiment Fable 5 ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=2bawcyV1PFg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : GPT 5.6 détrône vraiment Fable 5 ?..."
+    },
+    {
+        "id": "Sj3Z1-LO-I8",
+        "videoId": "Sj3Z1-LO-I8",
+        "title": "Mon système : publier régulier avec 1 jour par semaine",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-07-13",
+        "url": "https://www.youtube.com/watch?v=Sj3Z1-LO-I8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Mon système : publier régulier avec 1 jour par semaine..."
+    },
+    {
         "id": "rx7F_9Vm35Y",
         "videoId": "rx7F_9Vm35Y",
         "title": "ChatGPT ne répond plus, il exécute ! (ChatGPT Work &amp; GPT-5.6)",
@@ -183,26 +282,15 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : ChatGPT ne répond plus, il exécute ! (ChatGPT Work &amp; GPT-5.6)..."
     },
     {
-        "id": "cOdrWiUDnAk",
-        "videoId": "cOdrWiUDnAk",
-        "title": "OpenAI en guerre avec tout le Monde : l'été sera chaud ! + Kompa !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-12",
-        "url": "https://www.youtube.com/watch?v=cOdrWiUDnAk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI en guerre avec tout le Monde : l'été sera chaud ! + Kompa !..."
-    },
-    {
         "id": "oU2slLP15VA",
         "videoId": "oU2slLP15VA",
-        "title": "Les 3 techniques utilisées par le génie derrière Claude IA",
+        "title": "La nouvelle méthode pour utiliser Claude IA comme un PRO",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-07-12",
         "url": "https://www.youtube.com/watch?v=oU2slLP15VA",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Les 3 techniques utilisées par le génie derrière Claude IA..."
+        "summary": "Nouveauté de Yassine Sdiri : La nouvelle méthode pour utiliser Claude IA comme un PRO..."
     },
     {
         "id": "3IxXS5YY47A",
@@ -390,39 +478,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Epov5rLUepo",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : On découvre que l'IA pourrait avoir une conscience !..."
-    },
-    {
-        "id": "HJLRa9sg9x0",
-        "videoId": "HJLRa9sg9x0",
-        "title": "On découvre que l'IA pourrait avoir une conscience ! 2/2",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-08",
-        "url": "https://www.youtube.com/watch?v=HJLRa9sg9x0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : On découvre que l'IA pourrait avoir une conscience ! 2/2..."
-    },
-    {
-        "id": "_8rIJ_MxZrE",
-        "videoId": "_8rIJ_MxZrE",
-        "title": "On découvre que l'IA pourrait avoir une conscience ! 1/2",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-08",
-        "url": "https://www.youtube.com/watch?v=_8rIJ_MxZrE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : On découvre que l'IA pourrait avoir une conscience ! 1/2..."
-    },
-    {
-        "id": "AOD2n6XlGR4",
-        "videoId": "AOD2n6XlGR4",
-        "title": "Un androïde compagnon à 15 000€",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-08",
-        "url": "https://www.youtube.com/watch?v=AOD2n6XlGR4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Un androïde compagnon à 15 000€..."
     },
     {
         "id": "J8PZ1os5zxY",
@@ -842,28 +897,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RUoIJU9tTeI",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : CLAUDE génère maintenant des images et vidéos (je montre TOUT)..."
-    },
-    {
-        "id": "wEaJT8c5xyY",
-        "videoId": "wEaJT8c5xyY",
-        "title": "Ce site regroupe plus de 142.000 compétences gratuites pour n’importe quel Agent IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-30",
-        "url": "https://www.youtube.com/watch?v=wEaJT8c5xyY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ce site regroupe plus de 142.000 compétences gratuites pour n’importe quel Agent IA !..."
-    },
-    {
-        "id": "xG4iLSn7kbk",
-        "videoId": "xG4iLSn7kbk",
-        "title": "Qu'est-ce qui se passe quand tu demandes à ChatGPT d'effacer toute ton empreinte d'internet ?",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-30",
-        "url": "https://www.youtube.com/watch?v=xG4iLSn7kbk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Qu'est-ce qui se passe quand tu demandes à ChatGPT d'effacer toute ton empreinte d'internet ?..."
     },
     {
         "id": "fkFQHMCjbJw",
@@ -1449,17 +1482,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=myVZ3Vb3YkU",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : HISTORIQUE ! (l’affaire Claude Fable 5)..."
-    },
-    {
-        "id": "SBSiEeYuD4U",
-        "videoId": "SBSiEeYuD4U",
-        "title": "Hermes WebUI : l’agent IA qui enterre OpenClaw ? 😱",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-12",
-        "url": "https://www.youtube.com/watch?v=SBSiEeYuD4U",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Hermes WebUI : l’agent IA qui enterre OpenClaw ? 😱..."
     },
     {
         "id": "qfRosVmvKIk",
@@ -2076,27 +2098,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9nXqUad7x9o",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Actus IA : ChatGPT, Gemini, Claude... du nouveau PARTOUT !..."
-    },
-    {
-        "id": "uHHYXQZzNSM",
-        "videoId": "uHHYXQZzNSM",
-        "title": "J'ai remplacé mon monteur vidéo par Claude (voici le workflow exact)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-05-14",
-        "url": "https://www.youtube.com/watch?v=uHHYXQZzNSM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : J'ai remplacé mon monteur vidéo par Claude (voici le workflow exact)..."
-    },
-    {
-        "id": "cY9h0zre4dI",
-        "videoId": "cY9h0zre4dI",
-        "title": "L’AIOS va me remplacer. Guide Claude Code AGENTIC OS",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-05-14",
-        "url": "https://www.youtube.com/watch?v=cY9h0zre4dI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : L’AIOS va me remplacer. Guide Claude Code AGENTIC OS..."
     }
 ];
