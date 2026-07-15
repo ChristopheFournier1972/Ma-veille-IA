@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-14T07:55:47.481Z
+// Fichier généré automatiquement le 2026-07-15T08:00:44.103Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:55:47 AM 7/14/2026";
+export const lastUpdate = "8:00:44 AM 7/15/2026";
 
 export const sources = [
     {
@@ -171,6 +171,72 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "mFYhqEDYeEQ",
+        "videoId": "mFYhqEDYeEQ",
+        "title": "Claude Science est disponible !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-14",
+        "url": "https://www.youtube.com/watch?v=mFYhqEDYeEQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude Science est disponible !..."
+    },
+    {
+        "id": "1slv_r8DvXc",
+        "videoId": "1slv_r8DvXc",
+        "title": "Les entreprises paient entre 3 000 et 10 000 € pour installer des systèmes IA simples",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-14",
+        "url": "https://www.youtube.com/watch?v=1slv_r8DvXc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Les entreprises paient entre 3 000 et 10 000 € pour installer des systèmes IA simples..."
+    },
+    {
+        "id": "EBe3w4Bpd2k",
+        "videoId": "EBe3w4Bpd2k",
+        "title": "L'Europe à la ramasse sur l'IA, le cyber, les réseaux... Alerte !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-14",
+        "url": "https://www.youtube.com/watch?v=EBe3w4Bpd2k",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'Europe à la ramasse sur l'IA, le cyber, les réseaux... Alerte !..."
+    },
+    {
+        "id": "9KZ0I8bVh3A",
+        "videoId": "9KZ0I8bVh3A",
+        "title": "Apple vs OpenAI : secrets volés ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-14",
+        "url": "https://www.youtube.com/watch?v=9KZ0I8bVh3A",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Apple vs OpenAI : secrets volés ?..."
+    },
+    {
+        "id": "DG5OOL6Ml-A",
+        "videoId": "DG5OOL6Ml-A",
+        "title": "Kompa, la carte gratuite des usages de l'IA !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-14",
+        "url": "https://www.youtube.com/watch?v=DG5OOL6Ml-A",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Kompa, la carte gratuite des usages de l'IA !..."
+    },
+    {
+        "id": "_TGETPtnSes",
+        "videoId": "_TGETPtnSes",
+        "title": "ChatGPT va afficher de la pub ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-14",
+        "url": "https://www.youtube.com/watch?v=_TGETPtnSes",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT va afficher de la pub ?..."
+    },
     {
         "id": "HNouDXt5jKQ",
         "videoId": "HNouDXt5jKQ",
@@ -425,28 +491,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Ce scrapper est 1600x plus rapide que les autres scrappers !..."
     },
     {
-        "id": "qJw5WLm7R4k",
-        "videoId": "qJw5WLm7R4k",
-        "title": "ZCode : la Chine défie Claude Code",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-09",
-        "url": "https://www.youtube.com/watch?v=qJw5WLm7R4k",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ZCode : la Chine défie Claude Code..."
-    },
-    {
-        "id": "Wc1-0qWhqgY",
-        "videoId": "Wc1-0qWhqgY",
-        "title": "Chine ferme l’IA : l’Europe piégée",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-09",
-        "url": "https://www.youtube.com/watch?v=Wc1-0qWhqgY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Chine ferme l’IA : l’Europe piégée..."
-    },
-    {
         "id": "5dF9rDlMGhE",
         "videoId": "5dF9rDlMGhE",
         "title": "Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire.",
@@ -456,28 +500,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5dF9rDlMGhE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Le nouveau ChatGPT est DISPO : voici tout ce qu’il peut faire...."
-    },
-    {
-        "id": "Ir3dPeSFTR0",
-        "videoId": "Ir3dPeSFTR0",
-        "title": "Claude : ses pensées révélées",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-08",
-        "url": "https://www.youtube.com/watch?v=Ir3dPeSFTR0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude : ses pensées révélées..."
-    },
-    {
-        "id": "Epov5rLUepo",
-        "videoId": "Epov5rLUepo",
-        "title": "On découvre que l'IA pourrait avoir une conscience !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-08",
-        "url": "https://www.youtube.com/watch?v=Epov5rLUepo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : On découvre que l'IA pourrait avoir une conscience !..."
     },
     {
         "id": "J8PZ1os5zxY",
@@ -855,17 +877,6 @@ export const allVideos = [
         "summary": "Nouveauté de Etienne Tillier : La seule chose que l'IA ne peut pas copier..."
     },
     {
-        "id": "376dfrK-D7A",
-        "videoId": "376dfrK-D7A",
-        "title": "Top 3 des certifications IA que chaque étudiant devrait avoir sur son CV.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-01",
-        "url": "https://www.youtube.com/watch?v=376dfrK-D7A",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Top 3 des certifications IA que chaque étudiant devrait avoir sur son CV...."
-    },
-    {
         "id": "x-Pd8VtGkFw",
         "videoId": "x-Pd8VtGkFw",
         "title": "Claude Sonnet 5 : Anthropic casse le prix des agents IA 🔥 (+ Test)",
@@ -886,17 +897,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ffwftm89rQg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens...."
-    },
-    {
-        "id": "RUoIJU9tTeI",
-        "videoId": "RUoIJU9tTeI",
-        "title": "CLAUDE génère maintenant des images et vidéos (je montre TOUT)",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-06-30",
-        "url": "https://www.youtube.com/watch?v=RUoIJU9tTeI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE génère maintenant des images et vidéos (je montre TOUT)..."
     },
     {
         "id": "fkFQHMCjbJw",
@@ -2087,16 +2087,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=q5IfMPw6mFg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)..."
-    },
-    {
-        "id": "9nXqUad7x9o",
-        "videoId": "9nXqUad7x9o",
-        "title": "Actus IA : ChatGPT, Gemini, Claude... du nouveau PARTOUT !",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-05-15",
-        "url": "https://www.youtube.com/watch?v=9nXqUad7x9o",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Actus IA : ChatGPT, Gemini, Claude... du nouveau PARTOUT !..."
     }
 ];
