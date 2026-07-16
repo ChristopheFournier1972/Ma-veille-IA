@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-15T08:00:44.103Z
+// Fichier généré automatiquement le 2026-07-16T08:05:29.814Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:00:44 AM 7/15/2026";
+export const lastUpdate = "8:05:29 AM 7/16/2026";
 
 export const sources = [
     {
@@ -172,6 +172,83 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "vEWDIM24VkE",
+        "videoId": "vEWDIM24VkE",
+        "title": "La Chine vient de sortir une version gratuite de leur modèle le plus puissant",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-15",
+        "url": "https://www.youtube.com/watch?v=vEWDIM24VkE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : La Chine vient de sortir une version gratuite de leur modèle le plus puissant..."
+    },
+    {
+        "id": "wtF0pxFYfcY",
+        "videoId": "wtF0pxFYfcY",
+        "title": "Claude peut analyser si ton salaire est dans la norme du marché !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-15",
+        "url": "https://www.youtube.com/watch?v=wtF0pxFYfcY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut analyser si ton salaire est dans la norme du marché !..."
+    },
+    {
+        "id": "h3pjyTfOLys",
+        "videoId": "h3pjyTfOLys",
+        "title": "Chat Control : chiffrement sauvé ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-15",
+        "url": "https://www.youtube.com/watch?v=h3pjyTfOLys",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Chat Control : chiffrement sauvé ?..."
+    },
+    {
+        "id": "yxr6VO1jKnk",
+        "videoId": "yxr6VO1jKnk",
+        "title": "L'Europe à la ramasse sur l'IA, le cyber, les réseaux... Alerte !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-15",
+        "url": "https://www.youtube.com/watch?v=yxr6VO1jKnk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'Europe à la ramasse sur l'IA, le cyber, les réseaux... Alerte !..."
+    },
+    {
+        "id": "EBe3w4Bpd2k",
+        "videoId": "EBe3w4Bpd2k",
+        "title": "L'Europe à la ramasse sur l'IA, le cyber, les réseaux... Alerte !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-15",
+        "url": "https://www.youtube.com/watch?v=EBe3w4Bpd2k",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'Europe à la ramasse sur l'IA, le cyber, les réseaux... Alerte !..."
+    },
+    {
+        "id": "LbQT8bgxT1E",
+        "videoId": "LbQT8bgxT1E",
+        "title": "Meta casse les prix de l’API IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-15",
+        "url": "https://www.youtube.com/watch?v=LbQT8bgxT1E",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta casse les prix de l’API IA..."
+    },
+    {
+        "id": "-Fc0B2fVY6U",
+        "videoId": "-Fc0B2fVY6U",
+        "title": "Bloome : J’ai testé une vraie équipe d’agents IA 🤖🔥",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-15",
+        "url": "https://www.youtube.com/watch?v=-Fc0B2fVY6U",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Bloome : J’ai testé une vraie équipe d’agents IA 🤖🔥..."
+    },
+    {
         "id": "mFYhqEDYeEQ",
         "videoId": "mFYhqEDYeEQ",
         "title": "Claude Science est disponible !",
@@ -192,17 +269,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=1slv_r8DvXc",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Les entreprises paient entre 3 000 et 10 000 € pour installer des systèmes IA simples..."
-    },
-    {
-        "id": "EBe3w4Bpd2k",
-        "videoId": "EBe3w4Bpd2k",
-        "title": "L'Europe à la ramasse sur l'IA, le cyber, les réseaux... Alerte !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-14",
-        "url": "https://www.youtube.com/watch?v=EBe3w4Bpd2k",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'Europe à la ramasse sur l'IA, le cyber, les réseaux... Alerte !..."
     },
     {
         "id": "9KZ0I8bVh3A",
@@ -339,13 +405,13 @@ export const allVideos = [
     {
         "id": "rx7F_9Vm35Y",
         "videoId": "rx7F_9Vm35Y",
-        "title": "ChatGPT ne répond plus, il exécute ! (ChatGPT Work &amp; GPT-5.6)",
+        "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-07-12",
         "url": "https://www.youtube.com/watch?v=rx7F_9Vm35Y",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : ChatGPT ne répond plus, il exécute ! (ChatGPT Work &amp; GPT-5.6)..."
+        "summary": "Nouveauté de Elliott Pierret : ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)..."
     },
     {
         "id": "oU2slLP15VA",
@@ -434,39 +500,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=2Xy4JdYyXvM",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : GPT-5.6 bouleverse l’IA..."
-    },
-    {
-        "id": "kujH3Yc2pXA",
-        "videoId": "kujH3Yc2pXA",
-        "title": "GPT-5.6 est là, et une avalanche de modèle pour l'été",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-10",
-        "url": "https://www.youtube.com/watch?v=kujH3Yc2pXA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-5.6 est là, et une avalanche de modèle pour l'été..."
-    },
-    {
-        "id": "a_YIVRCnEsQ",
-        "videoId": "a_YIVRCnEsQ",
-        "title": "L'actualité tech du 10/07/2026 en Live sur Renaud Dékode",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-10",
-        "url": "https://www.youtube.com/watch?v=a_YIVRCnEsQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'actualité tech du 10/07/2026 en Live sur Renaud Dékode..."
-    },
-    {
-        "id": "oeXIz_W6wTE",
-        "videoId": "oeXIz_W6wTE",
-        "title": "Réseaux sociaux : loi 15 ans bloquée",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-10",
-        "url": "https://www.youtube.com/watch?v=oeXIz_W6wTE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Réseaux sociaux : loi 15 ans bloquée..."
     },
     {
         "id": "k3SxB099nlo",
@@ -754,13 +787,13 @@ export const allVideos = [
     {
         "id": "bDkqxrJsiCo",
         "videoId": "bDkqxrJsiCo",
-        "title": "Ton IA n'est pas neutre. Voici pourquoi",
+        "title": "Est-ce que ton IA te manipule ?",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-07-04",
         "url": "https://www.youtube.com/watch?v=bDkqxrJsiCo",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Ton IA n'est pas neutre. Voici pourquoi..."
+        "summary": "Nouveauté de Eliott Meunier : Est-ce que ton IA te manipule ?..."
     },
     {
         "id": "7eSEL11lL_M",
@@ -785,17 +818,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Nouvelle IA Karpathy: 10X Plus Simple, Ultra Efficace! #shorts...",
         "isShort": true
-    },
-    {
-        "id": "hdqEwB_EcEg",
-        "videoId": "hdqEwB_EcEg",
-        "title": "Anthropic offre littéralement six mois gratuits du plan Claude Max.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-03",
-        "url": "https://www.youtube.com/watch?v=hdqEwB_EcEg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Anthropic offre littéralement six mois gratuits du plan Claude Max...."
     },
     {
         "id": "Sk0VgipquZc",
@@ -842,17 +864,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=B3XeYkaZrjY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé des pubs pro en 5 minutes - Claude Fable 5 + Higgsfield MCP !..."
-    },
-    {
-        "id": "8bCDHJ5t_H4",
-        "videoId": "8bCDHJ5t_H4",
-        "title": "Claude peut enfin regarder des vidéos",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-02",
-        "url": "https://www.youtube.com/watch?v=8bCDHJ5t_H4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude peut enfin regarder des vidéos..."
     },
     {
         "id": "0lDVL03DEa0",
@@ -1449,17 +1460,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5WiuP81OVJo",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : On compare nos seconds cerveau IA (voici ce qui marche vraiment)..."
-    },
-    {
-        "id": "LYE4iSRwNWA",
-        "videoId": "LYE4iSRwNWA",
-        "title": "FABLE 5 : La Chute BRUTALE du Modèle Le Plus Attendu (J’explique tout)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-13",
-        "url": "https://www.youtube.com/watch?v=LYE4iSRwNWA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : FABLE 5 : La Chute BRUTALE du Modèle Le Plus Attendu (J’explique tout)..."
     },
     {
         "id": "h81YbJcL54c",
@@ -2076,16 +2076,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=oS1RvuLPGbA",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Deviens un Expert IA avec Claude en 2026 (FORMATION 6 HEURES)..."
-    },
-    {
-        "id": "q5IfMPw6mFg",
-        "videoId": "q5IfMPw6mFg",
-        "title": "Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-16",
-        "url": "https://www.youtube.com/watch?v=q5IfMPw6mFg",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Ce dev gère 4 agents IA comme une équipe d'ingénieurs - co-fondateur d'Argil.AI (YC)..."
     }
 ];
