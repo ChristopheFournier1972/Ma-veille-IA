@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-16T08:05:29.814Z
+// Fichier généré automatiquement le 2026-07-17T08:02:50.235Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:05:29 AM 7/16/2026";
+export const lastUpdate = "8:02:50 AM 7/17/2026";
 
 export const sources = [
     {
@@ -171,6 +171,61 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "gxeROwXU_AA",
+        "videoId": "gxeROwXU_AA",
+        "title": "Une IA, un objet IA, et la pire idée de l'IA : joyeux été !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-17",
+        "url": "https://www.youtube.com/watch?v=gxeROwXU_AA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Une IA, un objet IA, et la pire idée de l'IA : joyeux été !..."
+    },
+    {
+        "id": "JnUPQ0lwgpI",
+        "videoId": "JnUPQ0lwgpI",
+        "title": "Voici Copilot Cowork, l'IA qui automatise vos tâches !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=JnUPQ0lwgpI",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Voici Copilot Cowork, l'IA qui automatise vos tâches !..."
+    },
+    {
+        "id": "7_7WOjZswh4",
+        "videoId": "7_7WOjZswh4",
+        "title": "FSB : 16 ans d'espionnage en France",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=7_7WOjZswh4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : FSB : 16 ans d'espionnage en France..."
+    },
+    {
+        "id": "MlFANuVPvsk",
+        "videoId": "MlFANuVPvsk",
+        "title": "Claude gratuit pour profs US",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=MlFANuVPvsk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude gratuit pour profs US..."
+    },
+    {
+        "id": "qUZiF4oPZeg",
+        "videoId": "qUZiF4oPZeg",
+        "title": "NotebookLM : le RAG nouveau GRATUIT (OPENSOURCE) 🧠",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-07-16",
+        "url": "https://www.youtube.com/watch?v=qUZiF4oPZeg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : NotebookLM : le RAG nouveau GRATUIT (OPENSOURCE) 🧠..."
+    },
     {
         "id": "vEWDIM24VkE",
         "videoId": "vEWDIM24VkE",
@@ -436,28 +491,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : ChatGPT voix : fini le talkie-walkie..."
     },
     {
-        "id": "zYL3i1Fy5r8",
-        "videoId": "zYL3i1Fy5r8",
-        "title": "ChatGPT Work : enfin, voila l'application utile !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-11",
-        "url": "https://www.youtube.com/watch?v=zYL3i1Fy5r8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ChatGPT Work : enfin, voila l'application utile !..."
-    },
-    {
-        "id": "4eTHN51vRvc",
-        "videoId": "4eTHN51vRvc",
-        "title": "Grok 4.5 casse les prix du code IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-11",
-        "url": "https://www.youtube.com/watch?v=4eTHN51vRvc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Grok 4.5 casse les prix du code IA..."
-    },
-    {
         "id": "mx5fCEIGW00",
         "videoId": "mx5fCEIGW00",
         "title": "GPT-5.6 Sol vient-il vraiment de détrôner Claude Fable 5 ? 🤔",
@@ -471,13 +504,13 @@ export const allVideos = [
     {
         "id": "h40pzj2qn94",
         "videoId": "h40pzj2qn94",
-        "title": "Claude Design 2.0 : Formation COMPLÈTE (GRATUIT) 🔥",
+        "title": "Claude Design 2.0 : Formation COMPLÈTE (GRATUIT) ��",
         "author": "iAlan",
         "source": "@iAlan_automatise",
         "date": "2026-07-11",
         "url": "https://www.youtube.com/watch?v=h40pzj2qn94",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude Design 2.0 : Formation COMPLÈTE (GRATUIT) 🔥..."
+        "summary": "Nouveauté de iAlan : Claude Design 2.0 : Formation COMPLÈTE (GRATUIT) ��..."
     },
     {
         "id": "pNHnjGhCMW4",
@@ -489,17 +522,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pNHnjGhCMW4",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Le créateur de Claude Code vient de dire que les anciens métiers sont obsolètes..."
-    },
-    {
-        "id": "2Xy4JdYyXvM",
-        "videoId": "2Xy4JdYyXvM",
-        "title": "GPT-5.6 bouleverse l’IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-10",
-        "url": "https://www.youtube.com/watch?v=2Xy4JdYyXvM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-5.6 bouleverse l’IA..."
     },
     {
         "id": "k3SxB099nlo",
@@ -2054,27 +2076,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tWneZs6ttSA",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Canva : tous les raccourcis et réglages pour gagner 1h chaque semaine..."
-    },
-    {
-        "id": "T7vTh4StDZM",
-        "videoId": "T7vTh4StDZM",
-        "title": "Comment devenir quelqu'un d'autre pour créer sa chance",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-05-17",
-        "url": "https://www.youtube.com/watch?v=T7vTh4StDZM",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Comment devenir quelqu'un d'autre pour créer sa chance..."
-    },
-    {
-        "id": "oS1RvuLPGbA",
-        "videoId": "oS1RvuLPGbA",
-        "title": "Deviens un Expert IA avec Claude en 2026 (FORMATION 6 HEURES)",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-05-17",
-        "url": "https://www.youtube.com/watch?v=oS1RvuLPGbA",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Deviens un Expert IA avec Claude en 2026 (FORMATION 6 HEURES)..."
     }
 ];
