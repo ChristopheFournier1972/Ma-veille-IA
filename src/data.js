@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-17T08:02:50.235Z
+// Fichier généré automatiquement le 2026-07-18T07:42:15.596Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:02:50 AM 7/17/2026";
+export const lastUpdate = "7:42:15 AM 7/18/2026";
 
 export const sources = [
     {
@@ -172,6 +172,28 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "aRqKtZOT6c8",
+        "videoId": "aRqKtZOT6c8",
+        "title": "30 skills Claude Code qui fonctionnent ensemble pour construire une marque solide.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-17",
+        "url": "https://www.youtube.com/watch?v=aRqKtZOT6c8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 30 skills Claude Code qui fonctionnent ensemble pour construire une marque solide...."
+    },
+    {
+        "id": "Uw9qdnKekR0",
+        "videoId": "Uw9qdnKekR0",
+        "title": "Kimi K3 : l’IA ouverte qui choque",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-17",
+        "url": "https://www.youtube.com/watch?v=Uw9qdnKekR0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Kimi K3 : l’IA ouverte qui choque..."
+    },
+    {
         "id": "gxeROwXU_AA",
         "videoId": "gxeROwXU_AA",
         "title": "Une IA, un objet IA, et la pire idée de l'IA : joyeux été !",
@@ -181,6 +203,39 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gxeROwXU_AA",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Une IA, un objet IA, et la pire idée de l'IA : joyeux été !..."
+    },
+    {
+        "id": "ZEbdDeSrJOU",
+        "videoId": "ZEbdDeSrJOU",
+        "title": "Une IA, un objet IA, et la pire idée de l'IA : joyeux été !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-17",
+        "url": "https://www.youtube.com/watch?v=ZEbdDeSrJOU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Une IA, un objet IA, et la pire idée de l'IA : joyeux été !..."
+    },
+    {
+        "id": "1xAS2WE3uUE",
+        "videoId": "1xAS2WE3uUE",
+        "title": "AGI : Google veut un gendarme global",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-17",
+        "url": "https://www.youtube.com/watch?v=1xAS2WE3uUE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : AGI : Google veut un gendarme global..."
+    },
+    {
+        "id": "SJL830ZQytw",
+        "videoId": "SJL830ZQytw",
+        "title": "NVIDIA bouleverse l’architecture des LLM : 2,4× plus rapides",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-17",
+        "url": "https://www.youtube.com/watch?v=SJL830ZQytw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : NVIDIA bouleverse l’architecture des LLM : 2,4× plus rapides..."
     },
     {
         "id": "JnUPQ0lwgpI",
@@ -414,28 +469,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : OpenAI en guerre avec tout le Monde : l'été sera chaud !..."
     },
     {
-        "id": "cOdrWiUDnAk",
-        "videoId": "cOdrWiUDnAk",
-        "title": "OpenAI en guerre avec tout le Monde : l'été sera chaud ! + Kompa !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-13",
-        "url": "https://www.youtube.com/watch?v=cOdrWiUDnAk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI en guerre avec tout le Monde : l'été sera chaud ! + Kompa !..."
-    },
-    {
-        "id": "Xtp6ws8_Qns",
-        "videoId": "Xtp6ws8_Qns",
-        "title": "Mistral pilote des robots à webcam",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-13",
-        "url": "https://www.youtube.com/watch?v=Xtp6ws8_Qns",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral pilote des robots à webcam..."
-    },
-    {
         "id": "2bawcyV1PFg",
         "videoId": "2bawcyV1PFg",
         "title": "GPT 5.6 détrône vraiment Fable 5 ?",
@@ -478,17 +511,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=oU2slLP15VA",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : La nouvelle méthode pour utiliser Claude IA comme un PRO..."
-    },
-    {
-        "id": "3IxXS5YY47A",
-        "videoId": "3IxXS5YY47A",
-        "title": "ChatGPT voix : fini le talkie-walkie",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-11",
-        "url": "https://www.youtube.com/watch?v=3IxXS5YY47A",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ChatGPT voix : fini le talkie-walkie..."
     },
     {
         "id": "mx5fCEIGW00",
@@ -794,17 +816,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=d6qhmL7tNPE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Claude Fable est impressionnant mais il brûle les limites d'utilisation à une vitesse folle..."
-    },
-    {
-        "id": "GLlRO3Wo69w",
-        "videoId": "GLlRO3Wo69w",
-        "title": "Tu peux connecter Claude à Instagram et faire croître ton compte !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-04",
-        "url": "https://www.youtube.com/watch?v=GLlRO3Wo69w",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu peux connecter Claude à Instagram et faire croître ton compte !..."
     },
     {
         "id": "bDkqxrJsiCo",
@@ -1462,17 +1473,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Voilà pourquoi tu dois installer Hermes dès maintenant. (De 0 à ton premier agent)..."
     },
     {
-        "id": "rbjyR_uJlwU",
-        "videoId": "rbjyR_uJlwU",
-        "title": "Capafy AI : La Marketplace Pour Vendre Vos Workflows IA 💰🤖",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-14",
-        "url": "https://www.youtube.com/watch?v=rbjyR_uJlwU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Capafy AI : La Marketplace Pour Vendre Vos Workflows IA 💰🤖..."
-    },
-    {
         "id": "5WiuP81OVJo",
         "videoId": "5WiuP81OVJo",
         "title": "On compare nos seconds cerveau IA (voici ce qui marche vraiment)",
@@ -2054,27 +2054,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=wjFdqDyTz3s",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé 35 pubs vidéo en 1 minute avec Claude (Tuto MCP)..."
-    },
-    {
-        "id": "ZfOCoTnpymA",
-        "videoId": "ZfOCoTnpymA",
-        "title": "Divise ta facture Claude Code par 10 avec ce nouvel outil (Tuto Complet)",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-05-18",
-        "url": "https://www.youtube.com/watch?v=ZfOCoTnpymA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Divise ta facture Claude Code par 10 avec ce nouvel outil (Tuto Complet)..."
-    },
-    {
-        "id": "tWneZs6ttSA",
-        "videoId": "tWneZs6ttSA",
-        "title": "Canva : tous les raccourcis et réglages pour gagner 1h chaque semaine",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-05-18",
-        "url": "https://www.youtube.com/watch?v=tWneZs6ttSA",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Canva : tous les raccourcis et réglages pour gagner 1h chaque semaine..."
     }
 ];
