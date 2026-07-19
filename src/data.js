@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-18T07:42:15.596Z
+// Fichier généré automatiquement le 2026-07-19T08:09:37.600Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "7:42:15 AM 7/18/2026";
+export const lastUpdate = "8:09:37 AM 7/19/2026";
 
 export const sources = [
     {
@@ -171,6 +171,72 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "cBH0KT9SG_c",
+        "videoId": "cBH0KT9SG_c",
+        "title": "La nouvelle fonctionnalité de n8n est INCROYABLE (mieux que Claude Code?)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-07-19",
+        "url": "https://www.youtube.com/watch?v=cBH0KT9SG_c",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : La nouvelle fonctionnalité de n8n est INCROYABLE (mieux que Claude Code?)..."
+    },
+    {
+        "id": "lFgDdPY2sjU",
+        "videoId": "lFgDdPY2sjU",
+        "title": "Humanise les réponses que te donne Claude et passe tous les détecteurs d’IA",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-18",
+        "url": "https://www.youtube.com/watch?v=lFgDdPY2sjU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Humanise les réponses que te donne Claude et passe tous les détecteurs d’IA..."
+    },
+    {
+        "id": "XLrO1r2eIac",
+        "videoId": "XLrO1r2eIac",
+        "title": "Trois repos IA explosent sur GitHub aujourd'hui",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-18",
+        "url": "https://www.youtube.com/watch?v=XLrO1r2eIac",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Trois repos IA explosent sur GitHub aujourd'hui..."
+    },
+    {
+        "id": "p9hfvCiffB4",
+        "videoId": "p9hfvCiffB4",
+        "title": "GPT-Red attaque les IA d’OpenAI",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-18",
+        "url": "https://www.youtube.com/watch?v=p9hfvCiffB4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-Red attaque les IA d’OpenAI..."
+    },
+    {
+        "id": "cxo-wcAiEcU",
+        "videoId": "cxo-wcAiEcU",
+        "title": "OpenAI lance son premier gadget",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-18",
+        "url": "https://www.youtube.com/watch?v=cxo-wcAiEcU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI lance son premier gadget..."
+    },
+    {
+        "id": "bikD-n7cBgE",
+        "videoId": "bikD-n7cBgE",
+        "title": "L'IA qui ne lit pas vos conversations (et qui performe)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-18",
+        "url": "https://www.youtube.com/watch?v=bikD-n7cBgE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L'IA qui ne lit pas vos conversations (et qui performe)..."
+    },
     {
         "id": "aRqKtZOT6c8",
         "videoId": "aRqKtZOT6c8",
@@ -447,28 +513,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : J'ai testé l’énorme mise à jour de ChatGPT ! (ChatGPT Work + GPT-5.6)..."
     },
     {
-        "id": "LklZ-aadCYo",
-        "videoId": "LklZ-aadCYo",
-        "title": "ChatGPT Work : chaos mais futur",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-13",
-        "url": "https://www.youtube.com/watch?v=LklZ-aadCYo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ChatGPT Work : chaos mais futur..."
-    },
-    {
-        "id": "Itej7Ax0XG8",
-        "videoId": "Itej7Ax0XG8",
-        "title": "OpenAI en guerre avec tout le Monde : l'été sera chaud !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-13",
-        "url": "https://www.youtube.com/watch?v=Itej7Ax0XG8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI en guerre avec tout le Monde : l'été sera chaud !..."
-    },
-    {
         "id": "2bawcyV1PFg",
         "videoId": "2bawcyV1PFg",
         "title": "GPT 5.6 détrône vraiment Fable 5 ?",
@@ -504,13 +548,13 @@ export const allVideos = [
     {
         "id": "oU2slLP15VA",
         "videoId": "oU2slLP15VA",
-        "title": "La nouvelle méthode pour utiliser Claude IA comme un PRO",
+        "title": "La nouvelle méthode pour utiliser Claude IA sans prompt",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-07-12",
         "url": "https://www.youtube.com/watch?v=oU2slLP15VA",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : La nouvelle méthode pour utiliser Claude IA comme un PRO..."
+        "summary": "Nouveauté de Yassine Sdiri : La nouvelle méthode pour utiliser Claude IA sans prompt..."
     },
     {
         "id": "mx5fCEIGW00",
@@ -750,17 +794,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Réduis ton utilisation de tokens de 75% dans Claude !..."
     },
     {
-        "id": "7XTX2ET5kEE",
-        "videoId": "7XTX2ET5kEE",
-        "title": "Les meilleurs outils IA en 2026 !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-05",
-        "url": "https://www.youtube.com/watch?v=7XTX2ET5kEE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Les meilleurs outils IA en 2026 !..."
-    },
-    {
         "id": "ReWSbxmIITM",
         "videoId": "ReWSbxmIITM",
         "title": "Comprendre le Fonctionnement des LLM : Guide Complet Débutant",
@@ -805,17 +838,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Automatisez vos appels : IA Claude &amp; Google Calendar #shorts...",
         "isShort": true
-    },
-    {
-        "id": "d6qhmL7tNPE",
-        "videoId": "d6qhmL7tNPE",
-        "title": "Claude Fable est impressionnant mais il brûle les limites d'utilisation à une vitesse folle",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-04",
-        "url": "https://www.youtube.com/watch?v=d6qhmL7tNPE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude Fable est impressionnant mais il brûle les limites d'utilisation à une vitesse folle..."
     },
     {
         "id": "bDkqxrJsiCo",
@@ -2043,16 +2065,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=6sgCPGojZTA",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le prompt à toujours utiliser dans Claude !..."
-    },
-    {
-        "id": "wjFdqDyTz3s",
-        "videoId": "wjFdqDyTz3s",
-        "title": "J'ai créé 35 pubs vidéo en 1 minute avec Claude (Tuto MCP)",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-05-19",
-        "url": "https://www.youtube.com/watch?v=wjFdqDyTz3s",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : J'ai créé 35 pubs vidéo en 1 minute avec Claude (Tuto MCP)..."
     }
 ];
