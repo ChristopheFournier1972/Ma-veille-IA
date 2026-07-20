@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-19T08:09:37.600Z
+// Fichier généré automatiquement le 2026-07-20T08:50:44.935Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:09:37 AM 7/19/2026";
+export const lastUpdate = "8:50:44 AM 7/20/2026";
 
 export const sources = [
     {
@@ -171,6 +171,39 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "3q1slkjnJNE",
+        "videoId": "3q1slkjnJNE",
+        "title": "Comment je mène un Audit IA chez un client à 5M€ (extraits réels)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-07-19",
+        "url": "https://www.youtube.com/watch?v=3q1slkjnJNE",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Comment je mène un Audit IA chez un client à 5M€ (extraits réels)..."
+    },
+    {
+        "id": "yJgfMhRir0k",
+        "videoId": "yJgfMhRir0k",
+        "title": "10 certifications gratuites Claude et ChatGPT que chaque étudiant devrait avoir sur son CV.",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-19",
+        "url": "https://www.youtube.com/watch?v=yJgfMhRir0k",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 10 certifications gratuites Claude et ChatGPT que chaque étudiant devrait avoir sur son CV...."
+    },
+    {
+        "id": "ocFNQTfj49U",
+        "videoId": "ocFNQTfj49U",
+        "title": "Deepseek a résolu le plus gros problème de l’IA",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-07-19",
+        "url": "https://www.youtube.com/watch?v=ocFNQTfj49U",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Deepseek a résolu le plus gros problème de l’IA..."
+    },
     {
         "id": "cBH0KT9SG_c",
         "videoId": "cBH0KT9SG_c",
@@ -781,17 +814,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=g25mMKx_e0k",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Canva : 30 jours de contenu, une matinée de travail..."
-    },
-    {
-        "id": "LfWkYeyl7Rs",
-        "videoId": "LfWkYeyl7Rs",
-        "title": "Réduis ton utilisation de tokens de 75% dans Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-05",
-        "url": "https://www.youtube.com/watch?v=LfWkYeyl7Rs",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Réduis ton utilisation de tokens de 75% dans Claude !..."
     },
     {
         "id": "ReWSbxmIITM",
@@ -1882,13 +1904,13 @@ export const allVideos = [
     {
         "id": "MXs3pnS9ie4",
         "videoId": "MXs3pnS9ie4",
-        "title": "OPUS 4 8 est sorti: qu'est-ce qu'il vaut? 🧠",
+        "title": "OPUS 4 8 est sorti: qu'est-ce qu'il vaut? ���",
         "author": "Julien Sanson",
         "source": "@JulienSnsn",
         "date": "2026-05-30",
         "url": "https://www.youtube.com/watch?v=MXs3pnS9ie4",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : OPUS 4 8 est sorti: qu'est-ce qu'il vaut? 🧠..."
+        "summary": "Nouveauté de Julien Sanson : OPUS 4 8 est sorti: qu'est-ce qu'il vaut? ���..."
     },
     {
         "id": "oNfx1PdTXfU",
@@ -2043,27 +2065,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ULlBUO1dAQ4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude Design vs Figma : j'ai recréé Apple.com pour comparer..."
-    },
-    {
-        "id": "NU3G3RHuIX8",
-        "videoId": "NU3G3RHuIX8",
-        "title": "N'importe qui peut coder ? Ce gérant de salle d’escalade en est la PREUVE !",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=NU3G3RHuIX8",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : N'importe qui peut coder ? Ce gérant de salle d’escalade en est la PREUVE !..."
-    },
-    {
-        "id": "6sgCPGojZTA",
-        "videoId": "6sgCPGojZTA",
-        "title": "Le prompt à toujours utiliser dans Claude !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-05-20",
-        "url": "https://www.youtube.com/watch?v=6sgCPGojZTA",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Le prompt à toujours utiliser dans Claude !..."
     }
 ];
