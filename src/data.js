@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-20T08:50:44.935Z
+// Fichier généré automatiquement le 2026-07-21T08:21:06.212Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:50:44 AM 7/20/2026";
+export const lastUpdate = "8:21:06 AM 7/21/2026";
 
 export const sources = [
     {
@@ -171,6 +171,50 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "J5PzYNf8Xic",
+        "videoId": "J5PzYNf8Xic",
+        "title": "Maintenant tu peux avoir des visuels insanes sur ton site !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-20",
+        "url": "https://www.youtube.com/watch?v=J5PzYNf8Xic",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Maintenant tu peux avoir des visuels insanes sur ton site !..."
+    },
+    {
+        "id": "hJziz2RGFbc",
+        "videoId": "hJziz2RGFbc",
+        "title": "IA = média ? L’Allemagne tranche",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-07-20",
+        "url": "https://www.youtube.com/watch?v=hJziz2RGFbc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA = média ? L’Allemagne tranche..."
+    },
+    {
+        "id": "nMBWomG1koQ",
+        "videoId": "nMBWomG1koQ",
+        "title": "L’inexplicable découverte cachée dans Claude",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-07-20",
+        "url": "https://www.youtube.com/watch?v=nMBWomG1koQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : L’inexplicable découverte cachée dans Claude..."
+    },
+    {
+        "id": "IziMU2lXstI",
+        "videoId": "IziMU2lXstI",
+        "title": "J'ai testé 27 extensions NotebookLM, voici les 5 indispensables",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-07-20",
+        "url": "https://www.youtube.com/watch?v=IziMU2lXstI",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : J'ai testé 27 extensions NotebookLM, voici les 5 indispensables..."
+    },
     {
         "id": "3q1slkjnJNE",
         "videoId": "3q1slkjnJNE",
@@ -502,17 +546,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Kompa, la carte gratuite des usages de l'IA !..."
     },
     {
-        "id": "_TGETPtnSes",
-        "videoId": "_TGETPtnSes",
-        "title": "ChatGPT va afficher de la pub ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-14",
-        "url": "https://www.youtube.com/watch?v=_TGETPtnSes",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ChatGPT va afficher de la pub ?..."
-    },
-    {
         "id": "HNouDXt5jKQ",
         "videoId": "HNouDXt5jKQ",
         "title": "Claude IA fait des slides à ta place (Guide complet)",
@@ -746,17 +779,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : AI OS Révolutionne Mon Business : L'IA en 2026! #shorts...",
         "isShort": true
-    },
-    {
-        "id": "K5npjKYU2yM",
-        "videoId": "K5npjKYU2yM",
-        "title": "Quasi tout le monde utilise Claude Code sans jamais le configurer correctement",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-06",
-        "url": "https://www.youtube.com/watch?v=K5npjKYU2yM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quasi tout le monde utilise Claude Code sans jamais le configurer correctement..."
     },
     {
         "id": "Oqa894jQEDc",
@@ -1240,17 +1262,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ytvTKQ1iPsA",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le prompt le plus flippant à demander à ChatGPT ou Claude !..."
-    },
-    {
-        "id": "ep_XtuAVf80",
-        "videoId": "ep_XtuAVf80",
-        "title": "DeepSeek vient de résoudre le problème à 1 milliard de l’IA",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-06-23",
-        "url": "https://www.youtube.com/watch?v=ep_XtuAVf80",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek vient de résoudre le problème à 1 milliard de l’IA..."
     },
     {
         "id": "yIMEkzh3Spo",
@@ -2043,27 +2054,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=VMUDRIYRoQs",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Actus IA : Google dégaine... ChatGPT et Claude ripostent !..."
-    },
-    {
-        "id": "o3-6jJvOpjI",
-        "videoId": "o3-6jJvOpjI",
-        "title": "Codex est devenu INCROYABLE... 7 Exemples concrets !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=o3-6jJvOpjI",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Codex est devenu INCROYABLE... 7 Exemples concrets !..."
-    },
-    {
-        "id": "ULlBUO1dAQ4",
-        "videoId": "ULlBUO1dAQ4",
-        "title": "Claude Design vs Figma : j'ai recréé Apple.com pour comparer",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-05-21",
-        "url": "https://www.youtube.com/watch?v=ULlBUO1dAQ4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude Design vs Figma : j'ai recréé Apple.com pour comparer..."
     }
 ];
