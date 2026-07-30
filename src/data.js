@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-07-29T08:32:55.167Z
+// Fichier généré automatiquement le 2026-07-30T08:18:11.137Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:32:55 AM 7/29/2026";
+export const lastUpdate = "8:18:11 AM 7/30/2026";
 
 export const sources = [
     {
@@ -171,6 +171,50 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "_-oxY6Q8BBs",
+        "videoId": "_-oxY6Q8BBs",
+        "title": "L'outil IA n°1 sur Github vient de RÉSOUDRE le problème de recherche sur Claude",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-07-29",
+        "url": "https://www.youtube.com/watch?v=_-oxY6Q8BBs",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : L'outil IA n°1 sur Github vient de RÉSOUDRE le problème de recherche sur Claude..."
+    },
+    {
+        "id": "Mi-qTrUmRFA",
+        "videoId": "Mi-qTrUmRFA",
+        "title": "Les 4 meilleurs MCP pour Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-07-29",
+        "url": "https://www.youtube.com/watch?v=Mi-qTrUmRFA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Les 4 meilleurs MCP pour Claude !..."
+    },
+    {
+        "id": "Oee405ZdIEo",
+        "videoId": "Oee405ZdIEo",
+        "title": "Apple rachète une startup IA #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-29",
+        "url": "https://www.youtube.com/watch?v=Oee405ZdIEo",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Apple rachète une startup IA #actu..."
+    },
+    {
+        "id": "Y4lP5H7N9K4",
+        "videoId": "Y4lP5H7N9K4",
+        "title": "L’incident IA qui change tout pour la cybersécurité (actu IA)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-07-29",
+        "url": "https://www.youtube.com/watch?v=Y4lP5H7N9K4",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L’incident IA qui change tout pour la cybersécurité (actu IA)..."
+    },
     {
         "id": "iAZaRwS19k8",
         "videoId": "iAZaRwS19k8",
@@ -698,17 +742,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=cBH0KT9SG_c",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : La nouvelle fonctionnalité de n8n est INCROYABLE (mieux que Claude Code?)..."
-    },
-    {
-        "id": "lFgDdPY2sjU",
-        "videoId": "lFgDdPY2sjU",
-        "title": "Humanise les réponses que te donne Claude et passe tous les détecteurs d’IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-07-18",
-        "url": "https://www.youtube.com/watch?v=lFgDdPY2sjU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Humanise les réponses que te donne Claude et passe tous les détecteurs d’IA..."
     },
     {
         "id": "p9hfvCiffB4",
@@ -2153,49 +2186,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fOQCeQx22HI",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : J'ai forcé 3 IA à prédire les 104 matchs de la Coupe du Monde...."
-    },
-    {
-        "id": "pjRKfnlsTfk",
-        "videoId": "pjRKfnlsTfk",
-        "title": "Le vrai problème de l'IA en entreprise (que les consultants cachent)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=pjRKfnlsTfk",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le vrai problème de l'IA en entreprise (que les consultants cachent)..."
-    },
-    {
-        "id": "MXs3pnS9ie4",
-        "videoId": "MXs3pnS9ie4",
-        "title": "OPUS 4 8 est sorti: qu'est-ce qu'il vaut? 🧠",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=MXs3pnS9ie4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : OPUS 4 8 est sorti: qu'est-ce qu'il vaut? 🧠..."
-    },
-    {
-        "id": "oNfx1PdTXfU",
-        "videoId": "oNfx1PdTXfU",
-        "title": "OPUS 4.8 est arrivé: tout connaître en 12 min (sans HYPE)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=oNfx1PdTXfU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : OPUS 4.8 est arrivé: tout connaître en 12 min (sans HYPE)..."
-    },
-    {
-        "id": "tmXpiLrw3zA",
-        "videoId": "tmXpiLrw3zA",
-        "title": "J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-05-30",
-        "url": "https://www.youtube.com/watch?v=tmXpiLrw3zA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : J'ai refait Pokémon avec Claude Opus 4.8 en un seul prompt..."
     }
 ];
