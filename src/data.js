@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-03T09:35:15.356Z
+// Fichier généré automatiquement le 2026-08-04T08:29:58.294Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "9:35:15 AM 8/3/2026";
+export const lastUpdate = "8:29:58 AM 8/4/2026";
 
 export const sources = [
     {
@@ -172,6 +172,40 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "fjMpQlgZZAA",
+        "videoId": "fjMpQlgZZAA",
+        "title": "L’incident IA qui change tout pour la cybersécurité #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-03",
+        "url": "https://www.youtube.com/watch?v=fjMpQlgZZAA",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L’incident IA qui change tout pour la cybersécurité #actu..."
+    },
+    {
+        "id": "aMplSiLs8cs",
+        "videoId": "aMplSiLs8cs",
+        "title": "Sandbox Escape : Ce que l’incident OpenAI révèle",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-08-03",
+        "url": "https://www.youtube.com/watch?v=aMplSiLs8cs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Sandbox Escape : Ce que l’incident OpenAI révèle..."
+    },
+    {
+        "id": "eKrC-DvajHM",
+        "videoId": "eKrC-DvajHM",
+        "title": "AI OS: L'IA Révolutionne Votre Business #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-03",
+        "url": "https://www.youtube.com/watch?v=eKrC-DvajHM",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : AI OS: L'IA Révolutionne Votre Business #shorts...",
+        "isShort": true
+    },
+    {
         "id": "gBY3xIaDquY",
         "videoId": "gBY3xIaDquY",
         "title": "J'ai dépensé 50.000€ en moins d'1 an dans des formations (voici ce que j'ai appris)",
@@ -241,13 +275,13 @@ export const allVideos = [
     {
         "id": "JYCqijtVaMs",
         "videoId": "JYCqijtVaMs",
-        "title": "Augmente tes chances d’être embauchés avec Claude !",
+        "title": "Augmente tes chances d’être embauché avec Claude !",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-08-01",
         "url": "https://www.youtube.com/watch?v=JYCqijtVaMs",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Augmente tes chances d’être embauchés avec Claude !..."
+        "summary": "Nouveauté de Henri · ExplorIA : Augmente tes chances d’être embauché avec Claude !..."
     },
     {
         "id": "VebN7qEj99I",
@@ -1244,17 +1278,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Deepseek accélère de 78% !..."
     },
     {
-        "id": "oe3rPG87BhU",
-        "videoId": "oe3rPG87BhU",
-        "title": "Accio Work : Enfin Une Vraie Plateforme d’Agents IA ? 😱",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-07-06",
-        "url": "https://www.youtube.com/watch?v=oe3rPG87BhU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Accio Work : Enfin Une Vraie Plateforme d’Agents IA ? 😱..."
-    },
-    {
         "id": "WgXEaSGgZOo",
         "videoId": "WgXEaSGgZOo",
         "title": "Pilotez votre IA depuis votre téléphone : Incroyable synchronisation ! #shorts",
@@ -1516,17 +1539,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Fable 5 de RETOUR : Pourquoi l'IA était interdite aux USA?- Mythos, GPT 5.6: La fin des restrictions..."
     },
     {
-        "id": "gFSQgS0te60",
-        "videoId": "gFSQgS0te60",
-        "title": "J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-06-27",
-        "url": "https://www.youtube.com/watch?v=gFSQgS0te60",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : J'ai testé Hermès Agents : voici pourquoi je l'ai désinstallé..."
-    },
-    {
         "id": "s3DthPRppsc",
         "videoId": "s3DthPRppsc",
         "title": "L'agentique IA, le nouveau dropshipping",
@@ -1569,18 +1581,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pIa4jZuSlwI",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Etienne Tillier : L'unique secret pour survivre à l'IA en 2026..."
-    },
-    {
-        "id": "0tFB_UN7kI8",
-        "videoId": "0tFB_UN7kI8",
-        "title": "Domptez l'IA: Astuces PRO pour des Réponses Incroyables! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-06-24",
-        "url": "https://www.youtube.com/watch?v=0tFB_UN7kI8",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Domptez l'IA: Astuces PRO pour des Réponses Incroyables! #shorts...",
-        "isShort": true
     },
     {
         "id": "i6fNZBNYJ70",
@@ -2109,38 +2109,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=s_ShtMRFYOs",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Actus IA : les Agents IA débarquent de PARTOUT !..."
-    },
-    {
-        "id": "2u3A5-3FuEg",
-        "videoId": "2u3A5-3FuEg",
-        "title": "Claude Cowork: de débutant à ton premier agent 🤖",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-06-04",
-        "url": "https://www.youtube.com/watch?v=2u3A5-3FuEg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Claude Cowork: de débutant à ton premier agent 🤖..."
-    },
-    {
-        "id": "PValXQP9nEQ",
-        "videoId": "PValXQP9nEQ",
-        "title": "Claude Cowork: de débutant à tes premiers agents (en 20 min)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-06-04",
-        "url": "https://www.youtube.com/watch?v=PValXQP9nEQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Claude Cowork: de débutant à tes premiers agents (en 20 min)..."
-    },
-    {
-        "id": "1ccrMaPQYhs",
-        "videoId": "1ccrMaPQYhs",
-        "title": "Hermes APP est la : le TUTO pour l'utiliser 100% GRATUITEMENT 🤯",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-06-04",
-        "url": "https://www.youtube.com/watch?v=1ccrMaPQYhs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Hermes APP est la : le TUTO pour l'utiliser 100% GRATUITEMENT 🤯..."
     }
 ];
