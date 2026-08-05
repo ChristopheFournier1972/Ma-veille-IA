@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-04T08:29:58.294Z
+// Fichier généré automatiquement le 2026-08-05T08:28:41.060Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "8:29:58 AM 8/4/2026";
+export const lastUpdate = "8:28:41 AM 8/5/2026";
 
 export const sources = [
     {
@@ -172,6 +172,74 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "eWN535AMIzQ",
+        "videoId": "eWN535AMIzQ",
+        "title": "Créer ton 1er Agent IA sans coder en 30 min ! (je te montre TOUT)",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-08-04",
+        "url": "https://www.youtube.com/watch?v=eWN535AMIzQ",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Créer ton 1er Agent IA sans coder en 30 min ! (je te montre TOUT)..."
+    },
+    {
+        "id": "ALW2Yy0nUhI",
+        "videoId": "ALW2Yy0nUhI",
+        "title": "Interdiction des réseaux sociaux aux moins de 15 ans. L'enfumage.",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-04",
+        "url": "https://www.youtube.com/watch?v=ALW2Yy0nUhI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Interdiction des réseaux sociaux aux moins de 15 ans. L'enfumage...."
+    },
+    {
+        "id": "mwT6tsD6KqE",
+        "videoId": "mwT6tsD6KqE",
+        "title": "Google automatise l’ordinateur quantique #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-04",
+        "url": "https://www.youtube.com/watch?v=mwT6tsD6KqE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Google automatise l’ordinateur quantique #actu..."
+    },
+    {
+        "id": "YY4EzKZvUR4",
+        "videoId": "YY4EzKZvUR4",
+        "title": "GPT-2 à ChatGPT : La Révolution du Texte Généré ! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-04",
+        "url": "https://www.youtube.com/watch?v=YY4EzKZvUR4",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : GPT-2 à ChatGPT : La Révolution du Texte Généré ! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "yIoh6H-mJDo",
+        "videoId": "yIoh6H-mJDo",
+        "title": "AI OS Démo Gratuite : Template &amp; Installation Rapide! #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-04",
+        "url": "https://www.youtube.com/watch?v=yIoh6H-mJDo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : AI OS Démo Gratuite : Template &amp; Installation Rapide! #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "fsw03ZXHJik",
+        "videoId": "fsw03ZXHJik",
+        "title": "Maîtrisez Mistral avant tout le monde (tuto complet)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-08-04",
+        "url": "https://www.youtube.com/watch?v=fsw03ZXHJik",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Maîtrisez Mistral avant tout le monde (tuto complet)..."
+    },
+    {
         "id": "fjMpQlgZZAA",
         "videoId": "fjMpQlgZZAA",
         "title": "L’incident IA qui change tout pour la cybersécurité #actu",
@@ -185,13 +253,13 @@ export const allVideos = [
     {
         "id": "aMplSiLs8cs",
         "videoId": "aMplSiLs8cs",
-        "title": "Sandbox Escape : Ce que l’incident OpenAI révèle",
+        "title": "Pourquoi le Reward Hacking inquiète de plus en plus",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-08-03",
         "url": "https://www.youtube.com/watch?v=aMplSiLs8cs",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Sandbox Escape : Ce que l’incident OpenAI révèle..."
+        "summary": "Nouveauté de Nerdy Kings : Pourquoi le Reward Hacking inquiète de plus en plus..."
     },
     {
         "id": "eKrC-DvajHM",
@@ -1087,17 +1155,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Apple vs OpenAI : secrets volés ?..."
     },
     {
-        "id": "DG5OOL6Ml-A",
-        "videoId": "DG5OOL6Ml-A",
-        "title": "Kompa, la carte gratuite des usages de l'IA !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-07-14",
-        "url": "https://www.youtube.com/watch?v=DG5OOL6Ml-A",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Kompa, la carte gratuite des usages de l'IA !..."
-    },
-    {
         "id": "C9oGaD_L29M",
         "videoId": "C9oGaD_L29M",
         "title": "J'ai testé l’énorme mise à jour de ChatGPT ! (ChatGPT Work + GPT-5.6)",
@@ -1359,17 +1416,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "bDkqxrJsiCo",
-        "videoId": "bDkqxrJsiCo",
-        "title": "Est-ce que ton IA te manipule ?",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-07-04",
-        "url": "https://www.youtube.com/watch?v=bDkqxrJsiCo",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Est-ce que ton IA te manipule ?..."
-    },
-    {
         "id": "7eSEL11lL_M",
         "videoId": "7eSEL11lL_M",
         "title": "Claude AI: Votre Wiki Personnel Automatique Révolutionnaire! #shorts",
@@ -1391,30 +1437,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Dii44f2oigA",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Nouvelle IA Karpathy: 10X Plus Simple, Ultra Efficace! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "Sk0VgipquZc",
-        "videoId": "Sk0VgipquZc",
-        "title": "AIOS Cloud vs Local: Levé l'inarrêtable employé IA! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-07-03",
-        "url": "https://www.youtube.com/watch?v=Sk0VgipquZc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : AIOS Cloud vs Local: Levé l'inarrêtable employé IA! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "B5M3FcZq1Y0",
-        "videoId": "B5M3FcZq1Y0",
-        "title": "AIOS Révolutionne le Cloud: Créez Sites &amp; CRM Facilement! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-07-03",
-        "url": "https://www.youtube.com/watch?v=B5M3FcZq1Y0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : AIOS Révolutionne le Cloud: Créez Sites &amp; CRM Facilement! #shorts...",
         "isShort": true
     },
     {
@@ -2098,16 +2120,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PAw5aeiEs5Q",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Graphify: Le 'second cerveau' qui sauve tes tokens sur Claude Code !..."
-    },
-    {
-        "id": "s_ShtMRFYOs",
-        "videoId": "s_ShtMRFYOs",
-        "title": "Actus IA : les Agents IA débarquent de PARTOUT !",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-06-05",
-        "url": "https://www.youtube.com/watch?v=s_ShtMRFYOs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Actus IA : les Agents IA débarquent de PARTOUT !..."
     }
 ];
