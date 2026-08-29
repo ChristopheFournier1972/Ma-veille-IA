@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-28T18:08:25.537Z
+// Fichier généré automatiquement le 2026-08-29T12:11:36.242Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "6:08:25 PM 8/28/2026";
+export const lastUpdate = "12:11:36 PM 8/29/2026";
 
 export const sources = [
     {
@@ -171,6 +171,39 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "pgz6FdH5qVw",
+        "videoId": "pgz6FdH5qVw",
+        "title": "Meta : 17 Mds pour ados accros",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-29",
+        "url": "https://www.youtube.com/watch?v=pgz6FdH5qVw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta : 17 Mds pour ados accros..."
+    },
+    {
+        "id": "GcETuqiVIiY",
+        "videoId": "GcETuqiVIiY",
+        "title": "Le watermark de Claude sur les textes IA",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-29",
+        "url": "https://www.youtube.com/watch?v=GcETuqiVIiY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le watermark de Claude sur les textes IA..."
+    },
+    {
+        "id": "XNWC3_W5T4k",
+        "videoId": "XNWC3_W5T4k",
+        "title": "Code World Model : Quand les agents codeurs simulent le monde",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-08-29",
+        "url": "https://www.youtube.com/watch?v=XNWC3_W5T4k",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Code World Model : Quand les agents codeurs simulent le monde..."
+    },
     {
         "id": "H_BVqej1C90",
         "videoId": "H_BVqej1C90",
@@ -640,13 +673,13 @@ export const allVideos = [
     {
         "id": "REqJ7H7i2jQ",
         "videoId": "REqJ7H7i2jQ",
-        "title": "12 IA de Google GRATUITES que vous devez ABSOLUMENT essayer",
+        "title": "12 IA de Google GRATUITES à Absolument Connaître en 2027",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-08-23",
         "url": "https://www.youtube.com/watch?v=REqJ7H7i2jQ",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : 12 IA de Google GRATUITES que vous devez ABSOLUMENT essayer..."
+        "summary": "Nouveauté de Yassine Sdiri : 12 IA de Google GRATUITES à Absolument Connaître en 2027..."
     },
     {
         "id": "UsLU-dkEg5M",
@@ -761,13 +794,13 @@ export const allVideos = [
     {
         "id": "0IjPwfgGB0M",
         "videoId": "0IjPwfgGB0M",
-        "title": "7 utilisations INCROYABLES de ChatGPT WORK (il travaille à ta place)",
+        "title": "ChatGPT WORK peut TOUT faire à ta place (7 scénarios)",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-08-20",
         "url": "https://www.youtube.com/watch?v=0IjPwfgGB0M",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 7 utilisations INCROYABLES de ChatGPT WORK (il travaille à ta place)..."
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT WORK peut TOUT faire à ta place (7 scénarios)..."
     },
     {
         "id": "QzK6E8C0TT8",
@@ -1135,17 +1168,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Ce retournement d’Alibaba en dit long sur l’IA (actu IA)..."
     },
     {
-        "id": "7ieeYRie5po",
-        "videoId": "7ieeYRie5po",
-        "title": "La sortie de Seedance 2.5 #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-12",
-        "url": "https://www.youtube.com/watch?v=7ieeYRie5po",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : La sortie de Seedance 2.5 #actu..."
-    },
-    {
         "id": "nmsk1rYHNYc",
         "videoId": "nmsk1rYHNYc",
         "title": "La Chine vient de prouver quelque chose d’énorme (LongCat 2.0)",
@@ -1258,8 +1280,7 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=u_t27awaU5U",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : L'IA qui pense pour vous: Routines et Actions Autonomes ! #shorts...",
-        "isShort": true,
-        "duration": 42
+        "isShort": true
     },
     {
         "id": "f5-LE9BkjC0",
@@ -1329,17 +1350,6 @@ export const allVideos = [
         "summary": "Nouveauté de Jonas Ekanbo : Comment créer un site web avec ChatGPT et Hostinger Horizon..."
     },
     {
-        "id": "WBJcNbwLSpI",
-        "videoId": "WBJcNbwLSpI",
-        "title": "Deepseek devient 7x plus puissant !",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-06",
-        "url": "https://www.youtube.com/watch?v=WBJcNbwLSpI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Deepseek devient 7x plus puissant !..."
-    },
-    {
         "id": "xAlXes0E34k",
         "videoId": "xAlXes0E34k",
         "title": "Claude Design vient de sortir le Motion Design par IA",
@@ -1393,17 +1403,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=eWN535AMIzQ",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Créer ton 1er Agent IA sans coder en 30 min ! (je te montre TOUT)..."
-    },
-    {
-        "id": "ALW2Yy0nUhI",
-        "videoId": "ALW2Yy0nUhI",
-        "title": "Interdiction des réseaux sociaux aux moins de 15 ans. L'enfumage.",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-04",
-        "url": "https://www.youtube.com/watch?v=ALW2Yy0nUhI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Interdiction des réseaux sociaux aux moins de 15 ans. L'enfumage...."
     },
     {
         "id": "fsw03ZXHJik",
@@ -1800,16 +1799,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=TbpFNzcknPA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : L'IA peut-elle remplacer un CEO? Les résultats de l'étude - Seules 3 IA ont réussi ce test de CEO..."
-    },
-    {
-        "id": "ukf9DBoyas8",
-        "videoId": "ukf9DBoyas8",
-        "title": "L'étape que tout le monde saute avant de choisir son IA",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-06-29",
-        "url": "https://www.youtube.com/watch?v=ukf9DBoyas8",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : L'étape que tout le monde saute avant de choisir son IA..."
     }
 ];
