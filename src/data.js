@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-29T12:11:36.242Z
+// Fichier généré automatiquement le 2026-08-30T11:08:08.688Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:11:36 PM 8/29/2026";
+export const lastUpdate = "11:08:08 AM 8/30/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "W2LfhDOjrL4",
+        "videoId": "W2LfhDOjrL4",
+        "title": "Code world model : Et si on s’était trompé sur les World️️ models",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-08-30",
+        "url": "https://www.youtube.com/watch?v=W2LfhDOjrL4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Code world model : Et si on s’était trompé sur les World️️ models..."
+    },
+    {
+        "id": "D7ehyxv3UeQ",
+        "videoId": "D7ehyxv3UeQ",
+        "title": "Chaque PDF que tu uploades dans Claude te coûte deux fois plus de tokens !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-08-29",
+        "url": "https://www.youtube.com/watch?v=D7ehyxv3UeQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Chaque PDF que tu uploades dans Claude te coûte deux fois plus de tokens !..."
+    },
+    {
+        "id": "bRBIaj7JrWQ",
+        "videoId": "bRBIaj7JrWQ",
+        "title": "L'IA chinoise tourne sans Nvidia",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-29",
+        "url": "https://www.youtube.com/watch?v=bRBIaj7JrWQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA chinoise tourne sans Nvidia..."
+    },
+    {
+        "id": "GWzJzy2xeYI",
+        "videoId": "GWzJzy2xeYI",
+        "title": "Claude a changé, faut se mettre à jour",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-29",
+        "url": "https://www.youtube.com/watch?v=GWzJzy2xeYI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude a changé, faut se mettre à jour..."
+    },
+    {
         "id": "pgz6FdH5qVw",
         "videoId": "pgz6FdH5qVw",
         "title": "Meta : 17 Mds pour ados accros",
@@ -196,13 +240,35 @@ export const allVideos = [
     {
         "id": "XNWC3_W5T4k",
         "videoId": "XNWC3_W5T4k",
-        "title": "Code World Model : Quand les agents codeurs simulent le monde",
+        "title": "Et si on s’était trompé sur les world models ? (Code word model)",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-08-29",
         "url": "https://www.youtube.com/watch?v=XNWC3_W5T4k",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Code World Model : Quand les agents codeurs simulent le monde..."
+        "summary": "Nouveauté de Nerdy Kings : Et si on s’était trompé sur les world models ? (Code word model)..."
+    },
+    {
+        "id": "Bpkeimq3AXg",
+        "videoId": "Bpkeimq3AXg",
+        "title": "Ta voix en texte, gratuitement",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-08-29",
+        "url": "https://www.youtube.com/watch?v=Bpkeimq3AXg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Ta voix en texte, gratuitement..."
+    },
+    {
+        "id": "OHlcxAhSY_E",
+        "videoId": "OHlcxAhSY_E",
+        "title": "Tu as un business ? Cette vidéo va le changer à jamais",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-08-29",
+        "url": "https://www.youtube.com/watch?v=OHlcxAhSY_E",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Tu as un business ? Cette vidéo va le changer à jamais..."
     },
     {
         "id": "H_BVqej1C90",
@@ -571,28 +637,6 @@ export const allVideos = [
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé 30 posts VIRAUX et 1 BUSINESS en 1H (Claude + Higgsfield) !..."
     },
     {
-        "id": "Ll3fUexAnBU",
-        "videoId": "Ll3fUexAnBU",
-        "title": "OpenAI suspend son IA, les pirates nous défoncent, Google aussi + AI Act = la rentrée quoi !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-24",
-        "url": "https://www.youtube.com/watch?v=Ll3fUexAnBU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI suspend son IA, les pirates nous défoncent, Google aussi + AI Act = la rentrée quoi !..."
-    },
-    {
-        "id": "Z9Hwx0yEkII",
-        "videoId": "Z9Hwx0yEkII",
-        "title": "OpenAI suspend son IA, les pirates nous défoncent, et Google aussi.",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-24",
-        "url": "https://www.youtube.com/watch?v=Z9Hwx0yEkII",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI suspend son IA, les pirates nous défoncent, et Google aussi...."
-    },
-    {
         "id": "y2KpFbVVSQU",
         "videoId": "y2KpFbVVSQU",
         "title": "Le modèle open-source de Meta #actu",
@@ -913,17 +957,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Un mec a open sourcé toutes les données de Wall Street..."
     },
     {
-        "id": "_RmZ9iE36jM",
-        "videoId": "_RmZ9iE36jM",
-        "title": "Ton plan Claude à 20 dollars peut durer comme le plan à 100 !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-18",
-        "url": "https://www.youtube.com/watch?v=_RmZ9iE36jM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ton plan Claude à 20 dollars peut durer comme le plan à 100 !..."
-    },
-    {
         "id": "E_vNH-XoXbQ",
         "videoId": "E_vNH-XoXbQ",
         "title": "Les hacks ultimes pour économiser vos tokens dans Claude !",
@@ -1225,17 +1258,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Arrêtez d'utiliser Copilot sans connaître ces 7 astuces !..."
     },
     {
-        "id": "2pdYzn4BmM4",
-        "videoId": "2pdYzn4BmM4",
-        "title": "Ta voix en local, gratuite et open source",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-11",
-        "url": "https://www.youtube.com/watch?v=2pdYzn4BmM4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Ta voix en local, gratuite et open source..."
-    },
-    {
         "id": "LWvjJkLtDhQ",
         "videoId": "LWvjJkLtDhQ",
         "title": "AIOS: L'IA sécurisée, votre environnement isolé et protégé! #shorts",
@@ -1283,18 +1305,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "f5-LE9BkjC0",
-        "videoId": "f5-LE9BkjC0",
-        "title": "Perplexity: Testez TOUTES les IA avec UN SEUL abonnement ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-10",
-        "url": "https://www.youtube.com/watch?v=f5-LE9BkjC0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Perplexity: Testez TOUTES les IA avec UN SEUL abonnement ! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "EQt4H1aDWBw",
         "videoId": "EQt4H1aDWBw",
         "title": "Des employés IA gratuits pour tous (merci le cofondateur de Twitter)",
@@ -1326,17 +1336,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4km3oLGe-iQ",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Personne ne réalise ce que le nouveau ChatGPT peut faire..."
-    },
-    {
-        "id": "eQ2TpNKmdqw",
-        "videoId": "eQ2TpNKmdqw",
-        "title": "Gemma 4 change complètement la vision des IA",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-09",
-        "url": "https://www.youtube.com/watch?v=eQ2TpNKmdqw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Gemma 4 change complètement la vision des IA..."
     },
     {
         "id": "-TVOe0WqSro",
@@ -1788,16 +1787,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ffwftm89rQg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens...."
-    },
-    {
-        "id": "TbpFNzcknPA",
-        "videoId": "TbpFNzcknPA",
-        "title": "L'IA peut-elle remplacer un CEO? Les résultats de l'étude - Seules 3 IA ont réussi ce test de CEO",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-06-30",
-        "url": "https://www.youtube.com/watch?v=TbpFNzcknPA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : L'IA peut-elle remplacer un CEO? Les résultats de l'étude - Seules 3 IA ont réussi ce test de CEO..."
     }
 ];
