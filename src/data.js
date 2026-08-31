@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-08-30T11:08:08.688Z
+// Fichier généré automatiquement le 2026-08-31T12:32:44.677Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:08:08 AM 8/30/2026";
+export const lastUpdate = "12:32:44 PM 8/31/2026";
 
 export const sources = [
     {
@@ -172,6 +172,94 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "xlYkSLoiIAk",
+        "videoId": "xlYkSLoiIAk",
+        "title": "Russie et Chine veulent détruire Starlink, c'est la guerre partout + La troisième voie de l'IA !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=xlYkSLoiIAk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Russie et Chine veulent détruire Starlink, c'est la guerre partout + La troisième voie de l'IA !..."
+    },
+    {
+        "id": "nWhW2VsSGDU",
+        "videoId": "nWhW2VsSGDU",
+        "title": "Kyiv sort ses robots, l'ONU alerte",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=nWhW2VsSGDU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Kyiv sort ses robots, l'ONU alerte..."
+    },
+    {
+        "id": "0FlfKKNbK9E",
+        "videoId": "0FlfKKNbK9E",
+        "title": "Ce modèle gratuit vient de rattraper les géants de l’IA",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-08-31",
+        "url": "https://www.youtube.com/watch?v=0FlfKKNbK9E",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Ce modèle gratuit vient de rattraper les géants de l’IA..."
+    },
+    {
+        "id": "OsPRnH_vOTg",
+        "videoId": "OsPRnH_vOTg",
+        "title": "J'ai analysé 177k€ de services IA vendus : voici ce que les PME achètent vraiment en 2026",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-08-30",
+        "url": "https://www.youtube.com/watch?v=OsPRnH_vOTg",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : J'ai analysé 177k€ de services IA vendus : voici ce que les PME achètent vraiment en 2026..."
+    },
+    {
+        "id": "DggNOKLuniE",
+        "videoId": "DggNOKLuniE",
+        "title": "4 sites pour le Vibecoding !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-08-30",
+        "url": "https://www.youtube.com/watch?v=DggNOKLuniE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 4 sites pour le Vibecoding !..."
+    },
+    {
+        "id": "C1esYFoZXBE",
+        "videoId": "C1esYFoZXBE",
+        "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-08-30",
+        "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)..."
+    },
+    {
+        "id": "QCffQAhaPSE",
+        "videoId": "QCffQAhaPSE",
+        "title": "Comment l'IA est devenue plus chère que ceux qu'elle remplace",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-08-30",
+        "url": "https://www.youtube.com/watch?v=QCffQAhaPSE",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Comment l'IA est devenue plus chère que ceux qu'elle remplace..."
+    },
+    {
+        "id": "3hRLAJ8xTsw",
+        "videoId": "3hRLAJ8xTsw",
+        "title": "Stripe rachète OpenRouter #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-08-30",
+        "url": "https://www.youtube.com/watch?v=3hRLAJ8xTsw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Stripe rachète OpenRouter #actu..."
+    },
+    {
         "id": "W2LfhDOjrL4",
         "videoId": "W2LfhDOjrL4",
         "title": "Code world model : Et si on s’était trompé sur les World️️ models",
@@ -262,13 +350,13 @@ export const allVideos = [
     {
         "id": "OHlcxAhSY_E",
         "videoId": "OHlcxAhSY_E",
-        "title": "Tu as un business ? Cette vidéo va le changer à jamais",
+        "title": "Regarde cette vidéo si tu diriges un business",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-08-29",
         "url": "https://www.youtube.com/watch?v=OHlcxAhSY_E",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Tu as un business ? Cette vidéo va le changer à jamais..."
+        "summary": "Nouveauté de Thomas Berton : Regarde cette vidéo si tu diriges un business..."
     },
     {
         "id": "H_BVqej1C90",
@@ -339,13 +427,13 @@ export const allVideos = [
     {
         "id": "ib4Bc_kbzR0",
         "videoId": "ib4Bc_kbzR0",
-        "title": "CLAUDE + SEEDANCE 2.5 : un site à 10 000 € en un seul prompt",
+        "title": "CLAUDE + SEEDANCE 2.5 : un site à 10 000 € en 10 min",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-08-27",
         "url": "https://www.youtube.com/watch?v=ib4Bc_kbzR0",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE + SEEDANCE 2.5 : un site à 10 000 € en un seul prompt..."
+        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE + SEEDANCE 2.5 : un site à 10 000 € en 10 min..."
     },
     {
         "id": "QxhOKugAa78",
@@ -557,28 +645,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=dk4eorkkni8",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Les réglages indispensables dans Claude !..."
-    },
-    {
-        "id": "Re1EexNU-H8",
-        "videoId": "Re1EexNU-H8",
-        "title": "Astra : l'IA fait peur à OpenAI",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-25",
-        "url": "https://www.youtube.com/watch?v=Re1EexNU-H8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Astra : l'IA fait peur à OpenAI..."
-    },
-    {
-        "id": "u6KAdA53tII",
-        "videoId": "u6KAdA53tII",
-        "title": "AI Act, ce qui s'applique vraiment depuis le 2 août 2026",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-25",
-        "url": "https://www.youtube.com/watch?v=u6KAdA53tII",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : AI Act, ce qui s'applique vraiment depuis le 2 août 2026..."
     },
     {
         "id": "SNeiWlJqEIo",
@@ -913,17 +979,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Anthropic vient de lancer un avertissement pour les 6 à 12 prochains mois......"
     },
     {
-        "id": "3lT8i7qdshI",
-        "videoId": "3lT8i7qdshI",
-        "title": "Claude marque tout son contenu avec des filigranes !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-19",
-        "url": "https://www.youtube.com/watch?v=3lT8i7qdshI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude marque tout son contenu avec des filigranes !..."
-    },
-    {
         "id": "VCntIHygMlg",
         "videoId": "VCntIHygMlg",
         "title": "DeepSeek lâche une bombe : DeepSeek Harness (actu IA)",
@@ -1190,17 +1245,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "CQGNFHJ8xS8",
-        "videoId": "CQGNFHJ8xS8",
-        "title": "Ce retournement d’Alibaba en dit long sur l’IA (actu IA)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-12",
-        "url": "https://www.youtube.com/watch?v=CQGNFHJ8xS8",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Ce retournement d’Alibaba en dit long sur l’IA (actu IA)..."
-    },
-    {
         "id": "nmsk1rYHNYc",
         "videoId": "nmsk1rYHNYc",
         "title": "La Chine vient de prouver quelque chose d’énorme (LongCat 2.0)",
@@ -1280,17 +1324,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Claude Code : Outils payants ? C'est terminé, c'est gratuit ! #shorts...",
         "isShort": true
-    },
-    {
-        "id": "H9tBaUmQLCc",
-        "videoId": "H9tBaUmQLCc",
-        "title": "Gemma 4 change la vision des IA",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-10",
-        "url": "https://www.youtube.com/watch?v=H9tBaUmQLCc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Gemma 4 change la vision des IA..."
     },
     {
         "id": "u_t27awaU5U",
@@ -1765,27 +1798,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=B3XeYkaZrjY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé des pubs pro en 5 minutes - Claude Fable 5 + Higgsfield MCP !..."
-    },
-    {
-        "id": "eNzSQbz0slo",
-        "videoId": "eNzSQbz0slo",
-        "title": "La seule chose que l'IA ne peut pas copier",
-        "author": "Etienne Tillier",
-        "source": "@EtienneTillierStudio",
-        "date": "2026-07-01",
-        "url": "https://www.youtube.com/watch?v=eNzSQbz0slo",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Etienne Tillier : La seule chose que l'IA ne peut pas copier..."
-    },
-    {
-        "id": "ffwftm89rQg",
-        "videoId": "ffwftm89rQg",
-        "title": "Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens.",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-07-01",
-        "url": "https://www.youtube.com/watch?v=ffwftm89rQg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Claude Sonnet 5 : l'IA qui fait tout... sans cramer vos tokens...."
     }
 ];
