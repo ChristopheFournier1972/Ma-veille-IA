@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-06T10:10:46.484Z
+// Fichier généré automatiquement le 2026-09-07T11:26:25.287Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:10:46 AM 9/6/2026";
+export const lastUpdate = "11:26:25 AM 9/7/2026";
 
 export const sources = [
     {
@@ -172,6 +172,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "d91vWPuKkJo",
+        "videoId": "d91vWPuKkJo",
+        "title": "Le ZEvent explose, OpenAI inquiète, Méta et Google répliquent, et NVidia épate + Le SEO est mort",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=d91vWPuKkJo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Le ZEvent explose, OpenAI inquiète, Méta et Google répliquent, et NVidia épate + Le SEO est mort..."
+    },
+    {
+        "id": "zuVtYsienkU",
+        "videoId": "zuVtYsienkU",
+        "title": "IA : Washington lâche les auteurs",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=zuVtYsienkU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : Washington lâche les auteurs..."
+    },
+    {
+        "id": "1jyjsHHhlKo",
+        "videoId": "1jyjsHHhlKo",
+        "title": "Jalapeño : la puce d’OpenAI",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=1jyjsHHhlKo",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Jalapeño : la puce d’OpenAI..."
+    },
+    {
+        "id": "BriQizLAG_o",
+        "videoId": "BriQizLAG_o",
+        "title": "Voici comment faire tourner une équipe marketing solo avec Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=BriQizLAG_o",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Voici comment faire tourner une équipe marketing solo avec Claude !..."
+    },
+    {
+        "id": "Ej_1q9LzOqY",
+        "videoId": "Ej_1q9LzOqY",
+        "title": "J’ai compris pourquoi tout le monde est passé sur Claude",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=Ej_1q9LzOqY",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : J’ai compris pourquoi tout le monde est passé sur Claude..."
+    },
+    {
         "id": "oCKSPkA2iS0",
         "videoId": "oCKSPkA2iS0",
         "title": "OpenClaw 2.0 : crée ton équipe d'agents IA en 10 minutes",
@@ -181,6 +236,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=oCKSPkA2iS0",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : OpenClaw 2.0 : crée ton équipe d'agents IA en 10 minutes..."
+    },
+    {
+        "id": "4TCF36rCo8k",
+        "videoId": "4TCF36rCo8k",
+        "title": "L’homme qui a reçu 1 milliard pour tuer l’IA Générative",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=4TCF36rCo8k",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : L’homme qui a reçu 1 milliard pour tuer l’IA Générative..."
+    },
+    {
+        "id": "k6pJOvBKAIQ",
+        "videoId": "k6pJOvBKAIQ",
+        "title": "Les puces Apple pour l’IA #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-06",
+        "url": "https://www.youtube.com/watch?v=k6pJOvBKAIQ",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Les puces Apple pour l’IA #actu..."
     },
     {
         "id": "2eoAjaCgBdw",
@@ -436,17 +513,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Bill Gates sonne l'alarme sur l'IA..."
     },
     {
-        "id": "q2C_bC5Ee6M",
-        "videoId": "q2C_bC5Ee6M",
-        "title": "OpenAI débranche Cursor",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=q2C_bC5Ee6M",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI débranche Cursor..."
-    },
-    {
         "id": "QwuhJjpM9CE",
         "videoId": "QwuhJjpM9CE",
         "title": "Qwen vient-il de dévoiler le futur des LLM ?",
@@ -478,17 +544,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kSVNu76yxpc",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 4 choses que je construirais dans Claude en un weekend..."
-    },
-    {
-        "id": "uPCcmrAckwg",
-        "videoId": "uPCcmrAckwg",
-        "title": "Starlink : le plan pour l’abattre",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-08-31",
-        "url": "https://www.youtube.com/watch?v=uPCcmrAckwg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Starlink : le plan pour l’abattre..."
     },
     {
         "id": "pHRVMrxIxMQ",
@@ -1056,17 +1111,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : 5 signes que tu sais vraiment utiliser l'IA !..."
     },
     {
-        "id": "2aHVkfXcpJA",
-        "videoId": "2aHVkfXcpJA",
-        "title": "Le seul dépôt Claude que tu as besoin !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-21",
-        "url": "https://www.youtube.com/watch?v=2aHVkfXcpJA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le seul dépôt Claude que tu as besoin !..."
-    },
-    {
         "id": "Od6j6r21FdE",
         "videoId": "Od6j6r21FdE",
         "title": "3 astuces pour des visuels IA de pro",
@@ -1133,17 +1177,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Anthropic vient de lancer un avertissement pour les 6 à 12 prochains mois......"
     },
     {
-        "id": "VCntIHygMlg",
-        "videoId": "VCntIHygMlg",
-        "title": "DeepSeek lâche une bombe : DeepSeek Harness (actu IA)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-19",
-        "url": "https://www.youtube.com/watch?v=VCntIHygMlg",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : DeepSeek lâche une bombe : DeepSeek Harness (actu IA)..."
-    },
-    {
         "id": "OExbLboNEaw",
         "videoId": "OExbLboNEaw",
         "title": "DeepSeek Harness : La Fin de Claude Code ? (Installation + Test)",
@@ -1175,17 +1208,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=E_vNH-XoXbQ",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Les hacks ultimes pour économiser vos tokens dans Claude !..."
-    },
-    {
-        "id": "89J8aJpzBLc",
-        "videoId": "89J8aJpzBLc",
-        "title": "Prédire les cyclones avec l’IA #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-18",
-        "url": "https://www.youtube.com/watch?v=89J8aJpzBLc",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Prédire les cyclones avec l’IA #actu..."
     },
     {
         "id": "7PEBbSp9kws",
@@ -1764,17 +1786,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Sj3Z1-LO-I8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Mon système pour publier régulièrement avec 1 jour par semaine..."
-    },
-    {
-        "id": "rx7F_9Vm35Y",
-        "videoId": "rx7F_9Vm35Y",
-        "title": "ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-07-12",
-        "url": "https://www.youtube.com/watch?v=rx7F_9Vm35Y",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : ChatGPT travaille enfin à votre place ! (ChatGPT Work &amp; GPT-5.6)..."
     },
     {
         "id": "oU2slLP15VA",
