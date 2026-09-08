@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-07T11:26:25.287Z
+// Fichier généré automatiquement le 2026-09-08T10:29:35.212Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:26:25 AM 9/7/2026";
+export const lastUpdate = "10:29:35 AM 9/8/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "Iy2SBFbEP10",
+        "videoId": "Iy2SBFbEP10",
+        "title": "Muse Spark : moins cher, pas mieux",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=Iy2SBFbEP10",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Muse Spark : moins cher, pas mieux..."
+    },
+    {
+        "id": "M8H3Z-EAG0w",
+        "videoId": "M8H3Z-EAG0w",
+        "title": "Les robots battent des records humains #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=M8H3Z-EAG0w",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Les robots battent des records humains #actu..."
+    },
+    {
+        "id": "Lh35KsbxDKo",
+        "videoId": "Lh35KsbxDKo",
+        "title": "Le wiki secret des agents OpenAI",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=Lh35KsbxDKo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Le wiki secret des agents OpenAI..."
+    },
+    {
+        "id": "gFp-lsRpm_A",
+        "videoId": "gFp-lsRpm_A",
+        "title": "Le ZEvent explose, OpenAI inquiète, Méta et Google répliquent, et NVidia épate",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=gFp-lsRpm_A",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Le ZEvent explose, OpenAI inquiète, Méta et Google répliquent, et NVidia épate..."
+    },
+    {
         "id": "d91vWPuKkJo",
         "videoId": "d91vWPuKkJo",
         "title": "Le ZEvent explose, OpenAI inquiète, Méta et Google répliquent, et NVidia épate + Le SEO est mort",
@@ -203,6 +247,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=1jyjsHHhlKo",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Jalapeño : la puce d’OpenAI..."
+    },
+    {
+        "id": "vu55_LhT8k8",
+        "videoId": "vu55_LhT8k8",
+        "title": "9 fonctions de Microsoft Copilot que vous n'utilisez pas encore",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-09-07",
+        "url": "https://www.youtube.com/watch?v=vu55_LhT8k8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : 9 fonctions de Microsoft Copilot que vous n'utilisez pas encore..."
     },
     {
         "id": "BriQizLAG_o",
@@ -240,13 +295,13 @@ export const allVideos = [
     {
         "id": "4TCF36rCo8k",
         "videoId": "4TCF36rCo8k",
-        "title": "L’homme qui a reçu 1 milliard pour tuer l’IA Générative",
+        "title": "Le scientifique Français qui va écraser l’IA Américaine",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-09-06",
         "url": "https://www.youtube.com/watch?v=4TCF36rCo8k",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : L’homme qui a reçu 1 milliard pour tuer l’IA Générative..."
+        "summary": "Nouveauté de Yassine Sdiri : Le scientifique Français qui va écraser l’IA Américaine..."
     },
     {
         "id": "k6pJOvBKAIQ",
@@ -436,28 +491,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Fable 5,1, OpenClaw 2, ChatGPT et Solaris : folle rentrée !..."
     },
     {
-        "id": "aaOkBpiamjE",
-        "videoId": "aaOkBpiamjE",
-        "title": "Fable 5,1, OpenClaw 2, ChatGPT et Solaris : folle rentrée ! + Le médecin et l'IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-02",
-        "url": "https://www.youtube.com/watch?v=aaOkBpiamjE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Fable 5,1, OpenClaw 2, ChatGPT et Solaris : folle rentrée ! + Le médecin et l'IA..."
-    },
-    {
-        "id": "mG4C2RLMFZU",
-        "videoId": "mG4C2RLMFZU",
-        "title": "Piratage : Anthropic face aux majors",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-02",
-        "url": "https://www.youtube.com/watch?v=mG4C2RLMFZU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Piratage : Anthropic face aux majors..."
-    },
-    {
         "id": "3LfqOETwkd0",
         "videoId": "3LfqOETwkd0",
         "title": "Le monopole de Nvidia est en train de tomber (actu IA)",
@@ -500,17 +533,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Jmil2UxcrlY",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Utiliser Google Gemini mieux que 99% des gens !..."
-    },
-    {
-        "id": "Gbk-v_fNRDk",
-        "videoId": "Gbk-v_fNRDk",
-        "title": "Bill Gates sonne l'alarme sur l'IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=Gbk-v_fNRDk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Bill Gates sonne l'alarme sur l'IA..."
     },
     {
         "id": "QwuhJjpM9CE",
@@ -1043,17 +1065,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=UsLU-dkEg5M",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : DeepSeek Harness : la bombe est lâchée..."
-    },
-    {
-        "id": "j5Cnwp2uOEw",
-        "videoId": "j5Cnwp2uOEw",
-        "title": "L’IA aurait dû tuer l’Eglise",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-23",
-        "url": "https://www.youtube.com/watch?v=j5Cnwp2uOEw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L’IA aurait dû tuer l’Eglise..."
     },
     {
         "id": "l6WWP7arLEQ",
