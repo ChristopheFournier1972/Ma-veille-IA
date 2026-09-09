@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-08T10:29:35.212Z
+// Fichier généré automatiquement le 2026-09-09T10:41:02.261Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:29:35 AM 9/8/2026";
+export const lastUpdate = "10:41:02 AM 9/9/2026";
 
 export const sources = [
     {
@@ -171,6 +171,39 @@ export const themes = [
 ];
 
 export const allVideos = [
+    {
+        "id": "b0KmQ2VXpT8",
+        "videoId": "b0KmQ2VXpT8",
+        "title": "Mistral lève 3 milliards et la souveraineté se dispute partout + Le SEO est mort",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=b0KmQ2VXpT8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral lève 3 milliards et la souveraineté se dispute partout + Le SEO est mort..."
+    },
+    {
+        "id": "kJHW01FgnC0",
+        "videoId": "kJHW01FgnC0",
+        "title": "Nvidia réveille vos PC pour l’IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=kJHW01FgnC0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Nvidia réveille vos PC pour l’IA..."
+    },
+    {
+        "id": "qeWUNsrCooc",
+        "videoId": "qeWUNsrCooc",
+        "title": "Gemini 3.8 : la facture cachée",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=qeWUNsrCooc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Gemini 3.8 : la facture cachée..."
+    },
     {
         "id": "Iy2SBFbEP10",
         "videoId": "Iy2SBFbEP10",
@@ -447,17 +480,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Ce médecin utilise un robot et sa propre IA pour ses patients..."
     },
     {
-        "id": "uqwsoIk6NhM",
-        "videoId": "uqwsoIk6NhM",
-        "title": "OpenClaw : l’IA devient collègue",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-03",
-        "url": "https://www.youtube.com/watch?v=uqwsoIk6NhM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenClaw : l’IA devient collègue..."
-    },
-    {
         "id": "9N13WjnNHfA",
         "videoId": "9N13WjnNHfA",
         "title": "10 choses à tester si tu paies Claude !",
@@ -467,28 +489,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9N13WjnNHfA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 10 choses à tester si tu paies Claude !..."
-    },
-    {
-        "id": "3OE5jqFfQng",
-        "videoId": "3OE5jqFfQng",
-        "title": "Claude Fable : l’IA qui bosse seule",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-02",
-        "url": "https://www.youtube.com/watch?v=3OE5jqFfQng",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude Fable : l’IA qui bosse seule..."
-    },
-    {
-        "id": "HFBUqkAiJyM",
-        "videoId": "HFBUqkAiJyM",
-        "title": "Fable 5,1, OpenClaw 2, ChatGPT et Solaris : folle rentrée !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-02",
-        "url": "https://www.youtube.com/watch?v=HFBUqkAiJyM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Fable 5,1, OpenClaw 2, ChatGPT et Solaris : folle rentrée !..."
     },
     {
         "id": "3LfqOETwkd0",
@@ -1808,16 +1808,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=oU2slLP15VA",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : La nouvelle méthode pour utiliser Claude IA sans prompt..."
-    },
-    {
-        "id": "5dF9rDlMGhE",
-        "videoId": "5dF9rDlMGhE",
-        "title": "ChatGPT Work : voici tout ce qu’il peut faire.",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-07-09",
-        "url": "https://www.youtube.com/watch?v=5dF9rDlMGhE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : ChatGPT Work : voici tout ce qu’il peut faire...."
     }
 ];
