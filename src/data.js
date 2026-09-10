@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-09T10:41:02.261Z
+// Fichier généré automatiquement le 2026-09-10T10:29:30.901Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:41:02 AM 9/9/2026";
+export const lastUpdate = "10:29:30 AM 9/10/2026";
 
 export const sources = [
     {
@@ -172,6 +172,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "8o6CuhfgPSE",
+        "videoId": "8o6CuhfgPSE",
+        "title": "Gribouillez, ChatGPT dessine",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=8o6CuhfgPSE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Gribouillez, ChatGPT dessine..."
+    },
+    {
+        "id": "zrihW3K5b2I",
+        "videoId": "zrihW3K5b2I",
+        "title": "CLAUDE va créer un nouveau métier (apprends-le aujourd'hui)",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=zrihW3K5b2I",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE va créer un nouveau métier (apprends-le aujourd'hui)..."
+    },
+    {
+        "id": "DRo9cnjG388",
+        "videoId": "DRo9cnjG388",
+        "title": "Microsoft Copilot est devenu incroyable !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=DRo9cnjG388",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot est devenu incroyable !..."
+    },
+    {
+        "id": "oT30nxgffLQ",
+        "videoId": "oT30nxgffLQ",
+        "title": "Mistral : 3 Mds pour le contrôle",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=oT30nxgffLQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral : 3 Mds pour le contrôle..."
+    },
+    {
+        "id": "GyJiGtgmga8",
+        "videoId": "GyJiGtgmga8",
+        "title": "Mistral lève 3 milliards et la souveraineté se dispute partout",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=GyJiGtgmga8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral lève 3 milliards et la souveraineté se dispute partout..."
+    },
+    {
         "id": "b0KmQ2VXpT8",
         "videoId": "b0KmQ2VXpT8",
         "title": "Mistral lève 3 milliards et la souveraineté se dispute partout + Le SEO est mort",
@@ -192,6 +247,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kJHW01FgnC0",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Nvidia réveille vos PC pour l’IA..."
+    },
+    {
+        "id": "Ul0aKZFsG3g",
+        "videoId": "Ul0aKZFsG3g",
+        "title": "GPT-6 Astra VS Fable 5.1 : lequel tu dois utiliser ? (actu IA)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=Ul0aKZFsG3g",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : GPT-6 Astra VS Fable 5.1 : lequel tu dois utiliser ? (actu IA)..."
+    },
+    {
+        "id": "Wh7x150291w",
+        "videoId": "Wh7x150291w",
+        "title": "GPT 6 vs Fable 5.1 : Le comparatif ULTIME pour faire ton choix",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-09",
+        "url": "https://www.youtube.com/watch?v=Wh7x150291w",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : GPT 6 vs Fable 5.1 : Le comparatif ULTIME pour faire ton choix..."
     },
     {
         "id": "qeWUNsrCooc",
@@ -414,17 +491,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : GPT-6 Astra : pas encore l'AGI mais déjà flippant ! + Tuto OpenClaw 2.0..."
     },
     {
-        "id": "sJ0ygw1R9Jc",
-        "videoId": "sJ0ygw1R9Jc",
-        "title": "L’UE fait de ChatGPT un moteur",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-04",
-        "url": "https://www.youtube.com/watch?v=sJ0ygw1R9Jc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L’UE fait de ChatGPT un moteur..."
-    },
-    {
         "id": "iZjSPvxlW1s",
         "videoId": "iZjSPvxlW1s",
         "title": "GPT-6 Astra est sorti : les 3 points à retenir",
@@ -456,28 +522,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=D2RkSUhRrZg",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : La nouvelle Skill incroyable dans ChatGPT !..."
-    },
-    {
-        "id": "Z5jpm8xOgB4",
-        "videoId": "Z5jpm8xOgB4",
-        "title": "ChatGPT devient une régie pub",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-03",
-        "url": "https://www.youtube.com/watch?v=Z5jpm8xOgB4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : ChatGPT devient une régie pub..."
-    },
-    {
-        "id": "ofwfKKum2TU",
-        "videoId": "ofwfKKum2TU",
-        "title": "Ce médecin utilise un robot et sa propre IA pour ses patients",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-03",
-        "url": "https://www.youtube.com/watch?v=ofwfKKum2TU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Ce médecin utilise un robot et sa propre IA pour ses patients..."
     },
     {
         "id": "9N13WjnNHfA",
@@ -1056,17 +1100,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : 12 IA de Google GRATUITES à Absolument Connaître en 2027..."
     },
     {
-        "id": "UsLU-dkEg5M",
-        "videoId": "UsLU-dkEg5M",
-        "title": "DeepSeek Harness : la bombe est lâchée",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-23",
-        "url": "https://www.youtube.com/watch?v=UsLU-dkEg5M",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : DeepSeek Harness : la bombe est lâchée..."
-    },
-    {
         "id": "l6WWP7arLEQ",
         "videoId": "l6WWP7arLEQ",
         "title": "Cette Découverte Pourrait Diviser la VRAM par 6 (DiffusionBlocks)",
@@ -1109,17 +1142,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=2Lq75AyVjdE",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Transforme une video en site web anime..."
-    },
-    {
-        "id": "vy8keMoC_5c",
-        "videoId": "vy8keMoC_5c",
-        "title": "5 signes que tu sais vraiment utiliser l'IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-21",
-        "url": "https://www.youtube.com/watch?v=vy8keMoC_5c",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 signes que tu sais vraiment utiliser l'IA !..."
     },
     {
         "id": "Od6j6r21FdE",
@@ -1252,17 +1274,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=aQ5Sa4OoOjA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : 650 échecs plus tard, Claude fait une découverte..."
-    },
-    {
-        "id": "a-bxMZnM-n0",
-        "videoId": "a-bxMZnM-n0",
-        "title": "Transforme n'importe quel livre en skill Claude Code",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-17",
-        "url": "https://www.youtube.com/watch?v=a-bxMZnM-n0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Transforme n'importe quel livre en skill Claude Code..."
     },
     {
         "id": "tb-7zB5pwng",
@@ -1775,17 +1786,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=JnUPQ0lwgpI",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Voici Copilot Cowork, l'IA qui automatise vos tâches !..."
-    },
-    {
-        "id": "C9oGaD_L29M",
-        "videoId": "C9oGaD_L29M",
-        "title": "J'ai testé l’énorme mise à jour de ChatGPT ! (ChatGPT Work + GPT-5.6)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-07-13",
-        "url": "https://www.youtube.com/watch?v=C9oGaD_L29M",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J'ai testé l’énorme mise à jour de ChatGPT ! (ChatGPT Work + GPT-5.6)..."
     },
     {
         "id": "Sj3Z1-LO-I8",
