@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-10T10:29:30.901Z
+// Fichier généré automatiquement le 2026-09-11T10:30:55.782Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:29:30 AM 9/10/2026";
+export const lastUpdate = "10:30:55 AM 9/11/2026";
 
 export const sources = [
     {
@@ -172,6 +172,72 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "85AJj7IcCKI",
+        "videoId": "85AJj7IcCKI",
+        "title": "Navier-Stokes : OpenAI accusé",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=85AJj7IcCKI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Navier-Stokes : OpenAI accusé..."
+    },
+    {
+        "id": "xYv7U8pZMcc",
+        "videoId": "xYv7U8pZMcc",
+        "title": "CLAUDE CODE : l'arme secrète pour ton BUSINESS (et c'est pas du dev)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=xYv7U8pZMcc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE : l'arme secrète pour ton BUSINESS (et c'est pas du dev)..."
+    },
+    {
+        "id": "3Ktn_Q76YPI",
+        "videoId": "3Ktn_Q76YPI",
+        "title": "Des milliers d'entreprises cherchent exactement ces profils en ce moment !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=3Ktn_Q76YPI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Des milliers d'entreprises cherchent exactement ces profils en ce moment !..."
+    },
+    {
+        "id": "JIQ3p7Uadcw",
+        "videoId": "JIQ3p7Uadcw",
+        "title": "L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues + GPT-Image 2.5",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=JIQ3p7Uadcw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues + GPT-Image 2.5..."
+    },
+    {
+        "id": "GiiFoPO_vwc",
+        "videoId": "GiiFoPO_vwc",
+        "title": "Google rallume le nucléaire IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=GiiFoPO_vwc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google rallume le nucléaire IA..."
+    },
+    {
+        "id": "C-O6fiM6Vq4",
+        "videoId": "C-O6fiM6Vq4",
+        "title": "Le SEO est mort",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=C-O6fiM6Vq4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Le SEO est mort..."
+    },
+    {
         "id": "8o6CuhfgPSE",
         "videoId": "8o6CuhfgPSE",
         "title": "Gribouillez, ChatGPT dessine",
@@ -181,6 +247,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8o6CuhfgPSE",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Gribouillez, ChatGPT dessine..."
+    },
+    {
+        "id": "aSN-OigmR3A",
+        "videoId": "aSN-OigmR3A",
+        "title": "DeepSeek V4.1 Flash : Le DERNIER modèle CHINOIS (OPEN SOURCE)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-10",
+        "url": "https://www.youtube.com/watch?v=aSN-OigmR3A",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : DeepSeek V4.1 Flash : Le DERNIER modèle CHINOIS (OPEN SOURCE)..."
     },
     {
         "id": "zrihW3K5b2I",
@@ -251,13 +328,13 @@ export const allVideos = [
     {
         "id": "Ul0aKZFsG3g",
         "videoId": "Ul0aKZFsG3g",
-        "title": "GPT-6 Astra VS Fable 5.1 : lequel tu dois utiliser ? (actu IA)",
+        "title": "Lequel tu dois utiliser ? GPT-6 Astra VS Fable 5.1 (actu IA)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-09-09",
         "url": "https://www.youtube.com/watch?v=Ul0aKZFsG3g",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : GPT-6 Astra VS Fable 5.1 : lequel tu dois utiliser ? (actu IA)..."
+        "summary": "Nouveauté de Eliott Meunier : Lequel tu dois utiliser ? GPT-6 Astra VS Fable 5.1 (actu IA)..."
     },
     {
         "id": "Wh7x150291w",
@@ -392,17 +469,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : J’ai compris pourquoi tout le monde est passé sur Claude..."
     },
     {
-        "id": "oCKSPkA2iS0",
-        "videoId": "oCKSPkA2iS0",
-        "title": "OpenClaw 2.0 : crée ton équipe d'agents IA en 10 minutes",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-06",
-        "url": "https://www.youtube.com/watch?v=oCKSPkA2iS0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenClaw 2.0 : crée ton équipe d'agents IA en 10 minutes..."
-    },
-    {
         "id": "4TCF36rCo8k",
         "videoId": "4TCF36rCo8k",
         "title": "Le scientifique Français qui va écraser l’IA Américaine",
@@ -436,17 +502,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Sortie de GLM 5.3 Flash..."
     },
     {
-        "id": "ZS3PfuWTLXM",
-        "videoId": "ZS3PfuWTLXM",
-        "title": "Google prédit la météo sans délai",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-05",
-        "url": "https://www.youtube.com/watch?v=ZS3PfuWTLXM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google prédit la météo sans délai..."
-    },
-    {
         "id": "q5gfyRlaaJw",
         "videoId": "q5gfyRlaaJw",
         "title": "NVIDIA bat des records #actu",
@@ -467,28 +522,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=3WtlnjzVnaY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Tu peux maintenant créer des visuels editables directement depuis ChatGPT !..."
-    },
-    {
-        "id": "5S_XnNihW6A",
-        "videoId": "5S_XnNihW6A",
-        "title": "GPT-6 Astra : pas encore l'AGI mais déjà flippant !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-04",
-        "url": "https://www.youtube.com/watch?v=5S_XnNihW6A",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-6 Astra : pas encore l'AGI mais déjà flippant !..."
-    },
-    {
-        "id": "FeehuM92_ZE",
-        "videoId": "FeehuM92_ZE",
-        "title": "GPT-6 Astra : pas encore l'AGI mais déjà flippant ! + Tuto OpenClaw 2.0",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-04",
-        "url": "https://www.youtube.com/watch?v=FeehuM92_ZE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-6 Astra : pas encore l'AGI mais déjà flippant ! + Tuto OpenClaw 2.0..."
     },
     {
         "id": "iZjSPvxlW1s",
@@ -1122,17 +1155,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : DeepSeek Harness = Claude Code GRATUIT  🐳 (open source)..."
     },
     {
-        "id": "A9eNMubDEm4",
-        "videoId": "A9eNMubDEm4",
-        "title": "5 prompts parfaits pour éviter que ton app se fasse hacker !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-22",
-        "url": "https://www.youtube.com/watch?v=A9eNMubDEm4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 prompts parfaits pour éviter que ton app se fasse hacker !..."
-    },
-    {
         "id": "2Lq75AyVjdE",
         "videoId": "2Lq75AyVjdE",
         "title": "Transforme une video en site web anime",
@@ -1219,17 +1241,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=OExbLboNEaw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : DeepSeek Harness : La Fin de Claude Code ? (Installation + Test)..."
-    },
-    {
-        "id": "GwVB8H69_jE",
-        "videoId": "GwVB8H69_jE",
-        "title": "Un mec a open sourcé toutes les données de Wall Street",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-19",
-        "url": "https://www.youtube.com/watch?v=GwVB8H69_jE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Un mec a open sourcé toutes les données de Wall Street..."
     },
     {
         "id": "E_vNH-XoXbQ",
@@ -1410,18 +1421,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=LWvjJkLtDhQ",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : AIOS: L'IA sécurisée, votre environnement isolé et protégé! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "fVtO2xdsvXU",
-        "videoId": "fVtO2xdsvXU",
-        "title": "Claude Code : Outils payants ? C'est terminé, c'est gratuit ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-11",
-        "url": "https://www.youtube.com/watch?v=fVtO2xdsvXU",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code : Outils payants ? C'est terminé, c'est gratuit ! #shorts...",
         "isShort": true
     },
     {
