@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-11T10:30:55.782Z
+// Fichier généré automatiquement le 2026-09-12T09:59:16.471Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:30:55 AM 9/11/2026";
+export const lastUpdate = "9:59:16 AM 9/12/2026";
 
 export const sources = [
     {
@@ -172,6 +172,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "LjnNlmMwDdU",
+        "videoId": "LjnNlmMwDdU",
+        "title": "L’IA de Meta paie avec vos sous",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-12",
+        "url": "https://www.youtube.com/watch?v=LjnNlmMwDdU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L’IA de Meta paie avec vos sous..."
+    },
+    {
+        "id": "EXrCueHwnqo",
+        "videoId": "EXrCueHwnqo",
+        "title": "GPT-6 VS FABLE : les benchmarks",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-12",
+        "url": "https://www.youtube.com/watch?v=EXrCueHwnqo",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : GPT-6 VS FABLE : les benchmarks..."
+    },
+    {
+        "id": "JDT1shLZ1Aw",
+        "videoId": "JDT1shLZ1Aw",
+        "title": "IA : il démissionne et accuse",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=JDT1shLZ1Aw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : il démissionne et accuse..."
+    },
+    {
+        "id": "qSeb_bx4VJs",
+        "videoId": "qSeb_bx4VJs",
+        "title": "L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=qSeb_bx4VJs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues..."
+    },
+    {
+        "id": "JIQ3p7Uadcw",
+        "videoId": "JIQ3p7Uadcw",
+        "title": "L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues + GPT-Image 2.5",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=JIQ3p7Uadcw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues + GPT-Image 2.5..."
+    },
+    {
         "id": "85AJj7IcCKI",
         "videoId": "85AJj7IcCKI",
         "title": "Navier-Stokes : OpenAI accusé",
@@ -181,6 +236,61 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=85AJj7IcCKI",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Navier-Stokes : OpenAI accusé..."
+    },
+    {
+        "id": "NRQU-_6ors0",
+        "videoId": "NRQU-_6ors0",
+        "title": "ChatGPT 6 Astra est terrifiant",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=NRQU-_6ors0",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : ChatGPT 6 Astra est terrifiant..."
+    },
+    {
+        "id": "T8uiXaQ_Bfc",
+        "videoId": "T8uiXaQ_Bfc",
+        "title": "Le modèle Google qui prédit l’avenir #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=T8uiXaQ_Bfc",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Le modèle Google qui prédit l’avenir #actu..."
+    },
+    {
+        "id": "eCx5lTP_OoM",
+        "videoId": "eCx5lTP_OoM",
+        "title": "Comment Construire Votre Équipe Marketing IA avec Claude Code (Guide Complet)",
+        "author": "Lucas Reverdy",
+        "source": "@reverdybusiness",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=eCx5lTP_OoM",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Lucas Reverdy : Comment Construire Votre Équipe Marketing IA avec Claude Code (Guide Complet)..."
+    },
+    {
+        "id": "A793fOC-vYc",
+        "videoId": "A793fOC-vYc",
+        "title": "Pourquoi GPT-6 Astra pourrait tout changer",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=A793fOC-vYc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Pourquoi GPT-6 Astra pourrait tout changer..."
+    },
+    {
+        "id": "q0tI__cmHc8",
+        "videoId": "q0tI__cmHc8",
+        "title": "Un vrai iPhone virtuel sous iOS 27 sur ton Mac, gratuit et open source",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=q0tI__cmHc8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Un vrai iPhone virtuel sous iOS 27 sur ton Mac, gratuit et open source..."
     },
     {
         "id": "xYv7U8pZMcc",
@@ -194,6 +304,17 @@ export const allVideos = [
         "summary": "Nouveauté de Thomas Berton : CLAUDE CODE : l'arme secrète pour ton BUSINESS (et c'est pas du dev)..."
     },
     {
+        "id": "sLHJPgxBVUQ",
+        "videoId": "sLHJPgxBVUQ",
+        "title": "J'ai donné 1h à GPT-6 Astra pour lancer un Business de 0",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-09-11",
+        "url": "https://www.youtube.com/watch?v=sLHJPgxBVUQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : J'ai donné 1h à GPT-6 Astra pour lancer un Business de 0..."
+    },
+    {
         "id": "3Ktn_Q76YPI",
         "videoId": "3Ktn_Q76YPI",
         "title": "Des milliers d'entreprises cherchent exactement ces profils en ce moment !",
@@ -203,17 +324,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=3Ktn_Q76YPI",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Des milliers d'entreprises cherchent exactement ces profils en ce moment !..."
-    },
-    {
-        "id": "JIQ3p7Uadcw",
-        "videoId": "JIQ3p7Uadcw",
-        "title": "L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues + GPT-Image 2.5",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=JIQ3p7Uadcw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues + GPT-Image 2.5..."
     },
     {
         "id": "GiiFoPO_vwc",
@@ -328,13 +438,13 @@ export const allVideos = [
     {
         "id": "Ul0aKZFsG3g",
         "videoId": "Ul0aKZFsG3g",
-        "title": "Lequel tu dois utiliser ? GPT-6 Astra VS Fable 5.1 (actu IA)",
+        "title": "J'ai fait faire la même chose à GPT-6 Astra et Fable 5.1",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-09-09",
         "url": "https://www.youtube.com/watch?v=Ul0aKZFsG3g",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Lequel tu dois utiliser ? GPT-6 Astra VS Fable 5.1 (actu IA)..."
+        "summary": "Nouveauté de Eliott Meunier : J'ai fait faire la même chose à GPT-6 Astra et Fable 5.1..."
     },
     {
         "id": "Wh7x150291w",
@@ -390,39 +500,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Lh35KsbxDKo",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Le wiki secret des agents OpenAI..."
-    },
-    {
-        "id": "gFp-lsRpm_A",
-        "videoId": "gFp-lsRpm_A",
-        "title": "Le ZEvent explose, OpenAI inquiète, Méta et Google répliquent, et NVidia épate",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=gFp-lsRpm_A",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le ZEvent explose, OpenAI inquiète, Méta et Google répliquent, et NVidia épate..."
-    },
-    {
-        "id": "d91vWPuKkJo",
-        "videoId": "d91vWPuKkJo",
-        "title": "Le ZEvent explose, OpenAI inquiète, Méta et Google répliquent, et NVidia épate + Le SEO est mort",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=d91vWPuKkJo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le ZEvent explose, OpenAI inquiète, Méta et Google répliquent, et NVidia épate + Le SEO est mort..."
-    },
-    {
-        "id": "zuVtYsienkU",
-        "videoId": "zuVtYsienkU",
-        "title": "IA : Washington lâche les auteurs",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-07",
-        "url": "https://www.youtube.com/watch?v=zuVtYsienkU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : Washington lâche les auteurs..."
     },
     {
         "id": "1jyjsHHhlKo",
@@ -988,17 +1065,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Les réglages indispensables dans Claude !..."
     },
     {
-        "id": "SNeiWlJqEIo",
-        "videoId": "SNeiWlJqEIo",
-        "title": "Grok Bot c’est quoi ? #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-25",
-        "url": "https://www.youtube.com/watch?v=SNeiWlJqEIo",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Grok Bot c’est quoi ? #actu..."
-    },
-    {
         "id": "tm_QZ7iIGeg",
         "videoId": "tm_QZ7iIGeg",
         "title": "Comment Automatiser ses Montages Vidéo avec Claude (Guide Complet)",
@@ -1042,17 +1108,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=GWf9yeqxwjk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé 30 posts VIRAUX et 1 BUSINESS en 1H (Claude + Higgsfield) !..."
-    },
-    {
-        "id": "y2KpFbVVSQU",
-        "videoId": "y2KpFbVVSQU",
-        "title": "Le modèle open-source de Meta #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-24",
-        "url": "https://www.youtube.com/watch?v=y2KpFbVVSQU",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le modèle open-source de Meta #actu..."
     },
     {
         "id": "k0myRsQCsp0",
@@ -1199,17 +1254,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Deepseek Harness : La fin de Claude code ? 🤯..."
     },
     {
-        "id": "_EAfv6hGLcs",
-        "videoId": "_EAfv6hGLcs",
-        "title": "J'ai Automatisé 100% de mes Posts avec ce Script [GitHub]",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-20",
-        "url": "https://www.youtube.com/watch?v=_EAfv6hGLcs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : J'ai Automatisé 100% de mes Posts avec ce Script [GitHub]..."
-    },
-    {
         "id": "Kmlebm-Otp8",
         "videoId": "Kmlebm-Otp8",
         "title": "Claude Code + Shopify : Le combo pour créer des sites à 5 chiffres",
@@ -1352,17 +1396,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gK1mBVZUlVQ",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Claude + DataForSEO : Le SEO Ne Sera Plus Jamais Pareil..."
-    },
-    {
-        "id": "XgnYGTaPLws",
-        "videoId": "XgnYGTaPLws",
-        "title": "Longcat 2.0 : La fin des GPU NVIDIA ? 🇨🇳",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-13",
-        "url": "https://www.youtube.com/watch?v=XgnYGTaPLws",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Longcat 2.0 : La fin des GPU NVIDIA ? 🇨🇳..."
     },
     {
         "id": "kHcqcR0lQz0",
@@ -1796,16 +1829,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Sj3Z1-LO-I8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Mon système pour publier régulièrement avec 1 jour par semaine..."
-    },
-    {
-        "id": "oU2slLP15VA",
-        "videoId": "oU2slLP15VA",
-        "title": "La nouvelle méthode pour utiliser Claude IA sans prompt",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-07-12",
-        "url": "https://www.youtube.com/watch?v=oU2slLP15VA",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : La nouvelle méthode pour utiliser Claude IA sans prompt..."
     }
 ];
