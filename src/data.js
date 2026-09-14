@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-13T11:00:20.576Z
+// Fichier généré automatiquement le 2026-09-14T11:37:49.840Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:00:20 AM 9/13/2026";
+export const lastUpdate = "11:37:49 AM 9/14/2026";
 
 export const sources = [
     {
@@ -172,6 +172,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "fc8kpsTcZJs",
+        "videoId": "fc8kpsTcZJs",
+        "title": "Construit une équipe tout seul pour tes réseaux sociaux avec Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=fc8kpsTcZJs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Construit une équipe tout seul pour tes réseaux sociaux avec Claude !..."
+    },
+    {
+        "id": "qRdVUiO8UlQ",
+        "videoId": "qRdVUiO8UlQ",
+        "title": "C'est LE moment de bascule mondiale de l'IA ! + Pause sur l'IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=qRdVUiO8UlQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : C'est LE moment de bascule mondiale de l'IA ! + Pause sur l'IA..."
+    },
+    {
+        "id": "vteHq-k6IJs",
+        "videoId": "vteHq-k6IJs",
+        "title": "Google dégrade Search, l’IA gagne",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=vteHq-k6IJs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google dégrade Search, l’IA gagne..."
+    },
+    {
+        "id": "v7kOEDRt3UM",
+        "videoId": "v7kOEDRt3UM",
+        "title": "Que vaut GPT-6 Astra ? #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=v7kOEDRt3UM",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Que vaut GPT-6 Astra ? #actu..."
+    },
+    {
+        "id": "xJPuTeJG6FM",
+        "videoId": "xJPuTeJG6FM",
+        "title": "Ce skill rend Claude Code gratuit ?",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-14",
+        "url": "https://www.youtube.com/watch?v=xJPuTeJG6FM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Ce skill rend Claude Code gratuit ?..."
+    },
+    {
         "id": "4lFheOCWgqo",
         "videoId": "4lFheOCWgqo",
         "title": "Les limites de Fable 5.1 #actu",
@@ -218,13 +273,13 @@ export const allVideos = [
     {
         "id": "V4uwmA90AOU",
         "videoId": "V4uwmA90AOU",
-        "title": "L’incroyable histoire du génie derrière DeepSeek",
+        "title": "L'histoire folle du génie derrière DeepSeek",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-09-12",
         "url": "https://www.youtube.com/watch?v=V4uwmA90AOU",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L’incroyable histoire du génie derrière DeepSeek..."
+        "summary": "Nouveauté de Eliott Meunier : L'histoire folle du génie derrière DeepSeek..."
     },
     {
         "id": "EXrCueHwnqo",
@@ -493,13 +548,13 @@ export const allVideos = [
     {
         "id": "Ul0aKZFsG3g",
         "videoId": "Ul0aKZFsG3g",
-        "title": "J'ai fait faire la même chose à GPT-6 Astra et Fable 5.1",
+        "title": "J'ai créer la même pub à GPT-6 Astra et Fable 5.1",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-09-09",
         "url": "https://www.youtube.com/watch?v=Ul0aKZFsG3g",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : J'ai fait faire la même chose à GPT-6 Astra et Fable 5.1..."
+        "summary": "Nouveauté de Eliott Meunier : J'ai créer la même pub à GPT-6 Astra et Fable 5.1..."
     },
     {
         "id": "Wh7x150291w",
@@ -511,28 +566,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Wh7x150291w",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : GPT 6 vs Fable 5.1 : Le comparatif ULTIME pour faire ton choix..."
-    },
-    {
-        "id": "qeWUNsrCooc",
-        "videoId": "qeWUNsrCooc",
-        "title": "Gemini 3.8 : la facture cachée",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-08",
-        "url": "https://www.youtube.com/watch?v=qeWUNsrCooc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Gemini 3.8 : la facture cachée..."
-    },
-    {
-        "id": "Iy2SBFbEP10",
-        "videoId": "Iy2SBFbEP10",
-        "title": "Muse Spark : moins cher, pas mieux",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-08",
-        "url": "https://www.youtube.com/watch?v=Iy2SBFbEP10",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Muse Spark : moins cher, pas mieux..."
     },
     {
         "id": "M8H3Z-EAG0w",
@@ -691,13 +724,13 @@ export const allVideos = [
     {
         "id": "3LfqOETwkd0",
         "videoId": "3LfqOETwkd0",
-        "title": "Le monopole de Nvidia est en train de tomber (actu IA)",
+        "title": "Apple met l’IA dans le Mac (actu IA)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-09-02",
         "url": "https://www.youtube.com/watch?v=3LfqOETwkd0",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Le monopole de Nvidia est en train de tomber (actu IA)..."
+        "summary": "Nouveauté de Eliott Meunier : Apple met l’IA dans le Mac (actu IA)..."
     },
     {
         "id": "OIdKHTpDeVY",
@@ -975,17 +1008,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : 6 choses pour lesquelles tu paies encore et que Claude fait gratuitement !..."
     },
     {
-        "id": "pS81YzrmEzA",
-        "videoId": "pS81YzrmEzA",
-        "title": "Ils quittent Google !",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-27",
-        "url": "https://www.youtube.com/watch?v=pS81YzrmEzA",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Ils quittent Google !..."
-    },
-    {
         "id": "S__8c_pqYpE",
         "videoId": "S__8c_pqYpE",
         "title": "Le vol de raisonnement des IA",
@@ -1175,17 +1197,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=N8e0LLHfTJY",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : La différence entre un Consultant IA à 0€ et un à 15k€/mois..."
-    },
-    {
-        "id": "8q8cWIY-FPI",
-        "videoId": "8q8cWIY-FPI",
-        "title": "Ce que personne ne te dit sur la sécurité de ton app !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-23",
-        "url": "https://www.youtube.com/watch?v=8q8cWIY-FPI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ce que personne ne te dit sur la sécurité de ton app !..."
     },
     {
         "id": "REqJ7H7i2jQ",
@@ -1443,18 +1454,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lmU9IBKEUno",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Arrêtez d'utiliser Copilot sans connaître ces 7 astuces !..."
-    },
-    {
-        "id": "LWvjJkLtDhQ",
-        "videoId": "LWvjJkLtDhQ",
-        "title": "AIOS: L'IA sécurisée, votre environnement isolé et protégé! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-11",
-        "url": "https://www.youtube.com/watch?v=LWvjJkLtDhQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : AIOS: L'IA sécurisée, votre environnement isolé et protégé! #shorts...",
-        "isShort": true
     },
     {
         "id": "EQt4H1aDWBw",
