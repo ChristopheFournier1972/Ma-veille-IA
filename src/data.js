@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-15T10:57:11.870Z
+// Fichier généré automatiquement le 2026-09-16T10:45:40.488Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:57:11 AM 9/15/2026";
+export const lastUpdate = "10:45:40 AM 9/16/2026";
 
 export const sources = [
     {
@@ -172,6 +172,84 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "nE6-j0IbdLc",
+        "videoId": "nE6-j0IbdLc",
+        "title": "Claude volé pour coder un missile",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-16",
+        "url": "https://www.youtube.com/watch?v=nE6-j0IbdLc",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude volé pour coder un missile..."
+    },
+    {
+        "id": "2M96y_61zao",
+        "videoId": "2M96y_61zao",
+        "title": "Projet NOMAD sur Github",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-16",
+        "url": "https://www.youtube.com/watch?v=2M96y_61zao",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Projet NOMAD sur Github..."
+    },
+    {
+        "id": "xnnSc1NfaZU",
+        "videoId": "xnnSc1NfaZU",
+        "title": "J'ai testé Claude Code pour éditer mes vidéos 😱 #tech #ia #shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-16",
+        "url": "https://www.youtube.com/watch?v=xnnSc1NfaZU",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : J'ai testé Claude Code pour éditer mes vidéos 😱 #tech #ia #shorts...",
+        "isShort": true
+    },
+    {
+        "id": "pbN3uZgeCYQ",
+        "videoId": "pbN3uZgeCYQ",
+        "title": "Top 5 des meilleurs Skills Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-15",
+        "url": "https://www.youtube.com/watch?v=pbN3uZgeCYQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Top 5 des meilleurs Skills Claude !..."
+    },
+    {
+        "id": "f_-zvssEtbA",
+        "videoId": "f_-zvssEtbA",
+        "title": "Voici 4 connecteurs que tu peux utiliser si tu payes Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-15",
+        "url": "https://www.youtube.com/watch?v=f_-zvssEtbA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Voici 4 connecteurs que tu peux utiliser si tu payes Claude !..."
+    },
+    {
+        "id": "154nYL1drHM",
+        "videoId": "154nYL1drHM",
+        "title": "L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur + Les profs enfin à l'IA !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-15",
+        "url": "https://www.youtube.com/watch?v=154nYL1drHM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur + Les profs enfin à l'IA !..."
+    },
+    {
+        "id": "zSyQXoEKPrw",
+        "videoId": "zSyQXoEKPrw",
+        "title": "OpenAI refuse la Bourse : danger ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-15",
+        "url": "https://www.youtube.com/watch?v=zSyQXoEKPrw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI refuse la Bourse : danger ?..."
+    },
+    {
         "id": "lIxVl62J9Ug",
         "videoId": "lIxVl62J9Ug",
         "title": "IA : Obama et l’option militaire",
@@ -192,6 +270,39 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=giolj6-hAP0",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : NVIDIA rachète Hugging Face #actu..."
+    },
+    {
+        "id": "zPyRUZl3yp4",
+        "videoId": "zPyRUZl3yp4",
+        "title": "Open ai vient peut-être de marquer l’histoire (Navier-Stokes)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-15",
+        "url": "https://www.youtube.com/watch?v=zPyRUZl3yp4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Open ai vient peut-être de marquer l’histoire (Navier-Stokes)..."
+    },
+    {
+        "id": "q4dG7eRE_tU",
+        "videoId": "q4dG7eRE_tU",
+        "title": "GPT 6 pilote After Effects tout SEUL (et c'est gratuit)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-15",
+        "url": "https://www.youtube.com/watch?v=q4dG7eRE_tU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : GPT 6 pilote After Effects tout SEUL (et c'est gratuit)..."
+    },
+    {
+        "id": "sxDDQqbGcts",
+        "videoId": "sxDDQqbGcts",
+        "title": "Follow pour en apprendre plus sur l’IA",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-15",
+        "url": "https://www.youtube.com/watch?v=sxDDQqbGcts",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Follow pour en apprendre plus sur l’IA..."
     },
     {
         "id": "fc8kpsTcZJs",
@@ -504,13 +615,13 @@ export const allVideos = [
     {
         "id": "xYv7U8pZMcc",
         "videoId": "xYv7U8pZMcc",
-        "title": "CLAUDE CODE : l'arme secrète pour ton BUSINESS (et c'est pas du dev)",
+        "title": "CLAUDE CODE m'a fait gagner 10h/semaine (je montre tout)",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-09-11",
         "url": "https://www.youtube.com/watch?v=xYv7U8pZMcc",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE : l'arme secrète pour ton BUSINESS (et c'est pas du dev)..."
+        "summary": "Nouveauté de Thomas Berton : CLAUDE CODE m'a fait gagner 10h/semaine (je montre tout)..."
     },
     {
         "id": "sLHJPgxBVUQ",
@@ -546,28 +657,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Google rallume le nucléaire IA..."
     },
     {
-        "id": "C-O6fiM6Vq4",
-        "videoId": "C-O6fiM6Vq4",
-        "title": "Le SEO est mort",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=C-O6fiM6Vq4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le SEO est mort..."
-    },
-    {
-        "id": "8o6CuhfgPSE",
-        "videoId": "8o6CuhfgPSE",
-        "title": "Gribouillez, ChatGPT dessine",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=8o6CuhfgPSE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Gribouillez, ChatGPT dessine..."
-    },
-    {
         "id": "aSN-OigmR3A",
         "videoId": "aSN-OigmR3A",
         "title": "DeepSeek V4.1 Flash : Le DERNIER modèle CHINOIS (OPEN SOURCE)",
@@ -599,17 +688,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DRo9cnjG388",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot est devenu incroyable !..."
-    },
-    {
-        "id": "oT30nxgffLQ",
-        "videoId": "oT30nxgffLQ",
-        "title": "Mistral : 3 Mds pour le contrôle",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=oT30nxgffLQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral : 3 Mds pour le contrôle..."
     },
     {
         "id": "Ul0aKZFsG3g",
@@ -691,13 +769,13 @@ export const allVideos = [
     {
         "id": "4TCF36rCo8k",
         "videoId": "4TCF36rCo8k",
-        "title": "Le scientifique Français qui va écraser l’IA Américaine",
+        "title": "Le scientifique Français qui va détruire l’IA Américaine",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-09-06",
         "url": "https://www.youtube.com/watch?v=4TCF36rCo8k",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Le scientifique Français qui va écraser l’IA Américaine..."
+        "summary": "Nouveauté de Yassine Sdiri : Le scientifique Français qui va détruire l’IA Américaine..."
     },
     {
         "id": "k6pJOvBKAIQ",
@@ -1086,17 +1164,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "6sJmTbU8RFM",
-        "videoId": "6sJmTbU8RFM",
-        "title": "Un framework de développement argentique complet pour Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-26",
-        "url": "https://www.youtube.com/watch?v=6sJmTbU8RFM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Un framework de développement argentique complet pour Claude !..."
-    },
-    {
         "id": "K3HuspM1HmM",
         "videoId": "K3HuspM1HmM",
         "title": "La Faille Qui Permet de Voler le Raisonnement des IA",
@@ -1140,17 +1207,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-FqnIlznw_8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Transforme n'importe quel livre en skill Claude Code.  Tu donnes le PDF a Claude Code, il en extrait..."
-    },
-    {
-        "id": "jj0FIAOKNhs",
-        "videoId": "jj0FIAOKNhs",
-        "title": "Je note les profils de personnes qui veulent vendre de l'IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-25",
-        "url": "https://www.youtube.com/watch?v=jj0FIAOKNhs",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Je note les profils de personnes qui veulent vendre de l'IA !..."
     },
     {
         "id": "dk4eorkkni8",
@@ -1298,17 +1354,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Transforme une video en site web anime..."
     },
     {
-        "id": "Od6j6r21FdE",
-        "videoId": "Od6j6r21FdE",
-        "title": "3 astuces pour des visuels IA de pro",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-21",
-        "url": "https://www.youtube.com/watch?v=Od6j6r21FdE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : 3 astuces pour des visuels IA de pro..."
-    },
-    {
         "id": "uF3C3zQxZ-o",
         "videoId": "uF3C3zQxZ-o",
         "title": "C’est décidé, j'arrête Claude Code pour Codex !",
@@ -1386,17 +1431,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Muse Glimmer : le retour inattendu de Meta dans l’open source..."
     },
     {
-        "id": "4AjMSaNAI1w",
-        "videoId": "4AjMSaNAI1w",
-        "title": "Claude fait une découverte folle après 650 échecs",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-18",
-        "url": "https://www.youtube.com/watch?v=4AjMSaNAI1w",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Claude fait une découverte folle après 650 échecs..."
-    },
-    {
         "id": "tb-7zB5pwng",
         "videoId": "tb-7zB5pwng",
         "title": "Vous utilisez 10 % de Claude (voici les 90 % cachés)",
@@ -1439,42 +1473,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=eRaek8u2CS8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Commente Vocal pour avoir le prompt !..."
-    },
-    {
-        "id": "odK-rqGSYR8",
-        "videoId": "odK-rqGSYR8",
-        "title": "Demandez à l'IA de poser des questions avant TOUT ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-14",
-        "url": "https://www.youtube.com/watch?v=odK-rqGSYR8",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Demandez à l'IA de poser des questions avant TOUT ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "kHcqcR0lQz0",
-        "videoId": "kHcqcR0lQz0",
-        "title": "Sora : La Révolution Vidéo IA Qui Va Tout Changer ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-13",
-        "url": "https://www.youtube.com/watch?v=kHcqcR0lQz0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Sora : La Révolution Vidéo IA Qui Va Tout Changer ! #shorts...",
-        "isShort": true
-    },
-    {
-        "id": "CxDNjAIHSJc",
-        "videoId": "CxDNjAIHSJc",
-        "title": "Cloud Code: Prenez le contrôle TOTAL de votre ordinateur ! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-12",
-        "url": "https://www.youtube.com/watch?v=CxDNjAIHSJc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Cloud Code: Prenez le contrôle TOTAL de votre ordinateur ! #shorts...",
-        "isShort": true
     },
     {
         "id": "lmU9IBKEUno",
