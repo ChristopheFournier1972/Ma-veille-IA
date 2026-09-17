@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-16T10:45:40.488Z
+// Fichier généré automatiquement le 2026-09-17T10:52:48.274Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:45:40 AM 9/16/2026";
+export const lastUpdate = "10:52:48 AM 9/17/2026";
 
 export const sources = [
     {
@@ -172,6 +172,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "fkjBrlq7-xg",
+        "videoId": "fkjBrlq7-xg",
+        "title": "IA : l’arme open source de Pékin",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=fkjBrlq7-xg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : l’arme open source de Pékin..."
+    },
+    {
+        "id": "T2lnLI8g96g",
+        "videoId": "T2lnLI8g96g",
+        "title": "Les secrets pour maîtriser GPT-6 Astra !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-16",
+        "url": "https://www.youtube.com/watch?v=T2lnLI8g96g",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Les secrets pour maîtriser GPT-6 Astra !..."
+    },
+    {
+        "id": "H3ixNpiPlck",
+        "videoId": "H3ixNpiPlck",
+        "title": "Koa : l’IA CRM qui menace ChatGPT",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-16",
+        "url": "https://www.youtube.com/watch?v=H3ixNpiPlck",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Koa : l’IA CRM qui menace ChatGPT..."
+    },
+    {
+        "id": "1SbIf99XEjs",
+        "videoId": "1SbIf99XEjs",
+        "title": "L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-16",
+        "url": "https://www.youtube.com/watch?v=1SbIf99XEjs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur..."
+    },
+    {
+        "id": "154nYL1drHM",
+        "videoId": "154nYL1drHM",
+        "title": "L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur + Les profs enfin à l'IA !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-16",
+        "url": "https://www.youtube.com/watch?v=154nYL1drHM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur + Les profs enfin à l'IA !..."
+    },
+    {
         "id": "nE6-j0IbdLc",
         "videoId": "nE6-j0IbdLc",
         "title": "Claude volé pour coder un missile",
@@ -181,6 +236,50 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=nE6-j0IbdLc",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Claude volé pour coder un missile..."
+    },
+    {
+        "id": "AaLTIk_Nc4k",
+        "videoId": "AaLTIk_Nc4k",
+        "title": "Arrêtez de payer ChatGPT: cette IA locale est gratuite &amp; illimité",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-09-16",
+        "url": "https://www.youtube.com/watch?v=AaLTIk_Nc4k",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : Arrêtez de payer ChatGPT: cette IA locale est gratuite &amp; illimité..."
+    },
+    {
+        "id": "3_2F8pUxPPg",
+        "videoId": "3_2F8pUxPPg",
+        "title": "DeepSeek lâche une bombe : V4.1 Flash (actu)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-16",
+        "url": "https://www.youtube.com/watch?v=3_2F8pUxPPg",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : DeepSeek lâche une bombe : V4.1 Flash (actu)..."
+    },
+    {
+        "id": "H1lAMRhC8Bg",
+        "videoId": "H1lAMRhC8Bg",
+        "title": "Lien du GitHub en description",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-16",
+        "url": "https://www.youtube.com/watch?v=H1lAMRhC8Bg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Lien du GitHub en description..."
+    },
+    {
+        "id": "d9Hup0yuh-I",
+        "videoId": "d9Hup0yuh-I",
+        "title": "comment faire du montage avec Claude Code ?",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-16",
+        "url": "https://www.youtube.com/watch?v=d9Hup0yuh-I",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : comment faire du montage avec Claude Code ?..."
     },
     {
         "id": "2M96y_61zao",
@@ -226,17 +325,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=f_-zvssEtbA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Voici 4 connecteurs que tu peux utiliser si tu payes Claude !..."
-    },
-    {
-        "id": "154nYL1drHM",
-        "videoId": "154nYL1drHM",
-        "title": "L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur + Les profs enfin à l'IA !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-15",
-        "url": "https://www.youtube.com/watch?v=154nYL1drHM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA US explose de l'intérieur, la Chine a le sourire du vainqueur + Les profs enfin à l'IA !..."
     },
     {
         "id": "zSyQXoEKPrw",
@@ -483,13 +571,13 @@ export const allVideos = [
     {
         "id": "V4uwmA90AOU",
         "videoId": "V4uwmA90AOU",
-        "title": "L'histoire folle du génie derrière DeepSeek",
+        "title": "L’incroyable histoire du génie derrière DeepSeek",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-09-12",
         "url": "https://www.youtube.com/watch?v=V4uwmA90AOU",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L'histoire folle du génie derrière DeepSeek..."
+        "summary": "Nouveauté de Eliott Meunier : L’incroyable histoire du génie derrière DeepSeek..."
     },
     {
         "id": "EXrCueHwnqo",
@@ -534,28 +622,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=qSeb_bx4VJs",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues..."
-    },
-    {
-        "id": "JIQ3p7Uadcw",
-        "videoId": "JIQ3p7Uadcw",
-        "title": "L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues + GPT-Image 2.5",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=JIQ3p7Uadcw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues + GPT-Image 2.5..."
-    },
-    {
-        "id": "85AJj7IcCKI",
-        "videoId": "85AJj7IcCKI",
-        "title": "Navier-Stokes : OpenAI accusé",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=85AJj7IcCKI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Navier-Stokes : OpenAI accusé..."
     },
     {
         "id": "NRQU-_6ors0",
@@ -644,17 +710,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=3Ktn_Q76YPI",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Des milliers d'entreprises cherchent exactement ces profils en ce moment !..."
-    },
-    {
-        "id": "GiiFoPO_vwc",
-        "videoId": "GiiFoPO_vwc",
-        "title": "Google rallume le nucléaire IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-10",
-        "url": "https://www.youtube.com/watch?v=GiiFoPO_vwc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google rallume le nucléaire IA..."
     },
     {
         "id": "aSN-OigmR3A",
@@ -1031,17 +1086,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : Comment l'IA est devenue plus chère que ceux qu'elle remplace..."
     },
     {
-        "id": "3hRLAJ8xTsw",
-        "videoId": "3hRLAJ8xTsw",
-        "title": "Stripe rachète OpenRouter #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-30",
-        "url": "https://www.youtube.com/watch?v=3hRLAJ8xTsw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Stripe rachète OpenRouter #actu..."
-    },
-    {
         "id": "W2LfhDOjrL4",
         "videoId": "W2LfhDOjrL4",
         "title": "Code world model : Et si on s’était trompé sur les World️️ models",
@@ -1376,17 +1420,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Deepseek Harness : La fin de Claude code ? 🤯..."
     },
     {
-        "id": "Kmlebm-Otp8",
-        "videoId": "Kmlebm-Otp8",
-        "title": "Claude Code + Shopify : Le combo pour créer des sites à 5 chiffres",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-20",
-        "url": "https://www.youtube.com/watch?v=Kmlebm-Otp8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Claude Code + Shopify : Le combo pour créer des sites à 5 chiffres..."
-    },
-    {
         "id": "Y-C_71H-mAg",
         "videoId": "Y-C_71H-mAg",
         "title": "Anthropic vient de lancer un avertissement pour les 6 à 12 prochains mois...",
@@ -1462,17 +1495,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=EGL2DQ1MJds",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : La nouvelle fonctionnalité incroyable de Claude !..."
-    },
-    {
-        "id": "eRaek8u2CS8",
-        "videoId": "eRaek8u2CS8",
-        "title": "Commente Vocal pour avoir le prompt !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-14",
-        "url": "https://www.youtube.com/watch?v=eRaek8u2CS8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Commente Vocal pour avoir le prompt !..."
     },
     {
         "id": "lmU9IBKEUno",
@@ -1759,17 +1781,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=NQJPlvwVFOE",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Comment Créer des Skills Claude comme un PRO (tuto complet)..."
-    },
-    {
-        "id": "FD0i-wFhnC4",
-        "videoId": "FD0i-wFhnC4",
-        "title": "Arrêtez les prompts. Passez aux Loops (Le futur des agents IA)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-07-22",
-        "url": "https://www.youtube.com/watch?v=FD0i-wFhnC4",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Arrêtez les prompts. Passez aux Loops (Le futur des agents IA)..."
     },
     {
         "id": "RutkqDcQZL0",
