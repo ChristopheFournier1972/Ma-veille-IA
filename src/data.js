@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-17T10:52:48.274Z
+// Fichier généré automatiquement le 2026-09-18T10:27:59.870Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:52:48 AM 9/17/2026";
+export const lastUpdate = "10:27:59 AM 9/18/2026";
 
 export const sources = [
     {
@@ -172,6 +172,83 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "s9yCBQ2ha3s",
+        "videoId": "s9yCBQ2ha3s",
+        "title": "OpenAI achète ses yeux pour 300 M$",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=s9yCBQ2ha3s",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI achète ses yeux pour 300 M$..."
+    },
+    {
+        "id": "8_1le9h2aVc",
+        "videoId": "8_1le9h2aVc",
+        "title": "Sortie de DeepSeek V4.1 Flash #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=8_1le9h2aVc",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Sortie de DeepSeek V4.1 Flash #actu..."
+    },
+    {
+        "id": "1z1i6rfM3UI",
+        "videoId": "1z1i6rfM3UI",
+        "title": "Tu veux des résultats différents avec l'IA ? Ce sont les skills les plus utiles selon moi !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=1z1i6rfM3UI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu veux des résultats différents avec l'IA ? Ce sont les skills les plus utiles selon moi !..."
+    },
+    {
+        "id": "i8cCJ0-ZG3Q",
+        "videoId": "i8cCJ0-ZG3Q",
+        "title": "Utilisez mieux Microsoft Copilot que 99% des gens ! (de débutant à Pro)",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=i8cCJ0-ZG3Q",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Utilisez mieux Microsoft Copilot que 99% des gens ! (de débutant à Pro)..."
+    },
+    {
+        "id": "QNRvng501wI",
+        "videoId": "QNRvng501wI",
+        "title": "L'IA est en train de tout résoudre ! 5 dingueries au parfum d'AGI + Rock'n'Roll Friday",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=QNRvng501wI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA est en train de tout résoudre ! 5 dingueries au parfum d'AGI + Rock'n'Roll Friday..."
+    },
+    {
+        "id": "obQA9lfaYrk",
+        "videoId": "obQA9lfaYrk",
+        "title": "La voix IA va décrocher pour vous",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=obQA9lfaYrk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : La voix IA va décrocher pour vous..."
+    },
+    {
+        "id": "u-b52JfYdOg",
+        "videoId": "u-b52JfYdOg",
+        "title": "Les profs corrigent les copies avec l'IA !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=u-b52JfYdOg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Les profs corrigent les copies avec l'IA !..."
+    },
+    {
         "id": "fkjBrlq7-xg",
         "videoId": "fkjBrlq7-xg",
         "title": "IA : l’arme open source de Pékin",
@@ -181,6 +258,61 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fkjBrlq7-xg",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : IA : l’arme open source de Pékin..."
+    },
+    {
+        "id": "kCHqUTx9oXg",
+        "videoId": "kCHqUTx9oXg",
+        "title": "Tes factures en photo, lues par une IA en local : l'outil open source",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=kCHqUTx9oXg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Tes factures en photo, lues par une IA en local : l'outil open source..."
+    },
+    {
+        "id": "9F3Yv5VE7II",
+        "videoId": "9F3Yv5VE7II",
+        "title": "le nom du repo GitHub, c'est OmniRoute",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=9F3Yv5VE7II",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : le nom du repo GitHub, c'est OmniRoute..."
+    },
+    {
+        "id": "L0Xf2CyZur0",
+        "videoId": "L0Xf2CyZur0",
+        "title": "J'ai Créé mon Propre JARVIS avec Claude Code (il contrôle tout)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=L0Xf2CyZur0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : J'ai Créé mon Propre JARVIS avec Claude Code (il contrôle tout)..."
+    },
+    {
+        "id": "_6mwJv_1rMQ",
+        "videoId": "_6mwJv_1rMQ",
+        "title": "J’ai donné 1h à GPT 6 Astra pour créer un LIVRE ENTIER",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=_6mwJv_1rMQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : J’ai donné 1h à GPT 6 Astra pour créer un LIVRE ENTIER..."
+    },
+    {
+        "id": "0EPr0CNCzHo",
+        "videoId": "0EPr0CNCzHo",
+        "title": "J'ai automatisé mon montage vidéo avec GPT-6 Astra (Guide Complet Débutant) !",
+        "author": "Aurélien Fagioli",
+        "source": "@AurelienAutomatisation",
+        "date": "2026-09-17",
+        "url": "https://www.youtube.com/watch?v=0EPr0CNCzHo",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Aurélien Fagioli : J'ai automatisé mon montage vidéo avec GPT-6 Astra (Guide Complet Débutant) !..."
     },
     {
         "id": "T2lnLI8g96g",
@@ -547,28 +679,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Tu savais que si tu vas sur ChatGPT, que tu mets une photo de toi et que tu écris......"
     },
     {
-        "id": "nFG3NwCr-A4",
-        "videoId": "nFG3NwCr-A4",
-        "title": "DeepSeek Flash écrase le Pro",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-12",
-        "url": "https://www.youtube.com/watch?v=nFG3NwCr-A4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : DeepSeek Flash écrase le Pro..."
-    },
-    {
-        "id": "LjnNlmMwDdU",
-        "videoId": "LjnNlmMwDdU",
-        "title": "L’IA de Meta paie avec vos sous",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-12",
-        "url": "https://www.youtube.com/watch?v=LjnNlmMwDdU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L’IA de Meta paie avec vos sous..."
-    },
-    {
         "id": "V4uwmA90AOU",
         "videoId": "V4uwmA90AOU",
         "title": "L’incroyable histoire du génie derrière DeepSeek",
@@ -600,28 +710,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=KNTbEG00bPk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Pourquoi GPT-6 Astra pourrait tout changer..."
-    },
-    {
-        "id": "JDT1shLZ1Aw",
-        "videoId": "JDT1shLZ1Aw",
-        "title": "IA : il démissionne et accuse",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=JDT1shLZ1Aw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : il démissionne et accuse..."
-    },
-    {
-        "id": "qSeb_bx4VJs",
-        "videoId": "qSeb_bx4VJs",
-        "title": "L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-11",
-        "url": "https://www.youtube.com/watch?v=qSeb_bx4VJs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA joue avec nos vies et Apple, Meta et Google deviennent dingues..."
     },
     {
         "id": "NRQU-_6ors0",
@@ -998,17 +1086,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : 4 choses que je construirais dans Claude en un weekend..."
     },
     {
-        "id": "pHRVMrxIxMQ",
-        "videoId": "pHRVMrxIxMQ",
-        "title": "Ma nouvelle vie à Hong Kong : je vous raconte tout",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-08-31",
-        "url": "https://www.youtube.com/watch?v=pHRVMrxIxMQ",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Ma nouvelle vie à Hong Kong : je vous raconte tout..."
-    },
-    {
         "id": "0FlfKKNbK9E",
         "videoId": "0FlfKKNbK9E",
         "title": "Qwen vient-il de dévoiler le futur des LLM ?",
@@ -1174,17 +1251,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : CLAUDE + SEEDANCE 2.5 : un site à 10 000 € en 10 min..."
     },
     {
-        "id": "QxhOKugAa78",
-        "videoId": "QxhOKugAa78",
-        "title": "6 choses pour lesquelles tu paies encore et que Claude fait gratuitement !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-27",
-        "url": "https://www.youtube.com/watch?v=QxhOKugAa78",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 6 choses pour lesquelles tu paies encore et que Claude fait gratuitement !..."
-    },
-    {
         "id": "S__8c_pqYpE",
         "videoId": "S__8c_pqYpE",
         "title": "Le vol de raisonnement des IA",
@@ -1286,18 +1352,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Codex et Claude Code gratuits, sans abonnement..."
     },
     {
-        "id": "P8drExEL4Bk",
-        "videoId": "P8drExEL4Bk",
-        "title": "Claude IA: Crée des Images et Vidéos Magiques FACILEMENT! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-25",
-        "url": "https://www.youtube.com/watch?v=P8drExEL4Bk",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude IA: Crée des Images et Vidéos Magiques FACILEMENT! #shorts...",
-        "isShort": true
-    },
-    {
         "id": "GWf9yeqxwjk",
         "videoId": "GWf9yeqxwjk",
         "title": "J'ai créé 30 posts VIRAUX et 1 BUSINESS en 1H (Claude + Higgsfield) !",
@@ -1329,18 +1383,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iTyl6yfb6Jo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : CapCut Pro gratuit et open source..."
-    },
-    {
-        "id": "jzXGxXdjkTQ",
-        "videoId": "jzXGxXdjkTQ",
-        "title": "Produit Dynamique : Création Vidéo Style Balenciaga Facile #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-24",
-        "url": "https://www.youtube.com/watch?v=jzXGxXdjkTQ",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Produit Dynamique : Création Vidéo Style Balenciaga Facile #shorts...",
-        "isShort": true
     },
     {
         "id": "N8e0LLHfTJY",
@@ -1385,17 +1427,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lhodwaO1aGc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : DeepSeek Harness = Claude Code GRATUIT  🐳 (open source)..."
-    },
-    {
-        "id": "2Lq75AyVjdE",
-        "videoId": "2Lq75AyVjdE",
-        "title": "Transforme une video en site web anime",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-22",
-        "url": "https://www.youtube.com/watch?v=2Lq75AyVjdE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Transforme une video en site web anime..."
     },
     {
         "id": "uF3C3zQxZ-o",
@@ -1739,17 +1770,6 @@ export const allVideos = [
         "summary": "Nouveauté de Hugo Buisson : 100 jours avec Hermes Agent résumé en 16 minutes..."
     },
     {
-        "id": "JIFgklJGj2w",
-        "videoId": "JIFgklJGj2w",
-        "title": "Arrêtez de créer des Agents IA, créez des Loops !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-07-23",
-        "url": "https://www.youtube.com/watch?v=JIFgklJGj2w",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Arrêtez de créer des Agents IA, créez des Loops !..."
-    },
-    {
         "id": "l1zVp3wOBSg",
         "videoId": "l1zVp3wOBSg",
         "title": "Gemini 3.6 Flash : Ne vous fiez pas aux Benchmarks",
@@ -1785,13 +1805,13 @@ export const allVideos = [
     {
         "id": "RutkqDcQZL0",
         "videoId": "RutkqDcQZL0",
-        "title": "Comment utiliser Hermes GRATUITEMENT �� VIE",
+        "title": "Comment utiliser Hermes GRATUITEMENT à VIE",
         "author": "Hugo Buisson",
         "source": "@Hugo_Buisson",
         "date": "2026-07-22",
         "url": "https://www.youtube.com/watch?v=RutkqDcQZL0",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : Comment utiliser Hermes GRATUITEMENT �� VIE..."
+        "summary": "Nouveauté de Hugo Buisson : Comment utiliser Hermes GRATUITEMENT à VIE..."
     },
     {
         "id": "F9YcVlyZahk",
