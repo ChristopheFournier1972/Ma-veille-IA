@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-18T10:27:59.870Z
+// Fichier généré automatiquement le 2026-09-19T10:13:39.064Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:27:59 AM 9/18/2026";
+export const lastUpdate = "10:13:39 AM 9/19/2026";
 
 export const sources = [
     {
@@ -172,6 +172,83 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "1EQ_7SXG7Ls",
+        "videoId": "1EQ_7SXG7Ls",
+        "title": "Atlas : la 3D qui dresse les robots",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=1EQ_7SXG7Ls",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Atlas : la 3D qui dresse les robots..."
+    },
+    {
+        "id": "s35EaYwMv5M",
+        "videoId": "s35EaYwMv5M",
+        "title": "OpenAI accusé de vol #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=s35EaYwMv5M",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : OpenAI accusé de vol #actu..."
+    },
+    {
+        "id": "4tHhowWy-V4",
+        "videoId": "4tHhowWy-V4",
+        "title": "Ce repo GitHub transforme n'importe quel screen record en vidéo montée",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=4tHhowWy-V4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ce repo GitHub transforme n'importe quel screen record en vidéo montée..."
+    },
+    {
+        "id": "N8SCaHouGrg",
+        "videoId": "N8SCaHouGrg",
+        "title": "Génère des revenus avec Claude grâce a ces 3 compétences !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=N8SCaHouGrg",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Génère des revenus avec Claude grâce a ces 3 compétences !..."
+    },
+    {
+        "id": "UQhUl3LqZt8",
+        "videoId": "UQhUl3LqZt8",
+        "title": "Un Creeper a brisé GPT Astra",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=UQhUl3LqZt8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Un Creeper a brisé GPT Astra..."
+    },
+    {
+        "id": "-TpyTVPLMko",
+        "videoId": "-TpyTVPLMko",
+        "title": "L'IA est en train de tout résoudre ! 5 dingueries au parfum d'AGI",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=-TpyTVPLMko",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA est en train de tout résoudre ! 5 dingueries au parfum d'AGI..."
+    },
+    {
+        "id": "QNRvng501wI",
+        "videoId": "QNRvng501wI",
+        "title": "L'IA est en train de tout résoudre ! 5 dingueries au parfum d'AGI + Rock'n'Roll Friday",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=QNRvng501wI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA est en train de tout résoudre ! 5 dingueries au parfum d'AGI + Rock'n'Roll Friday..."
+    },
+    {
         "id": "s9yCBQ2ha3s",
         "videoId": "s9yCBQ2ha3s",
         "title": "OpenAI achète ses yeux pour 300 M$",
@@ -183,6 +260,17 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : OpenAI achète ses yeux pour 300 M$..."
     },
     {
+        "id": "NR5Wo-8BPxc",
+        "videoId": "NR5Wo-8BPxc",
+        "title": "Mistral lève 3 milliards d’euros #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=NR5Wo-8BPxc",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Mistral lève 3 milliards d’euros #actu..."
+    },
+    {
         "id": "8_1le9h2aVc",
         "videoId": "8_1le9h2aVc",
         "title": "Sortie de DeepSeek V4.1 Flash #actu",
@@ -192,6 +280,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8_1le9h2aVc",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Sortie de DeepSeek V4.1 Flash #actu..."
+    },
+    {
+        "id": "sSuS5pLOU7U",
+        "videoId": "sSuS5pLOU7U",
+        "title": "La nouvelle architecture de DeepSeek est juste brillante",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=sSuS5pLOU7U",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : La nouvelle architecture de DeepSeek est juste brillante..."
+    },
+    {
+        "id": "7e8bjHqKDwA",
+        "videoId": "7e8bjHqKDwA",
+        "title": "follow pour en apprendre plus sur l'IA",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-18",
+        "url": "https://www.youtube.com/watch?v=7e8bjHqKDwA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : follow pour en apprendre plus sur l'IA..."
     },
     {
         "id": "1z1i6rfM3UI",
@@ -214,17 +324,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=i8cCJ0-ZG3Q",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Utilisez mieux Microsoft Copilot que 99% des gens ! (de débutant à Pro)..."
-    },
-    {
-        "id": "QNRvng501wI",
-        "videoId": "QNRvng501wI",
-        "title": "L'IA est en train de tout résoudre ! 5 dingueries au parfum d'AGI + Rock'n'Roll Friday",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=QNRvng501wI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA est en train de tout résoudre ! 5 dingueries au parfum d'AGI + Rock'n'Roll Friday..."
     },
     {
         "id": "obQA9lfaYrk",
@@ -556,39 +655,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=PehpvWTBo5M",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Altman et Musk veulent freiner l’IA..."
-    },
-    {
-        "id": "rXbeoa8Pjgg",
-        "videoId": "rXbeoa8Pjgg",
-        "title": "C'est LE moment de bascule mondiale de l'IA !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-14",
-        "url": "https://www.youtube.com/watch?v=rXbeoa8Pjgg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : C'est LE moment de bascule mondiale de l'IA !..."
-    },
-    {
-        "id": "qRdVUiO8UlQ",
-        "videoId": "qRdVUiO8UlQ",
-        "title": "C'est LE moment de bascule mondiale de l'IA ! + Pause sur l'IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-14",
-        "url": "https://www.youtube.com/watch?v=qRdVUiO8UlQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : C'est LE moment de bascule mondiale de l'IA ! + Pause sur l'IA..."
-    },
-    {
-        "id": "vteHq-k6IJs",
-        "videoId": "vteHq-k6IJs",
-        "title": "Google dégrade Search, l’IA gagne",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-14",
-        "url": "https://www.youtube.com/watch?v=vteHq-k6IJs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google dégrade Search, l’IA gagne..."
     },
     {
         "id": "v7kOEDRt3UM",
@@ -943,17 +1009,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Sortie de GLM 5.3 Flash..."
     },
     {
-        "id": "q5gfyRlaaJw",
-        "videoId": "q5gfyRlaaJw",
-        "title": "NVIDIA bat des records #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-05",
-        "url": "https://www.youtube.com/watch?v=q5gfyRlaaJw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : NVIDIA bat des records #actu..."
-    },
-    {
         "id": "3WtlnjzVnaY",
         "videoId": "3WtlnjzVnaY",
         "title": "Tu peux maintenant créer des visuels editables directement depuis ChatGPT !",
@@ -1007,17 +1062,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9N13WjnNHfA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 10 choses à tester si tu paies Claude !..."
-    },
-    {
-        "id": "3LfqOETwkd0",
-        "videoId": "3LfqOETwkd0",
-        "title": "Apple met l’IA dans le Mac (actu IA)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-02",
-        "url": "https://www.youtube.com/watch?v=3LfqOETwkd0",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Apple met l’IA dans le Mac (actu IA)..."
     },
     {
         "id": "OIdKHTpDeVY",
@@ -1229,28 +1273,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : DeepSeek Harness + Ollama = Un Agent IA (LOCAL) 🤯..."
     },
     {
-        "id": "F2cI_H6_1yw",
-        "videoId": "F2cI_H6_1yw",
-        "title": "3 commandes ChatGPT pour des visuels produit professionnels",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-27",
-        "url": "https://www.youtube.com/watch?v=F2cI_H6_1yw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 3 commandes ChatGPT pour des visuels produit professionnels..."
-    },
-    {
-        "id": "ib4Bc_kbzR0",
-        "videoId": "ib4Bc_kbzR0",
-        "title": "CLAUDE + SEEDANCE 2.5 : un site à 10 000 € en 10 min",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-27",
-        "url": "https://www.youtube.com/watch?v=ib4Bc_kbzR0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE + SEEDANCE 2.5 : un site à 10 000 € en 10 min..."
-    },
-    {
         "id": "S__8c_pqYpE",
         "videoId": "S__8c_pqYpE",
         "title": "Le vol de raisonnement des IA",
@@ -1306,17 +1328,6 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Créer Site Shopify Sans Code: IA Claude Code Révélé! #shorts...",
         "isShort": true
-    },
-    {
-        "id": "-FqnIlznw_8",
-        "videoId": "-FqnIlznw_8",
-        "title": "Transforme n'importe quel livre en skill Claude Code.  Tu donnes le PDF a Claude Code, il en extrait",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-26",
-        "url": "https://www.youtube.com/watch?v=-FqnIlznw_8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Transforme n'importe quel livre en skill Claude Code.  Tu donnes le PDF a Claude Code, il en extrait..."
     },
     {
         "id": "dk4eorkkni8",
@@ -1482,17 +1493,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=E_vNH-XoXbQ",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Les hacks ultimes pour économiser vos tokens dans Claude !..."
-    },
-    {
-        "id": "7PEBbSp9kws",
-        "videoId": "7PEBbSp9kws",
-        "title": "Muse Glimmer : le retour inattendu de Meta dans l’open source",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-18",
-        "url": "https://www.youtube.com/watch?v=7PEBbSp9kws",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Muse Glimmer : le retour inattendu de Meta dans l’open source..."
     },
     {
         "id": "tb-7zB5pwng",
@@ -1834,38 +1834,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IziMU2lXstI",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Ces 5 extensions rendent NotebookLM enfin complet..."
-    },
-    {
-        "id": "3q1slkjnJNE",
-        "videoId": "3q1slkjnJNE",
-        "title": "Comment je mène un Audit IA chez un client à 5M€ (extraits réels)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-07-19",
-        "url": "https://www.youtube.com/watch?v=3q1slkjnJNE",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Comment je mène un Audit IA chez un client à 5M€ (extraits réels)..."
-    },
-    {
-        "id": "ocFNQTfj49U",
-        "videoId": "ocFNQTfj49U",
-        "title": "Deepseek a résolu le plus gros problème de l’IA",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-07-19",
-        "url": "https://www.youtube.com/watch?v=ocFNQTfj49U",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Deepseek a résolu le plus gros problème de l’IA..."
-    },
-    {
-        "id": "cBH0KT9SG_c",
-        "videoId": "cBH0KT9SG_c",
-        "title": "La nouvelle fonctionnalité de n8n est INCROYABLE (mieux que Claude Code?)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-07-19",
-        "url": "https://www.youtube.com/watch?v=cBH0KT9SG_c",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : La nouvelle fonctionnalité de n8n est INCROYABLE (mieux que Claude Code?)..."
     }
 ];
