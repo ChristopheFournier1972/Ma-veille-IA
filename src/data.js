@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-19T10:13:39.064Z
+// Fichier généré automatiquement le 2026-09-20T10:32:39.078Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:13:39 AM 9/19/2026";
+export const lastUpdate = "10:32:39 AM 9/20/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "UrjR860emSY",
+        "videoId": "UrjR860emSY",
+        "title": "Dario Amodei veut ralentir l’IA #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-20",
+        "url": "https://www.youtube.com/watch?v=UrjR860emSY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Dario Amodei veut ralentir l’IA #actu..."
+    },
+    {
+        "id": "F9J_XikrqRs",
+        "videoId": "F9J_XikrqRs",
+        "title": "Je livre toutes mes astuces de Pro pour Microsoft Copilot !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=F9J_XikrqRs",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Je livre toutes mes astuces de Pro pour Microsoft Copilot !..."
+    },
+    {
+        "id": "OuTK7_1FJYE",
+        "videoId": "OuTK7_1FJYE",
+        "title": "OpenAI s'attaque aux avocats",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=OuTK7_1FJYE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI s'attaque aux avocats..."
+    },
+    {
+        "id": "70jRtn3oXX4",
+        "videoId": "70jRtn3oXX4",
+        "title": "Discuter en temps réel avec l'IA ! Kast 2.1 est gratuit",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=70jRtn3oXX4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Discuter en temps réel avec l'IA ! Kast 2.1 est gratuit..."
+    },
+    {
         "id": "1EQ_7SXG7Ls",
         "videoId": "1EQ_7SXG7Ls",
         "title": "Atlas : la 3D qui dresse les robots",
@@ -192,6 +236,61 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=s35EaYwMv5M",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : OpenAI accusé de vol #actu..."
+    },
+    {
+        "id": "MuokPyJiRkM",
+        "videoId": "MuokPyJiRkM",
+        "title": "La nouvelle architecture de Deepseek est brillante 🇨🇳",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=MuokPyJiRkM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : La nouvelle architecture de Deepseek est brillante 🇨🇳..."
+    },
+    {
+        "id": "1bULOFGT5aE",
+        "videoId": "1bULOFGT5aE",
+        "title": "Envoie n'importe quel fichier sans cloud : FileSync (open source)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=1bULOFGT5aE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Envoie n'importe quel fichier sans cloud : FileSync (open source)..."
+    },
+    {
+        "id": "cLGur9wU8IQ",
+        "videoId": "cLGur9wU8IQ",
+        "title": "Pour recevoir le meta prompt commente « META »",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=cLGur9wU8IQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Pour recevoir le meta prompt commente « META »..."
+    },
+    {
+        "id": "tsCg8lIEMjM",
+        "videoId": "tsCg8lIEMjM",
+        "title": "donner de la mémoire à Claude en deux étapes !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=tsCg8lIEMjM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : donner de la mémoire à Claude en deux étapes !..."
+    },
+    {
+        "id": "Lted0YEmYa8",
+        "videoId": "Lted0YEmYa8",
+        "title": "donner de la mémoire à Claude  !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=Lted0YEmYa8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : donner de la mémoire à Claude  !..."
     },
     {
         "id": "4tHhowWy-V4",
@@ -383,13 +482,13 @@ export const allVideos = [
     {
         "id": "L0Xf2CyZur0",
         "videoId": "L0Xf2CyZur0",
-        "title": "J'ai Créé mon Propre JARVIS avec Claude Code (il contrôle tout)",
+        "title": "J'ai créé mon propre JARVIS (code gratuit)",
         "author": "Thomas Berton",
         "source": "@thomasbssh",
         "date": "2026-09-17",
         "url": "https://www.youtube.com/watch?v=L0Xf2CyZur0",
         "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : J'ai Créé mon Propre JARVIS avec Claude Code (il contrôle tout)..."
+        "summary": "Nouveauté de Thomas Berton : J'ai créé mon propre JARVIS (code gratuit)..."
     },
     {
         "id": "_6mwJv_1rMQ",
@@ -569,17 +668,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : OpenAI refuse la Bourse : danger ?..."
     },
     {
-        "id": "lIxVl62J9Ug",
-        "videoId": "lIxVl62J9Ug",
-        "title": "IA : Obama et l’option militaire",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-15",
-        "url": "https://www.youtube.com/watch?v=lIxVl62J9Ug",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : Obama et l’option militaire..."
-    },
-    {
         "id": "giolj6-hAP0",
         "videoId": "giolj6-hAP0",
         "title": "NVIDIA rachète Hugging Face #actu",
@@ -644,17 +732,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=bAr4mlidBB4",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Cette fonctionnalité de Claude va tout changer !..."
-    },
-    {
-        "id": "PehpvWTBo5M",
-        "videoId": "PehpvWTBo5M",
-        "title": "Altman et Musk veulent freiner l’IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-14",
-        "url": "https://www.youtube.com/watch?v=PehpvWTBo5M",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Altman et Musk veulent freiner l’IA..."
     },
     {
         "id": "v7kOEDRt3UM",
@@ -998,17 +1075,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : Les puces Apple pour l’IA #actu..."
     },
     {
-        "id": "2eoAjaCgBdw",
-        "videoId": "2eoAjaCgBdw",
-        "title": "Sortie de GLM 5.3 Flash",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-06",
-        "url": "https://www.youtube.com/watch?v=2eoAjaCgBdw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Sortie de GLM 5.3 Flash..."
-    },
-    {
         "id": "3WtlnjzVnaY",
         "videoId": "3WtlnjzVnaY",
         "title": "Tu peux maintenant créer des visuels editables directement depuis ChatGPT !",
@@ -1251,17 +1317,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Ta voix en texte, gratuitement..."
     },
     {
-        "id": "OHlcxAhSY_E",
-        "videoId": "OHlcxAhSY_E",
-        "title": "Regarde cette vidéo si tu diriges un business",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-29",
-        "url": "https://www.youtube.com/watch?v=OHlcxAhSY_E",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Regarde cette vidéo si tu diriges un business..."
-    },
-    {
         "id": "fDq1XbGJaHM",
         "videoId": "fDq1XbGJaHM",
         "title": "DeepSeek Harness + Ollama = Un Agent IA (LOCAL) 🤯",
@@ -1284,18 +1339,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Le vol de raisonnement des IA..."
     },
     {
-        "id": "ooD-9cn4AbY",
-        "videoId": "ooD-9cn4AbY",
-        "title": "Créez Votre Site Web Shopify en 5 Minutes ! Stratégie Géniale #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-27",
-        "url": "https://www.youtube.com/watch?v=ooD-9cn4AbY",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créez Votre Site Web Shopify en 5 Minutes ! Stratégie Géniale #shorts...",
-        "isShort": true
-    },
-    {
         "id": "K3HuspM1HmM",
         "videoId": "K3HuspM1HmM",
         "title": "La Faille Qui Permet de Voler le Raisonnement des IA",
@@ -1316,18 +1359,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=MEmgn1bE3EM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : L'auto-DM Instagram que les influenceurs revendent..."
-    },
-    {
-        "id": "e4F-TUpZXzk",
-        "videoId": "e4F-TUpZXzk",
-        "title": "Créer Site Shopify Sans Code: IA Claude Code Révélé! #shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-08-26",
-        "url": "https://www.youtube.com/watch?v=e4F-TUpZXzk",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Créer Site Shopify Sans Code: IA Claude Code Révélé! #shorts...",
-        "isShort": true
     },
     {
         "id": "dk4eorkkni8",
@@ -1429,17 +1460,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Cette Découverte Pourrait Diviser la VRAM par 6 (DiffusionBlocks)..."
     },
     {
-        "id": "lhodwaO1aGc",
-        "videoId": "lhodwaO1aGc",
-        "title": "DeepSeek Harness = Claude Code GRATUIT  🐳 (open source)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-23",
-        "url": "https://www.youtube.com/watch?v=lhodwaO1aGc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : DeepSeek Harness = Claude Code GRATUIT  🐳 (open source)..."
-    },
-    {
         "id": "uF3C3zQxZ-o",
         "videoId": "uF3C3zQxZ-o",
         "title": "C’est décidé, j'arrête Claude Code pour Codex !",
@@ -1471,17 +1491,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Y-C_71H-mAg",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Anthropic vient de lancer un avertissement pour les 6 à 12 prochains mois......"
-    },
-    {
-        "id": "OExbLboNEaw",
-        "videoId": "OExbLboNEaw",
-        "title": "DeepSeek Harness : La Fin de Claude Code ? (Installation + Test)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-19",
-        "url": "https://www.youtube.com/watch?v=OExbLboNEaw",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek Harness : La Fin de Claude Code ? (Installation + Test)..."
     },
     {
         "id": "E_vNH-XoXbQ",
@@ -1625,17 +1634,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=rQuiE7S7Jzg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : Claude Skills : Tu peux enfin TOUT automatiser en montrant ton ÉCRAN !..."
-    },
-    {
-        "id": "eWN535AMIzQ",
-        "videoId": "eWN535AMIzQ",
-        "title": "Créer ton 1er Agent IA sans coder en 30 min ! (je te montre TOUT)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-08-04",
-        "url": "https://www.youtube.com/watch?v=eWN535AMIzQ",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Créer ton 1er Agent IA sans coder en 30 min ! (je te montre TOUT)..."
     },
     {
         "id": "fsw03ZXHJik",
@@ -1805,13 +1803,13 @@ export const allVideos = [
     {
         "id": "RutkqDcQZL0",
         "videoId": "RutkqDcQZL0",
-        "title": "Comment utiliser Hermes GRATUITEMENT à VIE",
+        "title": "Comment utiliser Hermes GRATUITEMENT �� VIE",
         "author": "Hugo Buisson",
         "source": "@Hugo_Buisson",
         "date": "2026-07-22",
         "url": "https://www.youtube.com/watch?v=RutkqDcQZL0",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : Comment utiliser Hermes GRATUITEMENT à VIE..."
+        "summary": "Nouveauté de Hugo Buisson : Comment utiliser Hermes GRATUITEMENT �� VIE..."
     },
     {
         "id": "F9YcVlyZahk",
@@ -1823,16 +1821,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=F9YcVlyZahk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Hermes V0.19 Vient De Révolutionner Les Agents IA - Voici pourquoi..."
-    },
-    {
-        "id": "IziMU2lXstI",
-        "videoId": "IziMU2lXstI",
-        "title": "Ces 5 extensions rendent NotebookLM enfin complet",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-07-20",
-        "url": "https://www.youtube.com/watch?v=IziMU2lXstI",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : Ces 5 extensions rendent NotebookLM enfin complet..."
     }
 ];
