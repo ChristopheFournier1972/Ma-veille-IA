@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-22T10:52:12.754Z
+// Fichier généré automatiquement le 2026-09-23T10:41:17.779Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:52:12 AM 9/22/2026";
+export const lastUpdate = "10:41:17 AM 9/23/2026";
 
 export const sources = [
     {
@@ -172,6 +172,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "UWljrWGw_gI",
+        "videoId": "UWljrWGw_gI",
+        "title": "Opus 5.5, GPT 6 Sol, Mimo 2.6, ça c'est du ralentissement ! + Shift Project de l'IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-23",
+        "url": "https://www.youtube.com/watch?v=UWljrWGw_gI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Opus 5.5, GPT 6 Sol, Mimo 2.6, ça c'est du ralentissement ! + Shift Project de l'IA..."
+    },
+    {
+        "id": "C671fIl8kco",
+        "videoId": "C671fIl8kco",
+        "title": "Kids Act : l'UE va tout bloquer ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-23",
+        "url": "https://www.youtube.com/watch?v=C671fIl8kco",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Kids Act : l'UE va tout bloquer ?..."
+    },
+    {
+        "id": "EHSwobYNXeM",
+        "videoId": "EHSwobYNXeM",
+        "title": "Ce skill te permet de scraper tout internet !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-22",
+        "url": "https://www.youtube.com/watch?v=EHSwobYNXeM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Ce skill te permet de scraper tout internet !..."
+    },
+    {
+        "id": "g8PDuAGV_zU",
+        "videoId": "g8PDuAGV_zU",
+        "title": "Tu utilises Claude Code sans connaître ces 10 commandes !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-22",
+        "url": "https://www.youtube.com/watch?v=g8PDuAGV_zU",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu utilises Claude Code sans connaître ces 10 commandes !..."
+    },
+    {
+        "id": "4u97_ZJnbQg",
+        "videoId": "4u97_ZJnbQg",
+        "title": "Claude a percé OpenAI en 3h",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-22",
+        "url": "https://www.youtube.com/watch?v=4u97_ZJnbQg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude a percé OpenAI en 3h..."
+    },
+    {
         "id": "Wv4Y7I80I-U",
         "videoId": "Wv4Y7I80I-U",
         "title": "Claude aux commandes du labo bio",
@@ -181,6 +236,39 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Wv4Y7I80I-U",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Claude aux commandes du labo bio..."
+    },
+    {
+        "id": "igKTuXkF8ZQ",
+        "videoId": "igKTuXkF8ZQ",
+        "title": "Installe n'importe quelle app sur ton iPhone, hors App Store (open source)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-22",
+        "url": "https://www.youtube.com/watch?v=igKTuXkF8ZQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Installe n'importe quelle app sur ton iPhone, hors App Store (open source)..."
+    },
+    {
+        "id": "ETq5N-5q1qU",
+        "videoId": "ETq5N-5q1qU",
+        "title": "Maîtriser Claude Design est un game changer en 2026 !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-22",
+        "url": "https://www.youtube.com/watch?v=ETq5N-5q1qU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Maîtriser Claude Design est un game changer en 2026 !..."
+    },
+    {
+        "id": "40aF_bKallA",
+        "videoId": "40aF_bKallA",
+        "title": "Maîtriser Claude Design est un game changer !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-22",
+        "url": "https://www.youtube.com/watch?v=40aF_bKallA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Maîtriser Claude Design est un game changer !..."
     },
     {
         "id": "vNg4k-CkOlc",
@@ -601,39 +689,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Utilisez mieux Microsoft Copilot que 99% des gens ! (de débutant à Pro)..."
     },
     {
-        "id": "obQA9lfaYrk",
-        "videoId": "obQA9lfaYrk",
-        "title": "La voix IA va décrocher pour vous",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=obQA9lfaYrk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : La voix IA va décrocher pour vous..."
-    },
-    {
-        "id": "u-b52JfYdOg",
-        "videoId": "u-b52JfYdOg",
-        "title": "Les profs corrigent les copies avec l'IA !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=u-b52JfYdOg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Les profs corrigent les copies avec l'IA !..."
-    },
-    {
-        "id": "fkjBrlq7-xg",
-        "videoId": "fkjBrlq7-xg",
-        "title": "IA : l’arme open source de Pékin",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=fkjBrlq7-xg",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : l’arme open source de Pékin..."
-    },
-    {
         "id": "kCHqUTx9oXg",
         "videoId": "kCHqUTx9oXg",
         "title": "Tes factures en photo, lues par une IA en local : l'outil open source",
@@ -822,17 +877,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : GPT 6 pilote After Effects tout SEUL (et c'est gratuit)..."
     },
     {
-        "id": "sxDDQqbGcts",
-        "videoId": "sxDDQqbGcts",
-        "title": "Follow pour en apprendre plus sur l’IA",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-15",
-        "url": "https://www.youtube.com/watch?v=sxDDQqbGcts",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Follow pour en apprendre plus sur l’IA..."
-    },
-    {
         "id": "fc8kpsTcZJs",
         "videoId": "fc8kpsTcZJs",
         "title": "Construit une équipe tout seul pour tes réseaux sociaux avec Claude !",
@@ -875,17 +919,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=9_7piNRO-0Y",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : OpenAI vient peut-être de marquer l’histoire (Navier-Stokes)..."
-    },
-    {
-        "id": "WQ-ulY99Cko",
-        "videoId": "WQ-ulY99Cko",
-        "title": "Voicebox sur GitHub",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-14",
-        "url": "https://www.youtube.com/watch?v=WQ-ulY99Cko",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Voicebox sur GitHub..."
     },
     {
         "id": "scSK7mRTZHw",
@@ -1218,17 +1251,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : La nouvelle Skill incroyable dans ChatGPT !..."
     },
     {
-        "id": "9N13WjnNHfA",
-        "videoId": "9N13WjnNHfA",
-        "title": "10 choses à tester si tu paies Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-02",
-        "url": "https://www.youtube.com/watch?v=9N13WjnNHfA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 10 choses à tester si tu paies Claude !..."
-    },
-    {
         "id": "OIdKHTpDeVY",
         "videoId": "OIdKHTpDeVY",
         "title": "Claude Fable 5.1 le test ULTIME",
@@ -1271,17 +1293,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=smOC-8aEe00",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Un CRM open source a revendre aux entreprises..."
-    },
-    {
-        "id": "kSVNu76yxpc",
-        "videoId": "kSVNu76yxpc",
-        "title": "4 choses que je construirais dans Claude en un weekend",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-08-31",
-        "url": "https://www.youtube.com/watch?v=kSVNu76yxpc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 4 choses que je construirais dans Claude en un weekend..."
     },
     {
         "id": "0FlfKKNbK9E",
@@ -1447,17 +1458,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tm_QZ7iIGeg",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Lucas Reverdy : Comment Automatiser ses Montages Vidéo avec Claude (Guide Complet)..."
-    },
-    {
-        "id": "fK8D3Bx96Iw",
-        "videoId": "fK8D3Bx96Iw",
-        "title": "Codex et Claude Code gratuits, sans abonnement",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-25",
-        "url": "https://www.youtube.com/watch?v=fK8D3Bx96Iw",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Codex et Claude Code gratuits, sans abonnement..."
     },
     {
         "id": "GWf9yeqxwjk",
@@ -1788,16 +1788,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZLw7kIgNcQE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : 100 jours avec Hermes Agent résumé en 16 minutes..."
-    },
-    {
-        "id": "l1zVp3wOBSg",
-        "videoId": "l1zVp3wOBSg",
-        "title": "Gemini 3.6 Flash : Ne vous fiez pas aux Benchmarks",
-        "author": "Hugo Buisson",
-        "source": "@Hugo_Buisson",
-        "date": "2026-07-23",
-        "url": "https://www.youtube.com/watch?v=l1zVp3wOBSg",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : Gemini 3.6 Flash : Ne vous fiez pas aux Benchmarks..."
     }
 ];
