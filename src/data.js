@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-24T11:01:04.802Z
+// Fichier généré automatiquement le 2026-09-25T11:01:27.254Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:01:04 AM 9/24/2026";
+export const lastUpdate = "11:01:27 AM 9/25/2026";
 
 export const sources = [
     {
@@ -172,6 +172,83 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "i4EuaujaanY",
+        "videoId": "i4EuaujaanY",
+        "title": "Ce workflow IA va révolutionner vos contenus !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=i4EuaujaanY",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Ce workflow IA va révolutionner vos contenus !..."
+    },
+    {
+        "id": "_KIUfHSeAJA",
+        "videoId": "_KIUfHSeAJA",
+        "title": "Amazon vire l’agent IA de Meta",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=_KIUfHSeAJA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Amazon vire l’agent IA de Meta..."
+    },
+    {
+        "id": "djX9hIpiQZc",
+        "videoId": "djX9hIpiQZc",
+        "title": "Être PARTOUT sur les réseaux avec Claude Code (100% automatique)",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=djX9hIpiQZc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Être PARTOUT sur les réseaux avec Claude Code (100% automatique)..."
+    },
+    {
+        "id": "N7uCVjA2Cu8",
+        "videoId": "N7uCVjA2Cu8",
+        "title": "Tu consommes la moitié de ton forfait Claude en milieu de semaine ? 😮‍💨",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=N7uCVjA2Cu8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu consommes la moitié de ton forfait Claude en milieu de semaine ? 😮‍💨..."
+    },
+    {
+        "id": "sV7QXLJXeX0",
+        "videoId": "sV7QXLJXeX0",
+        "title": "J’ai combiné GPT-6 Astra + Higgsfield… le résultat est dingue !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=sV7QXLJXeX0",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : J’ai combiné GPT-6 Astra + Higgsfield… le résultat est dingue !..."
+    },
+    {
+        "id": "OCzXOdB6VYo",
+        "videoId": "OCzXOdB6VYo",
+        "title": "L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe + Tuto Jev",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=OCzXOdB6VYo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe + Tuto Jev..."
+    },
+    {
+        "id": "noyCi_eW0To",
+        "videoId": "noyCi_eW0To",
+        "title": "Xiaomi libère son agent IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=noyCi_eW0To",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Xiaomi libère son agent IA..."
+    },
+    {
         "id": "RrcSSb3uLRY",
         "videoId": "RrcSSb3uLRY",
         "title": "GPT-6 : l’IA à moitié prix ?",
@@ -183,6 +260,17 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : GPT-6 : l’IA à moitié prix ?..."
     },
     {
+        "id": "DECxeqRB4jE",
+        "videoId": "DECxeqRB4jE",
+        "title": "Claude Opus 5.5 : pub, Pokémon, short sans caméra… je l'ai testé",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=DECxeqRB4jE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Opus 5.5 : pub, Pokémon, short sans caméra… je l'ai testé..."
+    },
+    {
         "id": "v_HJDrkU9w0",
         "videoId": "v_HJDrkU9w0",
         "title": "Claude Opus 5.5 vient de sortir : 7 tests concrets (NO BULLSHIT)",
@@ -192,6 +280,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=v_HJDrkU9w0",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Claude Opus 5.5 vient de sortir : 7 tests concrets (NO BULLSHIT)..."
+    },
+    {
+        "id": "U_5ACUpxNqY",
+        "videoId": "U_5ACUpxNqY",
+        "title": "Cette nouvelle IA change tout !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=U_5ACUpxNqY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Cette nouvelle IA change tout !..."
+    },
+    {
+        "id": "BOszX4MAJRo",
+        "videoId": "BOszX4MAJRo",
+        "title": "Cette IA JEV est incroyable..",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=BOszX4MAJRo",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : Cette IA JEV est incroyable....."
     },
     {
         "id": "UfRGOTpv7NY",
@@ -590,28 +700,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : OpenAI s'attaque aux avocats..."
     },
     {
-        "id": "70jRtn3oXX4",
-        "videoId": "70jRtn3oXX4",
-        "title": "Discuter en temps réel avec l'IA ! Kast 2.1 est gratuit",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-19",
-        "url": "https://www.youtube.com/watch?v=70jRtn3oXX4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Discuter en temps réel avec l'IA ! Kast 2.1 est gratuit..."
-    },
-    {
-        "id": "1EQ_7SXG7Ls",
-        "videoId": "1EQ_7SXG7Ls",
-        "title": "Atlas : la 3D qui dresse les robots",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-19",
-        "url": "https://www.youtube.com/watch?v=1EQ_7SXG7Ls",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Atlas : la 3D qui dresse les robots..."
-    },
-    {
         "id": "s35EaYwMv5M",
         "videoId": "s35EaYwMv5M",
         "title": "OpenAI accusé de vol #actu",
@@ -698,17 +786,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=N8SCaHouGrg",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Génère des revenus avec Claude grâce a ces 3 compétences !..."
-    },
-    {
-        "id": "UQhUl3LqZt8",
-        "videoId": "UQhUl3LqZt8",
-        "title": "Un Creeper a brisé GPT Astra",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-18",
-        "url": "https://www.youtube.com/watch?v=UQhUl3LqZt8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Un Creeper a brisé GPT Astra..."
     },
     {
         "id": "NR5Wo-8BPxc",
@@ -799,17 +876,6 @@ export const allVideos = [
         "summary": "Nouveauté de Thomas Berton : le nom du repo GitHub, c'est OmniRoute..."
     },
     {
-        "id": "L0Xf2CyZur0",
-        "videoId": "L0Xf2CyZur0",
-        "title": "J'ai Créé mon Propre JARVIS avec Claude Code (100% GRATUIT)",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=L0Xf2CyZur0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : J'ai Créé mon Propre JARVIS avec Claude Code (100% GRATUIT)..."
-    },
-    {
         "id": "_6mwJv_1rMQ",
         "videoId": "_6mwJv_1rMQ",
         "title": "J’ai donné 1h à GPT 6 Astra pour créer un LIVRE ENTIER",
@@ -863,28 +929,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=3_2F8pUxPPg",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : DeepSeek lâche une bombe : V4.1 Flash (actu)..."
-    },
-    {
-        "id": "H1lAMRhC8Bg",
-        "videoId": "H1lAMRhC8Bg",
-        "title": "Lien du GitHub en description",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=H1lAMRhC8Bg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Lien du GitHub en description..."
-    },
-    {
-        "id": "d9Hup0yuh-I",
-        "videoId": "d9Hup0yuh-I",
-        "title": "comment faire du montage avec Claude Code ?",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=d9Hup0yuh-I",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : comment faire du montage avec Claude Code ?..."
     },
     {
         "id": "pbN3uZgeCYQ",
@@ -1228,17 +1272,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludovic Nédélec : 9 fonctions de Microsoft Copilot que vous n'utilisez pas encore..."
     },
     {
-        "id": "BriQizLAG_o",
-        "videoId": "BriQizLAG_o",
-        "title": "Voici comment faire tourner une équipe marketing solo avec Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-06",
-        "url": "https://www.youtube.com/watch?v=BriQizLAG_o",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Voici comment faire tourner une équipe marketing solo avec Claude !..."
-    },
-    {
         "id": "Ej_1q9LzOqY",
         "videoId": "Ej_1q9LzOqY",
         "title": "J’ai compris pourquoi tout le monde est passé sur Claude",
@@ -1426,17 +1459,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Et si on s’était trompé sur les world models ? (Code word model)..."
     },
     {
-        "id": "Bpkeimq3AXg",
-        "videoId": "Bpkeimq3AXg",
-        "title": "Ta voix en texte, gratuitement",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-29",
-        "url": "https://www.youtube.com/watch?v=Bpkeimq3AXg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Ta voix en texte, gratuitement..."
-    },
-    {
         "id": "S__8c_pqYpE",
         "videoId": "S__8c_pqYpE",
         "title": "Le vol de raisonnement des IA",
@@ -1547,17 +1569,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : Anthropic vient de lancer un avertissement pour les 6 à 12 prochains mois......"
     },
     {
-        "id": "E_vNH-XoXbQ",
-        "videoId": "E_vNH-XoXbQ",
-        "title": "Les hacks ultimes pour économiser vos tokens dans Claude !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-08-18",
-        "url": "https://www.youtube.com/watch?v=E_vNH-XoXbQ",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Les hacks ultimes pour économiser vos tokens dans Claude !..."
-    },
-    {
         "id": "tb-7zB5pwng",
         "videoId": "tb-7zB5pwng",
         "title": "Vous utilisez 10 % de Claude (voici les 90 % cachés)",
@@ -1578,17 +1589,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QbcPDv-s2-E",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Comment Bâtir un Business en SOLO avec l’IA (grâce à Claude Code)..."
-    },
-    {
-        "id": "EGL2DQ1MJds",
-        "videoId": "EGL2DQ1MJds",
-        "title": "La nouvelle fonctionnalité incroyable de Claude !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-08-14",
-        "url": "https://www.youtube.com/watch?v=EGL2DQ1MJds",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : La nouvelle fonctionnalité incroyable de Claude !..."
     },
     {
         "id": "EQt4H1aDWBw",
@@ -1776,16 +1776,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=dqGe3j8o-UM",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Claude Code + Higgsfield créent vos pubs à votre place ! (marque, produits, UGC)..."
-    },
-    {
-        "id": "r6jn9iJJCfo",
-        "videoId": "r6jn9iJJCfo",
-        "title": "Opus 5 vient de tuer Fable (Vraiment)",
-        "author": "Hugo Buisson",
-        "source": "@Hugo_Buisson",
-        "date": "2026-07-25",
-        "url": "https://www.youtube.com/watch?v=r6jn9iJJCfo",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Hugo Buisson : Opus 5 vient de tuer Fable (Vraiment)..."
     }
 ];
