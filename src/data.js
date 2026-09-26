@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-25T11:01:27.254Z
+// Fichier généré automatiquement le 2026-09-26T10:43:55.634Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:01:27 AM 9/25/2026";
+export const lastUpdate = "10:43:55 AM 9/26/2026";
 
 export const sources = [
     {
@@ -172,6 +172,17 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "O2ofrA_hHQQ",
+        "videoId": "O2ofrA_hHQQ",
+        "title": "Meta lance l’IA qui agit pour vous",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-26",
+        "url": "https://www.youtube.com/watch?v=O2ofrA_hHQQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta lance l’IA qui agit pour vous..."
+    },
+    {
         "id": "i4EuaujaanY",
         "videoId": "i4EuaujaanY",
         "title": "Ce workflow IA va révolutionner vos contenus !",
@@ -181,6 +192,39 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=i4EuaujaanY",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Ce workflow IA va révolutionner vos contenus !..."
+    },
+    {
+        "id": "Dv0MBUpUrKM",
+        "videoId": "Dv0MBUpUrKM",
+        "title": "IA : Trump refuse, Zelensky alerte",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=Dv0MBUpUrKM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA : Trump refuse, Zelensky alerte..."
+    },
+    {
+        "id": "ul8KRf5Vmv0",
+        "videoId": "ul8KRf5Vmv0",
+        "title": "L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=ul8KRf5Vmv0",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe..."
+    },
+    {
+        "id": "OCzXOdB6VYo",
+        "videoId": "OCzXOdB6VYo",
+        "title": "L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe + Tuto Jev",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=OCzXOdB6VYo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe + Tuto Jev..."
     },
     {
         "id": "_KIUfHSeAJA",
@@ -194,6 +238,28 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Amazon vire l’agent IA de Meta..."
     },
     {
+        "id": "ZoEemjtsVvw",
+        "videoId": "ZoEemjtsVvw",
+        "title": "NVIDIA vient de changer la façon d’entraîner les IA",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=ZoEemjtsVvw",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : NVIDIA vient de changer la façon d’entraîner les IA..."
+    },
+    {
+        "id": "Ljgwy5PZtuY",
+        "videoId": "Ljgwy5PZtuY",
+        "title": "Claude Code a enfin son propre navigateur (ego lite)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=Ljgwy5PZtuY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Claude Code a enfin son propre navigateur (ego lite)..."
+    },
+    {
         "id": "djX9hIpiQZc",
         "videoId": "djX9hIpiQZc",
         "title": "Être PARTOUT sur les réseaux avec Claude Code (100% automatique)",
@@ -203,6 +269,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=djX9hIpiQZc",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Être PARTOUT sur les réseaux avec Claude Code (100% automatique)..."
+    },
+    {
+        "id": "Pw5HCUbE5oE",
+        "videoId": "Pw5HCUbE5oE",
+        "title": "J'ai lancé le même défi impossible à GPT 6 et Fable 5.1",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=Pw5HCUbE5oE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : J'ai lancé le même défi impossible à GPT 6 et Fable 5.1..."
     },
     {
         "id": "N7uCVjA2Cu8",
@@ -225,17 +302,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=sV7QXLJXeX0",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : J’ai combiné GPT-6 Astra + Higgsfield… le résultat est dingue !..."
-    },
-    {
-        "id": "OCzXOdB6VYo",
-        "videoId": "OCzXOdB6VYo",
-        "title": "L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe + Tuto Jev",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=OCzXOdB6VYo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe + Tuto Jev..."
     },
     {
         "id": "noyCi_eW0To",
@@ -535,28 +601,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret...."
     },
     {
-        "id": "gxwEzXh8GFE",
-        "videoId": "gxwEzXh8GFE",
-        "title": "OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret + Les vrais risques de l'IA.",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-21",
-        "url": "https://www.youtube.com/watch?v=gxwEzXh8GFE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret + Les vrais risques de l'IA...."
-    },
-    {
-        "id": "JSetuIjSs-4",
-        "videoId": "JSetuIjSs-4",
-        "title": "IA : 9 milliards de mutations ADN",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-21",
-        "url": "https://www.youtube.com/watch?v=JSetuIjSs-4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : 9 milliards de mutations ADN..."
-    },
-    {
         "id": "tCHQnoSj5hM",
         "videoId": "tCHQnoSj5hM",
         "title": "Vibecoding : J'ai codé et déployé un projet SEO de A à Z avec l'IA",
@@ -687,17 +731,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=F9J_XikrqRs",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Je livre toutes mes astuces de Pro pour Microsoft Copilot !..."
-    },
-    {
-        "id": "OuTK7_1FJYE",
-        "videoId": "OuTK7_1FJYE",
-        "title": "OpenAI s'attaque aux avocats",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-19",
-        "url": "https://www.youtube.com/watch?v=OuTK7_1FJYE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI s'attaque aux avocats..."
     },
     {
         "id": "s35EaYwMv5M",
@@ -1382,17 +1415,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Qwen vient-il de dévoiler le futur des LLM ?..."
     },
     {
-        "id": "mAuxe-BLLbo",
-        "videoId": "mAuxe-BLLbo",
-        "title": "Quel modele IA tourne sur ta machine ?",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-08-31",
-        "url": "https://www.youtube.com/watch?v=mAuxe-BLLbo",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Quel modele IA tourne sur ta machine ?..."
-    },
-    {
         "id": "dv4IV4KdgNI",
         "videoId": "dv4IV4KdgNI",
         "title": "Comment utiliser Canva IA 2.0 comme un pro",
@@ -1512,17 +1534,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=GWf9yeqxwjk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Aurélien Fagioli : J'ai créé 30 posts VIRAUX et 1 BUSINESS en 1H (Claude + Higgsfield) !..."
-    },
-    {
-        "id": "k0myRsQCsp0",
-        "videoId": "k0myRsQCsp0",
-        "title": "La fin des gros GPU ? (Diffusionblocks)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-24",
-        "url": "https://www.youtube.com/watch?v=k0myRsQCsp0",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : La fin des gros GPU ? (Diffusionblocks)..."
     },
     {
         "id": "N8e0LLHfTJY",
@@ -1754,27 +1765,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=pk-_1sanvCw",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : J'ai créé mes propres applis avec Claude (et vous pouvez aussi)..."
-    },
-    {
-        "id": "de8Dp2EWo0g",
-        "videoId": "de8Dp2EWo0g",
-        "title": "J'ai analysé 85 Agences IA, voici ce qui marche en 2026",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-07-26",
-        "url": "https://www.youtube.com/watch?v=de8Dp2EWo0g",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : J'ai analysé 85 Agences IA, voici ce qui marche en 2026..."
-    },
-    {
-        "id": "dqGe3j8o-UM",
-        "videoId": "dqGe3j8o-UM",
-        "title": "Claude Code + Higgsfield créent vos pubs à votre place ! (marque, produits, UGC)",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-07-26",
-        "url": "https://www.youtube.com/watch?v=dqGe3j8o-UM",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Claude Code + Higgsfield créent vos pubs à votre place ! (marque, produits, UGC)..."
     }
 ];
