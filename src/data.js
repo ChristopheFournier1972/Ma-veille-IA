@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-26T10:43:55.634Z
+// Fichier généré automatiquement le 2026-09-27T11:17:18.513Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:43:55 AM 9/26/2026";
+export const lastUpdate = "11:17:18 AM 9/27/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "5IINlLhpDQM",
+        "videoId": "5IINlLhpDQM",
+        "title": "Jev change tout : le tuto pour faire de vraies dingueries",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-27",
+        "url": "https://www.youtube.com/watch?v=5IINlLhpDQM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Jev change tout : le tuto pour faire de vraies dingueries..."
+    },
+    {
+        "id": "EDgcEcWTYCg",
+        "videoId": "EDgcEcWTYCg",
+        "title": "J'ai testé JEV : la hype est-elle méritée ?",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-09-27",
+        "url": "https://www.youtube.com/watch?v=EDgcEcWTYCg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : J'ai testé JEV : la hype est-elle méritée ?..."
+    },
+    {
+        "id": "I1xwiqAgGlY",
+        "videoId": "I1xwiqAgGlY",
+        "title": "Google clone des voix en 30 s",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-26",
+        "url": "https://www.youtube.com/watch?v=I1xwiqAgGlY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Google clone des voix en 30 s..."
+    },
+    {
+        "id": "wzDKnf_0WHU",
+        "videoId": "wzDKnf_0WHU",
+        "title": "Faut-il freiner l'IA pour sauver le climat ? Le Shift Project répond",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-26",
+        "url": "https://www.youtube.com/watch?v=wzDKnf_0WHU",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Faut-il freiner l'IA pour sauver le climat ? Le Shift Project répond..."
+    },
+    {
         "id": "O2ofrA_hHQQ",
         "videoId": "O2ofrA_hHQQ",
         "title": "Meta lance l’IA qui agit pour vous",
@@ -181,6 +225,39 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=O2ofrA_hHQQ",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Meta lance l’IA qui agit pour vous..."
+    },
+    {
+        "id": "gmLUIVzRlpk",
+        "videoId": "gmLUIVzRlpk",
+        "title": "Comment NVIDIA veut entraîner des IA avec 4 bits",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-26",
+        "url": "https://www.youtube.com/watch?v=gmLUIVzRlpk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Comment NVIDIA veut entraîner des IA avec 4 bits..."
+    },
+    {
+        "id": "9tvdun3HBZE",
+        "videoId": "9tvdun3HBZE",
+        "title": "L'API WhatsApp open source : 0 € par message, sur ton serveur",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-26",
+        "url": "https://www.youtube.com/watch?v=9tvdun3HBZE",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : L'API WhatsApp open source : 0 € par message, sur ton serveur..."
+    },
+    {
+        "id": "E_A5G_elEss",
+        "videoId": "E_A5G_elEss",
+        "title": "JEV cette nouvelle IA dont tout le monde parle !",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-26",
+        "url": "https://www.youtube.com/watch?v=E_A5G_elEss",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : JEV cette nouvelle IA dont tout le monde parle !..."
     },
     {
         "id": "i4EuaujaanY",
@@ -295,13 +372,13 @@ export const allVideos = [
     {
         "id": "sV7QXLJXeX0",
         "videoId": "sV7QXLJXeX0",
-        "title": "J’ai combiné GPT-6 Astra + Higgsfield… le résultat est dingue !",
+        "title": "J’ai testé le workflow IA le plus puissant du moment... et c'est fou !",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-09-24",
         "url": "https://www.youtube.com/watch?v=sV7QXLJXeX0",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J’ai combiné GPT-6 Astra + Higgsfield… le résultat est dingue !..."
+        "summary": "Nouveauté de Elliott Pierret : J’ai testé le workflow IA le plus puissant du moment... et c'est fou !..."
     },
     {
         "id": "noyCi_eW0To",
@@ -524,17 +601,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Claude a percé OpenAI en 3h..."
     },
     {
-        "id": "Wv4Y7I80I-U",
-        "videoId": "Wv4Y7I80I-U",
-        "title": "Claude aux commandes du labo bio",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-22",
-        "url": "https://www.youtube.com/watch?v=Wv4Y7I80I-U",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude aux commandes du labo bio..."
-    },
-    {
         "id": "igKTuXkF8ZQ",
         "videoId": "igKTuXkF8ZQ",
         "title": "Installe n'importe quelle app sur ton iPhone, hors App Store (open source)",
@@ -577,28 +643,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vNg4k-CkOlc",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Ces réglages rendent Claude beaucoup plus puissant !..."
-    },
-    {
-        "id": "rwZX08ViydU",
-        "videoId": "rwZX08ViydU",
-        "title": "Jev, l’IA qui tranche sans écrire",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-21",
-        "url": "https://www.youtube.com/watch?v=rwZX08ViydU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Jev, l’IA qui tranche sans écrire..."
-    },
-    {
-        "id": "9ZEve9aFhT8",
-        "videoId": "9ZEve9aFhT8",
-        "title": "OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret.",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-21",
-        "url": "https://www.youtube.com/watch?v=9ZEve9aFhT8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI hacké par Claude, nouvelle IA Jev, Kids Act et Labo secret...."
     },
     {
         "id": "tCHQnoSj5hM",
@@ -896,17 +940,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=kCHqUTx9oXg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Tes factures en photo, lues par une IA en local : l'outil open source..."
-    },
-    {
-        "id": "9F3Yv5VE7II",
-        "videoId": "9F3Yv5VE7II",
-        "title": "le nom du repo GitHub, c'est OmniRoute",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=9F3Yv5VE7II",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : le nom du repo GitHub, c'est OmniRoute..."
     },
     {
         "id": "_6mwJv_1rMQ",
@@ -1296,13 +1329,13 @@ export const allVideos = [
     {
         "id": "vu55_LhT8k8",
         "videoId": "vu55_LhT8k8",
-        "title": "9 fonctions de Microsoft Copilot que vous n'utilisez pas encore",
+        "title": "Vous avez déjà Microsoft Copilot au travail : 9 fonctions à exploiter enfin",
         "author": "Ludovic Nédélec",
         "source": "@LudovicNedelec",
         "date": "2026-09-07",
         "url": "https://www.youtube.com/watch?v=vu55_LhT8k8",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : 9 fonctions de Microsoft Copilot que vous n'utilisez pas encore..."
+        "summary": "Nouveauté de Ludovic Nédélec : Vous avez déjà Microsoft Copilot au travail : 9 fonctions à exploiter enfin..."
     },
     {
         "id": "Ej_1q9LzOqY",
@@ -1393,17 +1426,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Qwen vient-il de dévoiler le futur des LLM ?..."
     },
     {
-        "id": "smOC-8aEe00",
-        "videoId": "smOC-8aEe00",
-        "title": "Un CRM open source a revendre aux entreprises",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-01",
-        "url": "https://www.youtube.com/watch?v=smOC-8aEe00",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Un CRM open source a revendre aux entreprises..."
-    },
-    {
         "id": "0FlfKKNbK9E",
         "videoId": "0FlfKKNbK9E",
         "title": "Qwen vient-il de dévoiler le futur des LLM ?",
@@ -1490,17 +1512,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=S__8c_pqYpE",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Le vol de raisonnement des IA..."
-    },
-    {
-        "id": "K3HuspM1HmM",
-        "videoId": "K3HuspM1HmM",
-        "title": "La Faille Qui Permet de Voler le Raisonnement des IA",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-26",
-        "url": "https://www.youtube.com/watch?v=K3HuspM1HmM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : La Faille Qui Permet de Voler le Raisonnement des IA..."
     },
     {
         "id": "dk4eorkkni8",
@@ -1732,38 +1743,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-QWqZvcmNoY",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : Crée tes propres skills claude en t'enregistrant! 🎬..."
-    },
-    {
-        "id": "IN_knFr6tQ4",
-        "videoId": "IN_knFr6tQ4",
-        "title": "Comment maîtriser l'IA mieux que 95% des business (5 secrets)",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-07-27",
-        "url": "https://www.youtube.com/watch?v=IN_knFr6tQ4",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment maîtriser l'IA mieux que 95% des business (5 secrets)..."
-    },
-    {
-        "id": "flQLseCGsHU",
-        "videoId": "flQLseCGsHU",
-        "title": "Ce skill Claude va rendre ton IA humaine 👀",
-        "author": "Julien Sanson",
-        "source": "@JulienSnsn",
-        "date": "2026-07-27",
-        "url": "https://www.youtube.com/watch?v=flQLseCGsHU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Julien Sanson : Ce skill Claude va rendre ton IA humaine 👀..."
-    },
-    {
-        "id": "pk-_1sanvCw",
-        "videoId": "pk-_1sanvCw",
-        "title": "J'ai créé mes propres applis avec Claude (et vous pouvez aussi)",
-        "author": "Ludovic Nédélec",
-        "source": "@LudovicNedelec",
-        "date": "2026-07-27",
-        "url": "https://www.youtube.com/watch?v=pk-_1sanvCw",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Ludovic Nédélec : J'ai créé mes propres applis avec Claude (et vous pouvez aussi)..."
     }
 ];
