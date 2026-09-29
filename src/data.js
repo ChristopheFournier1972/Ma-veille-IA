@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-28T12:45:53.526Z
+// Fichier généré automatiquement le 2026-09-29T12:01:39.064Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:45:53 PM 9/28/2026";
+export const lastUpdate = "12:01:39 PM 9/29/2026";
 
 export const sources = [
     {
@@ -172,6 +172,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "3mf1_hTatA4",
+        "videoId": "3mf1_hTatA4",
+        "title": "OpenAI : l’agent qui force l’accès",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-29",
+        "url": "https://www.youtube.com/watch?v=3mf1_hTatA4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI : l’agent qui force l’accès..."
+    },
+    {
+        "id": "yxIrGt1u1jw",
+        "videoId": "yxIrGt1u1jw",
+        "title": "Que vaut JEV ? #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-29",
+        "url": "https://www.youtube.com/watch?v=yxIrGt1u1jw",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Que vaut JEV ? #actu..."
+    },
+    {
+        "id": "f3swLruIG6o",
+        "videoId": "f3swLruIG6o",
+        "title": "J'arrête Claude pour passer à 100% sur Codex !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-28",
+        "url": "https://www.youtube.com/watch?v=f3swLruIG6o",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : J'arrête Claude pour passer à 100% sur Codex !..."
+    },
+    {
+        "id": "Yb1k6641A2o",
+        "videoId": "Yb1k6641A2o",
+        "title": "Copilot devient un bureau à péage",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-28",
+        "url": "https://www.youtube.com/watch?v=Yb1k6641A2o",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Copilot devient un bureau à péage..."
+    },
+    {
+        "id": "D8p0gamD6CM",
+        "videoId": "D8p0gamD6CM",
+        "title": "MS Copilot enfin, ChatGPT débloque et l'école IA à 2h par jour",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-28",
+        "url": "https://www.youtube.com/watch?v=D8p0gamD6CM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : MS Copilot enfin, ChatGPT débloque et l'école IA à 2h par jour..."
+    },
+    {
         "id": "9_i6qmiTEPg",
         "videoId": "9_i6qmiTEPg",
         "title": "MS Copilot enfin, ChatGPT débloque et l'école IA à 2h par jour + Débat IA de la présidentielle !",
@@ -203,6 +258,61 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gCfn599t2KQ",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Des clones de JEV ? #actu..."
+    },
+    {
+        "id": "NxnvJEa7w1U",
+        "videoId": "NxnvJEa7w1U",
+        "title": "GPT-6 vs Claude : Pourquoi les prix s’effondrent",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-09-28",
+        "url": "https://www.youtube.com/watch?v=NxnvJEa7w1U",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : GPT-6 vs Claude : Pourquoi les prix s’effondrent..."
+    },
+    {
+        "id": "54y1SjJMG6M",
+        "videoId": "54y1SjJMG6M",
+        "title": "Analyse ton site web gratuitement : le Google Analytics open source (Plausible)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-09-28",
+        "url": "https://www.youtube.com/watch?v=54y1SjJMG6M",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Analyse ton site web gratuitement : le Google Analytics open source (Plausible)..."
+    },
+    {
+        "id": "Q9HGTqrG2B0",
+        "videoId": "Q9HGTqrG2B0",
+        "title": "JEV wow incroyable !!!",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-09-28",
+        "url": "https://www.youtube.com/watch?v=Q9HGTqrG2B0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Thomas Berton : JEV wow incroyable !!!..."
+    },
+    {
+        "id": "ooX8t1eh9PI",
+        "videoId": "ooX8t1eh9PI",
+        "title": "J'ai donné 1h à GPT-6 et Opus 5.5 pour recréer GTA 6",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-09-28",
+        "url": "https://www.youtube.com/watch?v=ooX8t1eh9PI",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : J'ai donné 1h à GPT-6 et Opus 5.5 pour recréer GTA 6..."
+    },
+    {
+        "id": "Ku6x7imReY4",
+        "videoId": "Ku6x7imReY4",
+        "title": "Devenez maître dans l'art d'écrire vos Skills Claude",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-09-28",
+        "url": "https://www.youtube.com/watch?v=Ku6x7imReY4",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Devenez maître dans l'art d'écrire vos Skills Claude..."
     },
     {
         "id": "LecvtTyud08",
@@ -568,39 +678,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Le classement ultime des IA !..."
     },
     {
-        "id": "IwBAF2G-APw",
-        "videoId": "IwBAF2G-APw",
-        "title": "Claude Opus 5.5 : l’IA à -40%",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-23",
-        "url": "https://www.youtube.com/watch?v=IwBAF2G-APw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude Opus 5.5 : l’IA à -40%..."
-    },
-    {
-        "id": "HDv4zuhnpi4",
-        "videoId": "HDv4zuhnpi4",
-        "title": "Opus 5.5, GPT 6 Sol, Mimo 2.6, ça c'est du ralentissement !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-23",
-        "url": "https://www.youtube.com/watch?v=HDv4zuhnpi4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Opus 5.5, GPT 6 Sol, Mimo 2.6, ça c'est du ralentissement !..."
-    },
-    {
-        "id": "UWljrWGw_gI",
-        "videoId": "UWljrWGw_gI",
-        "title": "Opus 5.5, GPT 6 Sol, Mimo 2.6, ça c'est du ralentissement ! + Shift Project de l'IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-23",
-        "url": "https://www.youtube.com/watch?v=UWljrWGw_gI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Opus 5.5, GPT 6 Sol, Mimo 2.6, ça c'est du ralentissement ! + Shift Project de l'IA..."
-    },
-    {
         "id": "mPKvGKuh9UQ",
         "videoId": "mPKvGKuh9UQ",
         "title": "JEV : l’IA qui secoue internet (actu IA)",
@@ -909,17 +986,6 @@ export const allVideos = [
         "summary": "Nouveauté de Thomas Berton : donner de la mémoire à Claude en deux étapes !..."
     },
     {
-        "id": "Lted0YEmYa8",
-        "videoId": "Lted0YEmYa8",
-        "title": "donner de la mémoire à Claude  !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-19",
-        "url": "https://www.youtube.com/watch?v=Lted0YEmYa8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : donner de la mémoire à Claude  !..."
-    },
-    {
         "id": "4tHhowWy-V4",
         "videoId": "4tHhowWy-V4",
         "title": "Ce repo GitHub transforme n'importe quel screen record en vidéo montée",
@@ -933,13 +999,13 @@ export const allVideos = [
     {
         "id": "N8SCaHouGrg",
         "videoId": "N8SCaHouGrg",
-        "title": "Génère des revenus avec Claude grâce a ces 3 compétences !",
+        "title": "Génère des revenus avec Claude grâce a ces 3 comp��tences !",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-09-18",
         "url": "https://www.youtube.com/watch?v=N8SCaHouGrg",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Génère des revenus avec Claude grâce a ces 3 compétences !..."
+        "summary": "Nouveauté de Henri · ExplorIA : Génère des revenus avec Claude grâce a ces 3 comp��tences !..."
     },
     {
         "id": "NR5Wo-8BPxc",
@@ -1349,17 +1415,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : GPT 6 vs Fable 5.1 : Le comparatif ULTIME pour faire ton choix..."
     },
     {
-        "id": "M8H3Z-EAG0w",
-        "videoId": "M8H3Z-EAG0w",
-        "title": "Les robots battent des records humains #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-08",
-        "url": "https://www.youtube.com/watch?v=M8H3Z-EAG0w",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Les robots battent des records humains #actu..."
-    },
-    {
         "id": "vu55_LhT8k8",
         "videoId": "vu55_LhT8k8",
         "title": "Vous avez déjà Microsoft Copilot au travail : 9 fonctions à exploiter enfin",
@@ -1391,17 +1446,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4TCF36rCo8k",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Le scientifique Français qui va détruire l’IA Américaine..."
-    },
-    {
-        "id": "iZjSPvxlW1s",
-        "videoId": "iZjSPvxlW1s",
-        "title": "GPT-6 Astra est sorti : les 3 points à retenir",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-04",
-        "url": "https://www.youtube.com/watch?v=iZjSPvxlW1s",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : GPT-6 Astra est sorti : les 3 points à retenir..."
     },
     {
         "id": "PEWHYroIZA0",
@@ -1514,17 +1558,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Code world model : Et si on s’était trompé sur les World️️ models..."
     },
     {
-        "id": "XNWC3_W5T4k",
-        "videoId": "XNWC3_W5T4k",
-        "title": "Et si on s’était trompé sur les world models ? (Code word model)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-29",
-        "url": "https://www.youtube.com/watch?v=XNWC3_W5T4k",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Et si on s’était trompé sur les world models ? (Code word model)..."
-    },
-    {
         "id": "dk4eorkkni8",
         "videoId": "dk4eorkkni8",
         "title": "Les réglages indispensables dans Claude !",
@@ -1578,17 +1611,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=REqJ7H7i2jQ",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : 12 IA de Google GRATUITES à Absolument Connaître en 2027..."
-    },
-    {
-        "id": "uF3C3zQxZ-o",
-        "videoId": "uF3C3zQxZ-o",
-        "title": "C’est décidé, j'arrête Claude Code pour Codex !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-08-20",
-        "url": "https://www.youtube.com/watch?v=uF3C3zQxZ-o",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : C’est décidé, j'arrête Claude Code pour Codex !..."
     },
     {
         "id": "Y-C_71H-mAg",
@@ -1732,16 +1754,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Vv1eXHqOZlI",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comment Vivre de l'IA en 2026 (sans compétence technique)..."
-    },
-    {
-        "id": "_-oxY6Q8BBs",
-        "videoId": "_-oxY6Q8BBs",
-        "title": "L'outil IA n°1 sur Github vient de RÉSOUDRE le problème de recherche sur Claude",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-07-29",
-        "url": "https://www.youtube.com/watch?v=_-oxY6Q8BBs",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : L'outil IA n°1 sur Github vient de RÉSOUDRE le problème de recherche sur Claude..."
     }
 ];
