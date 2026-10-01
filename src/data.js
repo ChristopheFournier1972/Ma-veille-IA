@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-09-30T11:50:12.513Z
+// Fichier généré automatiquement le 2026-10-01T12:19:34.328Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:50:12 AM 9/30/2026";
+export const lastUpdate = "12:19:34 PM 10/1/2026";
 
 export const sources = [
     {
@@ -172,6 +172,83 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "rIuDIVc9kNk",
+        "videoId": "rIuDIVc9kNk",
+        "title": "Sonnet 5.5 : Opus pour moins cher",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=rIuDIVc9kNk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Sonnet 5.5 : Opus pour moins cher..."
+    },
+    {
+        "id": "WwwxUT-fbZs",
+        "videoId": "WwwxUT-fbZs",
+        "title": "Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffre ! + interview !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=WwwxUT-fbZs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffre ! + interview !..."
+    },
+    {
+        "id": "lLTLG0h6y54",
+        "videoId": "lLTLG0h6y54",
+        "title": "JEV + Claude va Changer ta Façon de Travailler pour Toujours (cas d'usage réels)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=lLTLG0h6y54",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : JEV + Claude va Changer ta Façon de Travailler pour Toujours (cas d'usage réels)..."
+    },
+    {
+        "id": "QinAUp88SrY",
+        "videoId": "QinAUp88SrY",
+        "title": "5 Plugins pour obtenir de meilleurs designs avec Claude Code !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=QinAUp88SrY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 Plugins pour obtenir de meilleurs designs avec Claude Code !..."
+    },
+    {
+        "id": "x7ZVkvNfxk4",
+        "videoId": "x7ZVkvNfxk4",
+        "title": "Devenez un expert avec ces 7 outils IA surpuissants !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=x7ZVkvNfxk4",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Devenez un expert avec ces 7 outils IA surpuissants !..."
+    },
+    {
+        "id": "Zf8OAa-qMvo",
+        "videoId": "Zf8OAa-qMvo",
+        "title": "OpenAI envoie ses agents au bureau",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=Zf8OAa-qMvo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : OpenAI envoie ses agents au bureau..."
+    },
+    {
+        "id": "A2znp0KwPU4",
+        "videoId": "A2znp0KwPU4",
+        "title": "Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffe !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=A2znp0KwPU4",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffe !..."
+    },
+    {
         "id": "XpStbq2wN00",
         "videoId": "XpStbq2wN00",
         "title": "Fidji Simo choisit l’école IA 2 h",
@@ -181,6 +258,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=XpStbq2wN00",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Fidji Simo choisit l’école IA 2 h..."
+    },
+    {
+        "id": "zCB33XrHxqE",
+        "videoId": "zCB33XrHxqE",
+        "title": "L'IA va changer avec ce papier scientifique (actu IA)",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=zCB33XrHxqE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : L'IA va changer avec ce papier scientifique (actu IA)..."
+    },
+    {
+        "id": "iiD6J_52JaI",
+        "videoId": "iiD6J_52JaI",
+        "title": "Odyssey-3 apprend à conduire #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=iiD6J_52JaI",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Odyssey-3 apprend à conduire #actu..."
     },
     {
         "id": "SDZmSdcVLQw",
@@ -227,6 +326,39 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : GPT 6.1 Sol  : Le TEST ultime ! (Open AI DevDay)..."
     },
     {
+        "id": "78rB0-oNvX0",
+        "videoId": "78rB0-oNvX0",
+        "title": "J'ai fusionné Higgsfield API et Hermes (c'est fou)",
+        "author": "Hugo Buisson",
+        "source": "@Hugo_Buisson",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=78rB0-oNvX0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Hugo Buisson : J'ai fusionné Higgsfield API et Hermes (c'est fou)..."
+    },
+    {
+        "id": "V-nr59xEubk",
+        "videoId": "V-nr59xEubk",
+        "title": "❌ C'est n'importe quoi...",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=V-nr59xEubk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : ❌ C'est n'importe quoi......"
+    },
+    {
+        "id": "8Nr1MckK9g8",
+        "videoId": "8Nr1MckK9g8",
+        "title": "Jev + Claude : le combo le plus puissant du moment",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-09-30",
+        "url": "https://www.youtube.com/watch?v=8Nr1MckK9g8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Jev + Claude : le combo le plus puissant du moment..."
+    },
+    {
         "id": "Ow40zdTKj7A",
         "videoId": "Ow40zdTKj7A",
         "title": "4 étapes exactes pour devenir consultant IA en 2026.",
@@ -236,17 +368,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Ow40zdTKj7A",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 4 étapes exactes pour devenir consultant IA en 2026...."
-    },
-    {
-        "id": "WwwxUT-fbZs",
-        "videoId": "WwwxUT-fbZs",
-        "title": "Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffre ! + interview !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-29",
-        "url": "https://www.youtube.com/watch?v=WwwxUT-fbZs",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffre ! + interview !..."
     },
     {
         "id": "15fnyyC3_jg",
@@ -493,13 +614,13 @@ export const allVideos = [
     {
         "id": "WRCxToAlwI4",
         "videoId": "WRCxToAlwI4",
-        "title": "GPT 6 Astra est INCROYABLE Pour Créer des Sites Web Animé",
+        "title": "GPT 6 Astra est INCROYABLE Pour Créer des Sites (Tuto Débutant)",
         "author": "Yassine Sdiri",
         "source": "@yassine-sdiri",
         "date": "2026-09-27",
         "url": "https://www.youtube.com/watch?v=WRCxToAlwI4",
         "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : GPT 6 Astra est INCROYABLE Pour Créer des Sites Web Animé..."
+        "summary": "Nouveauté de Yassine Sdiri : GPT 6 Astra est INCROYABLE Pour Créer des Sites (Tuto Débutant)..."
     },
     {
         "id": "EDgcEcWTYCg",
@@ -568,17 +689,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Faut-il freiner l'IA pour sauver le climat ? Le Shift Project répond..."
     },
     {
-        "id": "O2ofrA_hHQQ",
-        "videoId": "O2ofrA_hHQQ",
-        "title": "Meta lance l’IA qui agit pour vous",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-26",
-        "url": "https://www.youtube.com/watch?v=O2ofrA_hHQQ",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Meta lance l’IA qui agit pour vous..."
-    },
-    {
         "id": "gmLUIVzRlpk",
         "videoId": "gmLUIVzRlpk",
         "title": "Comment NVIDIA veut entraîner des IA avec 4 bits",
@@ -621,28 +731,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=i4EuaujaanY",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Ce workflow IA va révolutionner vos contenus !..."
-    },
-    {
-        "id": "Dv0MBUpUrKM",
-        "videoId": "Dv0MBUpUrKM",
-        "title": "IA : Trump refuse, Zelensky alerte",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=Dv0MBUpUrKM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA : Trump refuse, Zelensky alerte..."
-    },
-    {
-        "id": "ul8KRf5Vmv0",
-        "videoId": "ul8KRf5Vmv0",
-        "title": "L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=ul8KRf5Vmv0",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L'IA de Trump, le bidule de Zuck, la voix de Google et les robots de l'Europe..."
     },
     {
         "id": "ZoEemjtsVvw",
@@ -1283,17 +1371,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : GPT 6 pilote After Effects tout SEUL (et c'est gratuit)..."
     },
     {
-        "id": "fc8kpsTcZJs",
-        "videoId": "fc8kpsTcZJs",
-        "title": "Construit une équipe tout seul pour tes réseaux sociaux avec Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-14",
-        "url": "https://www.youtube.com/watch?v=fc8kpsTcZJs",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Construit une équipe tout seul pour tes réseaux sociaux avec Claude !..."
-    },
-    {
         "id": "bAr4mlidBB4",
         "videoId": "bAr4mlidBB4",
         "title": "Cette fonctionnalité de Claude va tout changer !",
@@ -1358,28 +1435,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4lFheOCWgqo",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Les limites de Fable 5.1 #actu..."
-    },
-    {
-        "id": "V4uwmA90AOU",
-        "videoId": "V4uwmA90AOU",
-        "title": "L’incroyable histoire du génie derrière DeepSeek",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-12",
-        "url": "https://www.youtube.com/watch?v=V4uwmA90AOU",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L’incroyable histoire du génie derrière DeepSeek..."
-    },
-    {
-        "id": "EXrCueHwnqo",
-        "videoId": "EXrCueHwnqo",
-        "title": "GPT-6 VS FABLE : les benchmarks",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-12",
-        "url": "https://www.youtube.com/watch?v=EXrCueHwnqo",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : GPT-6 VS FABLE : les benchmarks..."
     },
     {
         "id": "KNTbEG00bPk",
@@ -1578,17 +1633,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QCffQAhaPSE",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comment l'IA est devenue plus chère que ceux qu'elle remplace..."
-    },
-    {
-        "id": "dk4eorkkni8",
-        "videoId": "dk4eorkkni8",
-        "title": "Les réglages indispensables dans Claude !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-08-25",
-        "url": "https://www.youtube.com/watch?v=dk4eorkkni8",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Les réglages indispensables dans Claude !..."
     },
     {
         "id": "tm_QZ7iIGeg",
