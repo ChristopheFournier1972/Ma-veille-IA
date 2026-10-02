@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-01T12:19:34.328Z
+// Fichier généré automatiquement le 2026-10-02T11:47:51.658Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:19:34 PM 10/1/2026";
+export const lastUpdate = "11:47:51 AM 10/2/2026";
 
 export const sources = [
     {
@@ -172,6 +172,83 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "9EaDQCMaVFc",
+        "videoId": "9EaDQCMaVFc",
+        "title": "Transforme ton projet en une courte vidéo avec Claude Code !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-02",
+        "url": "https://www.youtube.com/watch?v=9EaDQCMaVFc",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Transforme ton projet en une courte vidéo avec Claude Code !..."
+    },
+    {
+        "id": "grGL2GPwPXI",
+        "videoId": "grGL2GPwPXI",
+        "title": "Avec Argon, Google is back ! Mistral aussi... et Schwarzy aussi !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-02",
+        "url": "https://www.youtube.com/watch?v=grGL2GPwPXI",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Avec Argon, Google is back ! Mistral aussi... et Schwarzy aussi !..."
+    },
+    {
+        "id": "wm54UJ1W29o",
+        "videoId": "wm54UJ1W29o",
+        "title": "AMD achète un cerveau IA à 8,2 Md$",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-02",
+        "url": "https://www.youtube.com/watch?v=wm54UJ1W29o",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : AMD achète un cerveau IA à 8,2 Md$..."
+    },
+    {
+        "id": "jfoI8-3e3oA",
+        "videoId": "jfoI8-3e3oA",
+        "title": "5 repos Github pour gagner des mois de construction d’agents IA !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=jfoI8-3e3oA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 5 repos Github pour gagner des mois de construction d’agents IA !..."
+    },
+    {
+        "id": "HOmMAaQUleA",
+        "videoId": "HOmMAaQUleA",
+        "title": "C'est quoi le Harness pour les Agents IA ? Je t'explique TOUT !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=HOmMAaQUleA",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : C'est quoi le Harness pour les Agents IA ? Je t'explique TOUT !..."
+    },
+    {
+        "id": "lxbAlr30Qkw",
+        "videoId": "lxbAlr30Qkw",
+        "title": "Dots : ChatGPT agit sans vous",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=lxbAlr30Qkw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Dots : ChatGPT agit sans vous..."
+    },
+    {
+        "id": "4NW6T6nxj4w",
+        "videoId": "4NW6T6nxj4w",
+        "title": "Faut-il laisser l'IA décider à notre place ? Un ex-McKinsey répond",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=4NW6T6nxj4w",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Faut-il laisser l'IA décider à notre place ? Un ex-McKinsey répond..."
+    },
+    {
         "id": "rIuDIVc9kNk",
         "videoId": "rIuDIVc9kNk",
         "title": "Sonnet 5.5 : Opus pour moins cher",
@@ -192,6 +269,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=WwwxUT-fbZs",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Les annonces d'OpenAI (dont Dots !) et celles d'Anthropic : ça chauffre ! + interview !..."
+    },
+    {
+        "id": "jzpSgUNvD0w",
+        "videoId": "jzpSgUNvD0w",
+        "title": "Un Mac Mini peut-il VRAIMENT remplacer une IA à 200 $ ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=jzpSgUNvD0w",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Un Mac Mini peut-il VRAIMENT remplacer une IA à 200 $ ?..."
+    },
+    {
+        "id": "vOzhHVG811k",
+        "videoId": "vOzhHVG811k",
+        "title": "Retire le fond de n'importe quelle vidéo, gratuitement",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-01",
+        "url": "https://www.youtube.com/watch?v=vOzhHVG811k",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Retire le fond de n'importe quelle vidéo, gratuitement..."
     },
     {
         "id": "lLTLG0h6y54",
@@ -502,17 +601,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : MS Copilot enfin, ChatGPT débloque et l'école IA à 2h par jour + Débat IA de la présidentielle !..."
     },
     {
-        "id": "2OGJYRAboD8",
-        "videoId": "2OGJYRAboD8",
-        "title": "L’IA qui voit le futur des robots",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-28",
-        "url": "https://www.youtube.com/watch?v=2OGJYRAboD8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : L’IA qui voit le futur des robots..."
-    },
-    {
         "id": "gCfn599t2KQ",
         "videoId": "gCfn599t2KQ",
         "title": "Des clones de JEV ? #actu",
@@ -601,17 +689,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : 4 Plugins Claude pour le Vibe Coding..."
     },
     {
-        "id": "5IINlLhpDQM",
-        "videoId": "5IINlLhpDQM",
-        "title": "Jev change tout : le tuto pour faire de vraies dingueries",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-27",
-        "url": "https://www.youtube.com/watch?v=5IINlLhpDQM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Jev change tout : le tuto pour faire de vraies dingueries..."
-    },
-    {
         "id": "WRCxToAlwI4",
         "videoId": "WRCxToAlwI4",
         "title": "GPT 6 Astra est INCROYABLE Pour Créer des Sites (Tuto Débutant)",
@@ -665,28 +742,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=zXxqDz5OMtg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : JEV est incroyable  !!..."
-    },
-    {
-        "id": "I1xwiqAgGlY",
-        "videoId": "I1xwiqAgGlY",
-        "title": "Google clone des voix en 30 s",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-26",
-        "url": "https://www.youtube.com/watch?v=I1xwiqAgGlY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Google clone des voix en 30 s..."
-    },
-    {
-        "id": "wzDKnf_0WHU",
-        "videoId": "wzDKnf_0WHU",
-        "title": "Faut-il freiner l'IA pour sauver le climat ? Le Shift Project répond",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-26",
-        "url": "https://www.youtube.com/watch?v=wzDKnf_0WHU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Faut-il freiner l'IA pour sauver le climat ? Le Shift Project répond..."
     },
     {
         "id": "gmLUIVzRlpk",
@@ -1316,28 +1371,6 @@ export const allVideos = [
         "summary": "Nouveauté de Eliott Meunier : DeepSeek lâche une bombe : V4.1 Flash (actu)..."
     },
     {
-        "id": "pbN3uZgeCYQ",
-        "videoId": "pbN3uZgeCYQ",
-        "title": "Top 5 des meilleurs Skills Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-15",
-        "url": "https://www.youtube.com/watch?v=pbN3uZgeCYQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Top 5 des meilleurs Skills Claude !..."
-    },
-    {
-        "id": "f_-zvssEtbA",
-        "videoId": "f_-zvssEtbA",
-        "title": "Voici 4 connecteurs que tu peux utiliser si tu payes Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-15",
-        "url": "https://www.youtube.com/watch?v=f_-zvssEtbA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Voici 4 connecteurs que tu peux utiliser si tu payes Claude !..."
-    },
-    {
         "id": "giolj6-hAP0",
         "videoId": "giolj6-hAP0",
         "title": "NVIDIA rachète Hugging Face #actu",
@@ -1358,17 +1391,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=zPyRUZl3yp4",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Open ai vient peut-être de marquer l’histoire (Navier-Stokes)..."
-    },
-    {
-        "id": "q4dG7eRE_tU",
-        "videoId": "q4dG7eRE_tU",
-        "title": "GPT 6 pilote After Effects tout SEUL (et c'est gratuit)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-15",
-        "url": "https://www.youtube.com/watch?v=q4dG7eRE_tU",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : GPT 6 pilote After Effects tout SEUL (et c'est gratuit)..."
     },
     {
         "id": "bAr4mlidBB4",
@@ -1580,17 +1602,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Qwen vient-il de dévoiler le futur des LLM ?..."
     },
     {
-        "id": "0FlfKKNbK9E",
-        "videoId": "0FlfKKNbK9E",
-        "title": "Qwen vient-il de dévoiler le futur des LLM ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-08-31",
-        "url": "https://www.youtube.com/watch?v=0FlfKKNbK9E",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Qwen vient-il de dévoiler le futur des LLM ?..."
-    },
-    {
         "id": "dv4IV4KdgNI",
         "videoId": "dv4IV4KdgNI",
         "title": "Comment utiliser Canva IA 2.0 comme un pro",
@@ -1611,17 +1622,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=OsPRnH_vOTg",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : J'ai analysé 177k€ de services IA vendus : voici ce que les PME achètent vraiment en 2026..."
-    },
-    {
-        "id": "C1esYFoZXBE",
-        "videoId": "C1esYFoZXBE",
-        "title": "Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-08-30",
-        "url": "https://www.youtube.com/watch?v=C1esYFoZXBE",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Utilisez mieux Google Gemini que 99% des gens ! (de débutant à PRO)..."
     },
     {
         "id": "QCffQAhaPSE",
@@ -1798,27 +1798,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=fsw03ZXHJik",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Mistral sera bientôt partout (apprenez-le maintenant)..."
-    },
-    {
-        "id": "gBY3xIaDquY",
-        "videoId": "gBY3xIaDquY",
-        "title": "J'ai dépensé 50.000€ en moins d'1 an dans des formations (voici ce que j'ai appris)",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-08-02",
-        "url": "https://www.youtube.com/watch?v=gBY3xIaDquY",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : J'ai dépensé 50.000€ en moins d'1 an dans des formations (voici ce que j'ai appris)..."
-    },
-    {
-        "id": "Vv1eXHqOZlI",
-        "videoId": "Vv1eXHqOZlI",
-        "title": "Comment Vivre de l'IA en 2026 (sans compétence technique)",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-08-02",
-        "url": "https://www.youtube.com/watch?v=Vv1eXHqOZlI",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Comment Vivre de l'IA en 2026 (sans compétence technique)..."
     }
 ];
