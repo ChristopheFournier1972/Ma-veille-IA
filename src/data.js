@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-04T11:43:00.759Z
+// Fichier généré automatiquement le 2026-10-05T13:27:13.389Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:43:00 AM 10/4/2026";
+export const lastUpdate = "1:27:13 PM 10/5/2026";
 
 export const sources = [
     {
@@ -172,6 +172,83 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "yYR0gwnMT3c",
+        "videoId": "yYR0gwnMT3c",
+        "title": "Grok guide Trump et ce n'est pas le pire, les États-Unis deviennent fous avec l'IA ! + La Zone Grise",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=yYR0gwnMT3c",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Grok guide Trump et ce n'est pas le pire, les États-Unis deviennent fous avec l'IA ! + La Zone Grise..."
+    },
+    {
+        "id": "N8ELraWIl9o",
+        "videoId": "N8ELraWIl9o",
+        "title": "IA sans loi : Trump laisse faire",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=N8ELraWIl9o",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : IA sans loi : Trump laisse faire..."
+    },
+    {
+        "id": "96tbi_dVafQ",
+        "videoId": "96tbi_dVafQ",
+        "title": "Xiaomi lance son modèle IA #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-05",
+        "url": "https://www.youtube.com/watch?v=96tbi_dVafQ",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Xiaomi lance son modèle IA #actu..."
+    },
+    {
+        "id": "CL7EINYSoKw",
+        "videoId": "CL7EINYSoKw",
+        "title": "Voici TOUTES les Solutions IA à VENDRE aux Entreprises en 2026",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-10-04",
+        "url": "https://www.youtube.com/watch?v=CL7EINYSoKw",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Voici TOUTES les Solutions IA à VENDRE aux Entreprises en 2026..."
+    },
+    {
+        "id": "JDK9LAJ73ng",
+        "videoId": "JDK9LAJ73ng",
+        "title": "Maîtrise Claude grâce a ces 3 vidéos en moins de 2 heures !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-04",
+        "url": "https://www.youtube.com/watch?v=JDK9LAJ73ng",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Maîtrise Claude grâce a ces 3 vidéos en moins de 2 heures !..."
+    },
+    {
+        "id": "g68Rxhg-W1s",
+        "videoId": "g68Rxhg-W1s",
+        "title": "38 millions de vues en quelques jours : la nouvelle IA qui affole toute l'industrie",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-10-04",
+        "url": "https://www.youtube.com/watch?v=g68Rxhg-W1s",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : 38 millions de vues en quelques jours : la nouvelle IA qui affole toute l'industrie..."
+    },
+    {
+        "id": "3w_4SL6ulH0",
+        "videoId": "3w_4SL6ulH0",
+        "title": "Nouvelle version d’Open Code #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-04",
+        "url": "https://www.youtube.com/watch?v=3w_4SL6ulH0",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Nouvelle version d’Open Code #actu..."
+    },
+    {
         "id": "N60afLrpuwM",
         "videoId": "N60afLrpuwM",
         "title": "Claude réalise une découverte biologique #actu",
@@ -203,6 +280,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5Z6OLjTg1uo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : J'ai testé Claude Opus 5.5 pour le montage vidéo (C'est INCROYABLE)..."
+    },
+    {
+        "id": "J1RjIycE62c",
+        "videoId": "J1RjIycE62c",
+        "title": "Fais remonter ton app dans les recherches de l'App Store (gratuit)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-04",
+        "url": "https://www.youtube.com/watch?v=J1RjIycE62c",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Fais remonter ton app dans les recherches de l'App Store (gratuit)..."
     },
     {
         "id": "bUZCHCH7XJ4",
@@ -610,28 +698,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=15fnyyC3_jg",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Rafale : l’IA vole, mais fait quoi ?..."
-    },
-    {
-        "id": "wQsh-3IZuKo",
-        "videoId": "wQsh-3IZuKo",
-        "title": "Débat IA de la présidentielle : Pourquoi ils sont tous aux fraises ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-29",
-        "url": "https://www.youtube.com/watch?v=wQsh-3IZuKo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Débat IA de la présidentielle : Pourquoi ils sont tous aux fraises ?..."
-    },
-    {
-        "id": "3mf1_hTatA4",
-        "videoId": "3mf1_hTatA4",
-        "title": "OpenAI : l’agent qui force l’accès",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-09-29",
-        "url": "https://www.youtube.com/watch?v=3mf1_hTatA4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI : l’agent qui force l’accès..."
     },
     {
         "id": "phFXHDuFNfQ",
@@ -1162,17 +1228,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Jev : Le modèle 200x fois plus rapide qu’un LLM..."
     },
     {
-        "id": "0ZnlSoSiudA",
-        "videoId": "0ZnlSoSiudA",
-        "title": "Pilote ton téléphone Android avec l'IA : Artemis (repo Google open source)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-21",
-        "url": "https://www.youtube.com/watch?v=0ZnlSoSiudA",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Pilote ton téléphone Android avec l'IA : Artemis (repo Google open source)..."
-    },
-    {
         "id": "BeRjFzU0DMk",
         "videoId": "BeRjFzU0DMk",
         "title": "La création d'artefacts avec Claude en deux étapes !",
@@ -1371,17 +1426,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : La nouvelle architecture de DeepSeek est juste brillante..."
     },
     {
-        "id": "1z1i6rfM3UI",
-        "videoId": "1z1i6rfM3UI",
-        "title": "Tu veux des résultats différents avec l'IA ? Ce sont les skills les plus utiles selon moi !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=1z1i6rfM3UI",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu veux des résultats différents avec l'IA ? Ce sont les skills les plus utiles selon moi !..."
-    },
-    {
         "id": "i8cCJ0-ZG3Q",
         "videoId": "i8cCJ0-ZG3Q",
         "title": "Utilisez mieux Microsoft Copilot que 99% des gens ! (de débutant à Pro)",
@@ -1435,28 +1479,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=AaLTIk_Nc4k",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Arrêtez de payer ChatGPT: cette IA locale est gratuite &amp; illimité..."
-    },
-    {
-        "id": "3_2F8pUxPPg",
-        "videoId": "3_2F8pUxPPg",
-        "title": "DeepSeek lâche une bombe : V4.1 Flash (actu)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-16",
-        "url": "https://www.youtube.com/watch?v=3_2F8pUxPPg",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : DeepSeek lâche une bombe : V4.1 Flash (actu)..."
-    },
-    {
-        "id": "giolj6-hAP0",
-        "videoId": "giolj6-hAP0",
-        "title": "NVIDIA rachète Hugging Face #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-15",
-        "url": "https://www.youtube.com/watch?v=giolj6-hAP0",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : NVIDIA rachète Hugging Face #actu..."
     },
     {
         "id": "zPyRUZl3yp4",
@@ -1776,38 +1798,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-TVOe0WqSro",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Jonas Ekanbo : Comment créer un site web avec ChatGPT et Hostinger Horizon..."
-    },
-    {
-        "id": "xAlXes0E34k",
-        "videoId": "xAlXes0E34k",
-        "title": "Claude Design vient de sortir le Motion Design par IA",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-08-05",
-        "url": "https://www.youtube.com/watch?v=xAlXes0E34k",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Claude Design vient de sortir le Motion Design par IA..."
-    },
-    {
-        "id": "im6rjBitL9M",
-        "videoId": "im6rjBitL9M",
-        "title": "Les 7 Hacks pour ne plus JAMAIS Atteindre la Limite de Claude",
-        "author": "Lucas Reverdy",
-        "source": "@reverdybusiness",
-        "date": "2026-08-05",
-        "url": "https://www.youtube.com/watch?v=im6rjBitL9M",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Lucas Reverdy : Les 7 Hacks pour ne plus JAMAIS Atteindre la Limite de Claude..."
-    },
-    {
-        "id": "rQuiE7S7Jzg",
-        "videoId": "rQuiE7S7Jzg",
-        "title": "Claude Skills : Tu peux enfin TOUT automatiser en montrant ton ÉCRAN !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-08-05",
-        "url": "https://www.youtube.com/watch?v=rQuiE7S7Jzg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : Claude Skills : Tu peux enfin TOUT automatiser en montrant ton ÉCRAN !..."
     }
 ];
