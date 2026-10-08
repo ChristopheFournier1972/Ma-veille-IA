@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-07T12:33:17.235Z
+// Fichier généré automatiquement le 2026-10-08T12:43:02.111Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:33:17 PM 10/7/2026";
+export const lastUpdate = "12:43:02 PM 10/8/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "7DjTvANMSjo",
+        "videoId": "7DjTvANMSjo",
+        "title": "BrixHub : ne payez surtout pas",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=7DjTvANMSjo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : BrixHub : ne payez surtout pas..."
+    },
+    {
+        "id": "jUY9K05JJBM",
+        "videoId": "jUY9K05JJBM",
+        "title": "Le Chonk : Mistral lance son gros chaton + Moment philo sur l'IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=jUY9K05JJBM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Le Chonk : Mistral lance son gros chaton + Moment philo sur l'IA..."
+    },
+    {
+        "id": "BmS13TkNH5U",
+        "videoId": "BmS13TkNH5U",
+        "title": "Les Géants de l'IA avouent qu'ils ne contrôlent plus RIEN (et c'est une bonne nouvelle)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=BmS13TkNH5U",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : Les Géants de l'IA avouent qu'ils ne contrôlent plus RIEN (et c'est une bonne nouvelle)..."
+    },
+    {
+        "id": "kyU31elL7wk",
+        "videoId": "kyU31elL7wk",
+        "title": "Le Skill Claude le plus puissant !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=kyU31elL7wk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Le Skill Claude le plus puissant !..."
+    },
+    {
         "id": "k87_vbTdX40",
         "videoId": "k87_vbTdX40",
         "title": "5 repos GitHub qui ont explosé cette semaine !",
@@ -194,6 +238,39 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : 38 façons différente de trouver une bonne idée de startup à lancer avec de l’IA..."
     },
     {
+        "id": "qcu0auBQB7A",
+        "videoId": "qcu0auBQB7A",
+        "title": "Créer un site web magnifique avec l'IA !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=qcu0auBQB7A",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : Créer un site web magnifique avec l'IA !..."
+    },
+    {
+        "id": "lzLrcIfT04s",
+        "videoId": "lzLrcIfT04s",
+        "title": "Mistral : l’IA qu’on ne coupe pas",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=lzLrcIfT04s",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Mistral : l’IA qu’on ne coupe pas..."
+    },
+    {
+        "id": "4FfQwPprW9o",
+        "videoId": "4FfQwPprW9o",
+        "title": "Le Chonk : Mistral lance son gros chaton",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=4FfQwPprW9o",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Le Chonk : Mistral lance son gros chaton..."
+    },
+    {
         "id": "dtdhi2u_vGg",
         "videoId": "dtdhi2u_vGg",
         "title": "Meta Muse a les clés de vos comptes",
@@ -207,35 +284,57 @@ export const allVideos = [
     {
         "id": "HR97H1yqgVc",
         "videoId": "HR97H1yqgVc",
-        "title": "L’ère des agents autonomes a commencé (dots OpenAI)",
+        "title": "La guerre des agents lA a commencé (dots OpenAI)",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-10-07",
         "url": "https://www.youtube.com/watch?v=HR97H1yqgVc",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L’ère des agents autonomes a commencé (dots OpenAI)..."
+        "summary": "Nouveauté de Eliott Meunier : La guerre des agents lA a commencé (dots OpenAI)..."
     },
     {
         "id": "BqpXAwy2yPY",
         "videoId": "BqpXAwy2yPY",
-        "title": "DeepSeek et Xiaomi changent la façon dont les IA réfléchissent",
+        "title": "DeepSeek et Xiaomi viennent de débloquer les IA locales",
         "author": "Nerdy Kings",
         "source": "@NerdyKings",
         "date": "2026-10-07",
         "url": "https://www.youtube.com/watch?v=BqpXAwy2yPY",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : DeepSeek et Xiaomi changent la façon dont les IA réfléchissent..."
+        "summary": "Nouveauté de Nerdy Kings : DeepSeek et Xiaomi viennent de débloquer les IA locales..."
     },
     {
-        "id": "jUY9K05JJBM",
-        "videoId": "jUY9K05JJBM",
-        "title": "Le Chonk : Mistral lance son gros chaton + Moment philo sur l'IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-06",
-        "url": "https://www.youtube.com/watch?v=jUY9K05JJBM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le Chonk : Mistral lance son gros chaton + Moment philo sur l'IA..."
+        "id": "ucz1H8DXD-A",
+        "videoId": "ucz1H8DXD-A",
+        "title": "Crée des histoires pour enfants avec l'IA et publie-les sur Amazon",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=ucz1H8DXD-A",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Crée des histoires pour enfants avec l'IA et publie-les sur Amazon..."
+    },
+    {
+        "id": "oI8DmbJOufY",
+        "videoId": "oI8DmbJOufY",
+        "title": "J'ai créé une IA qui répond au téléphone à ma place (gratuit)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=oI8DmbJOufY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : J'ai créé une IA qui répond au téléphone à ma place (gratuit)..."
+    },
+    {
+        "id": "xvy40dHyAmw",
+        "videoId": "xvy40dHyAmw",
+        "title": "J'ai transformé mon Claude Code avec des mods",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-07",
+        "url": "https://www.youtube.com/watch?v=xvy40dHyAmw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : J'ai transformé mon Claude Code avec des mods..."
     },
     {
         "id": "DQbe0PzedDI",
@@ -612,17 +711,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Avec Argon, Google is back ! Mistral aussi... et Schwarzy aussi !..."
     },
     {
-        "id": "wm54UJ1W29o",
-        "videoId": "wm54UJ1W29o",
-        "title": "AMD achète un cerveau IA à 8,2 Md$",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=wm54UJ1W29o",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : AMD achète un cerveau IA à 8,2 Md$..."
-    },
-    {
         "id": "YtvYpgG8pg8",
         "videoId": "YtvYpgG8pg8",
         "title": "Comment gagner des millions avec une IA qu’on n’a même pas créée ?",
@@ -665,28 +753,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=HOmMAaQUleA",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : C'est quoi le Harness pour les Agents IA ? Je t'explique TOUT !..."
-    },
-    {
-        "id": "lxbAlr30Qkw",
-        "videoId": "lxbAlr30Qkw",
-        "title": "Dots : ChatGPT agit sans vous",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-01",
-        "url": "https://www.youtube.com/watch?v=lxbAlr30Qkw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Dots : ChatGPT agit sans vous..."
-    },
-    {
-        "id": "4NW6T6nxj4w",
-        "videoId": "4NW6T6nxj4w",
-        "title": "Faut-il laisser l'IA décider à notre place ? Un ex-McKinsey répond",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-01",
-        "url": "https://www.youtube.com/watch?v=4NW6T6nxj4w",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Faut-il laisser l'IA décider à notre place ? Un ex-McKinsey répond..."
     },
     {
         "id": "jzpSgUNvD0w",
@@ -1173,28 +1239,6 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : J’ai testé le workflow IA le plus puissant du moment... et c'est fou !..."
     },
     {
-        "id": "DECxeqRB4jE",
-        "videoId": "DECxeqRB4jE",
-        "title": "Claude Opus 5.5 : pub, Pokémon, short sans caméra… je l'ai testé",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=DECxeqRB4jE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude Opus 5.5 : pub, Pokémon, short sans caméra… je l'ai testé..."
-    },
-    {
-        "id": "v_HJDrkU9w0",
-        "videoId": "v_HJDrkU9w0",
-        "title": "Claude Opus 5.5 vient de sortir : 7 tests concrets (NO BULLSHIT)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=v_HJDrkU9w0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude Opus 5.5 vient de sortir : 7 tests concrets (NO BULLSHIT)..."
-    },
-    {
         "id": "U_5ACUpxNqY",
         "videoId": "U_5ACUpxNqY",
         "title": "Cette nouvelle IA change tout !",
@@ -1380,17 +1424,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mQAvtZtyAcs",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un skill pour Claude qui s'appelle “I-Have-ADHD&quot; !..."
-    },
-    {
-        "id": "Jt4DxTa-Qss",
-        "videoId": "Jt4DxTa-Qss",
-        "title": "Un projet de 158 agents complet pour Claude",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-20",
-        "url": "https://www.youtube.com/watch?v=Jt4DxTa-Qss",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Un projet de 158 agents complet pour Claude..."
     },
     {
         "id": "IanuaQIt-p8",
@@ -1644,17 +1677,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vu55_LhT8k8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Vous avez déjà Microsoft Copilot au travail : 9 fonctions à exploiter enfin..."
-    },
-    {
-        "id": "Ej_1q9LzOqY",
-        "videoId": "Ej_1q9LzOqY",
-        "title": "J’ai compris pourquoi tout le monde est passé sur Claude",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-09-06",
-        "url": "https://www.youtube.com/watch?v=Ej_1q9LzOqY",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J’ai compris pourquoi tout le monde est passé sur Claude..."
     },
     {
         "id": "4TCF36rCo8k",
