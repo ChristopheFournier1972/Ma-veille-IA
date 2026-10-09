@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-08T12:43:02.111Z
+// Fichier généré automatiquement le 2026-10-09T12:29:57.956Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:43:02 PM 10/8/2026";
+export const lastUpdate = "12:29:57 PM 10/9/2026";
 
 export const sources = [
     {
@@ -172,6 +172,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "DHwPct6TrPA",
+        "videoId": "DHwPct6TrPA",
+        "title": "6 documents à avoir avant de Vibecoder une application !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-09",
+        "url": "https://www.youtube.com/watch?v=DHwPct6TrPA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : 6 documents à avoir avant de Vibecoder une application !..."
+    },
+    {
+        "id": "QNwhAURmKFM",
+        "videoId": "QNwhAURmKFM",
+        "title": "L’IA vise, les drones tombent",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-09",
+        "url": "https://www.youtube.com/watch?v=QNwhAURmKFM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L’IA vise, les drones tombent..."
+    },
+    {
+        "id": "cHy8yI7k-i8",
+        "videoId": "cHy8yI7k-i8",
+        "title": "C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin + Surprise !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=cHy8yI7k-i8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin + Surprise !..."
+    },
+    {
+        "id": "oRH-dTeAtag",
+        "videoId": "oRH-dTeAtag",
+        "title": "Son journal IA finit chez la police",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=oRH-dTeAtag",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Son journal IA finit chez la police..."
+    },
+    {
+        "id": "5yofugfgbtA",
+        "videoId": "5yofugfgbtA",
+        "title": "L'IA qui lit vos émotions, la fausse bonne idée ? Débat avec une philosophe de l'IA",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=5yofugfgbtA",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : L'IA qui lit vos émotions, la fausse bonne idée ? Débat avec une philosophe de l'IA..."
+    },
+    {
         "id": "7DjTvANMSjo",
         "videoId": "7DjTvANMSjo",
         "title": "BrixHub : ne payez surtout pas",
@@ -192,6 +247,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=jUY9K05JJBM",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Le Chonk : Mistral lance son gros chaton + Moment philo sur l'IA..."
+    },
+    {
+        "id": "2oDq2sXHm2M",
+        "videoId": "2oDq2sXHm2M",
+        "title": "Ton site internet en motion design, fait par l'IA (gratuit)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=2oDq2sXHm2M",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Ton site internet en motion design, fait par l'IA (gratuit)..."
+    },
+    {
+        "id": "AOqprnXy5FM",
+        "videoId": "AOqprnXy5FM",
+        "title": "J'ai demandé à ChatGPT de vous arnaquer (et il l'a fait)",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-10-08",
+        "url": "https://www.youtube.com/watch?v=AOqprnXy5FM",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : J'ai demandé à ChatGPT de vous arnaquer (et il l'a fait)..."
     },
     {
         "id": "BmS13TkNH5U",
@@ -612,28 +689,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Fais remonter ton app dans les recherches de l'App Store (gratuit)..."
     },
     {
-        "id": "bUZCHCH7XJ4",
-        "videoId": "bUZCHCH7XJ4",
-        "title": "Mistral joue gros face aux US",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-03",
-        "url": "https://www.youtube.com/watch?v=bUZCHCH7XJ4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Mistral joue gros face aux US..."
-    },
-    {
-        "id": "wM4K4VTWzZA",
-        "videoId": "wM4K4VTWzZA",
-        "title": "Argon : Google défie OpenAI",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-03",
-        "url": "https://www.youtube.com/watch?v=wM4K4VTWzZA",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Argon : Google défie OpenAI..."
-    },
-    {
         "id": "T9ETDqp7XQk",
         "videoId": "T9ETDqp7XQk",
         "title": "Comment une IA comprend vraiment ce qu'on lui dit ? (avec Amélie Chatelain)",
@@ -687,28 +742,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=orJgU0_x-Ks",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le secret derrière les meilleures IA : le Harness !..."
-    },
-    {
-        "id": "5gVIXklX4Ng",
-        "videoId": "5gVIXklX4Ng",
-        "title": "Avec Argon, Google is back ! Mistral aussi... et Schwarzy aussi !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=5gVIXklX4Ng",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Avec Argon, Google is back ! Mistral aussi... et Schwarzy aussi !..."
-    },
-    {
-        "id": "grGL2GPwPXI",
-        "videoId": "grGL2GPwPXI",
-        "title": "Avec Argon, Google is back ! Mistral aussi... et Schwarzy aussi !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-02",
-        "url": "https://www.youtube.com/watch?v=grGL2GPwPXI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Avec Argon, Google is back ! Mistral aussi... et Schwarzy aussi !..."
     },
     {
         "id": "YtvYpgG8pg8",
@@ -1184,17 +1217,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : NVIDIA vient de changer la façon d’entraîner les IA..."
     },
     {
-        "id": "Ljgwy5PZtuY",
-        "videoId": "Ljgwy5PZtuY",
-        "title": "Claude Code a enfin son propre navigateur (ego lite)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=Ljgwy5PZtuY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude Code a enfin son propre navigateur (ego lite)..."
-    },
-    {
         "id": "djX9hIpiQZc",
         "videoId": "djX9hIpiQZc",
         "title": "NOUVELLE Méthode IA pour être partout sur les réseaux SANS EFFORT ! (tuto débutant)",
@@ -1413,17 +1435,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BeRjFzU0DMk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : La création d'artefacts avec Claude en deux étapes !..."
-    },
-    {
-        "id": "mQAvtZtyAcs",
-        "videoId": "mQAvtZtyAcs",
-        "title": "Quelqu'un vient de créer un skill pour Claude qui s'appelle “I-Have-ADHD&quot; !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-20",
-        "url": "https://www.youtube.com/watch?v=mQAvtZtyAcs",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Quelqu'un vient de créer un skill pour Claude qui s'appelle “I-Have-ADHD&quot; !..."
     },
     {
         "id": "IanuaQIt-p8",
@@ -1820,38 +1831,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=EQt4H1aDWBw",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Des employés IA gratuits pour tous (merci le cofondateur de Twitter)..."
-    },
-    {
-        "id": "WFWNKIohrEc",
-        "videoId": "WFWNKIohrEc",
-        "title": "Dans les coulisses de mon Agence IA",
-        "author": "Simon Music",
-        "source": "@Simon_bcome",
-        "date": "2026-08-09",
-        "url": "https://www.youtube.com/watch?v=WFWNKIohrEc",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Simon Music : Dans les coulisses de mon Agence IA..."
-    },
-    {
-        "id": "4km3oLGe-iQ",
-        "videoId": "4km3oLGe-iQ",
-        "title": "Personne ne réalise ce que le nouveau ChatGPT peut faire",
-        "author": "Yassine Sdiri",
-        "source": "@yassine-sdiri",
-        "date": "2026-08-09",
-        "url": "https://www.youtube.com/watch?v=4km3oLGe-iQ",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Yassine Sdiri : Personne ne réalise ce que le nouveau ChatGPT peut faire..."
-    },
-    {
-        "id": "-TVOe0WqSro",
-        "videoId": "-TVOe0WqSro",
-        "title": "Comment créer un site web avec ChatGPT et Hostinger Horizon",
-        "author": "Jonas Ekanbo",
-        "source": "@JonasEkanbo",
-        "date": "2026-08-09",
-        "url": "https://www.youtube.com/watch?v=-TVOe0WqSro",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Jonas Ekanbo : Comment créer un site web avec ChatGPT et Hostinger Horizon..."
     }
 ];
