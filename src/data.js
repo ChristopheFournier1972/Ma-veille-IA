@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-10T11:48:55.928Z
+// Fichier généré automatiquement le 2026-10-11T12:00:55.278Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:48:55 AM 10/10/2026";
+export const lastUpdate = "12:00:55 PM 10/11/2026";
 
 export const sources = [
     {
@@ -172,6 +172,61 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "oQurHKU05OY",
+        "videoId": "oQurHKU05OY",
+        "title": "La mort des applications #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-11",
+        "url": "https://www.youtube.com/watch?v=oQurHKU05OY",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : La mort des applications #actu..."
+    },
+    {
+        "id": "43m8e7TJeqU",
+        "videoId": "43m8e7TJeqU",
+        "title": "Claude Code vient de lancer les MODS. (Maîtrisez-les en 10 minutes)",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-10-11",
+        "url": "https://www.youtube.com/watch?v=43m8e7TJeqU",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Claude Code vient de lancer les MODS. (Maîtrisez-les en 10 minutes)..."
+    },
+    {
+        "id": "fe3JdscTHQg",
+        "videoId": "fe3JdscTHQg",
+        "title": "Les mods de Claude Code sont sortis 👀",
+        "author": "Julien Sanson",
+        "source": "@JulienSnsn",
+        "date": "2026-10-11",
+        "url": "https://www.youtube.com/watch?v=fe3JdscTHQg",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Julien Sanson : Les mods de Claude Code sont sortis 👀..."
+    },
+    {
+        "id": "TEnQzeOyqk8",
+        "videoId": "TEnQzeOyqk8",
+        "title": "Haiku 5.5 : l’IA 10x moins chère",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-10",
+        "url": "https://www.youtube.com/watch?v=TEnQzeOyqk8",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Haiku 5.5 : l’IA 10x moins chère..."
+    },
+    {
+        "id": "sM9EJndxOdw",
+        "videoId": "sM9EJndxOdw",
+        "title": "Opus 5.5 a transformé mon entreprise en jeu vidéo",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-10",
+        "url": "https://www.youtube.com/watch?v=sM9EJndxOdw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Opus 5.5 a transformé mon entreprise en jeu vidéo..."
+    },
+    {
         "id": "RTOKPqvV5jw",
         "videoId": "RTOKPqvV5jw",
         "title": "OpenAI lâche 722 preuves, tollé",
@@ -181,6 +236,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=RTOKPqvV5jw",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : OpenAI lâche 722 preuves, tollé..."
+    },
+    {
+        "id": "CepHP9liJgs",
+        "videoId": "CepHP9liJgs",
+        "title": "25 jeux à lancer dans ton navigateur : Call of Duty, GTA 5, Les Simpsons",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-10",
+        "url": "https://www.youtube.com/watch?v=CepHP9liJgs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : 25 jeux à lancer dans ton navigateur : Call of Duty, GTA 5, Les Simpsons..."
     },
     {
         "id": "G54UugYiucw",
@@ -491,17 +557,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : OpenAI : des agents hors contrôle..."
     },
     {
-        "id": "jjx_pA-Zsoc",
-        "videoId": "jjx_pA-Zsoc",
-        "title": "Les USA veulent des drones jetables",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-06",
-        "url": "https://www.youtube.com/watch?v=jjx_pA-Zsoc",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Les USA veulent des drones jetables..."
-    },
-    {
         "id": "dio8PInqANw",
         "videoId": "dio8PInqANw",
         "title": "La nouvelle direction du marché de l’IA #actu",
@@ -555,17 +610,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8KJuLL7CHFk",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot est incroyable !..."
-    },
-    {
-        "id": "fC6JxfSXRJE",
-        "videoId": "fC6JxfSXRJE",
-        "title": "Maduro capturé sur avis de Grok ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-05",
-        "url": "https://www.youtube.com/watch?v=fC6JxfSXRJE",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Maduro capturé sur avis de Grok ?..."
     },
     {
         "id": "96tbi_dVafQ",
@@ -1173,17 +1217,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : GPT-6 vs Claude : Pourquoi les prix s’effondrent..."
     },
     {
-        "id": "zDvFv6qOQ-8",
-        "videoId": "zDvFv6qOQ-8",
-        "title": "Tes AirPods sur Windows : la pop-up de batterie, gratuite et open source",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-27",
-        "url": "https://www.youtube.com/watch?v=zDvFv6qOQ-8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Tes AirPods sur Windows : la pop-up de batterie, gratuite et open source..."
-    },
-    {
         "id": "zXxqDz5OMtg",
         "videoId": "zXxqDz5OMtg",
         "title": "JEV est incroyable  !!",
@@ -1457,17 +1490,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IanuaQIt-p8",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Arrêter de Prompter Claude. Utilisez la Méthode de son Créateur..."
-    },
-    {
-        "id": "UrjR860emSY",
-        "videoId": "UrjR860emSY",
-        "title": "Dario Amodei veut ralentir l’IA #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-20",
-        "url": "https://www.youtube.com/watch?v=UrjR860emSY",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Dario Amodei veut ralentir l’IA #actu..."
     },
     {
         "id": "O4f9k_hOP0c",
