@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-12T14:16:31.914Z
+// Fichier généré automatiquement le 2026-10-13T13:26:32.206Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "2:16:31 PM 10/12/2026";
+export const lastUpdate = "1:26:32 PM 10/13/2026";
 
 export const sources = [
     {
@@ -172,6 +172,72 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "QGJUqEDTw6o",
+        "videoId": "QGJUqEDTw6o",
+        "title": "La Skill ChatGPT qui va tout changer !",
+        "author": "Elliott Pierret",
+        "source": "@elliottpierret",
+        "date": "2026-10-13",
+        "url": "https://www.youtube.com/watch?v=QGJUqEDTw6o",
+        "category": "Vibe Coding & Dev IA",
+        "summary": "Nouveauté de Elliott Pierret : La Skill ChatGPT qui va tout changer !..."
+    },
+    {
+        "id": "Io4TTF9cSdk",
+        "videoId": "Io4TTF9cSdk",
+        "title": "Gemini 4 défie Anthropic en code",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-13",
+        "url": "https://www.youtube.com/watch?v=Io4TTF9cSdk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Gemini 4 défie Anthropic en code..."
+    },
+    {
+        "id": "rMUPHuYz0to",
+        "videoId": "rMUPHuYz0to",
+        "title": "GPT-6 Astra vs Opus 5.5 : même prompt, 5 scénarios",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-12",
+        "url": "https://www.youtube.com/watch?v=rMUPHuYz0to",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : GPT-6 Astra vs Opus 5.5 : même prompt, 5 scénarios..."
+    },
+    {
+        "id": "gpIsXdzIq8M",
+        "videoId": "gpIsXdzIq8M",
+        "title": "Plus une conversation avec Claude ou ChatGPT s'allonge, plus il devient lent !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-12",
+        "url": "https://www.youtube.com/watch?v=gpIsXdzIq8M",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Plus une conversation avec Claude ou ChatGPT s'allonge, plus il devient lent !..."
+    },
+    {
+        "id": "X29Mbxx6Sfs",
+        "videoId": "X29Mbxx6Sfs",
+        "title": "Mise à jour de Claude pour les projets !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-12",
+        "url": "https://www.youtube.com/watch?v=X29Mbxx6Sfs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Mise à jour de Claude pour les projets !..."
+    },
+    {
+        "id": "C9nNZ01n41c",
+        "videoId": "C9nNZ01n41c",
+        "title": "Adobe cloné par un dev avec Claude",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-12",
+        "url": "https://www.youtube.com/watch?v=C9nNZ01n41c",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Adobe cloné par un dev avec Claude..."
+    },
+    {
         "id": "RnEX62cV2Lk",
         "videoId": "RnEX62cV2Lk",
         "title": "Un dev qui fait trembler Adobe, Gemini 4 et une usine d'armes Skynet",
@@ -203,6 +269,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=lvBiK2Wrxbw",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Cruel avec Claude ? Compte fermé..."
+    },
+    {
+        "id": "gtUP8N2yUi4",
+        "videoId": "gtUP8N2yUi4",
+        "title": "Un modèle vidéo IA gratuit qui tourne sur ton PC (MiniMax H3)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-12",
+        "url": "https://www.youtube.com/watch?v=gtUP8N2yUi4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Un modèle vidéo IA gratuit qui tourne sur ton PC (MiniMax H3)..."
+    },
+    {
+        "id": "louRH8iFt5g",
+        "videoId": "louRH8iFt5g",
+        "title": "Comment utiliser Microsoft Copilot comme un pro (tuto complet 2026)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-10-12",
+        "url": "https://www.youtube.com/watch?v=louRH8iFt5g",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Microsoft Copilot comme un pro (tuto complet 2026)..."
     },
     {
         "id": "jaTuUYDfOvw",
@@ -456,28 +544,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=5yofugfgbtA",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : L'IA qui lit vos émotions, la fausse bonne idée ? Débat avec une philosophe de l'IA..."
-    },
-    {
-        "id": "7DjTvANMSjo",
-        "videoId": "7DjTvANMSjo",
-        "title": "BrixHub : ne payez surtout pas",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-08",
-        "url": "https://www.youtube.com/watch?v=7DjTvANMSjo",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : BrixHub : ne payez surtout pas..."
-    },
-    {
-        "id": "jUY9K05JJBM",
-        "videoId": "jUY9K05JJBM",
-        "title": "Le Chonk : Mistral lance son gros chaton + Moment philo sur l'IA",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-08",
-        "url": "https://www.youtube.com/watch?v=jUY9K05JJBM",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Le Chonk : Mistral lance son gros chaton + Moment philo sur l'IA..."
     },
     {
         "id": "2oDq2sXHm2M",
@@ -1118,17 +1184,6 @@ export const allVideos = [
         "summary": "Nouveauté de Julien Sanson : Claude Sonnet 5.5 est sorti: quand l’utiliser ?..."
     },
     {
-        "id": "X6L8KEIFK7s",
-        "videoId": "X6L8KEIFK7s",
-        "title": "Claude Sonnet 5.5 : MEILLEUR rapport qualité/prix ?!",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-29",
-        "url": "https://www.youtube.com/watch?v=X6L8KEIFK7s",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Claude Sonnet 5.5 : MEILLEUR rapport qualité/prix ?!..."
-    },
-    {
         "id": "VI0FCySkw9A",
         "videoId": "VI0FCySkw9A",
         "title": "Voici comment j'ai rendu Hermes 10X plus puissant (vraiment)",
@@ -1338,17 +1393,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : J'ai donné 1h à ChatGPT et Claude pour créer un E-commerce..."
     },
     {
-        "id": "N7uCVjA2Cu8",
-        "videoId": "N7uCVjA2Cu8",
-        "title": "Tu consommes la moitié de ton forfait Claude en milieu de semaine ? 😮‍💨",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=N7uCVjA2Cu8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Tu consommes la moitié de ton forfait Claude en milieu de semaine ? 😮‍💨..."
-    },
-    {
         "id": "sV7QXLJXeX0",
         "videoId": "sV7QXLJXeX0",
         "title": "J’ai testé le workflow IA le plus puissant du moment... et c'est fou !",
@@ -1380,17 +1424,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BOszX4MAJRo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Thomas Berton : Cette IA JEV est incroyable....."
-    },
-    {
-        "id": "UfRGOTpv7NY",
-        "videoId": "UfRGOTpv7NY",
-        "title": "Scrape n’importe quoi sur Internet grâce a cet outils IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-23",
-        "url": "https://www.youtube.com/watch?v=UfRGOTpv7NY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Scrape n’importe quoi sur Internet grâce a cet outils IA !..."
     },
     {
         "id": "xJM8WkvxqMk",
@@ -1435,17 +1468,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=7DWrD_W0erg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Claude + WhatsApp = Agent IA en 10 minutes (sans coder)..."
-    },
-    {
-        "id": "EHSwobYNXeM",
-        "videoId": "EHSwobYNXeM",
-        "title": "Ce skill te permet de scraper tout internet !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-22",
-        "url": "https://www.youtube.com/watch?v=EHSwobYNXeM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Ce skill te permet de scraper tout internet !..."
     },
     {
         "id": "ETq5N-5q1qU",
@@ -1721,17 +1743,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=sLHJPgxBVUQ",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : J'ai donné 1h à GPT-6 Astra pour lancer un Business de 0..."
-    },
-    {
-        "id": "DRo9cnjG388",
-        "videoId": "DRo9cnjG388",
-        "title": "Microsoft Copilot est devenu incroyable !",
-        "author": "Elliott Pierret",
-        "source": "@elliottpierret",
-        "date": "2026-09-09",
-        "url": "https://www.youtube.com/watch?v=DRo9cnjG388",
-        "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : Microsoft Copilot est devenu incroyable !..."
     },
     {
         "id": "vu55_LhT8k8",
