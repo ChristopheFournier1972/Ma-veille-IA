@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-14T11:04:15.203Z
+// Fichier généré automatiquement le 2026-10-15T10:46:41.940Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "11:04:15 AM 10/14/2026";
+export const lastUpdate = "10:46:41 AM 10/15/2026";
 
 export const sources = [
     {
@@ -172,6 +172,50 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "ASo17ZldOro",
+        "videoId": "ASo17ZldOro",
+        "title": "Tu peux désormais cloner n’importe quelle appli avec Claude !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=ASo17ZldOro",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Tu peux désormais cloner n’importe quelle appli avec Claude !..."
+    },
+    {
+        "id": "EEbeX4SJktk",
+        "videoId": "EEbeX4SJktk",
+        "title": "Microsoft traite l’IA en suspect",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=EEbeX4SJktk",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Microsoft traite l’IA en suspect..."
+    },
+    {
+        "id": "ykAUNww86So",
+        "videoId": "ykAUNww86So",
+        "title": "J'ai cloné une application payante avec Claude Code (Fin du SAAS ?)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-15",
+        "url": "https://www.youtube.com/watch?v=ykAUNww86So",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : J'ai cloné une application payante avec Claude Code (Fin du SAAS ?)..."
+    },
+    {
+        "id": "_Up4YpZe5H8",
+        "videoId": "_Up4YpZe5H8",
+        "title": "J’ai testé l’outil IA viral qui clone n’importe quel logiciel (reverse engineering)",
+        "author": "Simon Music",
+        "source": "@Simon_bcome",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=_Up4YpZe5H8",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Simon Music : J’ai testé l’outil IA viral qui clone n’importe quel logiciel (reverse engineering)..."
+    },
+    {
         "id": "Fzg-cdQlgEg",
         "videoId": "Fzg-cdQlgEg",
         "title": "Les 15 erreurs à ne pas faire sur Claude !",
@@ -183,6 +227,39 @@ export const allVideos = [
         "summary": "Nouveauté de Elliott Pierret : Les 15 erreurs à ne pas faire sur Claude !..."
     },
     {
+        "id": "8R-XXLoyq-c",
+        "videoId": "8R-XXLoyq-c",
+        "title": "Meta Wonder : l’IA qui bosse",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=8R-XXLoyq-c",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta Wonder : l’IA qui bosse..."
+    },
+    {
+        "id": "KKCSKP_P59Y",
+        "videoId": "KKCSKP_P59Y",
+        "title": "Meta Wonder, Frigos piratés et Bots russes cramés, coup de chaud sur l'IA !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=KKCSKP_P59Y",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta Wonder, Frigos piratés et Bots russes cramés, coup de chaud sur l'IA !..."
+    },
+    {
+        "id": "xWDn2hoqn6A",
+        "videoId": "xWDn2hoqn6A",
+        "title": "Meta Wonder, Frigos piratés et Bots russes cramés, coup de chaud sur l'IA ! + Interview de l'IGN.",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=xWDn2hoqn6A",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Meta Wonder, Frigos piratés et Bots russes cramés, coup de chaud sur l'IA ! + Interview de l'IGN...."
+    },
+    {
         "id": "7rAXoMXYs20",
         "videoId": "7rAXoMXYs20",
         "title": "SpaceX : le pari Nvidia inquiète",
@@ -192,6 +269,73 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=7rAXoMXYs20",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : SpaceX : le pari Nvidia inquiète..."
+    },
+    {
+        "id": "ZAdil8_JiuI",
+        "videoId": "ZAdil8_JiuI",
+        "title": "OpenAI vient de franchir une limite inquiétante",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=ZAdil8_JiuI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : OpenAI vient de franchir une limite inquiétante..."
+    },
+    {
+        "id": "hOyhEoJsVeY",
+        "videoId": "hOyhEoJsVeY",
+        "title": "MCP Unity : crée ton jeu vidéo en parlant à ton IA",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=hOyhEoJsVeY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : MCP Unity : crée ton jeu vidéo en parlant à ton IA..."
+    },
+    {
+        "id": "4c5L4M7YKcA",
+        "videoId": "4c5L4M7YKcA",
+        "title": "Comment mieux utiliser Higgsfield que 99 % des utilisateurs",
+        "author": "Hugo Buisson",
+        "source": "@Hugo_Buisson",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=4c5L4M7YKcA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Hugo Buisson : Comment mieux utiliser Higgsfield que 99 % des utilisateurs..."
+    },
+    {
+        "id": "fZsn7D-AT9k",
+        "videoId": "fZsn7D-AT9k",
+        "title": "Teste ton projet de startup AVANT de le lancer avec Claude #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=fZsn7D-AT9k",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Teste ton projet de startup AVANT de le lancer avec Claude #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "kanRpV5BR4M",
+        "videoId": "kanRpV5BR4M",
+        "title": "Créer des Shorts Viraux en 1 Clic avec l'IA | Devenir Viral sur les Réseaux Sociaux avec cette IA",
+        "author": "Jonas Ekanbo",
+        "source": "@JonasEkanbo",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=kanRpV5BR4M",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Jonas Ekanbo : Créer des Shorts Viraux en 1 Clic avec l'IA | Devenir Viral sur les Réseaux Sociaux avec cette IA..."
+    },
+    {
+        "id": "MyxCcLqCmuY",
+        "videoId": "MyxCcLqCmuY",
+        "title": "Gemini 4 : le plan de Google pour dominer l'IA.",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-10-14",
+        "url": "https://www.youtube.com/watch?v=MyxCcLqCmuY",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Gemini 4 : le plan de Google pour dominer l'IA...."
     },
     {
         "id": "MdciJiM-Jvs",
@@ -214,17 +358,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QGJUqEDTw6o",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : La Skill ChatGPT qui va tout changer !..."
-    },
-    {
-        "id": "xWDn2hoqn6A",
-        "videoId": "xWDn2hoqn6A",
-        "title": "Meta Wonder, Frigos piratés et Bots russes cramés, coup de chaud sur l'IA ! + Interview de l'IGN.",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-13",
-        "url": "https://www.youtube.com/watch?v=xWDn2hoqn6A",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Meta Wonder, Frigos piratés et Bots russes cramés, coup de chaud sur l'IA ! + Interview de l'IGN...."
     },
     {
         "id": "LN1SFB7_wPE",
@@ -503,17 +636,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Opus 5.5 a transformé mon entreprise en jeu vidéo..."
     },
     {
-        "id": "RTOKPqvV5jw",
-        "videoId": "RTOKPqvV5jw",
-        "title": "OpenAI lâche 722 preuves, tollé",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-10",
-        "url": "https://www.youtube.com/watch?v=RTOKPqvV5jw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : OpenAI lâche 722 preuves, tollé..."
-    },
-    {
         "id": "CepHP9liJgs",
         "videoId": "CepHP9liJgs",
         "title": "25 jeux à lancer dans ton navigateur : Call of Duty, GTA 5, Les Simpsons",
@@ -545,28 +667,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DHwPct6TrPA",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : 6 documents à avoir avant de Vibecoder une application !..."
-    },
-    {
-        "id": "8RWPsSsfh-s",
-        "videoId": "8RWPsSsfh-s",
-        "title": "GPT-6 : des réponses à manipuler",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-09",
-        "url": "https://www.youtube.com/watch?v=8RWPsSsfh-s",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : GPT-6 : des réponses à manipuler..."
-    },
-    {
-        "id": "ydHZHh4-bUw",
-        "videoId": "ydHZHh4-bUw",
-        "title": "C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-09",
-        "url": "https://www.youtube.com/watch?v=ydHZHh4-bUw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : C'est pas l'homme qui régule l'IA, c'est l'IA qui te régule, tatatsin..."
     },
     {
         "id": "v-WDlosJpGs",
@@ -670,13 +770,13 @@ export const allVideos = [
     {
         "id": "HR97H1yqgVc",
         "videoId": "HR97H1yqgVc",
-        "title": "La guerre des agents lA a commencé (dots OpenAI)",
+        "title": "La plus grosse mise à jour de ChatGPT : ce qu'il faut savoir",
         "author": "Eliott Meunier",
         "source": "@EliottMeunier",
         "date": "2026-10-07",
         "url": "https://www.youtube.com/watch?v=HR97H1yqgVc",
         "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : La guerre des agents lA a commencé (dots OpenAI)..."
+        "summary": "Nouveauté de Eliott Meunier : La plus grosse mise à jour de ChatGPT : ce qu'il faut savoir..."
     },
     {
         "id": "BqpXAwy2yPY",
@@ -1130,17 +1230,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Un Mac Mini peut-il VRAIMENT remplacer un abonnement IA à 200 $ ?..."
     },
     {
-        "id": "YoJ0mZ0H3YE",
-        "videoId": "YoJ0mZ0H3YE",
-        "title": "GPT-6.1 Sol, Dots, Pro 500 : le DevDay d'OpenAI en 1 minute",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=YoJ0mZ0H3YE",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : GPT-6.1 Sol, Dots, Pro 500 : le DevDay d'OpenAI en 1 minute..."
-    },
-    {
         "id": "78rB0-oNvX0",
         "videoId": "78rB0-oNvX0",
         "title": "J'ai fusionné Higgsfield API et Hermes (c'est fou)",
@@ -1293,17 +1382,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Ku6x7imReY4",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Ludovic Nédélec : Devenez maître dans l'art d'écrire vos Skills Claude..."
-    },
-    {
-        "id": "LecvtTyud08",
-        "videoId": "LecvtTyud08",
-        "title": "Construire une équipe Marketing tout seul avec Claude",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-09-27",
-        "url": "https://www.youtube.com/watch?v=LecvtTyud08",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Construire une équipe Marketing tout seul avec Claude..."
     },
     {
         "id": "WRCxToAlwI4",
@@ -1612,28 +1690,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=F9J_XikrqRs",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Je livre toutes mes astuces de Pro pour Microsoft Copilot !..."
-    },
-    {
-        "id": "MuokPyJiRkM",
-        "videoId": "MuokPyJiRkM",
-        "title": "La nouvelle architecture de Deepseek est brillante 🇨🇳",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-19",
-        "url": "https://www.youtube.com/watch?v=MuokPyJiRkM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : La nouvelle architecture de Deepseek est brillante 🇨🇳..."
-    },
-    {
-        "id": "cLGur9wU8IQ",
-        "videoId": "cLGur9wU8IQ",
-        "title": "Pour recevoir le meta prompt commente « META »",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-19",
-        "url": "https://www.youtube.com/watch?v=cLGur9wU8IQ",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : Pour recevoir le meta prompt commente « META »..."
     },
     {
         "id": "i8cCJ0-ZG3Q",
