@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-17T10:04:16.750Z
+// Fichier généré automatiquement le 2026-10-18T10:17:39.054Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:04:16 AM 10/17/2026";
+export const lastUpdate = "10:17:39 AM 10/18/2026";
 
 export const sources = [
     {
@@ -172,6 +172,39 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "HBUPJOyMiJA",
+        "videoId": "HBUPJOyMiJA",
+        "title": "Utilise Claude en illimité sans gaspiller tes tokens",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=HBUPJOyMiJA",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Utilise Claude en illimité sans gaspiller tes tokens..."
+    },
+    {
+        "id": "SvHb66dn5iE",
+        "videoId": "SvHb66dn5iE",
+        "title": "Character.AI coulé par ses serveurs",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=SvHb66dn5iE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Character.AI coulé par ses serveurs..."
+    },
+    {
+        "id": "KVP7bboPIio",
+        "videoId": "KVP7bboPIio",
+        "title": "Claude apprend en vous regardant : formez le en 2 minutes !",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=KVP7bboPIio",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude apprend en vous regardant : formez le en 2 minutes !..."
+    },
+    {
         "id": "BSs-c5p4R8I",
         "videoId": "BSs-c5p4R8I",
         "title": "Pourquoi Nvidia parie sur Doctolib",
@@ -181,6 +214,88 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BSs-c5p4R8I",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Pourquoi Nvidia parie sur Doctolib..."
+    },
+    {
+        "id": "lFliTkzzYLI",
+        "videoId": "lFliTkzzYLI",
+        "title": "Reverse Engineering + IA : Comment ça fonctionne VRAIMENT ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=lFliTkzzYLI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Reverse Engineering + IA : Comment ça fonctionne VRAIMENT ?..."
+    },
+    {
+        "id": "Tz4puyTAwRA",
+        "videoId": "Tz4puyTAwRA",
+        "title": "Partage ton écran avec 20 amis, gratuitement (outil open source)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=Tz4puyTAwRA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Partage ton écran avec 20 amis, gratuitement (outil open source)..."
+    },
+    {
+        "id": "Ap6YUM3M-14",
+        "videoId": "Ap6YUM3M-14",
+        "title": "Mes agents IA codent pour moi… dans Minecraft #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=Ap6YUM3M-14",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Mes agents IA codent pour moi… dans Minecraft #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "BtPbb50Luwo",
+        "videoId": "BtPbb50Luwo",
+        "title": "Gradium AI sponsorise le hackathon Jarvis de A à Z #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=BtPbb50Luwo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Gradium AI sponsorise le hackathon Jarvis de A à Z #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "AZc-ot3ldws",
+        "videoId": "AZc-ot3ldws",
+        "title": "Tu ne sais pas coder ? Construis quand même ton Jarvis #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=AZc-ot3ldws",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Tu ne sais pas coder ? Construis quand même ton Jarvis #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "X7_GmUsDdq0",
+        "videoId": "X7_GmUsDdq0",
+        "title": "C'est officiel : Gradium AI sponsorise mon hackathon Jarvis #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=X7_GmUsDdq0",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : C'est officiel : Gradium AI sponsorise mon hackathon Jarvis #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "18UkO_boDrE",
+        "videoId": "18UkO_boDrE",
+        "title": "Tu connais Jarvis ? On va le construire pour de vrai #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-10-17",
+        "url": "https://www.youtube.com/watch?v=18UkO_boDrE",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Tu connais Jarvis ? On va le construire pour de vrai #Shorts...",
+        "isShort": true
     },
     {
         "id": "7tS6TixLpS4",
@@ -654,28 +769,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : OpenAI prépare l’après-crise IA..."
     },
     {
-        "id": "jyD8w1u8UqI",
-        "videoId": "jyD8w1u8UqI",
-        "title": "Comment préparer son avenir dans un Monde IA ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-13",
-        "url": "https://www.youtube.com/watch?v=jyD8w1u8UqI",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Comment préparer son avenir dans un Monde IA ?..."
-    },
-    {
-        "id": "Io4TTF9cSdk",
-        "videoId": "Io4TTF9cSdk",
-        "title": "Gemini 4 défie Anthropic en code",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-13",
-        "url": "https://www.youtube.com/watch?v=Io4TTF9cSdk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Gemini 4 défie Anthropic en code..."
-    },
-    {
         "id": "iO0aFdk2-Ns",
         "videoId": "iO0aFdk2-Ns",
         "title": "Le bot de trading IA qui décide en 0,3 seconde (avec de l'argent fictif)",
@@ -685,18 +778,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=iO0aFdk2-Ns",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Le bot de trading IA qui décide en 0,3 seconde (avec de l'argent fictif)..."
-    },
-    {
-        "id": "L3JZ5gYERN0",
-        "videoId": "L3JZ5gYERN0",
-        "title": "Clone n'importe quelle app SaaS avec Claude Code #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-10-13",
-        "url": "https://www.youtube.com/watch?v=L3JZ5gYERN0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Clone n'importe quelle app SaaS avec Claude Code #Shorts...",
-        "isShort": true
     },
     {
         "id": "rMUPHuYz0to",
@@ -1260,17 +1341,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Pourquoi les IA gratuites rapportent..."
     },
     {
-        "id": "hUwkupSwDPg",
-        "videoId": "hUwkupSwDPg",
-        "title": "Ton personnage garde le même visage sur toutes tes images IA",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-03",
-        "url": "https://www.youtube.com/watch?v=hUwkupSwDPg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Ton personnage garde le même visage sur toutes tes images IA..."
-    },
-    {
         "id": "9EaDQCMaVFc",
         "videoId": "9EaDQCMaVFc",
         "title": "Transforme ton projet en une courte vidéo avec Claude Code !",
@@ -1302,17 +1372,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=YtvYpgG8pg8",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Comment gagner des millions avec une IA qu’on n’a même pas créée ?..."
-    },
-    {
-        "id": "jfoI8-3e3oA",
-        "videoId": "jfoI8-3e3oA",
-        "title": "5 repos Github pour gagner des mois de construction d’agents IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-01",
-        "url": "https://www.youtube.com/watch?v=jfoI8-3e3oA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 5 repos Github pour gagner des mois de construction d’agents IA !..."
     },
     {
         "id": "HOmMAaQUleA",
@@ -1513,17 +1572,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : GPT-6 vs Claude : Pourquoi les prix s’effondrent..."
     },
     {
-        "id": "Q9HGTqrG2B0",
-        "videoId": "Q9HGTqrG2B0",
-        "title": "JEV wow incroyable !!!",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-28",
-        "url": "https://www.youtube.com/watch?v=Q9HGTqrG2B0",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : JEV wow incroyable !!!..."
-    },
-    {
         "id": "ooX8t1eh9PI",
         "videoId": "ooX8t1eh9PI",
         "title": "J'ai donné 1h à GPT-6 et Opus 5.5 pour recréer GTA 6",
@@ -1579,17 +1627,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : GPT-6 vs Claude : Pourquoi les prix s’effondrent..."
     },
     {
-        "id": "zXxqDz5OMtg",
-        "videoId": "zXxqDz5OMtg",
-        "title": "JEV est incroyable  !!",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-27",
-        "url": "https://www.youtube.com/watch?v=zXxqDz5OMtg",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : JEV est incroyable  !!..."
-    },
-    {
         "id": "gmLUIVzRlpk",
         "videoId": "gmLUIVzRlpk",
         "title": "Comment NVIDIA veut entraîner des IA avec 4 bits",
@@ -1599,17 +1636,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=gmLUIVzRlpk",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Comment NVIDIA veut entraîner des IA avec 4 bits..."
-    },
-    {
-        "id": "E_A5G_elEss",
-        "videoId": "E_A5G_elEss",
-        "title": "JEV cette nouvelle IA dont tout le monde parle !",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-26",
-        "url": "https://www.youtube.com/watch?v=E_A5G_elEss",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : JEV cette nouvelle IA dont tout le monde parle !..."
     },
     {
         "id": "i4EuaujaanY",
@@ -1632,17 +1658,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZoEemjtsVvw",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : NVIDIA vient de changer la façon d’entraîner les IA..."
-    },
-    {
-        "id": "djX9hIpiQZc",
-        "videoId": "djX9hIpiQZc",
-        "title": "NOUVELLE Méthode IA pour être partout sur les réseaux SANS EFFORT ! (tuto débutant)",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-09-25",
-        "url": "https://www.youtube.com/watch?v=djX9hIpiQZc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Thomas Berton : NOUVELLE Méthode IA pour être partout sur les réseaux SANS EFFORT ! (tuto débutant)..."
     },
     {
         "id": "Pw5HCUbE5oE",
@@ -1709,17 +1724,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=tCHQnoSj5hM",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Cédric Girard : Vibecoding : J'ai codé et déployé un projet SEO de A à Z avec l'IA..."
-    },
-    {
-        "id": "gn7yp9KwmP8",
-        "videoId": "gn7yp9KwmP8",
-        "title": "Jev : Le modèle 200x fois plus rapide qu’un LLM",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-21",
-        "url": "https://www.youtube.com/watch?v=gn7yp9KwmP8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Jev : Le modèle 200x fois plus rapide qu’un LLM..."
     },
     {
         "id": "IanuaQIt-p8",
