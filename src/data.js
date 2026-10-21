@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-20T10:51:34.557Z
+// Fichier généré automatiquement le 2026-10-21T11:03:51.833Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:51:34 AM 10/20/2026";
+export const lastUpdate = "11:03:51 AM 10/21/2026";
 
 export const sources = [
     {
@@ -172,6 +172,72 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "IbQ7zyTkBpo",
+        "videoId": "IbQ7zyTkBpo",
+        "title": "ChatGPT clique et parle pour vous",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=IbQ7zyTkBpo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : ChatGPT clique et parle pour vous..."
+    },
+    {
+        "id": "_k-Ec6_g-TE",
+        "videoId": "_k-Ec6_g-TE",
+        "title": "Médias et IA, les coulisses de France Télévision, en Live",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=_k-Ec6_g-TE",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Médias et IA, les coulisses de France Télévision, en Live..."
+    },
+    {
+        "id": "McO-M_OVY_w",
+        "videoId": "McO-M_OVY_w",
+        "title": "MiniMax M3.1 Flash : l'IA gratuite jusqu'à jeudi 14 h",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=McO-M_OVY_w",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : MiniMax M3.1 Flash : l'IA gratuite jusqu'à jeudi 14 h..."
+    },
+    {
+        "id": "SDC6s_rUOBA",
+        "videoId": "SDC6s_rUOBA",
+        "title": "MiniMax M3.1 Flash : la nouvelle IA GRATUITE  (TEST)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=SDC6s_rUOBA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : MiniMax M3.1 Flash : la nouvelle IA GRATUITE  (TEST)..."
+    },
+    {
+        "id": "AdFqsdxUdTk",
+        "videoId": "AdFqsdxUdTk",
+        "title": "Comment monter des vidéos virales avec Claude + Higgsfield Katana ?",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-21",
+        "url": "https://www.youtube.com/watch?v=AdFqsdxUdTk",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Comment monter des vidéos virales avec Claude + Higgsfield Katana ?..."
+    },
+    {
+        "id": "oKiJE7QVUbs",
+        "videoId": "oKiJE7QVUbs",
+        "title": "ChatGPT sait maintenant monter tes vidéos à ta place !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-20",
+        "url": "https://www.youtube.com/watch?v=oKiJE7QVUbs",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : ChatGPT sait maintenant monter tes vidéos à ta place !..."
+    },
+    {
         "id": "8Dy-lMg7lbs",
         "videoId": "8Dy-lMg7lbs",
         "title": "Tesla : le salto impossible",
@@ -181,6 +247,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8Dy-lMg7lbs",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Tesla : le salto impossible..."
+    },
+    {
+        "id": "k9UIZ873NhY",
+        "videoId": "k9UIZ873NhY",
+        "title": "Higgsfield MCP + Claude Code : Construire un workflow vidéo agentique",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-10-20",
+        "url": "https://www.youtube.com/watch?v=k9UIZ873NhY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Higgsfield MCP + Claude Code : Construire un workflow vidéo agentique..."
+    },
+    {
+        "id": "1n7i-VIxUb4",
+        "videoId": "1n7i-VIxUb4",
+        "title": "Transforme ton téléphone en ordinateur (appli open source gratuite)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-20",
+        "url": "https://www.youtube.com/watch?v=1n7i-VIxUb4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Transforme ton téléphone en ordinateur (appli open source gratuite)..."
     },
     {
         "id": "rbV689ZZWp8",
@@ -711,17 +799,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Un monde sans Google est-il possible ? Le patron de l'IGN répond..."
     },
     {
-        "id": "EEbeX4SJktk",
-        "videoId": "EEbeX4SJktk",
-        "title": "Microsoft traite l’IA en suspect",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-15",
-        "url": "https://www.youtube.com/watch?v=EEbeX4SJktk",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Microsoft traite l’IA en suspect..."
-    },
-    {
         "id": "VMcSrKbDj-A",
         "videoId": "VMcSrKbDj-A",
         "title": "OpenAI vient de franchir une limite inquiétante",
@@ -811,17 +888,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Fzg-cdQlgEg",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Les 15 erreurs à ne pas faire sur Claude !..."
-    },
-    {
-        "id": "8R-XXLoyq-c",
-        "videoId": "8R-XXLoyq-c",
-        "title": "Meta Wonder : l’IA qui bosse",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-14",
-        "url": "https://www.youtube.com/watch?v=8R-XXLoyq-c",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Meta Wonder : l’IA qui bosse..."
     },
     {
         "id": "ZAdil8_JiuI",
@@ -1165,17 +1231,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : 5 repos GitHub qui ont explosé cette semaine !..."
     },
     {
-        "id": "XNselqVB1Xk",
-        "videoId": "XNselqVB1Xk",
-        "title": "38 façons différente de trouver une bonne idée de startup à lancer avec de l’IA",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-07",
-        "url": "https://www.youtube.com/watch?v=XNselqVB1Xk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 38 façons différente de trouver une bonne idée de startup à lancer avec de l’IA..."
-    },
-    {
         "id": "qcu0auBQB7A",
         "videoId": "qcu0auBQB7A",
         "title": "Créer un site web magnifique avec l'IA !",
@@ -1207,28 +1262,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BqpXAwy2yPY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : DeepSeek et Xiaomi viennent de débloquer les IA locales..."
-    },
-    {
-        "id": "ucz1H8DXD-A",
-        "videoId": "ucz1H8DXD-A",
-        "title": "Crée des histoires pour enfants avec l'IA et publie-les sur Amazon",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-07",
-        "url": "https://www.youtube.com/watch?v=ucz1H8DXD-A",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Crée des histoires pour enfants avec l'IA et publie-les sur Amazon..."
-    },
-    {
-        "id": "oI8DmbJOufY",
-        "videoId": "oI8DmbJOufY",
-        "title": "J'ai créé une IA qui répond au téléphone à ma place (gratuit)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-07",
-        "url": "https://www.youtube.com/watch?v=oI8DmbJOufY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : J'ai créé une IA qui répond au téléphone à ma place (gratuit)..."
     },
     {
         "id": "xvy40dHyAmw",
@@ -1273,17 +1306,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mfdtW0gh5og",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Gemini 4 Argon : Le million trompeur..."
-    },
-    {
-        "id": "sP3TnhIN33o",
-        "videoId": "sP3TnhIN33o",
-        "title": "Ton site surveillé 24h/24 : l'outil open source qui t'alerte sur Telegram",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-06",
-        "url": "https://www.youtube.com/watch?v=sP3TnhIN33o",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Ton site surveillé 24h/24 : l'outil open source qui t'alerte sur Telegram..."
     },
     {
         "id": "8KJuLL7CHFk",
@@ -1702,17 +1724,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=EDgcEcWTYCg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : J'ai testé JEV : la hype est-elle méritée ?..."
-    },
-    {
-        "id": "h7NcYck_X5E",
-        "videoId": "h7NcYck_X5E",
-        "title": "GPT-6 vs Claude : Pourquoi les prix s’effondrent",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-09-27",
-        "url": "https://www.youtube.com/watch?v=h7NcYck_X5E",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : GPT-6 vs Claude : Pourquoi les prix s’effondrent..."
     },
     {
         "id": "i4EuaujaanY",
