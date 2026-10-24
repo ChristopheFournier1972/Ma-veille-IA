@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-23T10:56:14.895Z
+// Fichier généré automatiquement le 2026-10-24T10:11:24.891Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:56:14 AM 10/23/2026";
+export const lastUpdate = "10:11:24 AM 10/24/2026";
 
 export const sources = [
     {
@@ -172,26 +172,92 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "_I9WLmXbpPw",
+        "videoId": "_I9WLmXbpPw",
+        "title": "PHP piraté sans mot de passe",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-24",
+        "url": "https://www.youtube.com/watch?v=_I9WLmXbpPw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : PHP piraté sans mot de passe..."
+    },
+    {
+        "id": "mdr4n4cccGQ",
+        "videoId": "mdr4n4cccGQ",
+        "title": "Que valent les modèles de Meta ? #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-24",
+        "url": "https://www.youtube.com/watch?v=mdr4n4cccGQ",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Que valent les modèles de Meta ? #actu..."
+    },
+    {
+        "id": "-z3e2SqCwn0",
+        "videoId": "-z3e2SqCwn0",
+        "title": "Si tu as un abonnement Claude, tu ne devrais pas utiliser Claude...",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-23",
+        "url": "https://www.youtube.com/watch?v=-z3e2SqCwn0",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Si tu as un abonnement Claude, tu ne devrais pas utiliser Claude......"
+    },
+    {
+        "id": "p703QOzgriY",
+        "videoId": "p703QOzgriY",
+        "title": "Trouve des clients avec cet agent Claude Code !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-23",
+        "url": "https://www.youtube.com/watch?v=p703QOzgriY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Trouve des clients avec cet agent Claude Code !..."
+    },
+    {
+        "id": "L-CANpawzzo",
+        "videoId": "L-CANpawzzo",
+        "title": "Claude Duet peut payer pour vous",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-23",
+        "url": "https://www.youtube.com/watch?v=L-CANpawzzo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude Duet peut payer pour vous..."
+    },
+    {
+        "id": "lYALXzy9rSg",
+        "videoId": "lYALXzy9rSg",
+        "title": "Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ?",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-23",
+        "url": "https://www.youtube.com/watch?v=lYALXzy9rSg",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ?..."
+    },
+    {
         "id": "m-mOjLMMakI",
         "videoId": "m-mOjLMMakI",
-        "title": "Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine folle !",
+        "title": "[2/2] Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine ouf",
         "author": "Renaud Dékode",
         "source": "@RenaudDekode",
         "date": "2026-10-23",
         "url": "https://www.youtube.com/watch?v=m-mOjLMMakI",
         "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine folle !..."
+        "summary": "Nouveauté de Renaud Dékode : [2/2] Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine ouf..."
     },
     {
         "id": "PmARVw8BxK0",
         "videoId": "PmARVw8BxK0",
-        "title": "Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine folle !",
+        "title": "[1/2] Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine ouf",
         "author": "Renaud Dékode",
         "source": "@RenaudDekode",
         "date": "2026-10-23",
         "url": "https://www.youtube.com/watch?v=PmARVw8BxK0",
         "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine folle !..."
+        "summary": "Nouveauté de Renaud Dékode : [1/2] Claude Duet, panique PHP, Voxtral, Deepseek, Robots : on vit dans Black Mirror ? + Semaine ouf..."
     },
     {
         "id": "0oUZQJrlBQM",
@@ -214,6 +280,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=j7trK8Mk44U",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : L’IA a une nouvelle façon d’écrire #actu..."
+    },
+    {
+        "id": "EsKLX4pITWs",
+        "videoId": "EsKLX4pITWs",
+        "title": "REA + Claude Code : la méthode pour recréer N'IMPORTE quoi (TUTO)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-23",
+        "url": "https://www.youtube.com/watch?v=EsKLX4pITWs",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : REA + Claude Code : la méthode pour recréer N'IMPORTE quoi (TUTO)..."
     },
     {
         "id": "_k-Ec6_g-TE",
@@ -648,17 +725,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Claude apprend en vous regardant : formez le en 2 minutes !..."
     },
     {
-        "id": "BSs-c5p4R8I",
-        "videoId": "BSs-c5p4R8I",
-        "title": "Pourquoi Nvidia parie sur Doctolib",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-17",
-        "url": "https://www.youtube.com/watch?v=BSs-c5p4R8I",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Pourquoi Nvidia parie sur Doctolib..."
-    },
-    {
         "id": "lFliTkzzYLI",
         "videoId": "lFliTkzzYLI",
         "title": "Reverse Engineering + IA : Comment ça fonctionne VRAIMENT ?",
@@ -772,28 +838,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=nHltw9WtwAQ",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Utiliser ChatGPT comme les PRO en 30 minutes !..."
-    },
-    {
-        "id": "LUBcP0rqz5k",
-        "videoId": "LUBcP0rqz5k",
-        "title": "Starlink a-t-il désarmé Kiev ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-16",
-        "url": "https://www.youtube.com/watch?v=LUBcP0rqz5k",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Starlink a-t-il désarmé Kiev ?..."
-    },
-    {
-        "id": "CLT3PHTzGQU",
-        "videoId": "CLT3PHTzGQU",
-        "title": "Starlink, IA de guerre, Nvidia en France, chatbot et robots : la totale",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-16",
-        "url": "https://www.youtube.com/watch?v=CLT3PHTzGQU",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Starlink, IA de guerre, Nvidia en France, chatbot et robots : la totale..."
     },
     {
         "id": "_OYcg-XNhYU",
@@ -1242,17 +1286,6 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Les consultants IA qui vivent de leur activité ne cesse d'augmenter !..."
     },
     {
-        "id": "DHwPct6TrPA",
-        "videoId": "DHwPct6TrPA",
-        "title": "6 documents à avoir avant de Vibecoder une application !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-09",
-        "url": "https://www.youtube.com/watch?v=DHwPct6TrPA",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 6 documents à avoir avant de Vibecoder une application !..."
-    },
-    {
         "id": "v-WDlosJpGs",
         "videoId": "v-WDlosJpGs",
         "title": "Deepseek et Xiaomi débloquent les IA locales",
@@ -1262,17 +1295,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=v-WDlosJpGs",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Deepseek et Xiaomi débloquent les IA locales..."
-    },
-    {
-        "id": "YpK_S3PAg-M",
-        "videoId": "YpK_S3PAg-M",
-        "title": "Génère tes images en local et gratuitement avec cette IA open source",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-09",
-        "url": "https://www.youtube.com/watch?v=YpK_S3PAg-M",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Génère tes images en local et gratuitement avec cette IA open source..."
     },
     {
         "id": "AOqprnXy5FM",
@@ -1295,17 +1317,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BmS13TkNH5U",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Simon Music : Les Géants de l'IA avouent qu'ils ne contrôlent plus RIEN (et c'est une bonne nouvelle)..."
-    },
-    {
-        "id": "kyU31elL7wk",
-        "videoId": "kyU31elL7wk",
-        "title": "Le Skill Claude le plus puissant !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-07",
-        "url": "https://www.youtube.com/watch?v=kyU31elL7wk",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Le Skill Claude le plus puissant !..."
     },
     {
         "id": "qcu0auBQB7A",
@@ -1669,17 +1680,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8Nr1MckK9g8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Jev + Claude : le combo le plus puissant du moment..."
-    },
-    {
-        "id": "phFXHDuFNfQ",
-        "videoId": "phFXHDuFNfQ",
-        "title": "Claude Cowork fusionne #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-29",
-        "url": "https://www.youtube.com/watch?v=phFXHDuFNfQ",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Claude Cowork fusionne #actu..."
     },
     {
         "id": "qodttLA1WXs",
