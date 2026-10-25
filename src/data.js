@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-24T10:11:24.891Z
+// Fichier généré automatiquement le 2026-10-25T10:36:38.915Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "10:11:24 AM 10/24/2026";
+export const lastUpdate = "10:36:38 AM 10/25/2026";
 
 export const sources = [
     {
@@ -172,6 +172,17 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "fuQbPO7bNPo",
+        "videoId": "fuQbPO7bNPo",
+        "title": "Voxtral 3 : l’IA vocale à 4 cts",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-10-24",
+        "url": "https://www.youtube.com/watch?v=fuQbPO7bNPo",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Voxtral 3 : l’IA vocale à 4 cts..."
+    },
+    {
         "id": "_I9WLmXbpPw",
         "videoId": "_I9WLmXbpPw",
         "title": "PHP piraté sans mot de passe",
@@ -192,6 +203,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=mdr4n4cccGQ",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Que valent les modèles de Meta ? #actu..."
+    },
+    {
+        "id": "4TPf1hdfhm4",
+        "videoId": "4TPf1hdfhm4",
+        "title": "Émuler tes consoles de jeu vidéo sur ton PC : PS2, PS3, Xbox 360, Wii, Switch",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-24",
+        "url": "https://www.youtube.com/watch?v=4TPf1hdfhm4",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Émuler tes consoles de jeu vidéo sur ton PC : PS2, PS3, Xbox 360, Wii, Switch..."
+    },
+    {
+        "id": "cQY1f_6_nsc",
+        "videoId": "cQY1f_6_nsc",
+        "title": "Copie n’importe quel montage ou vidéo montée grâce à Higgsfield + Claude",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-24",
+        "url": "https://www.youtube.com/watch?v=cQY1f_6_nsc",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Copie n’importe quel montage ou vidéo montée grâce à Higgsfield + Claude..."
     },
     {
         "id": "-z3e2SqCwn0",
@@ -712,17 +745,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=SvHb66dn5iE",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Character.AI coulé par ses serveurs..."
-    },
-    {
-        "id": "KVP7bboPIio",
-        "videoId": "KVP7bboPIio",
-        "title": "Claude apprend en vous regardant : formez le en 2 minutes !",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-10-17",
-        "url": "https://www.youtube.com/watch?v=KVP7bboPIio",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Claude apprend en vous regardant : formez le en 2 minutes !..."
     },
     {
         "id": "lFliTkzzYLI",
@@ -1262,17 +1284,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=V-vbQ-AJr44",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Le plus gros mensonge sur l'Intelligence Artificielle...."
-    },
-    {
-        "id": "CepHP9liJgs",
-        "videoId": "CepHP9liJgs",
-        "title": "25 jeux à lancer dans ton navigateur : Call of Duty, GTA 5, Les Simpsons",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-10",
-        "url": "https://www.youtube.com/watch?v=CepHP9liJgs",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : 25 jeux à lancer dans ton navigateur : Call of Duty, GTA 5, Les Simpsons..."
     },
     {
         "id": "G54UugYiucw",
@@ -1988,27 +1999,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=QCffQAhaPSE",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Comment l'IA est devenue plus chère que ceux qu'elle remplace..."
-    },
-    {
-        "id": "tm_QZ7iIGeg",
-        "videoId": "tm_QZ7iIGeg",
-        "title": "Comment Automatiser ses Montages Vidéo avec Claude (Guide Complet)",
-        "author": "Lucas Reverdy",
-        "source": "@reverdybusiness",
-        "date": "2026-08-25",
-        "url": "https://www.youtube.com/watch?v=tm_QZ7iIGeg",
-        "category": "Business & Monétisation IA",
-        "summary": "Nouveauté de Lucas Reverdy : Comment Automatiser ses Montages Vidéo avec Claude (Guide Complet)..."
-    },
-    {
-        "id": "GWf9yeqxwjk",
-        "videoId": "GWf9yeqxwjk",
-        "title": "J'ai créé 30 posts VIRAUX et 1 BUSINESS en 1H (Claude + Higgsfield) !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-08-25",
-        "url": "https://www.youtube.com/watch?v=GWf9yeqxwjk",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : J'ai créé 30 posts VIRAUX et 1 BUSINESS en 1H (Claude + Higgsfield) !..."
     }
 ];
