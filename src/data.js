@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-10-26T12:09:36.619Z
+// Fichier généré automatiquement le 2026-10-27T11:31:07.331Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "12:09:36 PM 10/26/2026";
+export const lastUpdate = "11:31:07 AM 10/27/2026";
 
 export const sources = [
     {
@@ -172,6 +172,28 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "uITkobzLcW8",
+        "videoId": "uITkobzLcW8",
+        "title": "La plus grand bibliothèque de prompt au monde !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-26",
+        "url": "https://www.youtube.com/watch?v=uITkobzLcW8",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : La plus grand bibliothèque de prompt au monde !..."
+    },
+    {
+        "id": "hI4yePa1QLo",
+        "videoId": "hI4yePa1QLo",
+        "title": "Cette astuce GitHub est incroyable !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-10-26",
+        "url": "https://www.youtube.com/watch?v=hI4yePa1QLo",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Cette astuce GitHub est incroyable !..."
+    },
+    {
         "id": "yuk_v37Z8_4",
         "videoId": "yuk_v37Z8_4",
         "title": "Règle ta vie en 4 prompts avec Claude !",
@@ -194,6 +216,17 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : DeepSeek pas cher, banni à Washington..."
     },
     {
+        "id": "QGoA6SQZ-p8",
+        "videoId": "QGoA6SQZ-p8",
+        "title": "NCM : une nouvelle façon d’écrire #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-10-26",
+        "url": "https://www.youtube.com/watch?v=QGoA6SQZ-p8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : NCM : une nouvelle façon d’écrire #actu..."
+    },
+    {
         "id": "vmxPb-I0rxE",
         "videoId": "vmxPb-I0rxE",
         "title": "Les data centers annulés aux US #actu",
@@ -203,6 +236,50 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=vmxPb-I0rxE",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Les data centers annulés aux US #actu..."
+    },
+    {
+        "id": "gYplU7zdt94",
+        "videoId": "gYplU7zdt94",
+        "title": "N'importe quel site devient une app sur ton bureau (gratuit, open source)",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-10-26",
+        "url": "https://www.youtube.com/watch?v=gYplU7zdt94",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : N'importe quel site devient une app sur ton bureau (gratuit, open source)..."
+    },
+    {
+        "id": "CUaoommIlGw",
+        "videoId": "CUaoommIlGw",
+        "title": "Un géophysicien licencié a trouvé un job grâce à Claude Code",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-26",
+        "url": "https://www.youtube.com/watch?v=CUaoommIlGw",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Un géophysicien licencié a trouvé un job grâce à Claude Code..."
+    },
+    {
+        "id": "Y2Pt0Rqr77Q",
+        "videoId": "Y2Pt0Rqr77Q",
+        "title": "Le NOUVEAU système Claude qui trouve un job à ta place (Tuto Complet)",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-10-26",
+        "url": "https://www.youtube.com/watch?v=Y2Pt0Rqr77Q",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Le NOUVEAU système Claude qui trouve un job à ta place (Tuto Complet)..."
+    },
+    {
+        "id": "N0hmPzVKwrk",
+        "videoId": "N0hmPzVKwrk",
+        "title": "Créer du contenu n’est pas le problème. C’est tout le reste.",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-10-26",
+        "url": "https://www.youtube.com/watch?v=N0hmPzVKwrk",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Créer du contenu n’est pas le problème. C’est tout le reste...."
     },
     {
         "id": "qBCWE6EWTTk",
@@ -1220,39 +1297,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Le bot de trading IA qui décide en 0,3 seconde (avec de l'argent fictif)..."
     },
     {
-        "id": "rMUPHuYz0to",
-        "videoId": "rMUPHuYz0to",
-        "title": "GPT-6 Astra vs Opus 5.5 : même prompt, 5 scénarios",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-12",
-        "url": "https://www.youtube.com/watch?v=rMUPHuYz0to",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : GPT-6 Astra vs Opus 5.5 : même prompt, 5 scénarios..."
-    },
-    {
-        "id": "gpIsXdzIq8M",
-        "videoId": "gpIsXdzIq8M",
-        "title": "Plus une conversation avec Claude ou ChatGPT s'allonge, plus il devient lent !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-12",
-        "url": "https://www.youtube.com/watch?v=gpIsXdzIq8M",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Plus une conversation avec Claude ou ChatGPT s'allonge, plus il devient lent !..."
-    },
-    {
-        "id": "gtUP8N2yUi4",
-        "videoId": "gtUP8N2yUi4",
-        "title": "Un modèle vidéo IA gratuit qui tourne sur ton PC (MiniMax H3)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-12",
-        "url": "https://www.youtube.com/watch?v=gtUP8N2yUi4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Un modèle vidéo IA gratuit qui tourne sur ton PC (MiniMax H3)..."
-    },
-    {
         "id": "louRH8iFt5g",
         "videoId": "louRH8iFt5g",
         "title": "Une journée de travail avec Microsoft Copilot (tuto complet 2026)",
@@ -1680,17 +1724,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=zCB33XrHxqE",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Le papier qui va révolutionner l'IA (actu IA)..."
-    },
-    {
-        "id": "iiD6J_52JaI",
-        "videoId": "iiD6J_52JaI",
-        "title": "Odyssey-3 apprend à conduire #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=iiD6J_52JaI",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Odyssey-3 apprend à conduire #actu..."
     },
     {
         "id": "78rB0-oNvX0",
