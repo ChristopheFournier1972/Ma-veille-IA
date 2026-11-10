@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-09T15:00:01.522Z
+// Fichier généré automatiquement le 2026-11-10T14:12:50.228Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "3:00:01 PM 11/9/2026";
+export const lastUpdate = "2:12:50 PM 11/10/2026";
 
 export const sources = [
     {
@@ -172,6 +172,84 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "T7lw-HJN6UY",
+        "videoId": "T7lw-HJN6UY",
+        "title": "Claude peut tester ton trade !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=T7lw-HJN6UY",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut tester ton trade !..."
+    },
+    {
+        "id": "4SjJxRk2QrQ",
+        "videoId": "4SjJxRk2QrQ",
+        "title": "La Chine vient de tuer PowerPoint !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=4SjJxRk2QrQ",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : La Chine vient de tuer PowerPoint !..."
+    },
+    {
+        "id": "oh3BRjAPIfw",
+        "videoId": "oh3BRjAPIfw",
+        "title": "Gemini retouche vos vidéos pour 1$",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=oh3BRjAPIfw",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Gemini retouche vos vidéos pour 1$..."
+    },
+    {
+        "id": "vGsZvs2J7jI",
+        "videoId": "vGsZvs2J7jI",
+        "title": "Les agents autonomes DeepSeek #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=vGsZvs2J7jI",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Les agents autonomes DeepSeek #actu..."
+    },
+    {
+        "id": "PKrLYWnqhqI",
+        "videoId": "PKrLYWnqhqI",
+        "title": "LFM3 dépasse Qwen 3.5-9B avec 6x moins de paramètres",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=PKrLYWnqhqI",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : LFM3 dépasse Qwen 3.5-9B avec 6x moins de paramètres..."
+    },
+    {
+        "id": "ueFUrlgKyOk",
+        "videoId": "ueFUrlgKyOk",
+        "title": "Claude Fable 5.2 : Anthropic vient de lâcher un monstre #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=ueFUrlgKyOk",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Fable 5.2 : Anthropic vient de lâcher un monstre #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "H3Q-S3IMbII",
+        "videoId": "H3Q-S3IMbII",
+        "title": "J'ai créé un FAUX produit avec l'IA #arnaque #ia #intelligenceartificielle",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-10",
+        "url": "https://www.youtube.com/watch?v=H3Q-S3IMbII",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : J'ai créé un FAUX produit avec l'IA #arnaque #ia #intelligenceartificielle..."
+    },
+    {
         "id": "BkJcDka6x48",
         "videoId": "BkJcDka6x48",
         "title": "15 pièges à éviter pour maîtriser Claude !",
@@ -181,6 +259,28 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BkJcDka6x48",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : 15 pièges à éviter pour maîtriser Claude !..."
+    },
+    {
+        "id": "AajyjsUPQpM",
+        "videoId": "AajyjsUPQpM",
+        "title": "GPT-6 Cyber casse Linux à 1300$",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-09",
+        "url": "https://www.youtube.com/watch?v=AajyjsUPQpM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-6 Cyber casse Linux à 1300$..."
+    },
+    {
+        "id": "BrypNsD3Axs",
+        "videoId": "BrypNsD3Axs",
+        "title": "GPT-6 Cyber attaque, nouvelle IA vidéo, agent autonome et robots",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-09",
+        "url": "https://www.youtube.com/watch?v=BrypNsD3Axs",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : GPT-6 Cyber attaque, nouvelle IA vidéo, agent autonome et robots..."
     },
     {
         "id": "DvSVEIEoI7g",
@@ -227,6 +327,29 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Deepseek lance un concurrent de Claude code..."
     },
     {
+        "id": "gHldROpHw1A",
+        "videoId": "gHldROpHw1A",
+        "title": "Zelda Ocarina of Time sur ton PC avec cet émulateur",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-09",
+        "url": "https://www.youtube.com/watch?v=gHldROpHw1A",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Zelda Ocarina of Time sur ton PC avec cet émulateur..."
+    },
+    {
+        "id": "q_3oZfQqPPg",
+        "videoId": "q_3oZfQqPPg",
+        "title": "Clone n'importe quelle app avec Claude : le skill Replica #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-09",
+        "url": "https://www.youtube.com/watch?v=q_3oZfQqPPg",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Clone n'importe quelle app avec Claude : le skill Replica #Shorts...",
+        "isShort": true
+    },
+    {
         "id": "mVqkmRNWHfM",
         "videoId": "mVqkmRNWHfM",
         "title": "ChatGPT lance un Business SEUL en 21 minutes #Business #IA #intelligenceartificielle",
@@ -238,6 +361,17 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : ChatGPT lance un Business SEUL en 21 minutes #Business #IA #intelligenceartificielle..."
     },
     {
+        "id": "GaYppkDHRMQ",
+        "videoId": "GaYppkDHRMQ",
+        "title": "Claude Code au quotidien et pour tout le monde : 10 cas d’utilisation",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-09",
+        "url": "https://www.youtube.com/watch?v=GaYppkDHRMQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Claude Code au quotidien et pour tout le monde : 10 cas d’utilisation..."
+    },
+    {
         "id": "4NVT6HGX3Mk",
         "videoId": "4NVT6HGX3Mk",
         "title": "Connecte cet Outil à Claude et débloque l'accès à +4000 Outils",
@@ -247,6 +381,17 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=4NVT6HGX3Mk",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Baptiste Simard - IA : Connecte cet Outil à Claude et débloque l'accès à +4000 Outils..."
+    },
+    {
+        "id": "R4oAY_eFlKg",
+        "videoId": "R4oAY_eFlKg",
+        "title": "Les 5 nouvelles règles du contenu à l'ère de l'IA",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-11-09",
+        "url": "https://www.youtube.com/watch?v=R4oAY_eFlKg",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Les 5 nouvelles règles du contenu à l'ère de l'IA..."
     },
     {
         "id": "LuzG6Iv-TBo",
@@ -725,39 +870,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=Gg4ZhDoIM6U",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Claude construit déjà Claude..."
-    },
-    {
-        "id": "E_Q4WkL3Ww8",
-        "videoId": "E_Q4WkL3Ww8",
-        "title": "Si l'IA devient récursive, c'est la fin du game ?!",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-04",
-        "url": "https://www.youtube.com/watch?v=E_Q4WkL3Ww8",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Si l'IA devient récursive, c'est la fin du game ?!..."
-    },
-    {
-        "id": "uRzYM-gXsy4",
-        "videoId": "uRzYM-gXsy4",
-        "title": "Si l'IA devient récursive, c'est la fin du game ?! + L'IA nous rend idiot ou pas ?",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-04",
-        "url": "https://www.youtube.com/watch?v=uRzYM-gXsy4",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Si l'IA devient récursive, c'est la fin du game ?! + L'IA nous rend idiot ou pas ?..."
-    },
-    {
-        "id": "mr64z7qkdFw",
-        "videoId": "mr64z7qkdFw",
-        "title": "IA injecte le cerveau d’une souris",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-04",
-        "url": "https://www.youtube.com/watch?v=mr64z7qkdFw",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : IA injecte le cerveau d’une souris..."
     },
     {
         "id": "WMN1Ugsb15E",
@@ -1257,17 +1369,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Les mods de Claude Code : 4 plugins gratuits à installer..."
     },
     {
-        "id": "vgAtVUb2_6U",
-        "videoId": "vgAtVUb2_6U",
-        "title": "Voice Studio c’est gratuit et ça concurrence ElevenLabs",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-10-29",
-        "url": "https://www.youtube.com/watch?v=vgAtVUb2_6U",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Voice Studio c’est gratuit et ça concurrence ElevenLabs..."
-    },
-    {
         "id": "ybD-stQoHNw",
         "videoId": "ybD-stQoHNw",
         "title": "Kling 4.0 écrase toutes les autres IA vidéo ?",
@@ -1356,17 +1457,6 @@ export const allVideos = [
         "summary": "Nouveauté de Ludo Salenne : Comment gagner de l'argent avec l'IA ? La meilleure méthode !..."
     },
     {
-        "id": "kRQkRgRN1-c",
-        "videoId": "kRQkRgRN1-c",
-        "title": "Voici comment construire un cerveau de marque dans Claude !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-27",
-        "url": "https://www.youtube.com/watch?v=kRQkRgRN1-c",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Voici comment construire un cerveau de marque dans Claude !..."
-    },
-    {
         "id": "66Kmt2upTbs",
         "videoId": "66Kmt2upTbs",
         "title": "5 632 exercices animés pour ton appli de muscu (open source)",
@@ -1376,17 +1466,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=66Kmt2upTbs",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : 5 632 exercices animés pour ton appli de muscu (open source)..."
-    },
-    {
-        "id": "uITkobzLcW8",
-        "videoId": "uITkobzLcW8",
-        "title": "La plus grand bibliothèque de prompt au monde !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-10-26",
-        "url": "https://www.youtube.com/watch?v=uITkobzLcW8",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La plus grand bibliothèque de prompt au monde !..."
     },
     {
         "id": "QGoA6SQZ-p8",
@@ -1455,17 +1534,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : Tout le monde parle des agents IA, personne ne comprend à quoi ils servent..."
     },
     {
-        "id": "Zmjtv_RL1r8",
-        "videoId": "Zmjtv_RL1r8",
-        "title": "Transforme n'importe quel site en API pour ton IA (open source)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-10-25",
-        "url": "https://www.youtube.com/watch?v=Zmjtv_RL1r8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Transforme n'importe quel site en API pour ton IA (open source)..."
-    },
-    {
         "id": "c-ggN7Z5-vw",
         "videoId": "c-ggN7Z5-vw",
         "title": "Hermes Agent : Le Guide le plus Complet pour Débutants (No Code) !",
@@ -1530,17 +1598,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=m13J9J-epiA",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Le secret pour booster votre stratégie marketing avec l'IA !..."
-    },
-    {
-        "id": "AkIuxNdInvc",
-        "videoId": "AkIuxNdInvc",
-        "title": "L'IA progresse dans sa façon d'écrire (actu IA)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-10-21",
-        "url": "https://www.youtube.com/watch?v=AkIuxNdInvc",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : L'IA progresse dans sa façon d'écrire (actu IA)..."
     },
     {
         "id": "kfAZy9aYvZ4",
@@ -1655,17 +1712,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : Personne ne se rend compte de ce que les dirigeants IA préparent..."
     },
     {
-        "id": "sFdfkWjP_hE",
-        "videoId": "sFdfkWjP_hE",
-        "title": "Ce Mini-PC fait tourner mes agents IA 24h/24 (Geekom A5 2027)",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-18",
-        "url": "https://www.youtube.com/watch?v=sFdfkWjP_hE",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Ce Mini-PC fait tourner mes agents IA 24h/24 (Geekom A5 2027)..."
-    },
-    {
         "id": "tMZvyOYDGWU",
         "videoId": "tMZvyOYDGWU",
         "title": "Copie n'importe quel site web au pixel près en 5 minutes #Shorts",
@@ -1699,30 +1745,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=BtPbb50Luwo",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Gradium AI sponsorise le hackathon Jarvis de A à Z #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "AZc-ot3ldws",
-        "videoId": "AZc-ot3ldws",
-        "title": "Tu ne sais pas coder ? Construis quand même ton Jarvis #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-10-17",
-        "url": "https://www.youtube.com/watch?v=AZc-ot3ldws",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Tu ne sais pas coder ? Construis quand même ton Jarvis #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "X7_GmUsDdq0",
-        "videoId": "X7_GmUsDdq0",
-        "title": "C'est officiel : Gradium AI sponsorise mon hackathon Jarvis #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-10-17",
-        "url": "https://www.youtube.com/watch?v=X7_GmUsDdq0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : C'est officiel : Gradium AI sponsorise mon hackathon Jarvis #Shorts...",
         "isShort": true
     },
     {
@@ -2065,17 +2087,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=VI0FCySkw9A",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Hugo Buisson : Voici comment j'ai rendu Hermes 10X plus puissant (vraiment)..."
-    },
-    {
-        "id": "ooX8t1eh9PI",
-        "videoId": "ooX8t1eh9PI",
-        "title": "J'ai donné 1h à ChatGPT et Claude pour recréer GTA 6",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-09-28",
-        "url": "https://www.youtube.com/watch?v=ooX8t1eh9PI",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : J'ai donné 1h à ChatGPT et Claude pour recréer GTA 6..."
     },
     {
         "id": "Ku6x7imReY4",
