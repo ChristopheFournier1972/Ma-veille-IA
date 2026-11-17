@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-16T14:36:57.334Z
+// Fichier généré automatiquement le 2026-11-17T15:26:12.424Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "2:36:57 PM 11/16/2026";
+export const lastUpdate = "3:26:12 PM 11/17/2026";
 
 export const sources = [
     {
@@ -172,6 +172,73 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "frMRJ2K4dkM",
+        "videoId": "frMRJ2K4dkM",
+        "title": "J’ai testé un taxi sans chauffeur à San Francisco (et j’ai flippé)",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=frMRJ2K4dkM",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : J’ai testé un taxi sans chauffeur à San Francisco (et j’ai flippé)..."
+    },
+    {
+        "id": "vAO6OHKw3IY",
+        "videoId": "vAO6OHKw3IY",
+        "title": "Escapade à SF pour le Microsoft Ignite",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=vAO6OHKw3IY",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Escapade à SF pour le Microsoft Ignite..."
+    },
+    {
+        "id": "3Xy-H0sZFY8",
+        "videoId": "3Xy-H0sZFY8",
+        "title": "Yann Lecun marque un point contre les LLM #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=3Xy-H0sZFY8",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Yann Lecun marque un point contre les LLM #actu..."
+    },
+    {
+        "id": "uGtau7zpuqo",
+        "videoId": "uGtau7zpuqo",
+        "title": "Son autoradio l'espionnait en silence #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=uGtau7zpuqo",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Son autoradio l'espionnait en silence #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "lvqjONjK108",
+        "videoId": "lvqjONjK108",
+        "title": "Le prompt qui a lancé un business en 21 minutes #chatgpt #ia #business",
+        "author": "Ludo Salenne",
+        "source": "@LudovicSalenne",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=lvqjONjK108",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Ludo Salenne : Le prompt qui a lancé un business en 21 minutes #chatgpt #ia #business..."
+    },
+    {
+        "id": "q9jEu-Kf4J0",
+        "videoId": "q9jEu-Kf4J0",
+        "title": "Recycle ton vieil IPad avec Claude Code 😎",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=q9jEu-Kf4J0",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : Recycle ton vieil IPad avec Claude Code 😎..."
+    },
+    {
         "id": "eIbmcfCw-Yk",
         "videoId": "eIbmcfCw-Yk",
         "title": "Gamma 5 est disponible !",
@@ -205,17 +272,6 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Anthropic parie gros sur le gaz..."
     },
     {
-        "id": "vAO6OHKw3IY",
-        "videoId": "vAO6OHKw3IY",
-        "title": "Escapade à SF pour le Microsoft Ignite",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-16",
-        "url": "https://www.youtube.com/watch?v=vAO6OHKw3IY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Escapade à SF pour le Microsoft Ignite..."
-    },
-    {
         "id": "P1ciDsrNWYY",
         "videoId": "P1ciDsrNWYY",
         "title": "J’ai visité une usine d’IA en Chine 🇨🇳",
@@ -236,6 +292,53 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=-4HedF8f1Do",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Les modèles open source en retard ? #actu..."
+    },
+    {
+        "id": "C7_ZzeSTxI4",
+        "videoId": "C7_ZzeSTxI4",
+        "title": "Google DeepMind vient de franchir une nouvelle étape avec l'IA",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-11-16",
+        "url": "https://www.youtube.com/watch?v=C7_ZzeSTxI4",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : Google DeepMind vient de franchir une nouvelle étape avec l'IA..."
+    },
+    {
+        "id": "GjHWb8gZi6E",
+        "videoId": "GjHWb8gZi6E",
+        "title": "Les gagnants de ce concours codent avec Claude Code #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-16",
+        "url": "https://www.youtube.com/watch?v=GjHWb8gZi6E",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Les gagnants de ce concours codent avec Claude Code #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "vh7ROgOoQfg",
+        "videoId": "vh7ROgOoQfg",
+        "title": "Claude a trouvé un virus sur son Mac #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-16",
+        "url": "https://www.youtube.com/watch?v=vh7ROgOoQfg",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude a trouvé un virus sur son Mac #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "R8xFKmCcc5Q",
+        "videoId": "R8xFKmCcc5Q",
+        "title": "À 21 ans, il lit un mot vieux de 2 000 ans #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-16",
+        "url": "https://www.youtube.com/watch?v=R8xFKmCcc5Q",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : À 21 ans, il lit un mot vieux de 2 000 ans #Shorts...",
+        "isShort": true
     },
     {
         "id": "6CIbR3x7_jw",
@@ -272,6 +375,28 @@ export const allVideos = [
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : 1 million $ pour lire un rouleau brûlé par le Vésuve #Shorts...",
         "isShort": true
+    },
+    {
+        "id": "HNbohLFSrrQ",
+        "videoId": "HNbohLFSrrQ",
+        "title": "10 Cas incroyables de Claude Fable 5.2 !",
+        "author": "Baptiste Simard - IA",
+        "source": "@BaptIA",
+        "date": "2026-11-16",
+        "url": "https://www.youtube.com/watch?v=HNbohLFSrrQ",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de Baptiste Simard - IA : 10 Cas incroyables de Claude Fable 5.2 !..."
+    },
+    {
+        "id": "friDEWfA9E4",
+        "videoId": "friDEWfA9E4",
+        "title": "Comment utiliser Ollama (IA locale gratuite)",
+        "author": "Ludovic Nédélec",
+        "source": "@LudovicNedelec",
+        "date": "2026-11-16",
+        "url": "https://www.youtube.com/watch?v=friDEWfA9E4",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Ludovic Nédélec : Comment utiliser Ollama (IA locale gratuite)..."
     },
     {
         "id": "7LjE1oQg5n8",
@@ -645,30 +770,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "P56yLbpuuxE",
-        "videoId": "P56yLbpuuxE",
-        "title": "Tes vieux appareils ont une deuxième vie avec Claude Code #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-13",
-        "url": "https://www.youtube.com/watch?v=P56yLbpuuxE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Tes vieux appareils ont une deuxième vie avec Claude Code #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "Ko8GHPMWSIc",
-        "videoId": "Ko8GHPMWSIc",
-        "title": "Il a peut-être trouvé une planète avec Claude Code #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-13",
-        "url": "https://www.youtube.com/watch?v=Ko8GHPMWSIc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Il a peut-être trouvé une planète avec Claude Code #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "t3jS0Af12a8",
         "videoId": "t3jS0Af12a8",
         "title": "La Chute du Patron de Nvidia (Jensen Huang)",
@@ -748,13 +849,13 @@ export const allVideos = [
     {
         "id": "DG8wUtLntDs",
         "videoId": "DG8wUtLntDs",
-        "title": "J'ai créé +30 équipes d'Agents IA, voici comment créer la tienne !",
+        "title": "Claude : Créer ta première équipe d'Agents IA en 30 min ! (sans coder)",
         "author": "Elliott Pierret",
         "source": "@elliottpierret",
         "date": "2026-11-12",
         "url": "https://www.youtube.com/watch?v=DG8wUtLntDs",
         "category": "Vibe Coding & Dev IA",
-        "summary": "Nouveauté de Elliott Pierret : J'ai créé +30 équipes d'Agents IA, voici comment créer la tienne !..."
+        "summary": "Nouveauté de Elliott Pierret : Claude : Créer ta première équipe d'Agents IA en 30 min ! (sans coder)..."
     },
     {
         "id": "yB_FKYI_ghw",
@@ -823,30 +924,6 @@ export const allVideos = [
         "summary": "Nouveauté de iAlan : Convertis n'importe quel fichier avec une touche (gratuit, 100 % local)..."
     },
     {
-        "id": "uuDRv8R7HQI",
-        "videoId": "uuDRv8R7HQI",
-        "title": "Il a viré les pubs de sa télé avec Claude Code #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-12",
-        "url": "https://www.youtube.com/watch?v=uuDRv8R7HQI",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Il a viré les pubs de sa télé avec Claude Code #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "gfBQd_GdzTE",
-        "videoId": "gfBQd_GdzTE",
-        "title": "31 choses que des gens font vraiment avec Claude #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-12",
-        "url": "https://www.youtube.com/watch?v=gfBQd_GdzTE",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : 31 choses que des gens font vraiment avec Claude #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "-Y9jcGqbYos",
         "videoId": "-Y9jcGqbYos",
         "title": "L'erreur à ne pas faire sur Claude IA ! #claude #claudeia #claudecode",
@@ -911,17 +988,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ZNFT0unnZ1M",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Fable 5.2 surpuissant, Carbon dans l'ombre, Jensen Huang dans le pétrin..."
-    },
-    {
-        "id": "SlEsUih6upY",
-        "videoId": "SlEsUih6upY",
-        "title": "Fable 5.2 surpuissant, Carbon dans l'ombre, Jensen Huang dans le pétrin + Futur de l'Espace",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=SlEsUih6upY",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Fable 5.2 surpuissant, Carbon dans l'ombre, Jensen Huang dans le pétrin + Futur de l'Espace..."
     },
     {
         "id": "TySSyP5xjeg",
@@ -1364,17 +1430,6 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : Ces skills Claude te permettront de piloter entièrement ton profil LinkedIn (+120k impressions)..."
     },
     {
-        "id": "s3IUrOqM280",
-        "videoId": "s3IUrOqM280",
-        "title": "Ne donne surtout pas cet Outil Incroyable à Claude Code ou Codex !!",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-11-07",
-        "url": "https://www.youtube.com/watch?v=s3IUrOqM280",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : Ne donne surtout pas cet Outil Incroyable à Claude Code ou Codex !!..."
-    },
-    {
         "id": "-VuGyFmkTZc",
         "videoId": "-VuGyFmkTZc",
         "title": "Les gens piratent leur télé avec Claude Code !",
@@ -1406,17 +1461,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ANTnVgR_ji4",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : Vendue 37 271 fois… cette rose n'existe pas ! #arnaque #ia #intelligenceartificielle..."
-    },
-    {
-        "id": "vZurdf2DaJY",
-        "videoId": "vZurdf2DaJY",
-        "title": "￼Tu as plus 800 applications open source sur ce repo GitHub !!!",
-        "author": "Baptiste Simard - IA",
-        "source": "@BaptIA",
-        "date": "2026-11-06",
-        "url": "https://www.youtube.com/watch?v=vZurdf2DaJY",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Baptiste Simard - IA : ￼Tu as plus 800 applications open source sur ce repo GitHub !!!..."
     },
     {
         "id": "qnLZRHcphLA",
@@ -1472,17 +1516,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=CDGyYQDbM3E",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Ludo Salenne : ChatGPT fait maintenant des GIF (nouveau Images 2.6) #chatgpt #intelligenceartificielle #outilsia..."
-    },
-    {
-        "id": "lXLq6iqq7sc",
-        "videoId": "lXLq6iqq7sc",
-        "title": "Fermez l'ordi, Claude continue de bosser ! #Claude #ClaudeIA #ClaudeCode",
-        "author": "Ludo Salenne",
-        "source": "@LudovicSalenne",
-        "date": "2026-11-05",
-        "url": "https://www.youtube.com/watch?v=lXLq6iqq7sc",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Ludo Salenne : Fermez l'ordi, Claude continue de bosser ! #Claude #ClaudeIA #ClaudeCode..."
     },
     {
         "id": "Hygvqh8Mw7k",
@@ -1595,17 +1628,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : Pourquoi l’IA vous épuise (au lieu de vous aider)..."
     },
     {
-        "id": "hSg2iXtHU18",
-        "videoId": "hSg2iXtHU18",
-        "title": "Une IA qui lit l’ADN #actu",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-11-02",
-        "url": "https://www.youtube.com/watch?v=hSg2iXtHU18",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Une IA qui lit l’ADN #actu..."
-    },
-    {
         "id": "fzKprPAJFp8",
         "videoId": "fzKprPAJFp8",
         "title": "Ce skill Claude porte tes jeux PS2 sur PC avec 11 agents",
@@ -1692,17 +1714,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=JFYFPIK_veY",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : YouMind : Le Nouveau Concurrent de NotebookLM ?..."
-    },
-    {
-        "id": "kyh2OvW7fQ4",
-        "videoId": "kyh2OvW7fQ4",
-        "title": "Votre IA locale est-elle vraiment sécurisée ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-30",
-        "url": "https://www.youtube.com/watch?v=kyh2OvW7fQ4",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : Votre IA locale est-elle vraiment sécurisée ?..."
     },
     {
         "id": "pOVPZR7fcr4",
@@ -2176,16 +2187,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=IanuaQIt-p8",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Arrêter de Prompter Claude. Utilisez la Méthode de son Créateur..."
-    },
-    {
-        "id": "0EPr0CNCzHo",
-        "videoId": "0EPr0CNCzHo",
-        "title": "J'ai automatisé mon montage vidéo avec GPT-6 Astra (Guide Complet Débutant) !",
-        "author": "Aurélien Fagioli",
-        "source": "@AurelienAutomatisation",
-        "date": "2026-09-17",
-        "url": "https://www.youtube.com/watch?v=0EPr0CNCzHo",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de Aurélien Fagioli : J'ai automatisé mon montage vidéo avec GPT-6 Astra (Guide Complet Débutant) !..."
     }
 ];
