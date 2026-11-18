@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-17T15:26:12.424Z
+// Fichier généré automatiquement le 2026-11-18T14:59:56.424Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "3:26:12 PM 11/17/2026";
+export const lastUpdate = "2:59:56 PM 11/18/2026";
 
 export const sources = [
     {
@@ -172,6 +172,75 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "O_YrirV6w24",
+        "videoId": "O_YrirV6w24",
+        "title": "Claude peut tester ton idée de business avant que tu ne dépense de l’argent !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=O_YrirV6w24",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut tester ton idée de business avant que tu ne dépense de l’argent !..."
+    },
+    {
+        "id": "3BLH26yN2UQ",
+        "videoId": "3BLH26yN2UQ",
+        "title": "Microsoft Ignite : Le nouveau copilot va tout changer",
+        "author": "Renaud Dékode",
+        "source": "@RenaudDekode",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=3BLH26yN2UQ",
+        "category": "Actualités Tech",
+        "summary": "Nouveauté de Renaud Dékode : Microsoft Ignite : Le nouveau copilot va tout changer..."
+    },
+    {
+        "id": "nD7fqMqkL9M",
+        "videoId": "nD7fqMqkL9M",
+        "title": "La fin de la censure IA ?",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=nD7fqMqkL9M",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : La fin de la censure IA ?..."
+    },
+    {
+        "id": "RQqKJGx8LUs",
+        "videoId": "RQqKJGx8LUs",
+        "title": "30 agents IA contre son cancer #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=RQqKJGx8LUs",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : 30 agents IA contre son cancer #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "LHZkTxKXyuM",
+        "videoId": "LHZkTxKXyuM",
+        "title": "Ma stack complète pour que Claude monte mes vidéos #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=LHZkTxKXyuM",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Ma stack complète pour que Claude monte mes vidéos #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "E8EIqdYyOc4",
+        "videoId": "E8EIqdYyOc4",
+        "title": "Terafab : l'usine géante d'Elon Musk, en vraies images #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-18",
+        "url": "https://www.youtube.com/watch?v=E8EIqdYyOc4",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Terafab : l'usine géante d'Elon Musk, en vraies images #Shorts...",
+        "isShort": true
+    },
+    {
         "id": "frMRJ2K4dkM",
         "videoId": "frMRJ2K4dkM",
         "title": "J’ai testé un taxi sans chauffeur à San Francisco (et j’ai flippé)",
@@ -194,6 +263,17 @@ export const allVideos = [
         "summary": "Nouveauté de Renaud Dékode : Escapade à SF pour le Microsoft Ignite..."
     },
     {
+        "id": "ZnfQK-fVDvQ",
+        "videoId": "ZnfQK-fVDvQ",
+        "title": "J’ai 300’000 abonnés et je repars de zéro",
+        "author": "Yassine Sdiri",
+        "source": "@yassine-sdiri",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=ZnfQK-fVDvQ",
+        "category": "Business & Monétisation IA",
+        "summary": "Nouveauté de Yassine Sdiri : J’ai 300’000 abonnés et je repars de zéro..."
+    },
+    {
         "id": "3Xy-H0sZFY8",
         "videoId": "3Xy-H0sZFY8",
         "title": "Yann Lecun marque un point contre les LLM #actu",
@@ -203,6 +283,64 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=3Xy-H0sZFY8",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Yann Lecun marque un point contre les LLM #actu..."
+    },
+    {
+        "id": "PtZQA-8ISkk",
+        "videoId": "PtZQA-8ISkk",
+        "title": "DeepSeek dévoile le secret de ses optimisations GPU (DeepInfer)",
+        "author": "Nerdy Kings",
+        "source": "@NerdyKings",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=PtZQA-8ISkk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Nerdy Kings : DeepSeek dévoile le secret de ses optimisations GPU (DeepInfer)..."
+    },
+    {
+        "id": "TpWM6-Erpq8",
+        "videoId": "TpWM6-Erpq8",
+        "title": "J'ai créé un logiciel gratuit qui écrit tout ce que tu dis",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=TpWM6-Erpq8",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : J'ai créé un logiciel gratuit qui écrit tout ce que tu dis..."
+    },
+    {
+        "id": "OBTS6QsDNb8",
+        "videoId": "OBTS6QsDNb8",
+        "title": "Elon Musk va construire le plus grand bâtiment de l'histoire #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=OBTS6QsDNb8",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Elon Musk va construire le plus grand bâtiment de l'histoire #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "rhi-JUNIMW4",
+        "videoId": "rhi-JUNIMW4",
+        "title": "NVIDIA RTX Spark, la fin du PC classique ? #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=rhi-JUNIMW4",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : NVIDIA RTX Spark, la fin du PC classique ? #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "3ZXo9xXsaMc",
+        "videoId": "3ZXo9xXsaMc",
+        "title": "Claude Code inspecte sa chambre #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-17",
+        "url": "https://www.youtube.com/watch?v=3ZXo9xXsaMc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude Code inspecte sa chambre #Shorts...",
+        "isShort": true
     },
     {
         "id": "uGtau7zpuqo",
@@ -489,18 +627,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "Em6jumdEC1k",
-        "videoId": "Em6jumdEC1k",
-        "title": "Une appli qui m'engueule au moindre tic #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-15",
-        "url": "https://www.youtube.com/watch?v=Em6jumdEC1k",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Une appli qui m'engueule au moindre tic #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "-bDYZKlmc5k",
         "videoId": "-bDYZKlmc5k",
         "title": "Des espions chinois pour copier une machine IA  #intelligenceartificielle #outilsia #ia",
@@ -576,54 +702,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=ONoR52UMjjo",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Ton jeu solo devient multijoueur grâce à l'IA (gratuit, open source)..."
-    },
-    {
-        "id": "foQ2b_LDOL0",
-        "videoId": "foQ2b_LDOL0",
-        "title": "Son drone est un vigile grâce à Claude #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-14",
-        "url": "https://www.youtube.com/watch?v=foQ2b_LDOL0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Son drone est un vigile grâce à Claude #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "AevsYkz9vl0",
-        "videoId": "AevsYkz9vl0",
-        "title": "Claude imprime son journal chaque matin #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-14",
-        "url": "https://www.youtube.com/watch?v=AevsYkz9vl0",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude imprime son journal chaque matin #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "G907y5BOC90",
-        "videoId": "G907y5BOC90",
-        "title": "Il a craqué son Kindle avec Claude #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-14",
-        "url": "https://www.youtube.com/watch?v=G907y5BOC90",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Il a craqué son Kindle avec Claude #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "zqGO3r2uf-k",
-        "videoId": "zqGO3r2uf-k",
-        "title": "Il a recodé l'appli de sa clim #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-14",
-        "url": "https://www.youtube.com/watch?v=zqGO3r2uf-k",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Il a recodé l'appli de sa clim #Shorts...",
-        "isShort": true
     },
     {
         "id": "dm5hczmpDJw",
@@ -756,18 +834,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=8-LHBWkyOQA",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : Joue à tes jeux PS2 à deux, même si ton ami n'a pas le jeu..."
-    },
-    {
-        "id": "PVlXRVCEIeA",
-        "videoId": "PVlXRVCEIeA",
-        "title": "Claude lui a fabriqué un vrai micro #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-13",
-        "url": "https://www.youtube.com/watch?v=PVlXRVCEIeA",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude lui a fabriqué un vrai micro #Shorts...",
-        "isShort": true
     },
     {
         "id": "t3jS0Af12a8",
@@ -977,17 +1043,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=DRZ3GboMKhI",
         "category": "Actualités Tech",
         "summary": "Nouveauté de Renaud Dékode : Claude Fable lâche 1000 agents..."
-    },
-    {
-        "id": "ZNFT0unnZ1M",
-        "videoId": "ZNFT0unnZ1M",
-        "title": "Fable 5.2 surpuissant, Carbon dans l'ombre, Jensen Huang dans le pétrin",
-        "author": "Renaud Dékode",
-        "source": "@RenaudDekode",
-        "date": "2026-11-11",
-        "url": "https://www.youtube.com/watch?v=ZNFT0unnZ1M",
-        "category": "Actualités Tech",
-        "summary": "Nouveauté de Renaud Dékode : Fable 5.2 surpuissant, Carbon dans l'ombre, Jensen Huang dans le pétrin..."
     },
     {
         "id": "TySSyP5xjeg",
@@ -1474,17 +1529,6 @@ export const allVideos = [
         "summary": "Nouveauté de Simon Music : 18 façons BIZARRE d'utiliser Claude en 2027...."
     },
     {
-        "id": "sPKCacjBQls",
-        "videoId": "sPKCacjBQls",
-        "title": "Classement des meilleures IA !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-05",
-        "url": "https://www.youtube.com/watch?v=sPKCacjBQls",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Classement des meilleures IA !..."
-    },
-    {
         "id": "J1rvSA8Szdc",
         "videoId": "J1rvSA8Szdc",
         "title": "Des agents IA peuvent-ils développer un SaaS de A à Z ?",
@@ -1628,17 +1672,6 @@ export const allVideos = [
         "summary": "Nouveauté de Yassine Sdiri : Pourquoi l’IA vous épuise (au lieu de vous aider)..."
     },
     {
-        "id": "fzKprPAJFp8",
-        "videoId": "fzKprPAJFp8",
-        "title": "Ce skill Claude porte tes jeux PS2 sur PC avec 11 agents",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-11-02",
-        "url": "https://www.youtube.com/watch?v=fzKprPAJFp8",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Ce skill Claude porte tes jeux PS2 sur PC avec 11 agents..."
-    },
-    {
         "id": "RWPl7MUbn38",
         "videoId": "RWPl7MUbn38",
         "title": "Vous utilisez NotebookLM à 20 % (cette extension débloque le reste)",
@@ -1683,17 +1716,6 @@ export const allVideos = [
         "summary": "Nouveauté de Nerdy Kings : Deepseek s’améliore seul ?..."
     },
     {
-        "id": "gYG4J6Do0UU",
-        "videoId": "gYG4J6Do0UU",
-        "title": "La fin des tokens ? Une nouvelle architecture pourrait changer l'IA",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-31",
-        "url": "https://www.youtube.com/watch?v=gYG4J6Do0UU",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : La fin des tokens ? Une nouvelle architecture pourrait changer l'IA..."
-    },
-    {
         "id": "r8kWla-p6RY",
         "videoId": "r8kWla-p6RY",
         "title": "Créer ton 1er Agent IA dans Microsoft Copilot !",
@@ -1703,17 +1725,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=r8kWla-p6RY",
         "category": "Vibe Coding & Dev IA",
         "summary": "Nouveauté de Elliott Pierret : Créer ton 1er Agent IA dans Microsoft Copilot !..."
-    },
-    {
-        "id": "JFYFPIK_veY",
-        "videoId": "JFYFPIK_veY",
-        "title": "YouMind : Le Nouveau Concurrent de NotebookLM ?",
-        "author": "Nerdy Kings",
-        "source": "@NerdyKings",
-        "date": "2026-10-30",
-        "url": "https://www.youtube.com/watch?v=JFYFPIK_veY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Nerdy Kings : YouMind : Le Nouveau Concurrent de NotebookLM ?..."
     },
     {
         "id": "pOVPZR7fcr4",
