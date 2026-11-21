@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-20T14:49:22.640Z
+// Fichier généré automatiquement le 2026-11-21T14:05:43.662Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "2:49:22 PM 11/20/2026";
+export const lastUpdate = "2:05:43 PM 11/21/2026";
 
 export const sources = [
     {
@@ -172,6 +172,62 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "RfZtFqQlMrk",
+        "videoId": "RfZtFqQlMrk",
+        "title": "Claude peut trouver ton prochain client payant pour toi !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-21",
+        "url": "https://www.youtube.com/watch?v=RfZtFqQlMrk",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude peut trouver ton prochain client payant pour toi !..."
+    },
+    {
+        "id": "z1iAgtvdcjU",
+        "videoId": "z1iAgtvdcjU",
+        "title": "Gemini 4 décevant #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-21",
+        "url": "https://www.youtube.com/watch?v=z1iAgtvdcjU",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Gemini 4 décevant #actu..."
+    },
+    {
+        "id": "SLrBDHIULm0",
+        "videoId": "SLrBDHIULm0",
+        "title": "Il visite sa maison avant les murs #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-21",
+        "url": "https://www.youtube.com/watch?v=SLrBDHIULm0",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Il visite sa maison avant les murs #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "2at-25OUbNE",
+        "videoId": "2at-25OUbNE",
+        "title": "Claude ajoute un filigrane sur tes textes !",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-20",
+        "url": "https://www.youtube.com/watch?v=2at-25OUbNE",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : Claude ajoute un filigrane sur tes textes !..."
+    },
+    {
+        "id": "-Zh-5D7YIOM",
+        "videoId": "-Zh-5D7YIOM",
+        "title": "CLAUDE Artifacts : ça change TOUT",
+        "author": "Henri · ExplorIA",
+        "source": "@HenriExplorIA",
+        "date": "2026-11-20",
+        "url": "https://www.youtube.com/watch?v=-Zh-5D7YIOM",
+        "category": "Outils & Modèles IA",
+        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE Artifacts : ça change TOUT..."
+    },
+    {
         "id": "h0JqkVsYm7o",
         "videoId": "h0JqkVsYm7o",
         "title": "Maintenant Claude peut entrer dans tes réunions !",
@@ -181,6 +237,30 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=h0JqkVsYm7o",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Henri · ExplorIA : Maintenant Claude peut entrer dans tes réunions !..."
+    },
+    {
+        "id": "EC4ZZUr6wrQ",
+        "videoId": "EC4ZZUr6wrQ",
+        "title": "Arena, le mode d'emploi #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-20",
+        "url": "https://www.youtube.com/watch?v=EC4ZZUr6wrQ",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Arena, le mode d'emploi #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "YaSP775QjfI",
+        "videoId": "YaSP775QjfI",
+        "title": "Le lit rentre ? Claude te le montre #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-20",
+        "url": "https://www.youtube.com/watch?v=YaSP775QjfI",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Le lit rentre ? Claude te le montre #Shorts...",
+        "isShort": true
     },
     {
         "id": "Or10P5w8MsY",
@@ -565,42 +645,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=OBTS6QsDNb8",
         "category": "Vidéos Promotionnelles",
         "summary": "Nouveauté de Thomas Berton : Elon Musk va construire le plus grand bâtiment de l'histoire #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "rhi-JUNIMW4",
-        "videoId": "rhi-JUNIMW4",
-        "title": "NVIDIA RTX Spark, la fin du PC classique ? #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-17",
-        "url": "https://www.youtube.com/watch?v=rhi-JUNIMW4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : NVIDIA RTX Spark, la fin du PC classique ? #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "3ZXo9xXsaMc",
-        "videoId": "3ZXo9xXsaMc",
-        "title": "Claude Code inspecte sa chambre #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-17",
-        "url": "https://www.youtube.com/watch?v=3ZXo9xXsaMc",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Claude Code inspecte sa chambre #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "uGtau7zpuqo",
-        "videoId": "uGtau7zpuqo",
-        "title": "Son autoradio l'espionnait en silence #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-17",
-        "url": "https://www.youtube.com/watch?v=uGtau7zpuqo",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Son autoradio l'espionnait en silence #Shorts...",
         "isShort": true
     },
     {
@@ -1277,35 +1321,13 @@ export const allVideos = [
     {
         "id": "wv9llP3BnTw",
         "videoId": "wv9llP3BnTw",
-        "title": "CLAUDE 2.0 : ces nouveautés changent TOUT",
+        "title": "CLAUDE 2.0 est INCROYABLE (je t'explique tout)",
         "author": "Henri · ExplorIA",
         "source": "@HenriExplorIA",
         "date": "2026-11-10",
         "url": "https://www.youtube.com/watch?v=wv9llP3BnTw",
         "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE 2.0 : ces nouveautés changent TOUT..."
-    },
-    {
-        "id": "T7lw-HJN6UY",
-        "videoId": "T7lw-HJN6UY",
-        "title": "Claude peut tester ton trade !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=T7lw-HJN6UY",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : Claude peut tester ton trade !..."
-    },
-    {
-        "id": "4SjJxRk2QrQ",
-        "videoId": "4SjJxRk2QrQ",
-        "title": "La Chine vient de tuer PowerPoint !",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-10",
-        "url": "https://www.youtube.com/watch?v=4SjJxRk2QrQ",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : La Chine vient de tuer PowerPoint !..."
+        "summary": "Nouveauté de Henri · ExplorIA : CLAUDE 2.0 est INCROYABLE (je t'explique tout)..."
     },
     {
         "id": "vGsZvs2J7jI",
@@ -1539,17 +1561,6 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : Transforme Claude Code et Codex en une équipe d’agents IA boostés..."
     },
     {
-        "id": "qQ7y_Yk9DVc",
-        "videoId": "qQ7y_Yk9DVc",
-        "title": "3 vidéos YouTube pour être meilleur que 99% des gens sur Claude.",
-        "author": "Henri · ExplorIA",
-        "source": "@HenriExplorIA",
-        "date": "2026-11-07",
-        "url": "https://www.youtube.com/watch?v=qQ7y_Yk9DVc",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Henri · ExplorIA : 3 vidéos YouTube pour être meilleur que 99% des gens sur Claude...."
-    },
-    {
         "id": "PtYSqKYBnvY",
         "videoId": "PtYSqKYBnvY",
         "title": "Pourquoi tu as besoin d’un NAS pour ton IA ?",
@@ -1658,17 +1669,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=WMN1Ugsb15E",
         "category": "Business & Monétisation IA",
         "summary": "Nouveauté de Yassine Sdiri : Voici l’IA à Absolument Connaître en 2027 (personne n’en parle)..."
-    },
-    {
-        "id": "bynF960lOaY",
-        "videoId": "bynF960lOaY",
-        "title": "Les agents DeepSeek n'ont plus besoin d'humain (actu IA)",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-11-04",
-        "url": "https://www.youtube.com/watch?v=bynF960lOaY",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Les agents DeepSeek n'ont plus besoin d'humain (actu IA)..."
     },
     {
         "id": "ZLYJXe7V3NU",
@@ -2186,16 +2186,5 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=EDgcEcWTYCg",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de Julien Sanson : J'ai testé JEV : la hype est-elle méritée ?..."
-    },
-    {
-        "id": "tCHQnoSj5hM",
-        "videoId": "tCHQnoSj5hM",
-        "title": "Vibecoding : J'ai codé et déployé un projet SEO de A à Z avec l'IA",
-        "author": "Cédric Girard",
-        "source": "@cedric_effi10",
-        "date": "2026-09-21",
-        "url": "https://www.youtube.com/watch?v=tCHQnoSj5hM",
-        "category": "Outils & Modèles IA",
-        "summary": "Nouveauté de Cédric Girard : Vibecoding : J'ai codé et déployé un projet SEO de A à Z avec l'IA..."
     }
 ];
