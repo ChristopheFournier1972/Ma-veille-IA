@@ -1,7 +1,7 @@
-// Fichier généré automatiquement le 2026-11-21T14:05:43.662Z
+// Fichier généré automatiquement le 2026-11-22T13:57:50.291Z
 // Ne pas modifier manuellement
 
-export const lastUpdate = "2:05:43 PM 11/21/2026";
+export const lastUpdate = "1:57:50 PM 11/22/2026";
 
 export const sources = [
     {
@@ -172,6 +172,29 @@ export const themes = [
 
 export const allVideos = [
     {
+        "id": "ttCBwQkq8dE",
+        "videoId": "ttCBwQkq8dE",
+        "title": "n8n sort son agent IA #actu",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=ttCBwQkq8dE",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : n8n sort son agent IA #actu..."
+    },
+    {
+        "id": "UzHANJ1aF9U",
+        "videoId": "UzHANJ1aF9U",
+        "title": "Il a réparé son Wi-Fi en 5 minutes #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=UzHANJ1aF9U",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Il a réparé son Wi-Fi en 5 minutes #Shorts...",
+        "isShort": true
+    },
+    {
         "id": "RfZtFqQlMrk",
         "videoId": "RfZtFqQlMrk",
         "title": "Claude peut trouver ton prochain client payant pour toi !",
@@ -183,6 +206,17 @@ export const allVideos = [
         "summary": "Nouveauté de Henri · ExplorIA : Claude peut trouver ton prochain client payant pour toi !..."
     },
     {
+        "id": "_i12oRKm8pc",
+        "videoId": "_i12oRKm8pc",
+        "title": "Regarde ça avant de créer ton agent IA",
+        "author": "Eliott Meunier",
+        "source": "@EliottMeunier",
+        "date": "2026-11-21",
+        "url": "https://www.youtube.com/watch?v=_i12oRKm8pc",
+        "category": "Productivité & Second Cerveau",
+        "summary": "Nouveauté de Eliott Meunier : Regarde ça avant de créer ton agent IA..."
+    },
+    {
         "id": "z1iAgtvdcjU",
         "videoId": "z1iAgtvdcjU",
         "title": "Gemini 4 décevant #actu",
@@ -192,6 +226,65 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=z1iAgtvdcjU",
         "category": "Productivité & Second Cerveau",
         "summary": "Nouveauté de Eliott Meunier : Gemini 4 décevant #actu..."
+    },
+    {
+        "id": "Oh10qPECSrA",
+        "videoId": "Oh10qPECSrA",
+        "title": "Clipper les streams GTA 6 gratuitement avec Claude Code",
+        "author": "iAlan",
+        "source": "@iAlan_automatise",
+        "date": "2026-11-21",
+        "url": "https://www.youtube.com/watch?v=Oh10qPECSrA",
+        "category": "Agents & Automatisation",
+        "summary": "Nouveauté de iAlan : Clipper les streams GTA 6 gratuitement avec Claude Code..."
+    },
+    {
+        "id": "jzz1nC5jk_k",
+        "videoId": "jzz1nC5jk_k",
+        "title": "Sellbird, l'agent Claude qui prospecte #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-21",
+        "url": "https://www.youtube.com/watch?v=jzz1nC5jk_k",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Sellbird, l'agent Claude qui prospecte #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "D8j52ULwFIc",
+        "videoId": "D8j52ULwFIc",
+        "title": "Le test Starlink, de l'idée à la vidéo #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-21",
+        "url": "https://www.youtube.com/watch?v=D8j52ULwFIc",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Le test Starlink, de l'idée à la vidéo #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "USsnVmvNnMw",
+        "videoId": "USsnVmvNnMw",
+        "title": "Claude refait son arbre généalogique #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-21",
+        "url": "https://www.youtube.com/watch?v=USsnVmvNnMw",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Claude refait son arbre généalogique #Shorts...",
+        "isShort": true
+    },
+    {
+        "id": "SL5HRaQHygw",
+        "videoId": "SL5HRaQHygw",
+        "title": "Cloner sa voix avec 41 secondes d'audio #Shorts",
+        "author": "Thomas Berton",
+        "source": "@thomasbssh",
+        "date": "2026-11-21",
+        "url": "https://www.youtube.com/watch?v=SL5HRaQHygw",
+        "category": "Vidéos Promotionnelles",
+        "summary": "Nouveauté de Thomas Berton : Cloner sa voix avec 41 secondes d'audio #Shorts...",
+        "isShort": true
     },
     {
         "id": "SLrBDHIULm0",
@@ -511,54 +604,6 @@ export const allVideos = [
         "isShort": true
     },
     {
-        "id": "kJoZbZbwFOs",
-        "videoId": "kJoZbZbwFOs",
-        "title": "Sa biotech solo rachetée par Anthropic #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-18",
-        "url": "https://www.youtube.com/watch?v=kJoZbZbwFOs",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Sa biotech solo rachetée par Anthropic #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "RQqKJGx8LUs",
-        "videoId": "RQqKJGx8LUs",
-        "title": "30 agents IA contre son cancer #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-18",
-        "url": "https://www.youtube.com/watch?v=RQqKJGx8LUs",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : 30 agents IA contre son cancer #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "LHZkTxKXyuM",
-        "videoId": "LHZkTxKXyuM",
-        "title": "Ma stack complète pour que Claude monte mes vidéos #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-18",
-        "url": "https://www.youtube.com/watch?v=LHZkTxKXyuM",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Ma stack complète pour que Claude monte mes vidéos #Shorts...",
-        "isShort": true
-    },
-    {
-        "id": "E8EIqdYyOc4",
-        "videoId": "E8EIqdYyOc4",
-        "title": "Terafab : l'usine géante d'Elon Musk, en vraies images #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-18",
-        "url": "https://www.youtube.com/watch?v=E8EIqdYyOc4",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Terafab : l'usine géante d'Elon Musk, en vraies images #Shorts...",
-        "isShort": true
-    },
-    {
         "id": "Zm4dSBNG0Vs",
         "videoId": "Zm4dSBNG0Vs",
         "title": "J'ai laissé Claude Fable 5.2 CRÉER une FORMATION de A à Z",
@@ -634,18 +679,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=TpWM6-Erpq8",
         "category": "Agents & Automatisation",
         "summary": "Nouveauté de iAlan : J'ai créé un logiciel gratuit qui écrit tout ce que tu dis..."
-    },
-    {
-        "id": "OBTS6QsDNb8",
-        "videoId": "OBTS6QsDNb8",
-        "title": "Elon Musk va construire le plus grand bâtiment de l'histoire #Shorts",
-        "author": "Thomas Berton",
-        "source": "@thomasbssh",
-        "date": "2026-11-17",
-        "url": "https://www.youtube.com/watch?v=OBTS6QsDNb8",
-        "category": "Vidéos Promotionnelles",
-        "summary": "Nouveauté de Thomas Berton : Elon Musk va construire le plus grand bâtiment de l'histoire #Shorts...",
-        "isShort": true
     },
     {
         "id": "lvqjONjK108",
@@ -1561,28 +1594,6 @@ export const allVideos = [
         "summary": "Nouveauté de Baptiste Simard - IA : Transforme Claude Code et Codex en une équipe d’agents IA boostés..."
     },
     {
-        "id": "PtYSqKYBnvY",
-        "videoId": "PtYSqKYBnvY",
-        "title": "Pourquoi tu as besoin d’un NAS pour ton IA ?",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-11-07",
-        "url": "https://www.youtube.com/watch?v=PtYSqKYBnvY",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Pourquoi tu as besoin d’un NAS pour ton IA ?..."
-    },
-    {
-        "id": "qfEVT50D-zM",
-        "videoId": "qfEVT50D-zM",
-        "title": "Derrière les chiffres d’Anthropic",
-        "author": "Eliott Meunier",
-        "source": "@EliottMeunier",
-        "date": "2026-11-07",
-        "url": "https://www.youtube.com/watch?v=qfEVT50D-zM",
-        "category": "Productivité & Second Cerveau",
-        "summary": "Nouveauté de Eliott Meunier : Derrière les chiffres d’Anthropic..."
-    },
-    {
         "id": "a8sxKqfj5YE",
         "videoId": "a8sxKqfj5YE",
         "title": "Une alternative GRATUITE à Shopify (open source)",
@@ -1636,17 +1647,6 @@ export const allVideos = [
         "url": "https://www.youtube.com/watch?v=J1rvSA8Szdc",
         "category": "Outils & Modèles IA",
         "summary": "Nouveauté de Nerdy Kings : Des agents IA peuvent-ils développer un SaaS de A à Z ?..."
-    },
-    {
-        "id": "WL7LH1o7Og4",
-        "videoId": "WL7LH1o7Og4",
-        "title": "Tes jeux PC sur ton iPhone, sans jailbreak (gratuit et open source)",
-        "author": "iAlan",
-        "source": "@iAlan_automatise",
-        "date": "2026-11-05",
-        "url": "https://www.youtube.com/watch?v=WL7LH1o7Og4",
-        "category": "Agents & Automatisation",
-        "summary": "Nouveauté de iAlan : Tes jeux PC sur ton iPhone, sans jailbreak (gratuit et open source)..."
     },
     {
         "id": "Hygvqh8Mw7k",
